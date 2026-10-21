@@ -1,0 +1,84 @@
+name: PQC Watch
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *" # toutes les 15 minutes (décalé de la pointe :00/:30)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "sources.json"
+      - "site/**"
+      - "tests/**"
+      - ".github/workflows/pqc-watch.yml"
+
+# Moindre privilège : lecture seule par défaut, les droits d'écriture sont donnés au seul job qui en a besoin.
+permissions:
+  contents: read
+
+concurrency:
+  group: pqc-watch
+  cancel-in-progress: false
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write # commit des données collectées (site/data/articles.json)
+      pages: write # publication sur GitHub Pages
+      id-token: write # exigé par actions/deploy-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7
+        with:
+          python-version: "3.12"
+
+      - name: Tests unitaires
+        run: python -m unittest discover -s tests -v
+
+      - name: Collecte des flux
+        run: python scripts/collect.py
+
+      - name: Sauvegarde des données
+        id: save
+        # Les commits poussés avec GITHUB_TOKEN ne déclenchent pas d'autre workflow : pas de boucle.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/articles.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement dans les données."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: mise à jour des données PQC Watch"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Déploiement seulement si les données ont changé, ou si le code a été modifié / lancé à la main.
+      - name: Déploiement nécessaire ?
+        id: need_deploy
+        run: |
+          if [ "${{ steps.save.outputs.changed }}" = "true" ] || [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
+        if: steps.need_deploy.outputs.deploy == 'true'
+
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
+        if: steps.need_deploy.outputs.deploy == 'true'
+        with:
+          path: site
+
+      - id: deployment
+        if: steps.need_deploy.outputs.deploy == 'true'
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5

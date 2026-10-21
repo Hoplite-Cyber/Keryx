@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+
+# Charte graphique Hoplite : reste en local, ne doit pas être publiée
+Charte-Hoplite-main/
+Charte_Hoplite.pdf
+LOGOS/
+ILLUSTRATIONS/
+
+# Motif tiré de la charte Hoplite (reste en local)
+site/motif-cuivre.png
+site/motif-cell.png
+site/motif-cell.json

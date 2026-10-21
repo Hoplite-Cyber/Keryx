@@ -1,0 +1,7 @@
+# Propose chaque semaine la mise à jour des actions GitHub (épinglées par empreinte de commit).
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

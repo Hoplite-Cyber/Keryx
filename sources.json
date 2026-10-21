@@ -1,0 +1,181 @@
+[
+  {
+    "name": "ANSSI",
+    "type": "sitemap",
+    "url": "https://cyber.gouv.fr/sitemap.xml",
+    "link_pattern": "cyber\\.gouv\\.fr/(actualites|nous-connaitre/publications|enjeux-technologiques)/.+",
+    "category": "Officiel",
+    "lang": "fr"
+  },
+  {
+    "name": "Cyber Campus",
+    "url": "https://campuscyber.fr/feed/",
+    "category": "Officiel",
+    "lang": "fr"
+  },
+  {
+    "name": "NIST",
+    "url": "https://www.nist.gov/news-events/news/rss.xml",
+    "category": "Officiel",
+    "og_image": true
+  },
+  {
+    "name": "NIST Cybersecurity Insights",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/rss.xml",
+    "category": "Officiel"
+  },
+  {
+    "name": "CERT-FR (ANSSI) – avis",
+    "url": "https://www.cert.ssi.gouv.fr/avis/feed/",
+    "category": "Officiel",
+    "lang": "fr"
+  },
+  {
+    "name": "CERT-FR (ANSSI) – alertes",
+    "url": "https://www.cert.ssi.gouv.fr/alerte/feed/",
+    "category": "Officiel",
+    "lang": "fr"
+  },
+  {
+    "name": "NCSC (Royaume-Uni)",
+    "url": "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml",
+    "category": "Officiel"
+  },
+  {
+    "name": "IACR ePrint",
+    "url": "https://eprint.iacr.org/rss/rss.xml",
+    "category": "Recherche"
+  },
+  {
+    "name": "arXiv quant-ph",
+    "url": "https://rss.arxiv.org/rss/quant-ph",
+    "category": "Recherche"
+  },
+  {
+    "name": "arXiv cs.CR",
+    "url": "https://rss.arxiv.org/rss/cs.CR",
+    "category": "Recherche"
+  },
+  {
+    "name": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/rss/",
+    "category": "Industrie"
+  },
+  {
+    "name": "Google Security Blog",
+    "url": "https://security.googleblog.com/feeds/posts/default",
+    "category": "Industrie"
+  },
+  {
+    "name": "Microsoft Security Blog",
+    "url": "https://www.microsoft.com/en-us/security/blog/feed/",
+    "category": "Industrie"
+  },
+  {
+    "name": "AWS Security Blog",
+    "url": "https://aws.amazon.com/blogs/security/feed/",
+    "category": "Industrie"
+  },
+  {
+    "name": "Quantum Zeitgeist – cryptographie",
+    "url": "https://quantumzeitgeist.com/category/quantum-cryptography/feed/",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "The Quantum Insider",
+    "url": "https://thequantuminsider.com/feed/",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "ETSI – actualités",
+    "url": "https://www.etsi.org/newsroom/rss",
+    "category": "Officiel"
+  },
+  {
+    "name": "PQShield – actualités",
+    "type": "scrape",
+    "url": "https://pqshield.com/news/",
+    "link_pattern": "^https://pqshield\\.com/[a-z0-9-]+/?$",
+    "category": "Industrie"
+  },
+  {
+    "name": "Schneier on Security",
+    "url": "https://www.schneier.com/feed/atom/",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "Phys.org – physique quantique",
+    "url": "https://phys.org/rss-feed/physics-news/quantum-physics/",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/rss.xml",
+    "category": "Actualité cyber"
+  },
+  {
+    "name": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/feed/",
+    "category": "Actualité cyber"
+  },
+  {
+    "name": "Silicon.fr",
+    "url": "https://www.silicon.fr/feed",
+    "category": "Actualité cyber",
+    "lang": "fr"
+  },
+  {
+    "name": "LeMagIT",
+    "url": "https://www.lemagit.fr/rss/ContentSyndication.xml",
+    "category": "Actualité cyber",
+    "lang": "fr"
+  },
+  {
+    "name": "Le Monde Informatique – sécurité",
+    "url": "https://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml",
+    "category": "Actualité cyber",
+    "lang": "fr"
+  },
+  {
+    "name": "InCyber",
+    "url": "https://incyber.org/feed/",
+    "category": "Actualité cyber",
+    "lang": "fr"
+  },
+  {
+    "name": "ZATAZ",
+    "url": "https://www.zataz.com/feed/",
+    "category": "Actualité cyber",
+    "lang": "fr"
+  },
+  {
+    "name": "Next",
+    "url": "https://next.ink/feed/",
+    "category": "Presse spécialisée",
+    "lang": "fr"
+  },
+  {
+    "name": "Numerama",
+    "url": "https://www.numerama.com/feed/",
+    "category": "Presse spécialisée",
+    "lang": "fr"
+  },
+  {
+    "name": "ZDNet France",
+    "url": "https://www.zdnet.fr/feeds/rss/actualites/",
+    "category": "Presse spécialisée",
+    "lang": "fr"
+  },
+  {
+    "name": "Usine Digitale",
+    "url": "https://www.usine-digitale.fr/rss",
+    "category": "Presse spécialisée",
+    "lang": "fr"
+  },
+  {
+    "name": "Wavestone RiskInsight",
+    "url": "https://www.riskinsight-wavestone.com/feed/",
+    "category": "Industrie",
+    "lang": "fr"
+  }
+]
