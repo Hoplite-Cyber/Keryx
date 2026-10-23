@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T09:03:59Z",
- "count": 304,
+ "generated_at": "2026-10-23T14:52:42Z",
+ "count": 323,
  "sources": [
   {
    "name": "ANSSI",
@@ -63,14 +63,14 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 120,
-   "kept": 2
+   "kept": 6
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 59,
-   "kept": 1
+   "fetched": 72,
+   "kept": 4
   },
   {
    "name": "Cloudflare Blog",
@@ -119,14 +119,14 @@
    "category": "Officiel",
    "ok": true,
    "fetched": 15,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "PQShield – actualités",
    "category": "Industrie",
    "ok": true,
    "fetched": 22,
-   "kept": 11
+   "kept": 12
   },
   {
    "name": "Schneier on Security",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "The Hacker News",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 12,
+   "fetched": 9,
    "kept": 0
   },
   {
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-22T09:03:59Z",
+   "date": "2026-10-23T14:52:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-22T09:03:59Z",
+   "date": "2026-10-23T14:52:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-22T09:03:59Z",
+   "date": "2026-10-23T14:52:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-22T09:03:59Z",
+   "date": "2026-10-23T14:52:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,9 +299,266 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-22T09:03:59Z",
+   "date": "2026-10-23T14:52:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "a1aafb7b400c000b",
+   "title": "QuantumGenie links PHP hack to post-quantum readiness",
+   "url": "https://quantumzeitgeist.com/post-quantum-readiness-quantumgenie-links/",
+   "summary": "The October 2026 PHP vulnerability highlights the need to map dependencies—critical for both urgent fixes and future cryptographic discovery, including migration to post-quantum cryptography.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-23T13:49:15Z",
+   "first_seen": "2026-10-23T14:52:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quantumgenie-links-php-hack-post-quantum-scaled.jpeg"
+  },
+  {
+   "id": "ae0ef0d279fc6550",
+   "title": "QKD faces maturity and security hurdles, say France, Germany and Sweden",
+   "url": "https://quantumzeitgeist.com/bsi-qkd-faces-maturity-security-hurdles/",
+   "summary": "Quantum Key Distribution (QKD) isn’t yet sufficiently mature for most uses, according to a joint report by agencies like ANSSI and BSI.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-23T10:39:56Z",
+   "first_seen": "2026-10-23T14:52:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/qkd-faces-maturity-security-hurdles-scaled.jpeg"
+  },
+  {
+   "id": "d94e389298756ab3",
+   "title": "Florida Atlantic University wins $400,000 to build quantum-proof security",
+   "url": "https://quantumzeitgeist.com/fau-florida-atlantic-win-university-400000/",
+   "summary": "Florida Atlantic University’s Charles E. Schmidt College of Science secured a $400,000 NSF grant, advancing post-quantum cryptography led by Edoardo Persichetti, Ph.D. The project focuses on securing digital systems against future quantum computing threats.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-10-23T09:43:33Z",
+   "first_seen": "2026-10-23T14:52:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/florida-atlantic-university-wins-400000-to-build-quantum.jpg"
+  },
+  {
+   "id": "e0fae5231a2b0d7e",
+   "title": "Quantum State Search with Classical Interactive Advice",
+   "url": "https://arxiv.org/abs/2610.25657",
+   "summary": "We study whether a quantum verifier can find a hidden quantum state by exchanging classical messages with an unbounded prover who knows the state. The verifier has access to a reflection oracle about the target. For a Haar-random $n$-qubit target, we prove that achieving constant average fidelity with the target requires…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-20T04:04:28Z",
+   "lang": "en"
+  },
+  {
+   "id": "13a963f7372bc5de",
+   "title": "FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq",
+   "url": "https://arxiv.org/abs/2610.30645",
+   "summary": "Quantum key distribution (QKD), whose security is derived from quantum mechanics rather than computational assumptions, is moving into standardization and commercial deployment. Yet its security guarantees rest on technically delicate proofs checked by hand. Formal verification closes this gap, establishing a two-factor assurance: unconditional…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "74c973252d9cbd20",
+   "title": "Fluctuation-free Quantum Battery Charging Enabled by Bell-like Entangled and Separable Charger States",
+   "url": "https://arxiv.org/abs/2610.31242",
+   "summary": "The implication of entanglement in quantum battery charging remains poorly understood. In addition, intrinsic quantum randomness poses a fundamental challenge to charging uniformity across distinct trials. To address these issues, we study a three-qubit system within a cascaded collision frame, with two qubits acting as the charger and the third…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "bd69941c8143bf52",
+   "title": "Distillation of supersinglet states",
+   "url": "https://arxiv.org/abs/2509.20962",
+   "summary": "We introduce an entanglement distillation (purification) protocol for supersinglet states composed of N qubits. The supersinglet state we target is a total spin zero state with zero spin variance, and has a fully entangled structure involving all qubits. In our distillation protocol, three copies of an initial spin zero state are measured in the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "6e90a46e83c378b6",
+   "title": "Numerical security analysis for practical quantum key distribution",
+   "url": "https://arxiv.org/abs/2605.12984",
+   "summary": "Quantum key distribution (QKD) promises information-theoretic security based on quantum mechanics and idealized device models. Practical implementations, however, deviate from these models due to unavoidable device imperfections, and existing security proofs fall short of capturing the complexity of real-world systems. Here we introduce a…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "e6a5deae247369c6",
+   "title": "Optimal Average Success Probabilities of Binary $(n,n-1)$ and $(n,n-2)$ Quantum Random Access Codes",
+   "url": "https://arxiv.org/abs/2607.10414",
+   "summary": "A binary $(n,m)$ quantum random access code (QRAC) compresses an $n$-bit classical string into an $m$-qubit quantum state, from which a decoder attempts to recover a randomly selected target bit. Of particular interest is the optimal average probability of success, $P^{Q,\\mathrm{avg},\\mathrm{opt}}_{n,m}$, which was numerically conjectured to…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "d446f1e1e71f6a91",
+   "title": "Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT",
+   "url": "https://arxiv.org/abs/2610.30383",
+   "summary": "NIST standardised ML-KEM and ML-DSA in 2024 for post-quantum key establishment and digital signatures. Both compute forward number-theoretic transforms (NTTs) on secret polynomials. Published attacks zero every fixed multiplier, or twiddle, during Kyber key generation with a single fault, or individual twiddles in one Dilithium signing variant…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "a6008670b3bee90d",
+   "title": "Bridging Number-Theoretic Primality Testing And Algorithmic Optimization: An Adaptive Cryptographic Framework",
+   "url": "https://arxiv.org/abs/2610.30935",
+   "summary": "The security of modern public-key cryptographic systems, such as RSA, Diffie-Hellman, and ECC, depends entirely on the computational intractability of the integer factorization and discrete logarithm problems. For these asymmetric algorithms to operate, a core requirement is that the system must be capable of generating, testing, and…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "892dfbb74bad3dcb",
+   "title": "HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks",
+   "url": "https://arxiv.org/abs/2610.12024",
+   "summary": "Securing bandwidth-constrained Internet of Things (IoT) and edge networks during post-quantum migration creates an authentication trade-off: ML-KEM provides post-quantum key establishment, whereas post-quantum signatures increase certificate-chain size, verification cost, and handshake latency. We present HPQ-AKE, a sign-less hybrid authenticated…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "1d9576de8a183805",
+   "title": "How to evaluate a post-quantum cryptography provider: 10 questions to ask",
+   "url": "https://pqshield.com/post-quantum-cryptography-provider/",
+   "summary": "",
+   "source": "PQShield – actualités",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "2bedbd686d38f3a7",
+   "title": "New quantum key distribution protocol works over 27km of fiber",
+   "url": "https://quantumzeitgeist.com/beijing-quantum-key-distribution-protocol-works/",
+   "summary": "Transmitter-side device dependence is a longstanding problem in quantum key distribution (QKD), and a new transmitter-device-independent (TDI) QKD protocol closes a loophole through photon storage, eliminating transmitter-side device vulnerabilities. In a proof-of-principle experiment, the protocol achieved a key-rate of 410 bps over 27 km spool…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-22T20:53:27Z",
+   "first_seen": "2026-10-23T14:52:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-key-distribution-protocol-works-27km.jpeg"
+  },
+  {
+   "id": "94f45bf709d57e11",
+   "title": "Symmatrics Appoints Andrew Hallman to Strategic Advisory Board",
+   "url": "https://thequantuminsider.com/2026/10/22/symmatrics-andrew-hallman-advisory-board/",
+   "summary": "Insider Brief PRESS RELEASE — Symmatrics, the cybersecurity company pioneering one-time pad encryption at internet scale and building the new trust layer for the AI and post-quantum era, today announced the appointment of Andrew Hallman to its Strategic Advisory Board. Hallman joins the company as organizations across government, defense, and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-22T17:26:39Z",
+   "first_seen": "2026-10-23T14:52:42Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-22_22-24.png"
+  },
+  {
+   "id": "e7d7069e30520caf",
+   "title": "Cyber Defense Magazine names QuSecure most innovative in quantum security",
+   "url": "https://quantumzeitgeist.com/cyber-defense-magazine-names-qusecure/",
+   "summary": "QuSecure, Inc. was named the Most Innovative Quantum Cybersecurity Company of 2026 in Cyber Defense Magazine’s Top InfoSec Innovator Awards Program. The company was recognized for its Crypto-agile Control Plane that finds and fixes vulnerable cryptography with no rip and replace.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-22T13:08:19Z",
+   "first_seen": "2026-10-23T14:52:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/cyber-defense-magazine-names-qusecure-most.jpeg"
+  },
+  {
+   "id": "de4e42d508e6dc45",
+   "title": "Lost Schrödinger manuscript reveals his true view of quantum randomness",
+   "url": "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html",
+   "summary": "Unlike classical physics, quantum mechanics generally cannot tell us exactly what will happen in an individual event. Instead, it predicts the probabilities of different outcomes. As one of the theory's early pioneers, Erwin Schrödinger played a key role in debates about what this randomness really means. However, part of his contribution has…",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-22T13:00:01Z",
+   "first_seen": "2026-10-23T14:52:42Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-variable-polari.jpg"
   },
   {
    "id": "3b603fcfbb4a5fc1",
@@ -782,20 +1039,6 @@
    "themes": [
     "PQC",
     "QKD"
-   ],
-   "date": "2026-10-20T04:00:00Z",
-   "first_seen": "2026-10-20T04:04:28Z",
-   "lang": "en"
-  },
-  {
-   "id": "e0fae5231a2b0d7e",
-   "title": "Quantum State Search with Classical Interactive Advice",
-   "url": "https://arxiv.org/abs/2610.25657",
-   "summary": "We study whether a quantum verifier can find a hidden quantum state by exchanging classical messages with an unbounded prover who knows the state. The verifier has access to a reflection oracle about the target. For a Haar-random $n$-qubit target, we prove that achieving constant average fidelity with the target requires…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "themes": [
-    "Menace quantique"
    ],
    "date": "2026-10-20T04:00:00Z",
    "first_seen": "2026-10-20T04:04:28Z",
@@ -3322,6 +3565,20 @@
    "lang": "en"
   },
   {
+   "id": "16159ba51f5c109e",
+   "title": "AH-BKZ: A Lattice Reduction Algorithm with Asynchronous Hybrid Processing",
+   "url": "https://eprint.iacr.org/2026/1876",
+   "summary": "Evaluating the hardness of the Shortest Vector Problem (SVP) is essential for selecting secure parameters in lattice-based cryptography. The fastest current SVP solvers are based on variants of G6K, but their large memory consumption remains a major bottleneck, making high-dimensional executions difficult. A common strategy for alleviating this…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-09-03T03:49:28Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
    "id": "5ef730d4d41cfdad",
    "title": "Transition post-quantique L'ANSSI et ses partenaires du G7 publient un appel a action",
    "url": "https://cyber.gouv.fr/actualites/transition-post-quantique-lanssi-et-ses-partenaires-du-g7-publient-un-appel-a-action/",
@@ -4086,6 +4343,21 @@
    "lang": "en"
   },
   {
+   "id": "119da9b024246c22",
+   "title": "The SecureDrop Protocol: End-to-End Encrypted Whistleblowing for All",
+   "url": "https://eprint.iacr.org/2026/1484",
+   "summary": "Confidential sources are vital for investigative journalism and thus for holding those in power to account. However, sources often face great risks to their privacy and safety. SecureDrop is a system that enables sources to anonymously contact journalists, including at major news organisations around the world. Despite its widespread use, the…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-07-20T19:09:40Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
    "id": "6b174ad5cdac542c",
    "title": "Researchers Enhance Device-Independent Quantum Key Distribution with Multiple Sources",
    "url": "https://quantumzeitgeist.com/enhance-device-independent-quantum-key-distribution-multiple-sources/",
@@ -4763,6 +5035,22 @@
    "date": "2026-02-27T17:01:00Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "4f7fbdf11a76d686",
+   "title": "RISQrypt: Fast, Secure and Agile Hardware-Software Co-Design for Post-Quantum Cryptography",
+   "url": "https://eprint.iacr.org/2026/312",
+   "summary": "In this paper, we present RISQrypt, the first unified architecture in the literature that implements ML-KEM (f.k.a. CRYSTALS-Kyber) and ML-DSA (f.k.a. CRYSTALS-Dilithium), two standardized lattice-based post-quantum cryptography (PQC) algorithms, with masking. RISQrypt is a hardware–software co-design framework that integrates dedicated…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-02-18T16:40:12Z",
+   "first_seen": "2026-10-23T14:52:42Z"
   },
   {
    "id": "cead472ba9ab181b",
