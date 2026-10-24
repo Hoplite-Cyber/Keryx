@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T04:56:51Z",
- "count": 325,
+ "generated_at": "2026-10-24T09:24:53Z",
+ "count": 326,
  "sources": [
   {
    "name": "ANSSI",
@@ -105,7 +105,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 169
+   "kept": 170
   },
   {
    "name": "The Quantum Insider",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 8,
+   "fetched": 6,
    "kept": 0
   },
   {
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T04:56:51Z",
+   "date": "2026-10-24T09:24:53Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-24T04:56:51Z",
+   "date": "2026-10-24T09:24:53Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-24T04:56:51Z",
+   "date": "2026-10-24T09:24:53Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T04:56:51Z",
+   "date": "2026-10-24T09:24:53Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,9 +299,25 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T04:56:51Z",
+   "date": "2026-10-24T09:24:53Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "0cffe0f7809d69e6",
+   "title": "enQase’s quantum-safe framework boosts crypto agility with four parts",
+   "url": "https://quantumzeitgeist.com/quantum-safe-framework-enqases-boosts-crypto/",
+   "summary": "As quantum computing nears, financial firms need cryptographic flexibility—not just strength.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-24T05:37:19Z",
+   "first_seen": "2026-10-24T09:24:53Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/enqases-quantum-safe-framework-boosts-crypto-scaled.jpeg"
   },
   {
    "id": "f67c396bd11c2de6",
