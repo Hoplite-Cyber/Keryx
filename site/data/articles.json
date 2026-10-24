@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T19:23:30Z",
+ "generated_at": "2026-10-24T21:49:24Z",
  "count": 332,
  "sources": [
   {
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 23
+   "kept": 22
   },
   {
    "name": "arXiv quant-ph",
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T19:23:30Z",
+   "date": "2026-10-24T21:49:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-24T19:23:30Z",
+   "date": "2026-10-24T21:49:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-24T19:23:30Z",
+   "date": "2026-10-24T21:49:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T19:23:30Z",
+   "date": "2026-10-24T21:49:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,7 +299,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T19:23:30Z",
+   "date": "2026-10-24T21:49:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
