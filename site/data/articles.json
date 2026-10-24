@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T21:49:24Z",
- "count": 332,
+ "generated_at": "2026-10-24T23:47:18Z",
+ "count": 339,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 22
+   "kept": 24
   },
   {
    "name": "arXiv quant-ph",
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T21:49:24Z",
+   "date": "2026-10-24T23:47:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-24T21:49:24Z",
+   "date": "2026-10-24T23:47:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-24T21:49:24Z",
+   "date": "2026-10-24T23:47:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T21:49:24Z",
+   "date": "2026-10-24T23:47:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,7 +299,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T21:49:24Z",
+   "date": "2026-10-24T23:47:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,6 +371,34 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/quantumgenie-links-php-hack-post-quantum-scaled.jpeg"
   },
   {
+   "id": "13d219d573927523",
+   "title": "Faster and Smaller Anonymous Credentials from Standardized Signatures",
+   "url": "https://eprint.iacr.org/2026/2615",
+   "summary": "We present GordieHowe, a system comprising a language, a certifying compiler, and a zero-knowledge proof protocol. GordieHowe is especially suitable for building anonymous credentials on top of standardized signature schemes like ECDSA, RSA, and ML-DSA. GordieHowe is the first system to achieve the following three properties simultaneously…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-23T13:11:34Z",
+   "first_seen": "2026-10-24T23:47:18Z"
+  },
+  {
+   "id": "db3532d4f5d8d45a",
+   "title": "Tight Post-Quantum Multi-Key Security of the FX Construction",
+   "url": "https://eprint.iacr.org/2026/2614",
+   "summary": "The FX construction (FX) is one of the simplest key-length extension schemes for block ciphers, introduced by Kilian and Rogaway as a generalization of DESX. By extending the key length without modifying the underlying block cipher, FX can improve security against adversaries that perform quantum computation but are restricted to classical queries…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-23T11:55:06Z",
+   "first_seen": "2026-10-24T23:47:18Z"
+  },
+  {
    "id": "ae0ef0d279fc6550",
    "title": "QKD faces maturity and security hurdles, say France, Germany and Sweden",
    "url": "https://quantumzeitgeist.com/bsi-qkd-faces-maturity-security-hurdles/",
@@ -402,6 +430,23 @@
    "date": "2026-10-23T09:43:33Z",
    "first_seen": "2026-10-23T14:52:42Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/florida-atlantic-university-wins-400000-to-build-quantum.jpg"
+  },
+  {
+   "id": "3e6d987ee73365db",
+   "title": "A Crypto-Agile Mixed-Radix NTT Accelerator for Negacyclic and Trinomial Rings",
+   "url": "https://eprint.iacr.org/2026/2610",
+   "summary": "Hardware accelerators for lattice-based post-quantum cryptography (PQC) have largely converged on the radix-2 number-theoretic transform (NTT). The spectrum of standards that crypto-agility must accommodate, however, extends beyond NIST. In response to advances in cryptanalysis and to reduce the attack surface, national authorities are…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-23T09:37:27Z",
+   "first_seen": "2026-10-24T23:47:18Z"
   },
   {
    "id": "e0fae5231a2b0d7e",
@@ -533,6 +578,20 @@
    "first_seen": "2026-10-23T14:52:42Z"
   },
   {
+   "id": "6db9dfecb617cade",
+   "title": "Quantum Cryptomania with Classical Communication without One-Way Functions",
+   "url": "https://eprint.iacr.org/2026/2607",
+   "summary": "In classical cryptography, one-way functions are necessary for most of cryptography. In the quantum world, however, Kretschmer at TQC'21 and subsequent works have demonstrated that quantum versions of various primitives in minicrypt, such as signatures and private-key encryption, do not require quantum-computable one-way functions (qOWFs).…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-23T02:06:40Z",
+   "first_seen": "2026-10-24T23:47:18Z"
+  },
+  {
    "id": "1d9576de8a183805",
    "title": "How to evaluate a post-quantum cryptography provider: 10 questions to ask",
    "url": "https://pqshield.com/post-quantum-cryptography-provider/",
@@ -610,6 +669,20 @@
    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-variable-polari.jpg"
   },
   {
+   "id": "0a5ee390320f4ad1",
+   "title": "ANNULAR: Post-Quantum Private Transactions from Isogenies with Recursive Batch Verification",
+   "url": "https://eprint.iacr.org/2026/2596",
+   "summary": "ANNULAR is a shielded pool built on isogeny-based primitives. Notes are committed in a Merkle tree and spent by nullifier with hidden amounts, following the structure of Zcash's Sapling, but every primitive is post-quantum: spends are authorised by the prime-degree PRISM signature of Basso et al., note ciphertexts are keyed by the MIKE…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-22T09:14:45Z",
+   "first_seen": "2026-10-24T23:47:18Z"
+  },
+  {
    "id": "3b603fcfbb4a5fc1",
    "title": "PQ-Vault: Provably Quantum-Safe Asset Custody for Unmodified Ethereum",
    "url": "https://arxiv.org/abs/2610.29230",
@@ -668,6 +741,37 @@
    "date": "2026-10-21T18:22:20Z",
    "first_seen": "2026-10-21T19:11:42Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/black-kite-maps-vendor-readiness-quantum.png"
+  },
+  {
+   "id": "dc74de3bc41df60b",
+   "title": "A Post Quantum Vector Commitment Scheme with Efficient Insertions and Deletions",
+   "url": "https://eprint.iacr.org/2026/2592",
+   "summary": "Vector Commitments (VCs) are a cryptographic primitive that allows users to commit to a tuple and later provide proofs about entries of the committed tuple. Literature on VCs provides many secure constructions with properties attractive for decentralized applications. These include fast commitment/proof update algorithms after a value in the…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-21T17:29:02Z",
+   "first_seen": "2026-10-24T23:47:18Z"
+  },
+  {
+   "id": "dbb71a718ce04ea3",
+   "title": "Sotto Maschera: Masking the Sota-Voce Fixed-Weight Vector Sampling",
+   "url": "https://eprint.iacr.org/2026/2591",
+   "summary": "Sparse fixed-weight vector sampling is a highly critical primitive in several post-quantum cryptography schemes. It has also been the target of multiple side-channel attacks, demonstrating the need for robust implementations. While such implementations do exist, they are not necessarily practical in terms of runtime, and some have already been…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-21T15:42:04Z",
+   "first_seen": "2026-10-24T23:47:18Z"
   },
   {
    "id": "3384055b33ad41fd",
