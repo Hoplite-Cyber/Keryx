@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T13:32:37Z",
- "count": 326,
+ "generated_at": "2026-10-24T16:52:50Z",
+ "count": 332,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 20
+   "kept": 24
   },
   {
    "name": "arXiv quant-ph",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 4,
+   "fetched": 2,
    "kept": 0
   },
   {
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T13:32:37Z",
+   "date": "2026-10-24T16:52:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-24T13:32:37Z",
+   "date": "2026-10-24T16:52:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-24T13:32:37Z",
+   "date": "2026-10-24T16:52:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T13:32:37Z",
+   "date": "2026-10-24T16:52:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,7 +299,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-24T13:32:37Z",
+   "date": "2026-10-24T16:52:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -685,6 +685,38 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-security-shield-over-silver-chip-1.png"
   },
   {
+   "id": "c91bd24205ef303b",
+   "title": "Verifiable Post-Quantum TLS Handshake: Recognizing Implementation Errors of Cryptographic Verification Steps",
+   "url": "https://eprint.iacr.org/2026/2585",
+   "summary": "The migration to post-quantum cryptography is becoming unavoidable for security protocols. Yet as the historical \"goto fail\" incident illustrates, deploying new primitives is not sufficient: subtle implementation bugs, especially in verification logic, can yield systems that remain fully interoperable while compromising security silently. Existing…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-21T10:08:45Z",
+   "first_seen": "2026-10-24T16:52:50Z"
+  },
+  {
+   "id": "a7009053b40667cb",
+   "title": "SHAKEing SLH-DSA with Non-profiled SCAs",
+   "url": "https://eprint.iacr.org/2026/2584",
+   "summary": "SLH-DSA is a hash-based digital signature algorithm, standardised by NIST as a post-quantum signature scheme. While prior work has analysed the vulnerability of its pseudorandom function (PRF) to differential side-channel analysis (SCA), no prior work has thoroughly examined this vulnerability under SHAKE as the PRF, nor recovered a full secret…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-21T09:05:49Z",
+   "first_seen": "2026-10-24T16:52:50Z"
+  },
+  {
    "id": "173ee86dbe20917f",
    "title": "Toshiba Launches Quantum-Safe Network Platform",
    "url": "https://thequantuminsider.com/2026/10/21/toshiba-launches-quantum-safe-network-platform/",
@@ -698,6 +730,49 @@
    "date": "2026-10-21T07:53:26Z",
    "first_seen": "2026-10-21T08:19:17Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Toshiba-quantum-safe-network-waves-1.png"
+  },
+  {
+   "id": "a27aa22ba3786a4a",
+   "title": "Rounded Gaussians are Discrete Gaussians",
+   "url": "https://eprint.iacr.org/2026/2583",
+   "summary": "Many lattice-based cryptographic schemes still require sampling integers following a Gaussian-like distribution. Depending on the application, this sampling should be generic to tackle variable (and possibly large) standard deviations and centers, with a low memory footprint, easily implementable in constant-time, and with the highest throughput.…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-21T07:22:27Z",
+   "first_seen": "2026-10-24T16:52:50Z"
+  },
+  {
+   "id": "3b92ee0186cf31ed",
+   "title": "Post-Quantum Sublinear Lookup Arguments from Polynomial Preprocessing",
+   "url": "https://eprint.iacr.org/2026/2581",
+   "summary": "Lookup arguments with sublinear prover time typically rely on bilinear pairings. The only exception is the recent work of Campanelli, Carrillo, Cascudo, Fiore, Francati, and Gennaro (ePrint 2025/238); however, they rely on general-purpose SNARKs to certify expensive preprocessing, which requires non-black-box usage of cryptographic primitives.…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-21T06:35:51Z",
+   "first_seen": "2026-10-24T16:52:50Z"
+  },
+  {
+   "id": "3f221a01fda4c163",
+   "title": "Table-Free Constant-Work BCH Decoding by Algebraic Index Elimination",
+   "url": "https://eprint.iacr.org/2026/2580",
+   "summary": "Algebraic error-correcting codes such as BCH let lattice-based key encapsulation mechanisms (KEMs) reduce bandwidth and the decryption-failure rate. The decoder’s input is determined jointly by the long-term secret and a ciphertext that an adversary may choose. Variable work or table accesses that reveal error positions can enable key recovery…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-21T06:34:34Z",
+   "first_seen": "2026-10-24T16:52:50Z"
   },
   {
    "id": "4d689b3bc7b2eded",
@@ -881,6 +956,20 @@
    ],
    "date": "2026-10-21T04:00:00Z",
    "first_seen": "2026-10-21T04:17:17Z"
+  },
+  {
+   "id": "4d5ff09da1f5db3f",
+   "title": "HAETAE on a Diet: Less Stack, Less Time on Low-End Microcontrollers",
+   "url": "https://eprint.iacr.org/2026/2578",
+   "summary": "HAETAE has shorter public keys and signatures than ML-DSA, but the signing stack of its reference implementation reaches $158\\, \\mathrm{KiB}$ on Cortex-M4. The Low-Stack HAETAE implementation presented at CHES'26 brings the signing stack down to $5.7$-$5.9\\,\\mathrm{KiB}$; yet even HAETAE-2 still needs $8,718\\,\\mathrm{B}$ in a realistic IoT…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-21T03:19:34Z",
+   "first_seen": "2026-10-24T16:52:50Z"
   },
   {
    "id": "ec5055577be08fc8",
