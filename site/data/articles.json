@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T21:51:56Z",
- "count": 343,
+ "generated_at": "2026-10-25T23:37:29Z",
+ "count": 345,
  "sources": [
   {
    "name": "ANSSI",
@@ -105,7 +105,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 170
+   "kept": 171
   },
   {
    "name": "The Quantum Insider",
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T21:51:56Z",
+   "date": "2026-10-25T23:37:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-25T21:51:56Z",
+   "date": "2026-10-25T23:37:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-25T21:51:56Z",
+   "date": "2026-10-25T23:37:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T21:51:56Z",
+   "date": "2026-10-25T23:37:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,9 +299,39 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T21:51:56Z",
+   "date": "2026-10-25T23:37:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "1f3b84738bc2e53d",
+   "title": "MettiTech launches Quantum Proof Coin to shield assets from quantum attacks",
+   "url": "https://quantumzeitgeist.com/mettitech-quantum-proof-coin-shield/",
+   "summary": "Mettitech Group Holdings, Inc. (OTC: MTGH) officially announced the full commercial deployment of its integrated QuantumProof (QP/QPX) Quantum-Resistant Ecosystem and the premier global Launchpad event for QUANTUM PROOF (QP) COIN on October 23, 2026. This marks a pivotal strategic milestone in delivering post-quantum security infrastructure to…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-25T21:16:53Z",
+   "first_seen": "2026-10-25T23:37:29Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/mettitech-quantum-proof-coin-shield-assets-scaled.jpeg"
+  },
+  {
+   "id": "7b0bef6d9ad7995e",
+   "title": "Researchers Cut Cipher Cracking Time with New Quantum Attacks",
+   "url": "https://quantumzeitgeist.com/quantum-attacks-reduce-block-cipher-cracking-time/",
+   "summary": "A single bit flipped during encryption could render sensitive data useless, but new cryptanalysis techniques are narrowing that margin for error. This work demonstrates an attack reducing time complexity on the LBlock cipher by 216, alongside a substantial reduction in its key guess space by \\(2^{12}\\), improving upon existing quantum attacks…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-25T21:13:32Z",
+   "first_seen": "2026-10-25T23:37:29Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-cipher-cracking-time-with-new-quantum-attacks.png"
   },
   {
    "id": "576245ab75c702b7",
