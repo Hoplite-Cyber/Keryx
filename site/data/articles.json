@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T06:56:17Z",
- "count": 339,
+ "generated_at": "2026-10-25T12:28:55Z",
+ "count": 343,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 24
+   "kept": 25
   },
   {
    "name": "arXiv quant-ph",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 2,
+   "fetched": 1,
    "kept": 0
   },
   {
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T06:56:17Z",
+   "date": "2026-10-25T12:28:55Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-25T06:56:17Z",
+   "date": "2026-10-25T12:28:55Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-25T06:56:17Z",
+   "date": "2026-10-25T12:28:55Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T06:56:17Z",
+   "date": "2026-10-25T12:28:55Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,9 +299,72 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T06:56:17Z",
+   "date": "2026-10-25T12:28:55Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "576245ab75c702b7",
+   "title": "DuoKey offers live probing of post-quantum key exchange, a free entry point",
+   "url": "https://quantumzeitgeist.com/post-quantum-key-exchange-duokey-offers/",
+   "summary": "The best cryptographic posture management solution finds, scores, and exports cryptography, turning findings into a migration plan. DuoKey is an option for live post-quantum key-exchange probing, database and STARTTLS coverage, a CycloneDX 1.7 CBOM, migration planning and a free entry point.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-25T10:29:51Z",
+   "first_seen": "2026-10-25T12:28:55Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/duokey-offers-live-probing-post-quantum-scaled.jpeg"
+  },
+  {
+   "id": "e7fbeb3ee279851c",
+   "title": "Formal Verification Establishes Complete Security Proof for Quantum Key Distribution",
+   "url": "https://quantumzeitgeist.com/quantum-key-distribution-formal-verification-security-proof/",
+   "summary": "Can we truly trust that even mathematically proven systems are free from hidden flaws? A new library called FVQKD delivers the first complete, machine-verified guarantee of BB84’s security, uncovering previously unstated conditions *and* a missing branch in established proofs. This moves beyond hand-checked analyses to provide an error-free…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-25T10:25:38Z",
+   "first_seen": "2026-10-25T12:28:55Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/formal-verification-establishes-complete-security-proof-for-quantum-key-distribu-scaled.jpeg"
+  },
+  {
+   "id": "624e533c9643fcb5",
+   "title": "Cm Orientations Enable Faster Post-Quantum Computations on Abelian Varieties",
+   "url": "https://quantumzeitgeist.com/cm-orientations-faster-post-quantum-abelian-variety-computations/",
+   "summary": "Can commutative groups defined over higher dimensions offer more efficient post-quantum cryptography than current elliptic curve schemes? This work extends techniques, previously limited to two dimensions, to arbitrary dimensions, specifically focusing on uniquely structured varieties where constructive methods were previously lacking. The result…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-25T09:19:55Z",
+   "first_seen": "2026-10-25T12:28:55Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/cm-orientations-enable-faster-post-quantum-computations-on-abelian-varieties.png"
+  },
+  {
+   "id": "c01bf50b80401d7b",
+   "title": "Researchers Find PQC Transport Layer Security Handshakes Run 41% Faster on Pico W",
+   "url": "https://quantumzeitgeist.com/post-quantum-cryptography-tls-handshakes-pico-w-performance/",
+   "summary": "Can securing internet-connected gadgets against future quantum computers actually *speed up* their connections? Testing on Raspberry Pi and ESP32 boards reveals fully post-quantum TLS handshakes can be up to 8. 9 times faster using ML-KEM-512 + ML-DSA-44 compared to current standards like X25519 + RSA-PSS.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-25T09:19:27Z",
+   "first_seen": "2026-10-25T12:28:55Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-find-pqc-transport-layer-security-handshakes-run-41-faster-on-pico-w.png"
   },
   {
    "id": "0cffe0f7809d69e6",
