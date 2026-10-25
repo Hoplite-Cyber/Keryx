@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T01:42:49Z",
+ "generated_at": "2026-10-25T06:56:17Z",
  "count": 339,
  "sources": [
   {
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T01:42:49Z",
+   "date": "2026-10-25T06:56:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-25T01:42:49Z",
+   "date": "2026-10-25T06:56:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-25T01:42:49Z",
+   "date": "2026-10-25T06:56:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T01:42:49Z",
+   "date": "2026-10-25T06:56:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,7 +299,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-25T01:42:49Z",
+   "date": "2026-10-25T06:56:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -5115,7 +5115,7 @@
    "id": "ae0209a8b69020d5",
    "title": "Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT",
    "url": "https://eprint.iacr.org/2026/1188",
-   "summary": "NIST standardised ML-KEM and ML-DSA in 2024 for post-quantum key establishment and digital signatures. Both compute forward number-theoretic transforms (NTTs) on secret polynomials. Published attacks zero every fixed multiplier, or twiddle, during Kyber key generation with a single fault, or individual twiddles in one Dilithium signing variant…",
+   "summary": "NIST standardised ML-KEM and ML-DSA in 2024 for post-quantum key establishment and digital signatures. Both compute forward number-theoretic transforms on secret polynomials. Their fixed multipliers, called twiddles, are a documented fault-attack target. Published attacks zero every twiddle during Kyber key generation with a single fault, or…",
    "source": "IACR ePrint",
    "category": "Recherche",
    "lang": "en",
