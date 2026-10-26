@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T09:55:10Z",
- "count": 622,
+ "generated_at": "2026-10-26T14:06:49Z",
+ "count": 629,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 21
+   "kept": 18
   },
   {
    "name": "arXiv quant-ph",
@@ -103,15 +103,16 @@
   {
    "name": "Quantum Zeitgeist – cryptographie",
    "category": "Presse spécialisée",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "fetched": 200,
+   "kept": 171
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -215,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 1,
+   "fetched": 3,
    "kept": 0
   },
   {
@@ -237,7 +238,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 60,
-   "kept": 9
+   "kept": 8
   },
   {
    "name": "Nature – information quantique",
@@ -357,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T09:55:10Z",
+   "date": "2026-10-26T14:06:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-26T09:55:10Z",
+   "date": "2026-10-26T14:06:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-26T09:55:10Z",
+   "date": "2026-10-26T14:06:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T09:55:10Z",
+   "date": "2026-10-26T14:06:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +418,70 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T09:55:10Z",
+   "date": "2026-10-26T14:06:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "cd80bd4467690f14",
+   "title": "Quantum Art Research Outlines More Efficient Quantum Approach to Wave Modeling",
+   "url": "https://thequantuminsider.com/2026/10/26/quantum-art-research-outlines-more-efficient-quantum-approach-to-wave-modeling/",
+   "summary": "Insider Brief PRESS RELEASE — – Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, recently presented new research, detailed in this paper, that solves wave-propagation problems long thought intractable for classical…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-26T13:07:01Z",
+   "first_seen": "2026-10-26T14:06:49Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-Art-research-showcase.png"
+  },
+  {
+   "id": "adbbf876f0f33524",
+   "title": "IDEMIA and KT test quantum-safe SIMs for Korean defence",
+   "url": "https://quantumzeitgeist.com/kt-quantum-safe-sims-idemia-test/",
+   "summary": "IDEMIA and KT are testing Quantum-Resistant SIM technology as part of South Korea’s 2026 Post-Quantum Cryptography project, bolstering defense communications against future threats.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-26T09:20:31Z",
+   "first_seen": "2026-10-26T14:06:49Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/idemia-and-kt-test-quantum-safe-sims-for.png"
+  },
+  {
+   "id": "a81c478a6dea382d",
+   "title": "Non-profiled Single-Trace ML-DSA Secret Key Recovery by Horizontal Distribution Analysis",
+   "url": "https://eprint.iacr.org/2026/2643",
+   "summary": "During the last decade, single-trace side-channel attacks on cryptographic implementations have largely focused on profiled methods, which typically assume that the attacker has a clone device and implementation knowledge to build a leakage model for the target before launching the attack. In this paper, we demonstrate that a much weaker…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-26T07:50:39Z",
+   "first_seen": "2026-10-26T14:06:49Z"
+  },
+  {
+   "id": "6124b987b3e9d4cd",
+   "title": "A Memory-efficient Implementation of Wiedemann XL",
+   "url": "https://eprint.iacr.org/2026/2641",
+   "summary": "The signature schemes MQOM, SNOVA, MAYO, and UOV are third-round candidates in the NIST standardization process for additional post-quantum signatures, and their security relies on the hardness of the multivariate quadratic (MQ) problem. XL with block Wiedemann (BW) is one of the most efficient MQ solvers in practice, but its memory demand has led…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-26T05:00:51Z",
+   "first_seen": "2026-10-26T14:06:49Z"
   },
   {
    "id": "e6a5deae247369c6",
@@ -683,6 +745,50 @@
    "date": "2026-10-25T09:19:27Z",
    "first_seen": "2026-10-25T12:28:55Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-find-pqc-transport-layer-security-handshakes-run-41-faster-on-pico-w.png"
+  },
+  {
+   "id": "1496702d6e22e87a",
+   "title": "VeilDNS: Post-Quantum DNS Privacy from the First UDP Packet",
+   "url": "https://eprint.iacr.org/2026/2629",
+   "summary": "DNS was designed around UDP, and most DNS traffic today still follows that design: one query, one response, and no handshake. This makes DNS fast and scalable, but exposes client queries in cleartext. DoT, DoH, and DoQ provide privacy by encrypting DNS messages with TLS. This works once TLS/TCP or QUIC handshakes complete, but cold sessions spend…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-10-24T16:17:29Z",
+   "first_seen": "2026-10-26T14:06:49Z"
+  },
+  {
+   "id": "351ea6eb6324964a",
+   "title": "The Exact Bit Security of Hash-Based Signatures",
+   "url": "https://eprint.iacr.org/2026/2626",
+   "summary": "In this work, we analyze the security of hash-based signatures in Lean4. We examine how different ways of accounting for an adversary’s work yield different notions of bit security. As our working example, we study two instances of XMSS with $128$ bit digests. Under most of the accounting modes we consider, we get $127$ bit security for strong…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-24T12:15:15Z",
+   "first_seen": "2026-10-26T14:06:49Z"
+  },
+  {
+   "id": "5d649f67aca08739",
+   "title": "Provable Security of SHA-256-Based LMS Revisited in the Ideal-Cipher Model",
+   "url": "https://eprint.iacr.org/2026/2624",
+   "summary": "The hash-based Leighton-Micali Signature (LMS) has been standardized by IETF, NIST and ISO. State-of-the-art non-quantum security proofs for LMS have been given by Katz (SSR 2016) and Fluhrer (Eprint 2017/553). However, the actual structure of SHA-256(/192) is the (chopped) Merkle-Damg{\\aa}rd construction using a blockcipher-based Davies-Meyer…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques"
+   ],
+   "date": "2026-10-24T08:10:11Z",
+   "first_seen": "2026-10-26T14:06:49Z"
   },
   {
    "id": "0cffe0f7809d69e6",
