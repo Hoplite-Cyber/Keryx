@@ -130,6 +130,12 @@
     svg.addEventListener("click", () => openDay(dayOf(cur)));
   }
 
+  // Blocs « Explorer par sujet » : un bloc plein par thème, avec le nombre d'articles de la semaine ; un clic ouvre « Toute l'actu » filtrée.
+  function renderTopics() {
+    $("topics").innerHTML = `<h2>Explorer par sujet<span>7 derniers jours</span></h2><div class="tblocks">${THEMES.map((t) =>
+      `<a class="tb" href="#actu" data-theme="${esc(t.id)}" style="--bg:${t.bg};--fg:${t.fg}"><span class="n">${esc(t.id)}</span><b>${count7(t.id)}</b></a>`).join("")}</div>`;
+  }
+
   /* ---------- À la une ---------- */
   function renderUne() {
     const arts = state.articles;
@@ -149,6 +155,7 @@
 
     $("minis").innerHTML = rest.slice(0, 6).map((a) => card(a)).join("");
     renderPouls();
+    renderTopics();
     $("brief").innerHTML = `<h2>En bref</h2>` + rest.slice(6, 11).map((a) => `<a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer"><span class="t">${esc(a.title)}</span><small>${esc(a.source)} · ${fmt(a.date)}</small></a>`).join("");
 
     const byCat = arts.reduce((m, a) => ((m[a.category] = (m[a.category] || 0) + 1), m), {});
@@ -286,6 +293,13 @@
 
   function bindEvents() {
     bindTheme();
+    $("topics").addEventListener("click", (e) => { // bloc de sujet : « Toute l'actu » filtrée sur ce sujet
+      const b = e.target.closest(".tb");
+      if (!b) return;
+      e.preventDefault();
+      state.theme = b.dataset.theme; state.shown = 15;
+      show("actu"); window.scrollTo(0, 0);
+    });
     document.querySelector(".vtabs").addEventListener("click", (e) => { const b = e.target.closest(".vtab"); if (b) show(b.dataset.view); });
     $("gob").addEventListener("click", () => { brief.i = 0; show("briefing"); });
     $("q").addEventListener("input", () => { state.query = $("q").value.trim().toLowerCase(); state.shown = 15; show("actu"); });
