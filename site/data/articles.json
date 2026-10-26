@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T01:47:43Z",
- "count": 345,
+ "generated_at": "2026-10-26T07:02:44Z",
+ "count": 356,
  "sources": [
   {
    "name": "ANSSI",
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 113,
+   "kept": 10
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 57,
+   "kept": 4
   },
   {
    "name": "Cloudflare Blog",
@@ -239,7 +239,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T01:47:43Z",
+   "date": "2026-10-26T07:02:44Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +253,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-26T01:47:43Z",
+   "date": "2026-10-26T07:02:44Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +269,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-26T01:47:43Z",
+   "date": "2026-10-26T07:02:44Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +284,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T01:47:43Z",
+   "date": "2026-10-26T07:02:44Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,9 +299,179 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T01:47:43Z",
+   "date": "2026-10-26T07:02:44Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "e6a5deae247369c6",
+   "title": "Optimal Average Success Probabilities of Binary $(n,n-1)$ and $(n,n-2)$ Quantum Random Access Codes",
+   "url": "https://arxiv.org/abs/2607.10414",
+   "summary": "A binary $(n,m)$ quantum random access code (QRAC) compresses an $n$-bit classical string into an $m$-qubit quantum state, from which a decoder attempts to recover a randomly selected target bit. Of particular interest is the optimal average probability of success, $P^{Q,\\mathrm{avg},\\mathrm{opt}}_{n,m}$, which was numerically conjectured to…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "efb9d49c6d160330",
+   "title": "The Entire Quantum Computer on a Classical Leash",
+   "url": "https://arxiv.org/abs/2610.31775",
+   "summary": "We show that a classical client with no quantum hardware can use a single untrusted and potentially malicious quantum server as if it were its own trusted quantum computer. Through the server, the client can privately choose and run quantum computations, prepare quantum states, and process quantum states supplied by other parties. It can also keep…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "76c0c35b7610750d",
+   "title": "Quantum Cryptomania with Classical Communication without One-Way Functions",
+   "url": "https://arxiv.org/abs/2610.32145",
+   "summary": "In classical cryptography, one-way functions are necessary for most of cryptography. In the quantum world, however, Kretschmer at {TQC'21} and subsequent works have demonstrated that quantum versions of various primitives in minicrypt, such as signatures and private-key encryption, do not require quantum-computable one-way functions…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "f494692809897407",
+   "title": "Traceable Quantum Secret Sharing",
+   "url": "https://arxiv.org/abs/2610.32218",
+   "summary": "Quantum secret sharing protects distributed quantum information against unauthorized reconstruction, yet existing schemes provide no intrinsic accountability when shares are leaked or forged. This missing capability is particularly relevant in realistic distributed settings, where compromised participants may either expose valid shares or…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "8b3c5535304a75df",
+   "title": "From Link Availability to Deadline-Constrained Key Service: A Feasibility Framework for Mobile Free-Space Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2610.32634",
+   "summary": "Mobile free-space quantum key distribution (QKD) links can provide secret bits intermittently, whereas applications may need cryptographic key material at specified times. Optical feasibility, positive finite-key output, and deadline-compliant key service are consequently different claims. This technical note formalizes their separation through a…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "093fb95debd5d5d1",
+   "title": "Bounding single-copy information causality violations",
+   "url": "https://arxiv.org/abs/2610.32783",
+   "summary": "Information causality is a physical principle that constrains bipartite post-quantum nonlocal correlations from information-theoretic assumptions. A direct characterization of the correlations satisfying it, however, remains difficult because the defining entropic condition must hold for all admissible protocols in the corresponding task. Here, we…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "2ee36314ef9a1db5",
+   "title": "One-sided-DIQKD using any pure bipartite entangled state secure against all attacks",
+   "url": "https://arxiv.org/abs/2610.32923",
+   "summary": "Quantum Key Distribution (QKD) allows spatially separated parties to establish a secret key among themselves based on quantum principles. While QKD systems are being deployed worldwide, their reliance on trusted measurements makes them vulnerable. Moreover, existing protocols have largely focussed on the qubit cases, and rely on the maximally…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "a50933ca0dd91036",
+   "title": "SILMARILS-MV: Information-Theoretically Secure Multi-Verifier Signatures with Dealer-Free Key Issuance and Linear Aggregation for Permissioned Blockchains",
+   "url": "https://arxiv.org/abs/2610.31814",
+   "summary": "Permissioned blockchains authenticate transactions, votes and quorum certificates with computationally secure signatures, and post-quantum replacements inflate consensus traffic by orders of magnitude. Information-theoretic alternatives have required a trusted authority, quantum channels, per-signature interaction, or single-use keys with bounded…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "0890761d7b9fdee9",
+   "title": "Authentication in Security Proofs for Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2601.17960",
+   "summary": "Quantum Key Distribution (QKD) protocols rely on authenticated classical communication. Typical QKD security proofs are carried out in an idealized setting where authentication is assumed to behave honestly: it never aborts, and all classical messages are delivered faithfully with their original timing preserved. Authenticated channels that can be…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "1062524cc2006ffe",
+   "title": "Transmitter-device-independent quantum key distribution",
+   "url": "https://arxiv.org/abs/2604.25225",
+   "summary": "Transmitter-side device dependence is a longstanding yet implicit problem in quantum key distribution (QKD), in contrast to the thoroughly addressed measurement-side case. Quantum steering, which intrinsically distinguishes the roles of sender and receiver in entanglement certification, offers a natural route to lifting trust assumptions on the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "7b4b55a65702638e",
+   "title": "Embedding Large PQC KEMs in IKEv2",
+   "url": "https://arxiv.org/abs/2610.32356",
+   "summary": "Post-quantum key encapsulation mechanisms carry public keys far larger than the established VPN handshake protocol IKEv2 was designed for. At the same time, its initial exchange comprising the public keys cannot be fragmented. In response, the IETF discusses a range of protocol adjustments, yet these proposals have never been compared in terms of…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
+  },
+  {
+   "id": "e6b6ec3af81be9ab",
+   "title": "Quantum Cadence: Post-Quantum Consensus with Multiple Concurrent Proposers",
+   "url": "https://arxiv.org/abs/2610.32803",
+   "summary": "The consensus protocols of most high-performance blockchains use quorum certificates, which bundle the signatures of a quorum of validators. Signature schemes such as BLS can aggregate the signatures of a whole quorum into a single short signature, which keeps these certificates small. A large-scale quantum computer would break these schemes, and…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-26T04:00:00Z",
+   "first_seen": "2026-10-26T07:02:44Z"
   },
   {
    "id": "1f3b84738bc2e53d",
@@ -603,20 +773,6 @@
    "title": "Numerical security analysis for practical quantum key distribution",
    "url": "https://arxiv.org/abs/2605.12984",
    "summary": "Quantum key distribution (QKD) promises information-theoretic security based on quantum mechanics and idealized device models. Practical implementations, however, deviate from these models due to unavoidable device imperfections, and existing security proofs fall short of capturing the complexity of real-world systems. Here we introduce a…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD"
-   ],
-   "date": "2026-10-23T04:00:00Z",
-   "first_seen": "2026-10-23T14:52:42Z"
-  },
-  {
-   "id": "e6a5deae247369c6",
-   "title": "Optimal Average Success Probabilities of Binary $(n,n-1)$ and $(n,n-2)$ Quantum Random Access Codes",
-   "url": "https://arxiv.org/abs/2607.10414",
-   "summary": "A binary $(n,m)$ quantum random access code (QRAC) compresses an $n$-bit classical string into an $m$-qubit quantum state, from which a decoder attempts to recover a randomly selected target bit. Of particular interest is the optimal average probability of success, $P^{Q,\\mathrm{avg},\\mathrm{opt}}_{n,m}$, which was numerically conjectured to…",
    "source": "arXiv quant-ph",
    "category": "Recherche",
    "lang": "en",
