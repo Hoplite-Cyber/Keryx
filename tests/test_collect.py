@@ -72,11 +72,56 @@ class FrenchKeywordTests(unittest.TestCase):
     def test_qkd_french(self):
         self.assertIn("QKD", collect.match_themes("Distribution quantique de clés : un réseau déployé à Paris"))
 
-    def test_quantum_computing_alone_is_not_enough(self):
-        self.assertEqual(collect.match_themes("Informatique quantique : une nouvelle puce de 100 qubits"), [])
+    def test_quantum_computing_is_its_own_theme(self):
+        self.assertEqual(collect.match_themes("Informatique quantique : une nouvelle puce de 100 qubits"), ["Ordinateurs quantiques"])
 
     def test_unrelated_french_article(self):
         self.assertEqual(collect.match_themes("Le gouvernement présente son budget pour la cybersécurité des hôpitaux"), [])
+
+
+class QuantumComputersTests(unittest.TestCase):
+    THEME = "Ordinateurs quantiques"
+
+    def test_milestone_detected(self):
+        self.assertIn(self.THEME, collect.match_themes("IonQ unveils a record 256-qubit quantum computer"))
+
+    def test_logical_qubits_detected(self):
+        self.assertIn(self.THEME, collect.match_themes("Quantinuum demonstrates 48 logical qubits"))
+
+    def test_error_correction_detected(self):
+        self.assertIn(self.THEME, collect.match_themes("A new quantum error correction code"))
+
+    def test_french_detected(self):
+        self.assertIn(self.THEME, collect.match_themes("Pasqal dévoile un ordinateur quantique à atomes neutres"))
+
+    def test_pure_physics_rejected(self):
+        self.assertEqual(collect.match_themes("Entangled photons reveal a new state of matter"), [])
+
+    def test_crypto_article_keeps_its_themes(self):
+        themes = collect.match_themes("NIST publishes ML-KEM guidance for post-quantum migration")
+        self.assertIn("PQC", themes)
+        self.assertNotIn(self.THEME, themes)
+
+
+class ExcludeThemesTests(unittest.TestCase):
+    def run_source(self, source, title):
+        entry = {"title": title, "url": "https://example.org/a", "summary": "", "date": None, "image": None}
+        original = collect.fetch_entries
+        collect.fetch_entries = lambda _source: [entry]
+        try:
+            articles, _ = collect.collect([source], dt.datetime(2026, 10, 20, tzinfo=dt.timezone.utc))
+        finally:
+            collect.fetch_entries = original
+        return articles
+
+    def test_excluded_theme_is_dropped(self):
+        source = {"name": "arXiv", "url": "https://example.org/feed", "exclude_themes": ["Ordinateurs quantiques"]}
+        self.assertEqual(self.run_source(source, "A new quantum error correction code"), [])
+
+    def test_other_themes_are_kept(self):
+        source = {"name": "arXiv", "url": "https://example.org/feed", "exclude_themes": ["Ordinateurs quantiques"]}
+        articles = self.run_source(source, "ML-KEM and quantum error correction")
+        self.assertEqual(articles[0]["themes"], ["PQC"])
 
 
 class LanguageTests(unittest.TestCase):

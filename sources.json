@@ -44,17 +44,26 @@
   {
     "name": "IACR ePrint",
     "url": "https://eprint.iacr.org/rss/rss.xml",
-    "category": "Recherche"
+    "category": "Recherche",
+    "exclude_themes": [
+      "Ordinateurs quantiques"
+    ]
   },
   {
     "name": "arXiv quant-ph",
     "url": "https://rss.arxiv.org/rss/quant-ph",
-    "category": "Recherche"
+    "category": "Recherche",
+    "exclude_themes": [
+      "Ordinateurs quantiques"
+    ]
   },
   {
     "name": "arXiv cs.CR",
     "url": "https://rss.arxiv.org/rss/cs.CR",
-    "category": "Recherche"
+    "category": "Recherche",
+    "exclude_themes": [
+      "Ordinateurs quantiques"
+    ]
   },
   {
     "name": "Cloudflare Blog",
@@ -176,6 +185,59 @@
     "name": "Wavestone RiskInsight",
     "url": "https://www.riskinsight-wavestone.com/feed/",
     "category": "Industrie",
+    "lang": "fr"
+  },
+  {
+    "name": "Physics World – quantique",
+    "url": "https://physicsworld.com/c/quantum/feed/",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "ScienceDaily – informatique quantique",
+    "url": "https://www.sciencedaily.com/rss/matter_energy/quantum_computing.xml",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "Nature – information quantique",
+    "url": "https://www.nature.com/subjects/quantum-information.rss",
+    "category": "Recherche"
+  },
+  {
+    "name": "IBM Research",
+    "url": "https://research.ibm.com/rss",
+    "category": "Industrie"
+  },
+  {
+    "name": "Quantinuum",
+    "url": "https://www.quantinuum.com/blog/rss.xml",
+    "category": "Industrie"
+  },
+  {
+    "name": "IonQ",
+    "url": "https://ionq.com/news/rss.xml",
+    "category": "Industrie"
+  },
+  {
+    "name": "Pasqal",
+    "url": "https://www.pasqal.com/feed/",
+    "category": "Industrie"
+  },
+  {
+    "name": "LeMagIT – quantique",
+    "url": "https://www.lemagit.fr/rss/ContentSyndication.xml?tag=quantique",
+    "category": "Presse spécialisée",
+    "lang": "fr"
+  },
+  {
+    "name": "Le Monde Informatique – quantique",
+    "url": "https://www.lemondeinformatique.fr/flux-rss/thematique/quantique/rss.xml",
+    "category": "Presse spécialisée",
+    "lang": "fr"
+  },
+  {
+    "name": "Futura Sciences",
+    "url": "https://www.futura-sciences.com/rss/actualites.xml",
+    "category": "Presse spécialisée",
     "lang": "fr"
   }
 ]

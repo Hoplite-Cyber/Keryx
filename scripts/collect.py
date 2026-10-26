@@ -112,6 +112,31 @@ THEMES: dict[str, list[str]] = {
         r"quantiques?.{0,200}\b(ANSSI|ENISA|NCSC|BSI|ETSI|IETF|NSA|NIST)\b",
         r"migration (vers|à) (la )?(cryptographie )?post",
     ],
+    # Matériel et jalons du calcul quantique : motifs ciblés (annonces, qubits logiques, grands acteurs)
+    # pour ne pas faire entrer toute la physique quantique.
+    "Ordinateurs quantiques": [
+        r"quantum (computer|computing|processor|chip)s?\b.{0,150}\b(record|milestone|breakthrough|first|roadmap|unveil|announc|launch|deliver|demonstrat)",
+        r"\b(record|milestone|breakthrough|first|roadmap|unveil|announc|launch|deliver|demonstrat)\w*\b.{0,150}quantum (computer|computing|processor|chip)s?\b",
+        r"\blogical qubits?\b",
+        r"\bqubits?\b.{0,60}\b(record|milestone|roadmap)",
+        r"\b\d[\d,.]*[- ]qubits?\b",
+        r"quantum advantage",
+        r"quantum supremacy",
+        r"fault[- ]tolerant quantum",
+        r"quantum error[- ]correction",
+        r"error[- ]corrected quantum",
+        r"\b(IBM|Google|Microsoft|Quantinuum|IonQ|Rigetti|PsiQuantum|D-Wave|Pasqal|Quandela|Infleqtion|Xanadu|Atom Computing|Alice ?& ?Bob)\b.{0,100}\b(qubits?|quantum (computer|processor|chip|hardware)s?)\b",
+        r"\b(qubits?|quantum (computer|processor|chip|hardware)s?)\b.{0,100}\b(IBM|Google|Microsoft|Quantinuum|IonQ|Rigetti|PsiQuantum|D-Wave|Pasqal|Quandela|Infleqtion|Xanadu|Atom Computing|Alice ?& ?Bob)\b",
+        # français
+        r"ordinateurs? quantiques?",
+        r"calculateurs? quantiques?",
+        r"informatique quantique",
+        r"processeurs? quantiques?",
+        r"qubits? logiques?",
+        r"avantage quantique",
+        r"suprématie quantique",
+        r"correction d.erreurs? quantiques?",
+    ],
 }
 COMPILED = {
     theme: [re.compile(p, re.IGNORECASE) for p in patterns]
@@ -409,7 +434,8 @@ def collect(
 
         kept = 0
         for entry in entries:
-            themes = match_themes(f"{entry['title']} {entry['summary']}")
+            excluded = source.get("exclude_themes", [])  # ex. arXiv : pas de thème qui noierait le reste
+            themes = [t for t in match_themes(f"{entry['title']} {entry['summary']}") if t not in excluded]
             if not themes and not source.get("all"):
                 continue
             date = entry["date"] or now

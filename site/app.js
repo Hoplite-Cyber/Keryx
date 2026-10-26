@@ -12,9 +12,10 @@
     { id: "QKD", bg: "#ca814d", fg: "#0f2436", line: "#ca814d", text: "#9a5c2c", curve: "#ca814d" },
     { id: "Menace quantique", bg: "#0f2436", fg: "#f6f6f6", line: "#0f2436", text: "#0f2436", curve: "#0f2436" },
     { id: "Normes & politiques", bg: "#e6b794", fg: "#0f2436", line: "#e6b794", text: "#7d6240", curve: "#d9a982" },
+    { id: "Ordinateurs quantiques", bg: "#2f7f7a", fg: "#f6f6f6", line: "#2f7f7a", text: "#2a6f6a", curve: "#2f9a92" },
   ];
   const OTHER = { id: "Général", bg: "#dfe5ea", fg: "#0f2436", line: "#aab6c2", text: "#5c6f80", curve: "#aab6c2" };
-  const SHORT = { "Menace quantique": "Menace", "Normes & politiques": "Normes" };
+  const SHORT = { "Menace quantique": "Menace", "Normes & politiques": "Normes", "Ordinateurs quantiques": "Ordinateurs" };
   const CATEGORY = {
     "Officiel": ["#0f2436", "#f6f6f6"], "Recherche": ["#143954", "#f6f6f6"], "Industrie": ["#ca814d", "#0f2436"],
     "Presse spécialisée": ["#e6b794", "#0f2436"], "Actualité cyber": ["#cfd8e0", "#0f2436"],
@@ -75,9 +76,24 @@
     window.Anim.hoplite(c);
   }
 
+  // Motif fixe sur les cartes pleines et les tuiles de sources ; l'animation ne démarre qu'au survol (souris).
+  const fxStops = new Map(); // conteneur -> fonctions d'arrêt des motifs de la précédente génération
+  function cardFx(root) {
+    (fxStops.get(root) || []).forEach((stop) => stop()); // les anciennes cartes ont été remplacées : on libère leurs motifs
+    const stops = [];
+    root.querySelectorAll(".card.solid, .tile:not(.empty)").forEach((el) => {
+      const c = document.createElement("canvas");
+      c.className = "fx"; c.setAttribute("aria-hidden", "true");
+      el.prepend(c);
+      const stop = window.Anim.hoplite(c, { hover: true, scale: 0.3 });
+      if (stop) stops.push(stop);
+    });
+    fxStops.set(root, stops);
+  }
+
   /* ---------- Pouls de la semaine : courbes sur quatorze jours, étiquettes au bout des lignes ---------- */
   const isDark = () => document.documentElement.dataset.theme === "dark";
-  const CURVE_DARK = { "PQC": "#7fb4de", "QKD": "#ca814d", "Menace quantique": "#e8eef3", "Normes & politiques": "#e6b794" };
+  const CURVE_DARK = { "PQC": "#7fb4de", "QKD": "#ca814d", "Menace quantique": "#e8eef3", "Normes & politiques": "#e6b794", "Ordinateurs quantiques": "#6fd0c6" };
   function renderPouls() {
     const dark = isDark(), cv = (t) => (dark ? CURVE_DARK[t.id] : t.curve), lbl = (t) => (dark ? CURVE_DARK[t.id] : t.text);
     const gridC = dark ? "#26394b" : "#dde3e9", numC = dark ? "#7f93a6" : "#8a96a3", axisC = dark ? "#9fb0c0" : "#5c6f80";
@@ -133,7 +149,7 @@
 
     $("minis").innerHTML = rest.slice(0, 6).map((a) => card(a)).join("");
     renderPouls();
-    $("brief").innerHTML = `<h2>En bref</h2>` + rest.slice(6, 11).map((a) => `<a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer"><span>${esc(a.title)}</span></a>`).join("");
+    $("brief").innerHTML = `<h2>En bref</h2>` + rest.slice(6, 11).map((a) => `<a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer"><span class="t">${esc(a.title)}</span><small>${esc(a.source)} · ${fmt(a.date)}</small></a>`).join("");
 
     const byCat = arts.reduce((m, a) => ((m[a.category] = (m[a.category] || 0) + 1), m), {});
     const cats = Object.entries(byCat).sort((x, y) => y[1] - x[1]).slice(0, 3);
@@ -164,6 +180,7 @@
     $("grid").innerHTML = list.length
       ? list.slice(0, state.shown).map((a, i) => card(a, i === 0 ? "lead2 solid" : i % 6 === 3 ? "wide solid" : "")).join("")
       : `<p class="empty">Aucun article ne correspond à ces filtres.${frHint}</p>`;
+    cardFx($("grid"));
     $("more").parentElement.hidden = list.length <= state.shown;
   }
 
@@ -184,6 +201,7 @@
       const [bg, fg] = catColors(s.category), n = s.items.length;
       return `<button type="button" class="tile ${n ? "" : "empty"}" style="--bg:${bg};--fg:${fg}" data-i="${i}"><div class="top"><div><h3>${esc(s.name)} ${s.ok ? "" : '<span class="err">erreur</span>'}</h3><p class="cat">${esc(s.category)}</p></div><span class="num">${n}</span></div><p class="latest">${n ? esc(s.items[0].title) : "Aucun article retenu pour le moment"}</p></button>`;
     }).join("");
+    cardFx($("tiles"));
   }
   const panel = $("panel"), scrim = $("scrim");
   const closePanel = () => { panel.classList.remove("open"); scrim.classList.remove("open"); };

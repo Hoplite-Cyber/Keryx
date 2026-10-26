@@ -1,6 +1,6 @@
 # PQC Watch
 
-Agrégateur d'actualités sur la **cryptographie post-quantique (PQC)**, la **distribution quantique de clés (QKD)** et la **menace quantique** pour la cybersécurité.
+Agrégateur d'actualités sur la **cryptographie post-quantique (PQC)**, la **distribution quantique de clés (QKD)**, la **menace quantique** pour la cybersécurité et les **ordinateurs quantiques** (jalons et annonces).
 
 Le site est généré et mis à jour automatiquement : GitHub Actions collecte des sources publiques (RSS/Atom et quelques pages web) toutes les 15 minutes, ne conserve que les articles pertinents, commite les données si elles ont changé et publie le site sur GitHub Pages.
 
@@ -27,6 +27,9 @@ Thèmes détectés automatiquement :
 | QKD | QKD, quantum key distribution, BB84, quantum internet |
 | Menace quantique | Shor, CRQC, Q-Day, « harvest now, decrypt later » |
 | Normes & politiques | NIST, CNSA 2.0, ANSSI, ENISA, NCSC, BSI, ETSI, IETF |
+| Ordinateurs quantiques | qubits logiques, correction d'erreurs, avantage quantique, annonces des grands acteurs (IBM, Google, IonQ, Quantinuum, Pasqal…) |
+
+Le thème « Ordinateurs quantiques » est volontairement ciblé (annonces, jalons, correction d'erreurs) : la physique quantique en général n'est pas retenue. Un article peut porter plusieurs thèmes.
 
 ## Le site
 
@@ -42,6 +45,8 @@ Un article peut porter une image (`image` dans les données) : seule son adresse
 Le motif H de la charte (`site/assets/brand/motif-cell.png`) est répété sur tout le fond de la carte « À la une » et du briefing. Sans ce fichier, ou si le visiteur demande moins de mouvement, aucune animation n'est affichée.
 
 Les sources marquées `"all": true` dans `sources.json` sont considérées comme entièrement dédiées au sujet (aucun filtre appliqué). Par défaut, toutes les sources sont filtrées.
+
+Une source peut aussi exclure un thème avec `"exclude_themes": ["Ordinateurs quantiques"]` : c'est le cas des flux de prépublications (arXiv, IACR), très volumineux, qui noieraient ce thème sous des articles de recherche.
 
 ## Mise en place sur GitHub
 

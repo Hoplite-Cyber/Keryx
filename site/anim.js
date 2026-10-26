@@ -51,7 +51,9 @@
   // Boucle d'animation : redimensionne, se met en pause hors écran, une seule image si « mouvement réduit ».
   function hoplite(canvas, o = {}) {
     const ctx = canvas.getContext("2d"), t0 = performance.now(), mouse = { x: null, y: null };
-    let w = 1, h = 1, raf = 0, visible = true, tex = null, scratch = null;
+    let w = 1, h = 1, raf = 0, visible = true, tex = null, scratch = null, active = false;
+    // Mode « carte » (o.hover) : motif fixe et discret ; le projecteur n'apparaît et ne bouge qu'au survol à la souris.
+    const idle = () => !!o.hover && !active;
     motif(() => {}, o.src);
 
     function resize() {
@@ -64,6 +66,10 @@
     function draw(t) {
       if (!MOTIF.ready) return;
       const color = o.tint || getComputedStyle(canvas).color, sc0 = o.scale ?? 0.46, cw = CELL.w * sc0, ch = CELL.h * sc0;
+      if (idle()) { // motif fixe, tracé directement : pas de grande texture en mémoire
+        ctx.clearRect(0, 0, w, h); ctx.globalAlpha = 0.15; paintMotif(ctx, w, h, sc0, color); ctx.globalAlpha = 1;
+        return;
+      }
       const mx = Math.ceil(cw + 160 * sc0) + 8, my = Math.ceil(ch + 71 * sc0) + 8, dpr = canvas.width / w;
       // Texture plus grande que le bloc : on la décale le long de U (le motif se superpose alors exactement à lui-même) : boucle sans à-coup.
       const key = `${Math.round(w)}x${Math.round(h)}|${color}|${sc0}`;
@@ -89,19 +95,30 @@
     function frame(now) {
       raf = 0;
       if (!visible) return;
-      draw(reduce ? 4 : (now - t0) / 1000);
-      if (!reduce) raf = requestAnimationFrame(frame);
+      draw(reduce || idle() ? 4 : (now - t0) / 1000);
+      if (!reduce && !idle()) raf = requestAnimationFrame(frame);
     }
-    const ro = new ResizeObserver(() => { resize(); if (reduce) frame(performance.now()); });
+    const ro = new ResizeObserver(() => { resize(); if (reduce || idle()) frame(performance.now()); });
     ro.observe(canvas);
     const io = new IntersectionObserver(([e]) => { visible = e.isIntersecting; if (visible && !raf) raf = requestAnimationFrame(frame); });
     io.observe(canvas);
     const host = canvas.parentElement;
     host.addEventListener("pointermove", (e) => { const r = canvas.getBoundingClientRect(); mouse.x = e.clientX - r.left; mouse.y = e.clientY - r.top; });
-    host.addEventListener("pointerleave", () => { mouse.x = mouse.y = null; });
+    host.addEventListener("pointerleave", () => {
+      mouse.x = mouse.y = null;
+      if (o.hover && active) { active = false; tex = scratch = null; if (raf) cancelAnimationFrame(raf); raf = requestAnimationFrame(frame); } // retour au motif fixe, mémoire libérée
+    });
+    if (o.hover && !reduce && matchMedia("(hover: hover)").matches) {
+      host.addEventListener("pointerenter", (e) => { // la souris seulement : sur tactile, le motif reste fixe
+        if (e.pointerType !== "mouse") return;
+        active = true; if (!raf && visible) raf = requestAnimationFrame(frame);
+      });
+    }
     resize();
     motif(() => { if (!raf && visible) raf = requestAnimationFrame(frame); });
     raf = requestAnimationFrame(frame);
+    // Arrêt définitif (carte retirée de la page) : plus d'observateurs ni de boucle, mémoire libérée.
+    return () => { visible = false; if (raf) cancelAnimationFrame(raf); raf = 0; ro.disconnect(); io.disconnect(); tex = scratch = null; };
   }
 
   window.Anim = { hoplite };
