@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T07:02:44Z",
- "count": 356,
+ "generated_at": "2026-10-26T08:46:11Z",
+ "count": 541,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 23
+   "kept": 21
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 1
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 1
+   "kept": 2
   },
   {
    "name": "The Hacker News",
@@ -225,6 +225,76 @@
    "ok": true,
    "fetched": 50,
    "kept": 3
+  },
+  {
+   "name": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "ok": true,
+   "fetched": 160,
+   "kept": 60
+  },
+  {
+   "name": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "ok": true,
+   "fetched": 60,
+   "kept": 9
+  },
+  {
+   "name": "Nature – information quantique",
+   "category": "Recherche",
+   "ok": true,
+   "fetched": 30,
+   "kept": 2
+  },
+  {
+   "name": "IBM Research",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 20,
+   "kept": 5
+  },
+  {
+   "name": "Quantinuum",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 100,
+   "kept": 46
+  },
+  {
+   "name": "IonQ",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 100,
+   "kept": 48
+  },
+  {
+   "name": "Pasqal",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 10,
+   "kept": 9
+  },
+  {
+   "name": "LeMagIT – quantique",
+   "category": "Presse spécialisée",
+   "ok": true,
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Le Monde Informatique – quantique",
+   "category": "Presse spécialisée",
+   "ok": true,
+   "fetched": 20,
+   "kept": 0
+  },
+  {
+   "name": "Futura Sciences",
+   "category": "Presse spécialisée",
+   "ok": true,
+   "fetched": 50,
+   "kept": 0
   }
  ],
  "articles": [
@@ -239,7 +309,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T07:02:44Z",
+   "date": "2026-10-26T08:46:11Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -253,7 +323,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-26T07:02:44Z",
+   "date": "2026-10-26T08:46:11Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -269,7 +339,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-26T07:02:44Z",
+   "date": "2026-10-26T08:46:11Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -284,7 +354,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T07:02:44Z",
+   "date": "2026-10-26T08:46:11Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -299,7 +369,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T07:02:44Z",
+   "date": "2026-10-26T08:46:11Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -662,6 +732,36 @@
    "first_seen": "2026-10-24T23:47:18Z"
   },
   {
+   "id": "6737904b2bb2b43e",
+   "title": "Guest Post: Quantum Computing’s Next Phase May Be Driven by Compounding Breakthroughs",
+   "url": "https://thequantuminsider.com/2026/10/23/quantum-computing-compounding-breakthroughs/",
+   "summary": "Guest Post by Liam Wang COO, Logical Qubit Technology. The World Economic Forum’s Quantum Economy Day 2026 was held in Geneva, Switzerland, on October 13–14. Logical Qubit Technology attended as the only quantum computing company representing China. The company’s Chief Operating Officer, Liam Wang, joined business executives, researchers, and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-23T11:31:57Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-23_16-30.png"
+  },
+  {
+   "id": "6a5b48dfc4410375",
+   "title": "IQM and Telefónica Plan Quantum Computer for Madrid University",
+   "url": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
+   "summary": "Insider Brief PRESS RELEASE — Telefónica and IQM Quantum Computers, a global leader in superconducting quantum computing, have joined forces to deploy the first quantum computer in the Community of Madrid. The initiative will strengthen the region’s scientific and technological capabilities, while driving the development of real-world cases for…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-23T10:40:53Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-23_15-39.png"
+  },
+  {
    "id": "ae0ef0d279fc6550",
    "title": "QKD faces maturity and security hurdles, say France, Germany and Sweden",
    "url": "https://quantumzeitgeist.com/bsi-qkd-faces-maturity-security-hurdles/",
@@ -710,6 +810,36 @@
    ],
    "date": "2026-10-23T09:37:27Z",
    "first_seen": "2026-10-24T23:47:18Z"
+  },
+  {
+   "id": "24185e391220078f",
+   "title": "Quandela And Quanova Partner to Deploy Vietnam’s First Quantum Computer",
+   "url": "https://thequantuminsider.com/2026/10/23/quandela-and-quanova-partner-to-deploy-vietnams-first-quantum-computer/",
+   "summary": "Insider Brief PRESS RELEASE — Quandela, a European leader in photonic quantum computing, announces a major milestone in its expansion in Southeast Asia. Quanova, a Vietnamese quantum company, has selected Quandela’s MosaiQ solution as the foundation of a new quantum research, innovation, service and entrepreneurship (quantum-RISE) program at Quang…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-23T08:30:23Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/quandela.png"
+  },
+  {
+   "id": "764f7866c4208335",
+   "title": "Google Launches $150,000 AI Competition to Reduce Quantum Computing Demands",
+   "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+   "summary": "Insider Brief Google Quantum AI is launching a competition to use artificial intelligence to shrink the circuits needed for useful quantum computing. The competition offers a total prize pool of $150,000, organizers said. The competition, hosted on Kaggle, challenges participants to reduce the number of computing steps and quantum bits required…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-23T08:12:25Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
   },
   {
    "id": "e0fae5231a2b0d7e",
@@ -827,6 +957,20 @@
    "first_seen": "2026-10-23T14:52:42Z"
   },
   {
+   "id": "2283a820a3d83c3f",
+   "title": "IBM supports award-winning projects in NEDO Challenge",
+   "url": "https://research.ibm.com/blog/ibm-nedo-challenge-2026?utm_medium=rss&utm_source=rss",
+   "summary": "Teams across all three tracks of Japan's national quantum competition used IBM quantum computers during research on real-world applications.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-23T04:00:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "6db9dfecb617cade",
    "title": "Quantum Cryptomania with Classical Communication without One-Way Functions",
    "url": "https://eprint.iacr.org/2026/2607",
@@ -855,6 +999,20 @@
    ],
    "date": "2026-10-23T00:00:00Z",
    "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "fec8678d3c8d02d1",
+   "title": "Beating the break-even point with autonomous quantum error correction",
+   "url": "https://www.nature.com/articles/s41567-026-03486-y",
+   "summary": "",
+   "source": "Nature – information quantique",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-23T00:00:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "2bedbd686d38f3a7",
@@ -886,6 +1044,21 @@
    "date": "2026-10-22T17:26:39Z",
    "first_seen": "2026-10-23T14:52:42Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-22_22-24.png"
+  },
+  {
+   "id": "78f812a0659f293a",
+   "title": "ZuriQ and Rhonexum Partner on Cryogenic Electronics for Quantum Computing",
+   "url": "https://thequantuminsider.com/2026/10/22/zuriq-rhonexum-cryogenic-electronics-quantum-computing/",
+   "summary": "Insider Brief PRESS RELEASE — ZuriQ and Rhonexum have announced a multi-year commercial framework agreement. Under the agreement, Rhonexum will supply cryogenic integrated-circuit technologies and customisation services to ZuriQ, which will evaluate the potential of each of these solutions to advance its trapped-ion quantum computing roadmap. This…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-22T13:28:24Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-22_18-25.png"
   },
   {
    "id": "e7d7069e30520caf",
@@ -1684,6 +1857,50 @@
    "first_seen": "2026-10-20T21:28:54Z"
   },
   {
+   "id": "f2bb83de4aa4b0c3",
+   "title": "IonQ | IonQ Opens First Quantum Innovation Centre at Cambridge",
+   "url": "https://ionq.com/news/ionq-and-the-university-of-cambridge-open-the-ionq-quantum-innovation-centre-at-cavendish-laboratorys-ray-dolby-centre",
+   "summary": "onQ and the University of Cambridge launch the first IonQ Quantum Innovation Centre at the Cavendish Laboratory to advance quantum computing and networking.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-19T20:44:12Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "111cf26e142c6e33",
+   "title": "IonQ | IonQ to Acquire Elisity for $1.3B to Advance Quantum Security",
+   "url": "https://ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era",
+   "summary": "IonQ acquires Zero Trust leader Elisity for $1.3B to integrate post-quantum cryptography and QKD, securing enterprise networks against emerging threats.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-19T20:44:12Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "d6a031743c9de9fb",
+   "title": "IonQ | IonQ Achieves Record 1 kHz Quantum Interconnect Speed",
+   "url": "https://ionq.com/news/ionq-demonstrates-world-first-quantum-memory-enhanced-interconnect-for-distributed-quantum-applications",
+   "summary": "IonQ achieves a record 1 kHz quantum interconnect rate between a trapped ion qubit and quantum memory, advancing scalable distributed quantum computing.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-19T20:44:12Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "695caeabf6314763",
    "title": "CodeCoin launches first licensed digital card with quantum encryption",
    "url": "https://quantumzeitgeist.com/codecoin-quantum-first-licensed-digital/",
@@ -1996,6 +2213,21 @@
    "date": "2026-10-18T03:16:42Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "d74384c381ff8b9e",
+   "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+   "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+   "summary": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, which filters out flaws, but it is extremely resource-intensive.",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-17T18:00:02Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-error-correction-t.jpg"
   },
   {
    "id": "caaa32ceea5c37e7",
@@ -2423,6 +2655,20 @@
    "lang": "en"
   },
   {
+   "id": "e185bec5c97c0bd3",
+   "title": "Scaling AI-driven chip design with open agent factories",
+   "url": "https://research.ibm.com/blog/open-agent-factories-and-distributed-inference-for-chip-design?utm_medium=rss&utm_source=rss",
+   "summary": "Open models and llm-d enabled IBM Research to explore quantum error correction hardware at 11.5× lower inference cost than an all-proprietary configuration.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-13T12:00:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "86e55145f644253b",
    "title": "NCSC launches pilot to certify quantum-safe cyber advisors",
    "url": "https://quantumzeitgeist.com/ncsc-pilot-certify-quantum-safe-cyber/",
@@ -2439,6 +2685,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/ncsc-pilot-certify-quantum-safe-cyber-scaled.png",
    "lang": "en"
+  },
+  {
+   "id": "e398058e1e0abb0b",
+   "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+   "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum interference. The experiment brings a decades-old…",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-13T09:47:22Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "eeb606abe5b97bbc",
@@ -2519,6 +2779,20 @@
    "lang": "en"
   },
   {
+   "id": "81fb643eafa50a08",
+   "title": "Quantum physicist Ignacio Cirac awarded 2026 Isaac Newton Medal and Prize",
+   "url": "https://physicsworld.com/a/quantum-physicist-ignacio-cirac-awarded-2026-isaac-newton-medal-and-prize/",
+   "summary": "Cirac is honoured for contributions to modern quantum information science The post Quantum physicist Ignacio Cirac awarded 2026 Isaac Newton Medal and Prize appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-12T08:00:07Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "06fd66fb7d5425e1",
    "title": "Lattice Bingo: Asynchrony and One-Shot Adaptivity in Verifiable Secret Sharing via Erasure Code Commitments",
    "url": "https://eprint.iacr.org/2026/2432",
@@ -2593,6 +2867,36 @@
    "lang": "en"
   },
   {
+   "id": "c482a029633361d3",
+   "title": "Independent Study Shows Quantinuum Outperforming Superconducting Systems on Key Operations for Fault Tolerance",
+   "url": "https://www.quantinuum.com/blog/independent-study-shows-quantinuum-outperforming-superconducting-systems-on-key-operations-for-fault-tolerance",
+   "summary": "In a new independent study from the Jülich Supercomputing Centre, Quantinuum’s Helios demonstrated an approximately order-of-magnitude advantage over superconducting hardware in tests of operations essential to quantum error correction. More precisely, Helios’ effective hardware error was approximately 13 times lower at 30 data qubits and eight…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-08T20:11:51Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6ac7c16487f1a30342e712f2_JulichBenchmarking-Media-Preview.png"
+  },
+  {
+   "id": "f0bc6f0a99bc4c55",
+   "title": "Simulating NMR on a Quantum Computer: A Step Toward Practical Quantum Chemistry",
+   "url": "https://www.quantinuum.com/blog/simulating-nmr-on-a-quantum-computer-a-step-toward-practical-quantum-chemistry",
+   "summary": "In our latest work, we demonstrate the most accurate large-scale digital NMR simulation performed on quantum hardware to date. Using Quantinuum's System Model H2, we carried out an end-to-end simulation of a classically challenging NMR experiment, reproducing key spectral features that previous hardware demonstrations were unable to capture.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-08T20:11:51Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6ac65eb7f96ce906c3cd9795_Tier-2-NMR-Media-Preview.png"
+  },
+  {
    "id": "ed3ba7085c69c61d",
    "title": "Quantum XChange secures agency sites with Phio TX-EM",
    "url": "https://quantumzeitgeist.com/phio-tx-em-quantum-xchange-agency/",
@@ -2606,6 +2910,21 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-xchange-agency-sites-phio-tx-scaled.jpeg",
    "lang": "en"
+  },
+  {
+   "id": "c73cedda6c909371",
+   "title": "Turning Ideas into QPU Experiments: How Agentic Workflows Make Quantum Computing More Accessible",
+   "url": "https://www.pasqal.com/blog/turning-ideas-into-qpu-experiments-how-agentic-workflows-make-quantum-computing-more-accessible/",
+   "summary": "Author: Jaap Kautz Cloud access has made quantum processors easier to reach, but running a useful experiment still requires a significant amount of technical work. A starting point for a quantum experiment can be a published protocol, a patent, a technical note, or simply a research idea that has not yet been translated into hardware... The post…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-08T11:57:12Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/10/image_134f3e.png?w=676&h=399&quality=80&strip=all"
   },
   {
    "id": "dae866a1ec2bc978",
@@ -2624,6 +2943,20 @@
    "lang": "en"
   },
   {
+   "id": "f3652a5d581e8187",
+   "title": "Error semitransparent universal control of a bosonic logical qubit",
+   "url": "https://www.nature.com/articles/s41467-026-78317-y",
+   "summary": "",
+   "source": "Nature – information quantique",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-08T00:00:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "05b28db2683e85a7",
    "title": "Cryptographie post-quantique : l’échéance devient réglementaire",
    "url": "https://www.riskinsight-wavestone.com/2026/10/cryptographie-post-quantique-lecheance-devient-reglementaire/",
@@ -2633,7 +2966,8 @@
    "lang": "fr",
    "themes": [
     "PQC",
-    "Menace quantique"
+    "Menace quantique",
+    "Ordinateurs quantiques"
    ],
    "date": "2026-10-07T15:57:11Z",
    "first_seen": "2026-10-20T13:01:42Z"
@@ -2653,6 +2987,21 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/sama-pushes-banks-quantum-safe-encryption-scaled.jpeg",
    "lang": "en"
+  },
+  {
+   "id": "d3cc06de7b5133df",
+   "title": "From Theory to Practice: Quantinuum’s First InQuanto Summer School",
+   "url": "https://www.quantinuum.com/blog/from-theory-to-practice-quantinuums-first-inquanto-summer-school",
+   "summary": "Quantinuum’s first InQuanto Summer School, supported by the UK’s National Quantum Computing Centre (NQCC), combined lectures, hands-on workshops, and mini-projects to help participants connect fundamental concepts with practical research. By the end of the week, participants were applying those ideas to problems ranging from molecular electronic…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-06T17:41:54Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6abeba64578aa23a2d448c60_InQuanto-Media-Preview.png"
   },
   {
    "id": "140933621e8d8cc7",
@@ -2697,6 +3046,20 @@
    "date": "2026-10-06T00:00:00Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "c3dc4179acdecff6",
+   "title": "Directed execution: same performance, more control",
+   "url": "https://research.ibm.com/blog/directed-execution?utm_medium=rss&utm_source=rss",
+   "summary": "See, customize, and extend how your circuits use the error mitigation and correction methods researchers are exploring today on IBM quantum hardware",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-05T16:30:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "b87f780b15690a34",
@@ -2873,6 +3236,21 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/nist-approved-hash-schemes-key-quantum.jpeg",
    "lang": "en"
+  },
+  {
+   "id": "0ef0f315781c345c",
+   "title": "Quantum World Congress 2026: Cutting Through the Noise to Deliver the Next Era of Compute",
+   "url": "https://www.quantinuum.com/blog/quantum-world-congress-2026-cutting-through-the-noise-to-deliver-the-next-era-of-compute",
+   "summary": "For years, the quantum landscape has been crowded with headline hype, speculative roadmaps, and vanity qubit counts. While that noise hasn't completely disappeared, Quantum World Congress 2026 proved that the market's tolerance for hype is rapidly wearing thin. While benchmark simulations and roadmap announcements still generate headlines, the…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-02T16:35:30Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6abad326312b743e6752c627_QWC-Perspectives-Blog-Media-Preview.png"
   },
   {
    "id": "f8c9fd48096b6c61",
@@ -3144,6 +3522,20 @@
    "lang": "en"
   },
   {
+   "id": "c95619913dccf3b5",
+   "title": "Quantum computer simulates matter “popping into existence”",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+   "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang.",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-26T13:47:38Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "46e74cc3160d04a7",
    "title": "Cloudflare Details 6 Implementation Steps Beyond Quantum-Safe Algorithms",
    "url": "https://quantumzeitgeist.com/enqase-cloudflare-implementation-steps-details-beyond/",
@@ -3174,6 +3566,76 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/nist-standards-drive-demand-11-quantum.jpg",
    "lang": "en"
+  },
+  {
+   "id": "3ada0a6f08048c2e",
+   "title": "IonQ | FIU Secures Florida’s First IonQ Superion Quantum System",
+   "url": "https://ionq.com/news/ionqs-superion-256-platform-selected-by-florida-international-university-for-flagship-deployment",
+   "summary": "IonQ partners with FIU to install Florida’s first on-premises Superion 256-qubit quantum computer to advance research and workforce development.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-25T17:20:37Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "6a80c6850a63732f",
+   "title": "IonQ | IonQ Superion 256 to Power NVIDIA Quantum Research Center",
+   "url": "https://ionq.com/news/ionq-to-advance-quantum-supercomputing-by-bringing-first-qpu-to-nvidia-accelerated-quantum-research-center",
+   "summary": "IonQ announces its Superion 256 quantum processor will be the first deployed at NVIDIA’s NVAQC to advance hybrid AI and quantum supercomputing.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-25T17:20:37Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "fa39c641d66b0169",
+   "title": "IonQ | IonQ Breakthrough: CPU-Powered Quantum Error Correction",
+   "url": "https://ionq.com/news/ionq-demonstrates-industrys-first-end-to-end-real-time-quantum-error-decoder",
+   "summary": "IonQ demonstrates the first real-time quantum error correction decoder on a single standard CPU, overcoming a major bottleneck in fault-tolerant quantum computing.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-25T17:20:37Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "fc8f4f7211fb881a",
+   "title": "IonQ | IonQ and SDT Announce the First Strategic Partnership to Bring Both Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region",
+   "url": "https://ionq.com/news/ionq-and-sdt-announce-the-first-strategic-partnership-to-bring-both-advanced-quantum-computing-and-quantum-networking-to-the-asia-pacific-region",
+   "summary": "‍Deployment will bring the first IonQ Superion 256 system and first silicon-vacancy quantum memory module to South Korea",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-25T17:20:37Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "faa1bd9cb2946bff",
+   "title": "Quantum computing’s “dark horse” just proved it can go universal",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+   "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-25T12:45:04Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "547953a13fe7a0ff",
@@ -3362,6 +3824,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/babcock-and-arqit-secure-data-transfer-over-a.jpg",
    "lang": "en"
+  },
+  {
+   "id": "6450bda7e5175701",
+   "title": "For the first time, scientists watch sound jump between quantum states",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+   "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based devices.",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-22T13:17:20Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "839748400f292188",
@@ -3679,6 +4155,20 @@
    "lang": "en"
   },
   {
+   "id": "40b5f9761880799a",
+   "title": "From error mitigation to fault-tolerant quantum computing",
+   "url": "https://research.ibm.com/blog/qec-continuum?utm_medium=rss&utm_source=rss",
+   "summary": "A spectrum of error-correcting techniques is enabling useful quantum computation, measured not by logical qubits but by the circuits you can run with them.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-15T14:30:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "c3298ba3ff599a32",
    "title": "ExeQuantum launches EQCore for quantum-enhanced encryption system mapping",
    "url": "https://quantumzeitgeist.com/exequantum-eqcore-quantum-enhanced-encryption/",
@@ -3712,6 +4202,80 @@
    "lang": "en"
   },
   {
+   "id": "84f0edf6b927072f",
+   "title": "A theoretical separation between quantum computers & LLMs",
+   "url": "https://research.ibm.com/blog/quantum-circuits-vs-llms?utm_medium=rss&utm_source=rss",
+   "summary": "Recent research further demonstrates the theoretical abilities of quantum computing",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-15T04:00:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "960c57eb64c9d48b",
+   "title": "What Does It Take for a Quantum Computer to Actually Be “Quantum”?",
+   "url": "https://www.quantinuum.com/blog/what-does-it-take-for-a-quantum-computer-to-actually-be-quantum",
+   "summary": "A new experiment tests what makes a quantum computer genuinely quantum by using a simple game that demonstrates a provable advantage from quantum superposition, without relying on entanglement or assumptions about classical computational difficulty. The test was demonstrated on Quantinuum’s System Model H2.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-14T22:12:51Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aa2c692f8396da040e72408_Violation%20of%20classicality_MP.png"
+  },
+  {
+   "id": "0318a57432e42325",
+   "title": "Helix: A New Architecture for Enterprise-Scale Fault-Tolerant Quantum Computing",
+   "url": "https://www.quantinuum.com/blog/helix-a-new-architecture-for-enterprise-scale-fault-tolerant-quantum-computing",
+   "summary": "Quantinuum has taken a major step towards validating our plans for large-scale fault tolerance by demonstrating the Helix quantum error correction architecture on real hardware",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-14T22:12:51Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aa02ac71e928c317562bc7d_HelixCode_MP.png"
+  },
+  {
+   "id": "5e294e2a223a489c",
+   "title": "Accuracy Is the Foundation of Meaningful Quantum Computing",
+   "url": "https://www.quantinuum.com/blog/accuracy-is-the-foundation-of-meaningful-quantum-computing",
+   "summary": "Industry peers—including Quantinuum’s Startup Program Partners Qedma and BlueQubit, as well as our partner RIKEN—published a paper exploring quantum magnetism that “extends beyond the reach of the state-of-the-art classical methods considered;” evidence of a quantum advantage result. Interestingly, the team validated their results on Quantinuum…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-14T22:12:51Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6a8359ef11cbe3ad5ed51ab0_QEDMATechBlog_MP.png"
+  },
+  {
+   "id": "36fb148955f43cb2",
+   "title": "IEEE Quantum Week 2026",
+   "url": "https://www.quantinuum.com/blog/ieee-quantum-week-2026",
+   "summary": "Join Quantinuum at IEEE where we will showcase how our quantum hardware, software, and partnerships are helping define the next era of high-performance and quantum computing.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-14T22:12:51Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6a8c79f6925dff6ff8007597_IEEE-2026-media-preview.png"
+  },
+  {
    "id": "16773252b129fbe0",
    "title": "GECCO & enclaive use quantum encryption for data at the edge",
    "url": "https://quantumzeitgeist.com/quantum-encryption-data-edge-gecco/",
@@ -3726,6 +4290,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/gecco-enclaive-use-quantum-encryption-data-scaled.jpg",
    "lang": "en"
+  },
+  {
+   "id": "e07dd999e11f1b38",
+   "title": "Tiny sound waves could help solve a major quantum computing problem",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
+   "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time by roughly threefold. The same phonons could eventually both transmit and protect quantum information, opening the door to…",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-12T14:08:20Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "c15743e53c07cdcf",
@@ -3918,12 +4496,59 @@
    "source": "Quantum Zeitgeist – cryptographie",
    "category": "Presse spécialisée",
    "themes": [
-    "Menace quantique"
+    "Menace quantique",
+    "Ordinateurs quantiques"
    ],
    "date": "2026-09-08T13:41:40Z",
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/days-bitcoin-ionq-publishes-detailed-quantum.jpg",
    "lang": "en"
+  },
+  {
+   "id": "1da51d345a714bbd",
+   "title": "IonQ | IonQ & Congruity360 Ink $8.18M Quantum Security Agreement",
+   "url": "https://ionq.com/news/ionq-and-congruity360-partner-to-enhance-quantum-safe-protection",
+   "summary": "IonQ signs an $8.18M agreement with Congruity360 to deliver quantum-safe network protection using PQC and QKD technology for U.S. enterprises.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-09-08T12:15:01Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "6ff2dba0f964bbd1",
+   "title": "IonQ | IonQ Debuts Superion 256 Quantum Computing Platform",
+   "url": "https://ionq.com/news/ionq-launches-superion-product-line-industry-leading-upgradeable-platform-designed-to-scale-manufacturable-fault-tolerant-quantum-computing",
+   "summary": "IonQ unveils Superion 256, its 6th-gen quantum platform manufactured with SkyWater. First ions trapped; orders open for 2027 customer delivery.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-09-08T12:00:01Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "58aad0eae1d5a916",
+   "title": "IonQ | IonQ Models Quantum Threat to 256-Bit Encryption in New Study",
+   "url": "https://ionq.com/news/ionq-publishes-worlds-first-fully-compiled-end-to-end-blueprint-for-breaking-256-bit-elliptic-curve-signatures",
+   "summary": "New IonQ paper models breaking 256-bit encryption in under 26 days with 20,000 qubits, signaling urgent need for post-quantum cryptography migration.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Ordinateurs quantiques",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-09-08T11:45:01Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "a1bbcaf1574b532a",
@@ -4185,7 +4810,8 @@
    "source": "Quantum Zeitgeist – cryptographie",
    "category": "Presse spécialisée",
    "themes": [
-    "PQC"
+    "PQC",
+    "Ordinateurs quantiques"
    ],
    "date": "2026-08-27T16:01:32Z",
    "first_seen": "2026-10-20T12:25:07Z",
@@ -4209,6 +4835,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/qusecure-ceo-discusses-early-steps-to-quantum-proof.jpg",
    "lang": "en"
+  },
+  {
+   "id": "1224caa54ea12e49",
+   "title": "Quantum voting system aims to keep ballots secret",
+   "url": "https://physicsworld.com/a/quantum-voting-system-aims-to-keep-ballots-secret/",
+   "summary": "Two teams implement entanglement-based protocol The post Quantum voting system aims to keep ballots secret appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-08-25T13:06:36Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "f170ef85f38460b7",
@@ -4240,6 +4880,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/strongswan-helps-cisco-test-post-quantum.jpg",
    "lang": "en"
+  },
+  {
+   "id": "dba6f101e886d07b",
+   "title": "Researchers harness sunlight to generate quantum entanglement",
+   "url": "https://physicsworld.com/a/researchers-harness-sunlight-to-generate-quantum-entanglement/",
+   "summary": "Sunlight may provide an energy-efficient alternative to lasers used in quantum computing The post Researchers harness sunlight to generate quantum entanglement appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-08-25T08:00:10Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "65d88828b9c965c9",
@@ -4343,6 +4997,7 @@
    "source": "Quantum Zeitgeist – cryptographie",
    "category": "Presse spécialisée",
    "themes": [
+    "Ordinateurs quantiques",
     "Menace quantique"
    ],
    "date": "2026-08-22T12:19:16Z",
@@ -4358,12 +5013,27 @@
    "source": "Quantum Zeitgeist – cryptographie",
    "category": "Presse spécialisée",
    "themes": [
-    "Menace quantique"
+    "Menace quantique",
+    "Ordinateurs quantiques"
    ],
    "date": "2026-08-22T09:55:33Z",
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/elliptic-curve-crypto-fall-quantum-computers-scaled.jpg",
    "lang": "en"
+  },
+  {
+   "id": "06c3568414750157",
+   "title": "No quantum advantage (yet) in the world of tensor networks",
+   "url": "https://physicsworld.com/a/no-quantum-advantage-yet-in-the-world-of-tensor-networks/",
+   "summary": "Classical computation is more accurate that quantum annealer for some Ising spin glasses The post No quantum advantage (yet) in the world of tensor networks appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-08-21T13:41:22Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "c86a6ec5620ae639",
@@ -4383,6 +5053,20 @@
    "lang": "en"
   },
   {
+   "id": "177eef7ebbefa380",
+   "title": "Physics research in India: a slide puzzle",
+   "url": "https://physicsworld.com/a/physics-research-in-india-a-slide-puzzle/",
+   "summary": "Can you reconstruct the quantum computing image in our interactive slide puzzle? The post Physics research in India: a slide puzzle appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-08-20T16:30:12Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "9a97d7658acf997c",
    "title": "Crypto4A’s module supports all NIST post-quantum algorithms",
    "url": "https://quantumzeitgeist.com/post-quantum-algorithms-crypto4as-module-supports/",
@@ -4399,6 +5083,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/crypto4as-module-supports-nist-post-quantum.jpg",
    "lang": "en"
+  },
+  {
+   "id": "7c454321b4866341",
+   "title": "IonQ | IonQ and CMC Microsystems Announce Collaboration to Expand Cloud Quantum Computing Access in Canada",
+   "url": "https://ionq.com/news/ionq-and-cmc-microsystems-announce-collaboration-to-expand-cloud-quantum-computing-access-in-canada",
+   "summary": "MOU establishes IonQ as a listed provider for the FABrIC Quantum Computing Sandbox, accelerating quantum research and enterprise adoption.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-08-19T11:13:42Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "2dfc461e29dd2294",
@@ -4432,6 +5130,21 @@
    "lang": "en"
   },
   {
+   "id": "7c222b840908e33d",
+   "title": "Shortcut for simulating logical magic states could accelerate the design of fault-tolerant quantum computers",
+   "url": "https://physicsworld.com/a/shortcut-for-simulating-logical-magic-states-could-accelerate-the-design-of-fault-tolerant-quantum-computers/",
+   "summary": "New classical simulation technique makes it practical to benchmark large-scale logical magic-state preparation protocols under realistic noise conditions The post Shortcut for simulating logical magic states could accelerate the design of fault-tolerant quantum computers appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-08-17T14:00:34Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2026/08/magic-state-preparation-protocol.png"
+  },
+  {
    "id": "7efcca55faf733ab",
    "title": "Cryptanalysis of ‘Quantum public key encryption scheme with four states key’",
    "url": "https://eprint.iacr.org/2026/1706",
@@ -4444,6 +5157,20 @@
    "date": "2026-08-16T12:19:05Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "952b1ee1e28fb307",
+   "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+   "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-08-14T12:56:01Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "bd8dd5ea2867939e",
@@ -4506,6 +5233,21 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/quantumgenie-adds-post-quantum-tools-microsoft.jpg",
    "lang": "en"
+  },
+  {
+   "id": "10e8fbbe788b23ec",
+   "title": "Quantum principle allows heat to flow from cold to hot",
+   "url": "https://physicsworld.com/a/quantum-principle-allows-heat-to-flow-from-cold-to-hot/",
+   "summary": "Indefinite causal order reverses the direction of heat flow without violating thermodynamics The post Quantum principle allows heat to flow from cold to hot appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-08-10T14:00:15Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2026/08/anomalous-heat-flow-using-quantum-switch-small.png"
   },
   {
    "id": "02ee42dfcaf5e138",
@@ -4672,6 +5414,21 @@
    "lang": "en"
   },
   {
+   "id": "4af9ab65106a7c08",
+   "title": "Scaling the Signal: What a Larger QFT Says About Quantum Progress",
+   "url": "https://www.quantinuum.com/blog/scaling-the-signal-what-a-larger-qft-says-about-quantum-progress",
+   "summary": "Mitsui & Co. and Mitsubishi Electric have teamed up to run one of the largest instances of the approximate Quantum Fourier Transform, a crucial algorithmic primitive, on Quantinuum's Helios quantum computer.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-07-30T20:02:43Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6a6a295c020274c888690075_Mitsui%26MitsubishiQFT_Media%20Preview.png"
+  },
+  {
    "id": "633ce887e2b07057",
    "title": "Exequantum Details AI’s Break of NIST Post-Quantum Candidate",
    "url": "https://quantumzeitgeist.com/anthropic-post-quantum-candidate-exequantum-details/",
@@ -4755,6 +5512,21 @@
    "lang": "en"
   },
   {
+   "id": "914ae5da28f69e5c",
+   "title": "Simulating Quantum Materials via the Cloud at CERN Hackathon 2026",
+   "url": "https://www.pasqal.com/blog/simulating-quantum-materials-via-the-cloud-at-cern-hackathon-2026/",
+   "summary": "Photos credits: Traian Rares Authors: Lucia Garbini, Augustin Freyche From 10 to 12 July 2026, the Quantum Materials Hackathon 2026 was hosted at the CERN IdeaSquare. The hackathon organized by the Open Quantum Institute (OQI) at CERN brings together students and researchers to explore how quantum computing can help tackle one of physics’ most…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-07-24T13:18:24Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/07/IMG_20260711_111517.jpg?w=1024"
+  },
+  {
    "id": "0deaace4dacb45af",
    "title": "ZKPoSP: Post-Quantum Zero-Knowledge Proofs for Hierarchical Deterministic Wallets",
    "url": "https://eprint.iacr.org/2026/1508",
@@ -4804,6 +5576,20 @@
    "lang": "en"
   },
   {
+   "id": "b61c0a925e9ebce2",
+   "title": "Quarks and qubits: how quantum computing could transform particle physics",
+   "url": "https://physicsworld.com/a/quarks-and-qubits-how-quantum-computing-could-transform-particle-physics/",
+   "summary": "This podcast also explores the intersection of general relativity and quantum information The post Quarks and qubits: how quantum computing could transform particle physics appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-07-23T13:21:24Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "e8d496fad70bb505",
    "title": "Fixed-Point Exploration Shares Precision’s Impact on CV-QKD Decoding",
    "url": "https://quantumzeitgeist.com/quiin-cv-qkd-decoding-fixed-point/",
@@ -4847,6 +5633,21 @@
    ],
    "date": "2026-07-20T19:09:40Z",
    "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "572951bcf57b15ec",
+   "title": "Quantum entanglement explains why strange metals are so strange",
+   "url": "https://physicsworld.com/a/quantum-entanglement-explains-why-strange-metals-are-so-strange/",
+   "summary": "New measurements and a tool from quantum metrology provide new insights into metals with unusually high electrical resistance The post Quantum entanglement explains why strange metals are so strange appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-07-17T08:00:26Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2026/07/17-07-2026-strange-metal-quantum-effects-small-635x904.jpg"
   },
   {
    "id": "6b174ad5cdac542c",
@@ -5040,6 +5841,20 @@
    "lang": "en"
   },
   {
+   "id": "3a3fe9de7c9ee1b7",
+   "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
+   "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
+   "summary": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy from the measurement process itself. The breakthrough could lead to more powerful quantum computers, quantum batteries, and other…",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-07-03T09:34:54Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "721c93e0f8241d8d",
    "title": "CEA-Leti’s SEQUENCES Project Financed by Carnot Program",
    "url": "https://quantumzeitgeist.com/sequences-project-financed-cea-letis-carnot/",
@@ -5070,6 +5885,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/PQSNews_Microsoft-timeline.jpg",
    "lang": "en"
+  },
+  {
+   "id": "6ab06f94154de081",
+   "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
+   "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm",
+   "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-lived for practical use, into promising carriers of quantum information. Researchers extended their lifetime by nearly 100 times, reaching up to 18 microseconds, and discovered that the main limitation is not a law of physics but the purity…",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-07-02T06:48:14Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "6c76ba2ed8cdbecd",
@@ -5180,6 +6009,21 @@
    "first_seen": "2026-10-19T14:46:21Z"
   },
   {
+   "id": "fcef528d4eb731b6",
+   "title": "Pasqal at VivaTech 2026: Quantum Computing Meets Real-World Impact",
+   "url": "https://www.pasqal.com/blog/pasqal-at-vivatech-2026-quantum-computing-meets-real-world-impact/",
+   "summary": "Photo credit: ©VivaTech 2026 Author: Laura Vinel Over four days, Europe’s largest technology conference brought together 180,000 visitors from 171 countries. Throughout exhibits and panels, the maturation of quantum computing became evident, transitioning from a research curiosity to operational infrastructure. Pasqal’s participation spanned…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-06-26T11:49:54Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/06/image.png?w=744&h=558&quality=80&strip=all"
+  },
+  {
    "id": "62c9d94a9cbe921c",
    "title": "Trump-Vance Administration Prioritizes Federal Encryption Against Quantum Threats",
    "url": "https://quantumzeitgeist.com/trump-vance-administration-prioritizes-federal/",
@@ -5231,6 +6075,20 @@
    "lang": "en"
   },
   {
+   "id": "413679ee959900db",
+   "title": "IonQ | IonQ Launches Clavis XG Multiplex for Metro Fiber Networks",
+   "url": "https://ionq.com/news/ionq-introduces-clavis-xg-multiplex-making-quantum-security-deployable-at-scale-in-metro-networks",
+   "summary": "IonQ announces Clavis XG Multiplex, allowing quantum and classical traffic to coexist on existing fiber networks for cost-effective, practical QKD security.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-06-24T15:38:24Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "2fdfca55abbb7aad",
    "title": "Accompagner la transition vers la cryptographie post-quantique",
    "url": "https://campuscyber.fr/5893/",
@@ -5280,6 +6138,21 @@
    "lang": "en"
   },
   {
+   "id": "04003d7dccb25788",
+   "title": "Quantum enhances the HPC stack",
+   "url": "https://www.pasqal.com/blog/quantum-enhances-the-hpc-stack/",
+   "summary": "Authors: Aleksander Wennersteen, Lucia Garbini QPUs are no longer limited to the lab and are now entering the operating environment of HPC centers and supercomputing workflows. For many years, the central question was whether quantum processors could be built, controlled, and programmed at all. The field has moved beyond that question and today is…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-06-22T12:59:00Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/06/user-centric-HPC-QC-architecture.png?w=1024&h=542&quality=80&strip=all"
+  },
+  {
    "id": "7ee0c027201d0870",
    "title": "Wait & see is not an option: Q-day is here",
    "url": "https://www.etsi.org/newsroom/news/wait-see-is-not-an-option-q-day-is-here/",
@@ -5312,6 +6185,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/ex-cia-officer-blair-joins-qusecure.jpg",
    "lang": "en"
+  },
+  {
+   "id": "c5aa25e5f5ee99d2",
+   "title": "Scottish quantum start-up Quantcore wins IOP qBIG prize",
+   "url": "https://physicsworld.com/a/scottish-quantum-start-up-quantcore-wins-iop-qbig-prize/",
+   "summary": "Firm develops superconducting processors, resonators and sensors for quantum computers The post Scottish quantum start-up Quantcore wins IOP qBIG prize appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-06-17T12:40:52Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "46f2b1ee4d6d35bb",
@@ -5361,6 +6248,22 @@
    "first_seen": "2026-10-20T12:52:48Z"
   },
   {
+   "id": "9815fb41a83779fa",
+   "title": "IonQ | IonQ and Florida LambdaRail to Launch 100-Mile Quantum-Safe Network",
+   "url": "https://ionq.com/news/ionq-and-florida-lambdarail-launch-first-statewide-quantum-safe-network-initiative-in-united-states",
+   "summary": "IonQ (NYSE: IONQ) and Florida LambdaRail announce a landmark agreement to build a quantum-secure corridor in Florida, linking research institutions via QKD technology.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-06-09T20:42:36Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/693ad1cc5bb2d028b5616a6b_OG%20Image%20(5).jpg"
+  },
+  {
    "id": "ae0209a8b69020d5",
    "title": "Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT",
    "url": "https://eprint.iacr.org/2026/1188",
@@ -5390,6 +6293,21 @@
    "first_seen": "2026-10-21T12:41:28Z"
   },
   {
+   "id": "4053f93f05d567cf",
+   "title": "Quantum influencers gather to celebrate London’s role in quantum tech",
+   "url": "https://physicsworld.com/a/quantum-influencers-gather-to-celebrate-londons-role-in-quantum-tech/",
+   "summary": "Matin Durrani reports from a meeting of the London Quantum Cluster The post Quantum influencers gather to celebrate London’s role in quantum tech appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-06-03T11:23:34Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2026/06/People-sitting-in-a-conference-room-listening-to-Janet-Coyle.jpg"
+  },
+  {
    "id": "738e943cde77a201",
    "title": "DASTE: Decentralized Ad-Hoc Access-Structured Threshold Encryption with Dynamic Policy Evolution",
    "url": "https://eprint.iacr.org/2026/1141",
@@ -5405,6 +6323,20 @@
    "first_seen": "2026-10-20T19:32:25Z"
   },
   {
+   "id": "8183316afbdd1501",
+   "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
+   "url": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
+   "summary": "A new room-temperature quantum device uses twisted light to entangle photons and electrons, overcoming one of the biggest hurdles in quantum technology. The breakthrough could pave the way for smaller, cheaper quantum systems with applications ranging from secure communications to future AI and computing platforms.",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-05-30T05:08:07Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "d7ff899cc35aed8f",
    "title": "How To Track Qubits Through Space and Time (Or: Sailing in a Quantum Boat)",
    "url": "https://eprint.iacr.org/2026/1090",
@@ -5418,6 +6350,79 @@
    "date": "2026-05-29T03:05:14Z",
    "first_seen": "2026-10-19T16:03:33Z",
    "lang": "en"
+  },
+  {
+   "id": "15214ae9a3f17860",
+   "title": "New findings shorten the road to cryptographically relevant quantum computers",
+   "url": "https://physicsworld.com/a/new-findings-shorten-the-road-to-cryptographically-relevant-quantum-computers/",
+   "summary": "Two recent papers suggest that quantum computers may crack modern cryptography sooner than expected The post New findings shorten the road to cryptographically relevant quantum computers appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-05-26T16:29:08Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2026/05/oratomic-team.jpg"
+  },
+  {
+   "id": "26a36e2580d74402",
+   "title": "IonQ | IonQ and CCRM Announce Strategic Quantum-Biotech Collaboration to Accelerate Development of Advanced Therapeutics",
+   "url": "https://ionq.com/news/ionq-and-ccrm-announce-strategic-quantum-biotech-collaboration-to-accelerate",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-05-13T17:33:39Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/693ad1cc5bb2d028b5616a6b_OG%20Image%20(5).jpg"
+  },
+  {
+   "id": "5fe7ff33ae9b29e1",
+   "title": "IonQ | IonQ Posts Q1 2026 Earnings with Record Revenue",
+   "url": "https://ionq.com/news/ionq-announces-first-quarter-2026-financial-results",
+   "summary": "The company reported Record GAAP Revenues of $64.7 Million, Representing 755% Year-On-Year Growth, Fueled by Quantum Computing Growth and Expansion of the Quantum Platform and raised full year guidance.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-05-11T16:28:54Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "813590a486ebf7cb",
+   "title": "The weirdness of quantum contextuality is not a bug – it’s a feature",
+   "url": "https://physicsworld.com/a/the-weirdness-of-quantum-contextuality-is-not-a-bug-its-a-feature/",
+   "summary": "Counterintuitive quantum property turns out to be the hidden backbone of fault-tolerant quantum computers The post The weirdness of quantum contextuality is not a bug – it’s a feature appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-30T12:00:12Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "86c6c20486c4ec1c",
+   "title": "IonQ | IonQ Unveils Definitive Blueprint for Fault-Tolerant Quantum Computing",
+   "url": "https://ionq.com/news/ionq-publishes-definitive-technical-report-establishing-its-fault-tolerant-quantum-computing-trajectory---setting-a-new-standard-for-technical-specificity-and-transparency",
+   "summary": "Meta Description: IonQ sets a new industry standard with a full-stack technical report detailing the path to 10,000+ qubits and scalable, error-corrected quantum systems.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-22T19:05:01Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "e80d082f20f0a2bd",
@@ -5449,6 +6454,122 @@
    "first_seen": "2026-10-20T12:52:48Z"
   },
   {
+   "id": "161f791bf6006b6d",
+   "title": "IonQ | IonQ Achieves First Photonic Interconnect Milestone for Networked Commercial Quantum Systems",
+   "url": "https://ionq.com/news/ionq-achieves-key-photonic-interconnect-milestone-demonstrating-networked-quantum-systems-using-entanglement",
+   "summary": "IonQ successfully links two remote quantum systems via photonic interconnects. Discover how this AFRL-backed milestone paves the way for scalable, networked quantum computing.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-14T17:07:09Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "135817c6ee6b9f32",
+   "title": "IonQ | IonQ Selected to Bid to Build Multi-Qubit Quantum Networks for DARPA HARQ",
+   "url": "https://ionq.com/news/ionq-selected-for-darpas-heterogeneous-architectures-for-quantum-harq-program",
+   "summary": "Discover how IonQ is leveraging synthetic diamond quantum memories to link trapped ions, neutral atoms, and superconducting qubits in DARPA’s new HARQ program.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-14T17:07:09Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "559684c6d77c4842",
+   "title": "Defect-Free 1024-Atom Registers: Scaling to 1000 Qubits",
+   "url": "https://www.pasqal.com/blog/defect-free-1024-atom-registers-scaling-to-1000-qubits/",
+   "summary": "Authors: Corentin Monmeyran, Adrien Signoles, Lucia Garbini Neutral atom quantum computers rely on large, defect-free arrays of atoms to run analog and digital computations. Each atom encodes a qubit. Last year, we demonstrated defect-free 506-atom registers (see our 506-atom blog post). We’ve now achieved 1024-atom, defect-free registers. This…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-13T22:20:17Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/04/4k-cryogenic-shield-Pasqal-QPU.png"
+  },
+  {
+   "id": "51521de3322610e2",
+   "title": "Gauge theory could give quantum error correction a boost",
+   "url": "https://physicsworld.com/a/gauge-theory-could-give-quantum-error-correction-a-boost/",
+   "summary": "Concept from theoretical physics could reduce qubit requirements The post Gauge theory could give quantum error correction a boost appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-13T14:17:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "de29d06be9b8da44",
+   "title": "A landmark first: Solving Differential Equations with Logical Neutral-Atom Qubits",
+   "url": "https://www.pasqal.com/blog/a-landmark-first-solving-differential-equations-with-logical-neutral-atom-qubits/",
+   "summary": "Authors: Pascal Scholl, Adrien Signoles, Lucia Garbini End-to-end application with logical qubits For the first time, the Pasqal team solved differential equations using quantum kernels at the logical qubit level. In our latest work, we’ve implemented a complete end-to-end application using logical qubits moving beyond testing sub-routines to…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-10T10:27:14Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/04/2026.04-Blog-Logiqa.png?w=570&h=352&quality=80&strip=all"
+  },
+  {
+   "id": "ab629f90ae7c21f4",
+   "title": "Celebrating Our First Annual Q-Net Connect!",
+   "url": "https://www.quantinuum.com/blog/celebrating-our-first-annual-q-net-connect",
+   "summary": "This month, Quantinuum welcomed its global user community to the first-ever Q-Net Connect, an annual forum designed to spark collaboration, share insights, and accelerate innovation across our full-stack quantum computing platforms.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-03T14:36:37Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/69c458d8340fb21546bf4ec6_Q-Net%20Connect%202026%20Video%20Thumbnail.jpg"
+  },
+  {
+   "id": "48b7c9309c5b4592",
+   "title": "Technical perspective: By the end of the decade, we will deliver universal, fully fault-tolerant quantum computing",
+   "url": "https://www.quantinuum.com/blog/technical-perspective-by-the-end-of-the-decade-we-will-deliver-universal-fault-tolerant-quantum-computing",
+   "summary": "By the end of the decade, our accelerated hardware roadmap will deliver a fully fault-tolerant and universal quantum computer capable of executing millions of operations on hundreds of logical qubits.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-03T14:36:37Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66e8b82320177a73ae758ee1_roadmap-technical-blog-media-preview.png"
+  },
+  {
+   "id": "8c6f3f058930e65b",
+   "title": "Trapped ion quantum technology gets smaller",
+   "url": "https://physicsworld.com/a/trapped-ion-quantum-technology-gets-smaller/",
+   "summary": "Portable device could find applications in quantum computing and optical clocks The post Trapped ion quantum technology gets smaller appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-04-02T08:00:13Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "cb9ed709b1af2c4c",
    "title": "Refined Approx-SVP Rank Reduction Conditions and Adaptive Lattice Reduction for MSIS Security Estimation",
    "url": "https://eprint.iacr.org/2026/607",
@@ -5463,6 +6584,34 @@
    "lang": "en"
   },
   {
+   "id": "14de6d8ae8eb54cf",
+   "title": "IonQ | IonQ & University of Cambridge Launch Quantum Innovation Centre",
+   "url": "https://ionq.com/news/ionq-and-the-university-of-cambridge-announce-landmark-agreement-to-establish-innovation-centre-for-quantum-technology-commercialization",
+   "summary": "IonQ partners with the University of Cambridge to deploy a 256-qubit quantum system and launch a new Innovation Centre to accelerate UK quantum research.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-03-25T14:38:50Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "d762e44d2569cab1",
+   "title": "IonQ | IonQ and ARLIS Partner to Secure Mission-Critical Quantum Systems",
+   "url": "https://ionq.com/news/ionq-and-arlis-partner-to-establish-zero-trust-security-framework-for-mission-critical-quantum-architectures",
+   "summary": "IonQ and ARLIS announce a collaboration to develop a Zero Trust Security Framework for quantum architectures, leveraging NIST standards for federal and commercial use",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques"
+   ],
+   "date": "2026-03-25T14:38:50Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "1e333b63325d0e91",
    "title": "Security for the Quantum Era: Implementing Post-Quantum Cryptography in Android",
    "url": "http://security.googleblog.com/2026/03/post-quantum-cryptography-in-android.html",
@@ -5473,12 +6622,41 @@
     "PQC",
     "Menace quantique",
     "QKD",
-    "Normes & politiques"
+    "Normes & politiques",
+    "Ordinateurs quantiques"
    ],
    "date": "2026-03-25T13:00:00Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb5lOnA0GCP-Le-JkSsDvVv50etaBwWjTGUzmKcqN92u9L1qVjVZTa5Ij9_Q-GSrHrfW55y_tQbPPgMbdT-VMh3FQecBdPbqiKLEV502tDWKZMz48PGMWtgFzFJFQGAZ8R0rFf-vCcSwHK73632o8eKa78uvvhrq9OGDwgmtnzdbkJjymnAtGbk_SXKeO2/s72-c/Blog%20Post%20-%20Post%20Quantum%20Chain%20of%20Trust%20-%20inline%20v03.jpg",
    "lang": "en"
+  },
+  {
+   "id": "9c74a1ec19f50d5b",
+   "title": "Quantum physicists Charles Bennett and Gilles Brassard win $1m Turing Award",
+   "url": "https://physicsworld.com/a/quantum-physicists-charles-bennett-and-gilles-brassard-win-1m-turing-award/",
+   "summary": "Duo bag award often described as the “Nobel Prize in Computing” The post Quantum physicists Charles Bennett and Gilles Brassard win $1m Turing Award appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-03-18T14:45:56Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "0b80be397bf0faa4",
+   "title": "Single metasurface could generate record numbers of trapped neutral atoms",
+   "url": "https://physicsworld.com/a/single-metasurface-could-generate-record-numbers-of-trapped-neutral-atoms/",
+   "summary": "Technique boosts prospects for building quantum computers with more than 100,000 qubits The post Single metasurface could generate record numbers of trapped neutral atoms appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-03-16T14:30:45Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "44e5966b306a1fa4",
@@ -5490,11 +6668,56 @@
    "lang": "fr",
    "themes": [
     "PQC",
-    "Menace quantique"
+    "Menace quantique",
+    "Ordinateurs quantiques"
    ],
    "date": "2026-03-11T17:17:43Z",
    "first_seen": "2026-10-20T13:01:42Z",
    "image": "https://www.riskinsight-wavestone.com/wp-content/uploads/2026/03/radar_1-1.png"
+  },
+  {
+   "id": "2a35f41bdd67f699",
+   "title": "APS Global Physics Summit 2026",
+   "url": "https://www.quantinuum.com/blog/aps-global-physics-summit-2026",
+   "summary": "Join Quantinuum at APS Global Physics Summit where we will showcase how our quantum hardware, software, and partnerships are helping define the next era of high-performance and quantum computing.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-03-11T01:58:28Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/69aefce9864a2ff6f8cdd2e4_APS-media-preview.png"
+  },
+  {
+   "id": "d98105e5c826981d",
+   "title": "Physicists identify unexpected quantum advantage in a permutation parity task",
+   "url": "https://physicsworld.com/a/physicists-identify-unexpected-quantum-advantage-in-a-permutation-parity-task/",
+   "summary": "The list of things that quantum features enable us to do just got a little longer The post Physicists identify unexpected quantum advantage in a permutation parity task appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-03-09T16:14:27Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "c94c010bfdc57033",
+   "title": "Hybrid quantum–HPC computing with trapped ions is here",
+   "url": "https://www.quantinuum.com/blog/hybrid-quantum-hpc-computing-with-trapped-ions-is-here",
+   "summary": "Quantinuum demonstrated end-to-end hybrid workflow linking the Fugaku supercomputer and the Quantinuum Reimei trapped-ion quantum computer",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-03-06T21:32:41Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/69a5bcf03399500a3e914fec_Hybrid%20quantum%E2%80%93HPC%20computing%20with%20%20trapped%20ions%C2%A0is%20here.png"
   },
   {
    "id": "83a2c6d60e467e03",
@@ -5511,6 +6734,35 @@
    "lang": "en"
   },
   {
+   "id": "07bd76049b7f29d5",
+   "title": "Skinny Logic: Quantum Codes Go on a Diet",
+   "url": "https://www.quantinuum.com/blog/skinny-logic-quantum-codes-go-on-a-diet",
+   "summary": "Quantinuum hits key milestone on its roadmap: an ultra-efficient method for creating logical qubits, extracting a whopping 48 error-corrected and 64 error-detected logical qubits out of just 98 physical qubits.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-03-04T16:56:40Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/69a8640cc81e30abed7122b6_Computing%20with%20many%20%20encoded%20logical%20qubits%20%20beyond%20break-even.png"
+  },
+  {
+   "id": "85261c3efb5bde3a",
+   "title": "Quantum memories could help make long-baseline optical astronomy a reality",
+   "url": "https://physicsworld.com/a/quantum-memories-could-help-make-long-baseline-optical-astronomy-a-reality/",
+   "summary": "Single-photon interferometry achieved over 1.5 km The post Quantum memories could help make long-baseline optical astronomy a reality appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-03-04T08:30:36Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "0acb3c1186b7ace5",
    "title": "Cultivating a robust and efficient quantum-safe HTTPS",
    "url": "http://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
@@ -5521,11 +6773,70 @@
     "PQC",
     "Menace quantique",
     "Normes & politiques",
-    "QKD"
+    "QKD",
+    "Ordinateurs quantiques"
    ],
    "date": "2026-02-27T17:01:00Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "2d7e81cf5b5496f0",
+   "title": "IonQ | IonQ Powers Romania’s Massive New Quantum Network (RoNaQCI)",
+   "url": "https://ionq.com/news/ionq-delivers-one-of-the-largest-operational-quantum-key-distribution-networks-in-europe",
+   "summary": "IonQ announces the successful deployment of Romania’s National Quantum Communication Infrastructure, one of the largest terrestrial QKD networks in Europe.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-02-26T21:18:30Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "d08d884eace8c780",
+   "title": "Quantum-secure Internet expands to citywide scale",
+   "url": "https://physicsworld.com/a/quantum-secure-internet-expands-to-citywide-scale/",
+   "summary": "Device-independent quantum-encrypted keys distributed over 100 km The post Quantum-secure Internet expands to citywide scale appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-02-25T16:25:37Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "b8d7026ce77efcca",
+   "title": "Quantum Systems Accelerator focuses on technologies for computing",
+   "url": "https://physicsworld.com/a/quantum-systems-accelerator-focuses-on-technologies-for-computing/",
+   "summary": "Bert de Jong of Lawrence Berkeley National Lab is our podcast guest The post Quantum Systems Accelerator focuses on technologies for computing appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-02-19T14:59:31Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "457899711afa89c4",
+   "title": "Welinq and Pasqal Accelerate Networked Quantum Computing with Neutral-Atom Technology",
+   "url": "https://www.pasqal.com/blog/welinq-and-pasqal-accelerate-networked-quantum-computing-with-neutral-atom-technology/",
+   "summary": "Welinq and Pasqal announce the strengthening of their strategic collaboration to accelerate the development of networked quantum computing based on interconnected neutral-atom quantum processors. Building on an established collaboration and a shared neutral-atom technology stack, the two companies are now moving into a new phase of rapid…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-02-19T14:42:41Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/02/2602_PasqalxWelinq-shared-Depth-noBranding.png?w=1024"
   },
   {
    "id": "4f7fbdf11a76d686",
@@ -5560,6 +6871,20 @@
    "image": "https://www.riskinsight-wavestone.com/wp-content/uploads/2026/02/PQC_fr3.png"
   },
   {
+   "id": "c725f73da2bc4c43",
+   "title": "Quantum scientists release ‘manifesto’ opposing the militarization of quantum research",
+   "url": "https://physicsworld.com/a/quantum-scientists-release-manifesto-opposing-the-militarization-of-quantum-research/",
+   "summary": "More than 250 quantum scientists have signed the quantum scientists for disarmament manifesto The post Quantum scientists release ‘manifesto’ opposing the militarization of quantum research appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-02-16T10:00:06Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "dee85ba4ff5dfae1",
    "title": "NIST Allocates Over $3 Million to Small Businesses Advancing AI, Biotechnology, Semiconductors, Quantum and More",
    "url": "https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology",
@@ -5575,6 +6900,20 @@
    "lang": "en"
   },
   {
+   "id": "0ae54c25c25961ba",
+   "title": "Metasurfaces create super-sized neutral atom arrays for quantum computing",
+   "url": "https://physicsworld.com/a/metasurfaces-create-super-sized-neutral-atom-arrays-for-quantum-computing/",
+   "summary": "Technique lays the groundwork for neutral-atom quantum computers with more than 100,000 qubits, say physicists The post Metasurfaces create super-sized neutral atom arrays for quantum computing appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-02-06T09:00:04Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "164f52fde1210f4b",
    "title": "Designated-Verifier Dynamic zk-SNARKs with Applications to Dynamic Proofs of Index",
    "url": "https://eprint.iacr.org/2026/144",
@@ -5587,6 +6926,531 @@
    "date": "2026-01-29T17:30:19Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "e944410454d60b0c",
+   "title": "Inside Pasqal’s 2026 Vision on Quantum for Industry and Research",
+   "url": "https://www.pasqal.com/blog/inside-pasqals-2026-vision-on-quantum-for-industry-and-research/",
+   "summary": "2025 marked Pasqal’s shift from quantum research to industrial delivery, with reliable neutral atom quantum computers running enterprise and research workloads worldwide. Pasqal’s vision for 2026 centers on accelerating scientific and industrial innovation by making quantum computing accessible at scale via cloud access, and HPC deployments. We…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-29T15:39:20Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2025/11/CEA-Julich-Inauguration-Newsroom.png?w=1024"
+  },
+  {
+   "id": "eb34767d9aa6e285",
+   "title": "Could silicon become the bedrock of quantum computers?",
+   "url": "https://physicsworld.com/a/could-silicon-become-the-bedrock-of-quantum-computers/",
+   "summary": "Australian spin-out Silicon Quantum Computing makes the case with a modality-leading 11-qubit processor The post Could silicon become the bedrock of quantum computers? appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-26T16:00:06Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "d77e940e7afe8c54",
+   "title": "Encrypted qubits can be cloned and stored in multiple locations",
+   "url": "https://physicsworld.com/a/encrypted-qubits-can-be-cloned-and-stored-in-multiple-locations/",
+   "summary": "“Elegant” result has implications for a quantum internet The post Encrypted qubits can be cloned and stored in multiple locations appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-01-24T15:09:46Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "7eabedd81ee54bc1",
+   "title": "IonQ | IonQ Achieves Critical First Step Towards Developing Future Quantum Networks",
+   "url": "https://ionq.com/news/ionq-achieves-critical-first-step-towards-developing-future-quantum-networks",
+   "summary": "IonQ’s Research & Development team achieves first known commercial demonstration of ion-photon entanglement, a key technical milestone for networking quantum computers",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-17T14:57:57Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691733fdcc86e9ebbd563603_ionq-og-2021-10-11.jpg"
+  },
+  {
+   "id": "8bf6f6cbd6e826a9",
+   "title": "IonQ | IonQ Announces Innovations in Compact, Room-Temperature Quantum Computing through Novel Extreme High Vacuum (XHV) Technology",
+   "url": "https://ionq.com/news/ionq-announces-innovations-in-compact-room-temperature-quantum-computing",
+   "summary": "XHV technology in next-generation IonQ vacuum system miniaturizes room temperature operation, advances practical quantum computing design, and reduces energy costs.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T17:46:39Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "9d9b360037c93a98",
+   "title": "IonQ | IonQ Announces Partnership with NKT Photonics for Next-Generation Laser Systems to Power Future Quantum Computers",
+   "url": "https://ionq.com/news/ionq-announces-partnership-with-nkt-photonics-for-next-generation-laser",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T17:44:35Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691733fdcc86e9ebbd563603_ionq-og-2021-10-11.jpg"
+  },
+  {
+   "id": "7c808d8f826bd5f4",
+   "title": "IonQ | IonQ Selected by DARPA for Quantum Benchmarking Initiative (QBI) to Advance Quantum Computing",
+   "url": "https://ionq.com/news/ionq-selected-by-darpa-for-quantum-benchmarking-initiative-qbi-to-advance",
+   "summary": "With demonstrated quantum capabilities and real-world applications, IonQ will help inform industry standards that will shape the future of quantum computing.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T17:43:34Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "6d07af2724eb4676",
+   "title": "Quantum state teleported between quantum dots at telecoms wavelengths",
+   "url": "https://physicsworld.com/a/quantum-state-teleported-between-quantum-dots-at-telecoms-wavelengths/",
+   "summary": "Frequency-converted photons are key to proof-of-principle experiment The post Quantum state teleported between quantum dots at telecoms wavelengths appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-01-14T16:00:47Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "e881fa89b3e018df",
+   "title": "IonQ | IonQ Announces Agreement to Acquire Oxford Ionics, Accelerating Path to Pioneering Breakthroughs in Quantum Computing",
+   "url": "https://ionq.com/news/ionq-announces-agreement-to-acquire-oxford-ionics-accelerating-path-to-pioneering",
+   "summary": "Deal builds on the strategic cooperation between the United States and United Kingdom to unlock next-generation technologies, and enhances Oxford Ionics’ position as a global hub for quantum computing R&D",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T15:37:39Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "de6a0578881e12e5",
+   "title": "IonQ | IonQ Aria Now Available on Amazon Braket",
+   "url": "https://ionq.com/news/ionq-aria-now-available-on-amazon-braket",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T15:37:39Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691733fdcc86e9ebbd563603_ionq-og-2021-10-11.jpg"
+  },
+  {
+   "id": "cf771db1d3ef34b0",
+   "title": "Quantum metrology at NPL: we explore the challenges and opportunities",
+   "url": "https://physicsworld.com/a/quantum-metrology-at-npl-we-explore-the-challenges-and-opportunities/",
+   "summary": "This podcast features Tim Prior and John Devaney of the National Physical Laboratory The post Quantum metrology at NPL: we explore the challenges and opportunities appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-01-14T14:02:04Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "5d9212232ffe2847",
+   "title": "IonQ | IonQ Announces $22M Deal with EPB Establishing Chattanooga, Tennessee as the first Quantum Computing & Networking Hub in the U.S.",
+   "url": "https://ionq.com/news/ionq-announces-usd22m-deal-with-epb-establishing-chattanooga-tennessee-as",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T02:19:12Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "2bf4d329b4d8b159",
+   "title": "IonQ | IonQ Aria, Newest Quantum Computer, Coming to Microsoft’s Azure Quantum Platform",
+   "url": "https://ionq.com/news/march-21-2022-ionq-aria-coming-to-microsoft-azure-quantum",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T02:16:44Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/69173f7ee0b83312e5a0bf8d_2022-03-21-aria.jpeg"
+  },
+  {
+   "id": "bc5805e430fcf07e",
+   "title": "IonQ | IonQ Announces Intention to Acquire Lightsynq, Expediting Quantum Computing, Quantum Internet, and Offering Clear Path to Millions of Qubits",
+   "url": "https://ionq.com/news/ionq-announces-intention-to-acquire-lightsynq-expediting-quantum-computing",
+   "summary": "Lightsynq technologies to accelerate company’s quantum computing and quantum networking roadmaps with photonic interconnect scaling and long-distance repeaters",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "QKD"
+   ],
+   "date": "2026-01-14T02:04:57Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "8ab63f79502f10f6",
+   "title": "IonQ | IonQ Completes Acquisition of Oxford Ionics, Rapidly Accelerating Its Quantum Computing Roadmap",
+   "url": "https://ionq.com/news/ionq-completes-acquisition-of-oxford-ionics-rapidly-accelerating-its-quantum",
+   "summary": "Oxford Ionics acquisition strengthens IonQ’s leadership in quantum computing with expanded UK presence and proprietary technology stack",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T01:55:15Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "0a57f0fd0ef758e3",
+   "title": "IonQ | IonQ Appoints Marco Pistoia as Senior Vice President of Industry Relations to Drive Strategic Partnerships, Collaborations, and Quantum Advocacy",
+   "url": "https://ionq.com/news/ionq-appoints-marco-pistoia-as-senior-vice-president-of-industry-relations",
+   "summary": "Renowned IBM inventor and leader behind JPMorgan’s industry-leading quantum applications brings deep expertise in finance, cryptography, and AI to IonQ",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-01-14T01:55:15Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "687c7efdd5b2663e",
+   "title": "IonQ | IonQ Announces Third Quarter 2024 Financial Results",
+   "url": "https://ionq.com/news/ionq-announces-third-quarter-2024-financial-results",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T01:55:15Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691733fdcc86e9ebbd563603_ionq-og-2021-10-11.jpg"
+  },
+  {
+   "id": "c8c40bcd9a16037f",
+   "title": "IonQ | IonQ Unveils Accelerated Roadmap and New Technical Milestones to Propel Commercial Quantum Advantage Forward",
+   "url": "https://ionq.com/news/ionq-unveils-accelerated-roadmap-and-new-technical-milestones-to-propel",
+   "summary": "Performance, scale, and enterprise-grade pillars further define IonQ’s unmatched and integrated approach to achieving commercial quantum advantage",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T01:55:15Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/6925d4ab73914d2bf9f9685a_VENN_STATIC_WHITE_BACKGROUND.png"
+  },
+  {
+   "id": "1e2d148485cbc182",
+   "title": "IonQ | IonQ Announces Fourth Quarter and Full Year 2022 Financial Results and Provides Business Update",
+   "url": "https://ionq.com/news/ionq-announces-fourth-quarter-and-full-year-2022-financial-results-and",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T01:55:15Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691733fdcc86e9ebbd563603_ionq-og-2021-10-11.jpg"
+  },
+  {
+   "id": "a027af5f46b297ae",
+   "title": "IonQ | Networked Quantum Computers: IonQ Acquires Assets of Entangled Networks",
+   "url": "https://ionq.com/news/networked-quantum-computers-ionq-acquires-assets-of-entangled-networks",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T01:55:15Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "2bc54f1a3597a9ec",
+   "title": "IonQ | IonQ to Keynote IEEE Quantum Week",
+   "url": "https://ionq.com/news/october-14-2021-ionq-to-keynote-ieee-quantum-week",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T01:55:15Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/68cde982862a870abbe695e2_68cad7b6c76256ecc7340729_IONQ%2520OG%2520Image.jpeg"
+  },
+  {
+   "id": "de32a69842b0e311",
+   "title": "IonQ | IonQ and University of Maryland Researchers Demonstrate Fault-Tolerant Error Correction, Critical for Unlocking the Full Potential of Quantum Computers",
+   "url": "https://ionq.com/news/october-11-2021-ionq-and-umd-demonstrate-error-correction",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T00:53:51Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/68cde982862a870abbe695e2_68cad7b6c76256ecc7340729_IONQ%2520OG%2520Image.jpeg"
+  },
+  {
+   "id": "343b50bac220e130",
+   "title": "IonQ | IonQ Announces Full Year 2021 Financial Results and Provides Business Update",
+   "url": "https://ionq.com/news/march-28-2022-ionq-announces-full-year-2021-financial-results",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T00:52:29Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691733fdcc86e9ebbd563603_ionq-og-2021-10-11.jpg"
+  },
+  {
+   "id": "c1da06097efd5b5b",
+   "title": "IonQ | IonQ Named As One Of TIME’s 100 Most Influential Companies",
+   "url": "https://ionq.com/news/march-30-2022-ionq-named-as-time-100-influential-companies",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T00:51:27Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/6917410ab93398c2773aa5f6_2021-03-30-ionq-time-100.jpeg"
+  },
+  {
+   "id": "aba1c2f4a549f257",
+   "title": "IonQ | IonQ Announces Key Involvement at Seattle’s Northwest Quantum Nexus Summit 2023, Shares Vision for New Seattle-Area Campus",
+   "url": "https://ionq.com/news/ionq-announces-key-involvement-at-seattles-northwest-quantum-nexus-summit",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T00:50:37Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691af65c1a90aadb9bd9ccf4_Seattle_Office_with_watermark-min.jpg"
+  },
+  {
+   "id": "288602a5454e574d",
+   "title": "IonQ | IonQ Announces New Barium Qubit Technology, Laying Foundation for Advanced Quantum Computing Architectures",
+   "url": "https://ionq.com/news/december-08-2021-ionq-announces-new-barium-qubit-technology",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-14T00:43:40Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/68cde982862a870abbe695e2_68cad7b6c76256ecc7340729_IONQ%2520OG%2520Image.jpeg"
+  },
+  {
+   "id": "068dd7ba44194958",
+   "title": "Quantum information theory sheds light on quantum gravity",
+   "url": "https://physicsworld.com/a/quantum-information-theory-sheds-light-on-quantum-gravity/",
+   "summary": "Our podcast guest is Alex May of the Perimeter Institute for Theoretical Physics The post Quantum information theory sheds light on quantum gravity appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-01-08T14:34:50Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "9f3389e3b2a92808",
+   "title": "IonQ | Scott Millard Named IonQ’s New Chief Business Officer",
+   "url": "https://ionq.com/news/scott-millard-named-ionqs-new-chief-business-officer",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-06T17:22:40Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "91eb3aff39dda5ae",
+   "title": "IonQ | IonQ and Oak Ridge National Laboratory Unveil Novel Approach to Scalable Quantum Computing",
+   "url": "https://ionq.com/news/ionq-and-oak-ridge-national-laboratory-unveil-novel-approach-to-scalable",
+   "summary": "Innovative, noise-tolerant quantum algorithm reduces the number of two-qubit gates needed by over 85 percent, speeding up solutions for complex optimization problems.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-01-06T17:22:27Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "1857cfe469b4a68b",
+   "title": "Quantum photonics network passes a scaling-up milestone",
+   "url": "https://physicsworld.com/a/quantum-photonics-network-passes-a-scaling-up-milestone/",
+   "summary": "Fibre-based circuit functions as a programmable router for entangled light The post Quantum photonics network passes a scaling-up milestone appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-01-06T09:00:15Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "4e70cfe3d1aa51b5",
+   "title": "IonQ | IonQ and KISTI Finalize 100-Qubit Quantum System Deal in South Korea",
+   "url": "https://ionq.com/news/ionq-and-kisti-finalize-agreement-to-deliver-100-qubit-quantum-system-in-south-korea",
+   "summary": "IonQ and Korea Institute of Science and Technology Information finalize an agreement to deploy a 100-qubit Tempo quantum system, anchoring South Korea’s National Quantum Computing Center of Excellence.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-12-29T17:21:08Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/693ad1cc5bb2d028b5616a6b_OG%20Image%20(5).jpg"
+  },
+  {
+   "id": "c4b8aeb36866ad27",
+   "title": "Quantum science and technology: highlights of 2025",
+   "url": "https://physicsworld.com/a/quantum-science-and-technology-highlights-of-2025/",
+   "summary": "As the International Year of Quantum Science and Technology draws to a close, Margaret Harris revisits some of the year’s best work in this ever-popular field The post Quantum science and technology: highlights of 2025 appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-12-28T14:00:13Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/02/Low-Res_Left-to-right-Benjamin-Wilhelm_Xi-Yu_Prof-Andrea-Morello_Dr-Danielle-Holmes.jpg"
+  },
+  {
+   "id": "b8b1b4b9e95cfc96",
+   "title": "IonQ | IonQ CEO on Timeline to Quantum Value",
+   "url": "https://ionq.com/news/ionq-ceo-on-timeline-to-quantum-value",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-12-24T01:01:21Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "6d9d74b8a6e883e7",
+   "title": "IonQ | Einride and IonQ Use Quantum Computing to Optimize Electric Freight Logistics",
+   "url": "https://ionq.com/news/einride-and-ionq-partnership-uses-quantum-computing-to-optimize-the-logistics-of-electric-and-autonomous-freight",
+   "summary": "Einride and IonQ announce initial results from a quantum computing partnership to optimize electric and autonomous freight logistics using real-world commercial transport data.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-12-23T17:02:56Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/693ad1cc5bb2d028b5616a6b_OG%20Image%20(5).jpg"
+  },
+  {
+   "id": "7903dd26518c83c4",
+   "title": "IonQ | IonQ Demonstrates World-First Quantum Cognition Models",
+   "url": "https://ionq.com/news/ionq-demonstrates-world-first-quantum-cognition-models",
+   "summary": "Working to build the world's best quantum computers to solve the world's most complex problems",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-12-18T18:05:00Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/691733fdcc86e9ebbd563603_ionq-og-2021-10-11.jpg"
+  },
+  {
+   "id": "6d02e54212d4fa98",
+   "title": "Quantum cluster targets business growth",
+   "url": "https://physicsworld.com/a/quantum-cluster-targets-business-growth/",
+   "summary": "The Harwell Quantum Cluster is building on the success of the National Quantum Computing Centre to catalyse innovation and enable UK-based companies to thrive in a global marketplace The post Quantum cluster targets business growth appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-12-18T12:52:22Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/12/2025-12-nqcc-na-image01.jpg"
   },
   {
    "id": "ba1ef4173f4a0d00",
@@ -5604,6 +7468,20 @@
    "lang": "en"
   },
   {
+   "id": "95784049d8e9fdfe",
+   "title": "Qubit ‘recycling’ gives neutral-atom quantum computing a boost",
+   "url": "https://physicsworld.com/a/qubit-recycling-gives-neutral-atom-quantum-computing-a-boost/",
+   "summary": "Reducing atom loss and re-using already-measured atoms enables more complex quantum computations The post Qubit ‘recycling’ gives neutral-atom quantum computing a boost appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-12-18T09:00:25Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
    "id": "7460141bd357e91c",
    "title": "Position paper on quantum key distribution",
    "url": "https://cyber.gouv.fr/nous-connaitre/publications/publications-internationales/position-paper-on-quantum-key-distribution/",
@@ -5616,6 +7494,35 @@
    ],
    "date": "2025-12-11T00:00:00Z",
    "first_seen": "2026-10-20T12:52:48Z"
+  },
+  {
+   "id": "94d1cbaa3492e281",
+   "title": "Oak Ridge Quantum Science Center prioritizes joined-up thinking, multidisciplinary impacts",
+   "url": "https://physicsworld.com/a/oak-ridge-quantum-science-center-prioritizes-joined-up-thinking-multidisciplinary-impacts/",
+   "summary": "QSC to accelerate convergence of quantum computing and exascale high-performance computing The post Oak Ridge Quantum Science Center prioritizes joined-up thinking, multidisciplinary impacts appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-12-08T14:00:07Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/12/ornl-qsc-travis-frontier-web.jpg"
+  },
+  {
+   "id": "523df760456b8944",
+   "title": "Quantum-scale thermodynamics offers a tighter definition of entropy",
+   "url": "https://physicsworld.com/a/quantum-scale-thermodynamics-offers-a-tighter-definition-of-entropy/",
+   "summary": "New formulation sheds light on the three-level maser The post Quantum-scale thermodynamics offers a tighter definition of entropy appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-12-03T16:18:34Z",
+   "first_seen": "2026-10-26T08:46:11Z"
   },
   {
    "id": "0b7be31addb34467",
@@ -5680,6 +7587,123 @@
    "first_seen": "2026-10-20T12:52:48Z"
   },
   {
+   "id": "9a731ddec4f67dee",
+   "title": "Quantum gravity: we explore spin foams and other potential solutions to this enduring challenge",
+   "url": "https://physicsworld.com/a/quantum-gravity-we-explore-spin-foams-and-other-potential-solutions/",
+   "summary": "Bianca Dittrich of the Perimeter Institute is our podcast guest The post Quantum gravity: we explore spin foams and other potential solutions to this enduring challenge appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-11-27T15:00:43Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "2eb245b00629da8d",
+   "title": "Ramy Shelbaya: the physicist and CEO capitalizing on quantum randomness",
+   "url": "https://physicsworld.com/a/ramy-shelbaya-the-physicist-and-ceo-capitalizing-on-quantum-randomness/",
+   "summary": "Ramy Shelbaya from Quantum Dice talks about using quantum mechanics to generate random numbers The post Ramy Shelbaya: the physicist and CEO capitalizing on quantum randomness appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2025-11-25T13:59:34Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/11/2025-11-careers-demming-shelbaya-635x635.jpg"
+  },
+  {
+   "id": "907112ee94ded958",
+   "title": "Quantum 2.0: Paul Davies on the next revolution in physics",
+   "url": "https://physicsworld.com/a/quantum-2-0-paul-davies-on-the-next-revolution-in-physics/",
+   "summary": "Peering into a near future where quantum science blends with AI. What are the implications for science, society and the arts? The post Quantum 2.0: Paul Davies on the next revolution in physics appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-11-19T13:00:07Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "6d5eeecc92c25b15",
+   "title": "Introducing Helios: The Most Accurate Quantum Computer in the World",
+   "url": "https://www.quantinuum.com/blog/introducing-helios-the-most-accurate-quantum-computer-in-the-world",
+   "summary": "Introducing Quantinuum Helios: The Most Accurate Quantum Computer in the World",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-11-13T21:01:33Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/690b7e9735632d985a336a96_helios-blog-media-preview.png"
+  },
+  {
+   "id": "8375cc050b9790d7",
+   "title": "Playing games by the quantum rulebook expends less energy",
+   "url": "https://physicsworld.com/a/playing-games-by-the-quantum-rulebook-expends-less-energy/",
+   "summary": "New form of quantum advantage emerges from study of game theory and quantum information The post Playing games by the quantum rulebook expends less energy appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-11-12T09:00:15Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "5498633c8964a12f",
+   "title": "Quantum Computing and the New Era of Materials Discovery",
+   "url": "https://www.pasqal.com/blog/quantum-computing-and-the-new-era-of-materials-discovery/",
+   "summary": "Authors: Constantin Dalyac, Alexandre Dauphin Human progress has always hinged on the stuff we make things from. Bronze forged empires, steel built the modern world, and silicon wired us into the digital age. As our technology has evolved, so has our precision: we’ve gone from casting metal to sculpting matter, shrinking down until we can now...…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-11-12T07:53:00Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "b3f218d81cdc8662",
+   "title": "Helios Delivers Quantum Advantage with Real-World Impact",
+   "url": "https://www.quantinuum.com/blog/helios-delivers-quantum-advantage-with-real-world-impact",
+   "summary": "A breakthrough in room-temperature superconductivity simulation opens doors to transformative technologies",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-11-10T18:29:19Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/690b7d365dab719be3dcf6b3_superconductivity-blog-media-preview.png"
+  },
+  {
+   "id": "3b91415ed754f16b",
+   "title": "Delft Circuits, Bluefors: the engine-room driving joined-up quantum innovation",
+   "url": "https://physicsworld.com/a/delft-circuits-bluefors-the-engine-room-driving-joined-up-quantum-innovation/",
+   "summary": "Technology partners will focus on scalable cryogenic I/O cabling assemblies for next-generation quantum computing systems The post Delft Circuits, Bluefors: the engine-room driving joined-up quantum innovation appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-11-10T09:48:06Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/11/2025-11-delft-na-cables.jpg"
+  },
+  {
    "id": "8f145b5154b229cd",
    "title": "Securing tomorrow today transitioning to post-quantum cryptography",
    "url": "https://cyber.gouv.fr/nous-connaitre/publications/publications-internationales/securing-tomorrow-today-transitioning-to-post-quantum-cryptography/",
@@ -5726,6 +7750,769 @@
    ],
    "date": "2025-11-04T00:00:00Z",
    "first_seen": "2026-10-20T12:52:48Z"
+  },
+  {
+   "id": "b59b1fac9b50bd69",
+   "title": "Quantum computing: hype or hope?",
+   "url": "https://physicsworld.com/a/quantum-computing-hype-or-hope/",
+   "summary": "Honor Powrie explores the current status and future potential of quantum computers The post Quantum computing: hype or hope? appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-11-03T14:00:39Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "2f95df1940c41c9a",
+   "title": "Modular cryogenics platform adapts to new era of practical quantum computing",
+   "url": "https://physicsworld.com/a/modular-cryogenics-platform-adapts-to-new-era-of-practical-quantum-computing/",
+   "summary": "With a cube-based design that fits into a standard rack mount, the ICE-Q platform delivers the reliability and scalability needed to exploit quantum systems in real-world operating environments The post Modular cryogenics platform adapts to new era of practical quantum computing appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-11-03T09:45:57Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/10/2025-10-iceoxford-creo-main-image.jpg"
+  },
+  {
+   "id": "66d9764254afe64c",
+   "title": "Quantum computing on the verge: correcting errors, developing algorithms and building up the user base",
+   "url": "https://physicsworld.com/a/quantum-computing-on-the-verge-correcting-errors-developing-algorithms-and-building-up-the-user-base/",
+   "summary": "Philip Ball dives into the challenges in developing quantum computing, and building up investments and users for the tech The post Quantum computing on the verge: correcting errors, developing algorithms and building up the user base appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-31T14:20:20Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/10/2025-11-ball-quantum-part2-fig-1.jpg"
+  },
+  {
+   "id": "5f11e32efe058174",
+   "title": "Mapping the Hunt for Quantum Advantage",
+   "url": "https://www.quantinuum.com/blog/mapping-the-hunt-for-quantum-advantage",
+   "summary": "Researchers at Quantinuum have taken a fresh step toward drawing this map. In a new theoretical framework, we introduce the concept of “queasy instances” (quantum easy) – problem instances that are comparatively easy for quantum computers but appear difficult for classical ones.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-30T20:48:49Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68fa419d4d1024787c0ae9a4_queasy-media-preview.png"
+  },
+  {
+   "id": "9080f4246b9f44f6",
+   "title": "Untangling the Mysteries of Knots with Quantum Computers",
+   "url": "https://www.quantinuum.com/blog/untangling-the-mysteries-of-knots-with-quantum-computers",
+   "summary": "What Quantum Advantage actually looks like",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-30T20:48:49Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e2b0aebf67da8cc6478180_knots-media-preview.png"
+  },
+  {
+   "id": "d52e2d0b11471769",
+   "title": "Quantum steampunk: we explore the art and science",
+   "url": "https://physicsworld.com/a/quantum-steampunk-we-explore-the-art-and-science/",
+   "summary": "Our podcast guests are a physicist and a sculptor The post Quantum steampunk: we explore the art and science appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-10-30T11:42:15Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "a7720e8e42ef4a43",
+   "title": "Quantum fluids mix like oil and water",
+   "url": "https://physicsworld.com/a/quantum-fluids-mix-like-oil-and-water/",
+   "summary": "Rayleigh–Taylor instability responsible for mushroom clouds appears in a two-component BEC The post Quantum fluids mix like oil and water appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-10-30T09:00:02Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/10/rayleigh-taylor-instability-in-a-bec-web.jpg"
+  },
+  {
+   "id": "59ad766f21daa62c",
+   "title": "Entangled light leads to quantum advantage",
+   "url": "https://physicsworld.com/a/entangled-light-leads-to-quantum-advantage/",
+   "summary": "Number of measurements required to learn about the behaviour of a complex, noisy quantum system reduced by a factor of 10 11 The post Entangled light leads to quantum advantage appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-28T08:00:10Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/10/eedl-jsne.jpg"
+  },
+  {
+   "id": "c4b37a748b8fb5c3",
+   "title": "Performance metrics and benchmarks point the way to practical quantum advantage",
+   "url": "https://physicsworld.com/a/performance-metrics-and-benchmarks-point-the-way-to-practical-quantum-advantage/",
+   "summary": "NPL is coordinating a broad-scope UK research initiative on performance metrics and benchmarking for quantum computers The post Performance metrics and benchmarks point the way to practical quantum advantage appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-23T15:35:17Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/10/2025-10-npl-ef-main.jpg"
+  },
+  {
+   "id": "65c78c2ff6b58e95",
+   "title": "Quantum computing and AI join forces for particle physics",
+   "url": "https://physicsworld.com/a/quantum-computing-and-ai-join-forces-for-particle-physics/",
+   "summary": "We explore how new computing technologies could guide future LHC experiments The post Quantum computing and AI join forces for particle physics appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-23T13:57:59Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "466795f7ce63361b",
+   "title": "Quantum computing on the verge: a look at the quantum marketplace of today",
+   "url": "https://physicsworld.com/a/quantum-computing-on-the-verge-a-look-at-the-quantum-marketplace-of-today/",
+   "summary": "Philip Ball dives into the latest developments in the quantum-computing industry The post Quantum computing on the verge: a look at the quantum marketplace of today appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-14T15:40:42Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/10/2025-10-ball-quantum-qureca-map-a.jpg"
+  },
+  {
+   "id": "d8f7b2dc07b2c2f0",
+   "title": "Quantum World Congress 2025",
+   "url": "https://www.quantinuum.com/blog/quantum-world-congress-2025",
+   "summary": "Quantinuum is forging the path to universal, fully fault-tolerant quantum computing with our integrated full-stack. Join our quantum experts at Quantum World Congress to discuss the latest on Quantinuum Systems, the world’s highest-performing, commercially available quantum computers, our new software stack featuring the key additions of Guppy and…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-10T17:12:57Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68c8cce682004723ddf9cd7a_QWC-2025-media-preview%201.png"
+  },
+  {
+   "id": "3cf6fb54bcd78067",
+   "title": "From quantum curiosity to quantum computers: the 2025 Nobel Prize for Physics",
+   "url": "https://physicsworld.com/a/from-quantum-curiosity-to-quantum-computers-the-2025-nobel-prize-for-physics/",
+   "summary": "Quantum physicist and entrepreneur Ilana Wisby on the legacy of this year’s laureates The post From quantum curiosity to quantum computers: the 2025 Nobel Prize for Physics appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-09T13:50:09Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "2d20043828196173",
+   "title": "Advances in quantum error correction showcased at Q2B25",
+   "url": "https://physicsworld.com/a/advances-in-quantum-error-correction-showcased-at-q2b25/",
+   "summary": "Isabelle Dumé reports from the Q2B quantum conference in Paris, France The post Advances in quantum error correction showcased at Q2B25 appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-07T15:00:17Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/10/prototype-nvidia-123x317.jpg"
+  },
+  {
+   "id": "5e1b21ff6695bac2",
+   "title": "Bayes’ rule goes quantum",
+   "url": "https://physicsworld.com/a/bayes-rule-goes-quantum/",
+   "summary": "New work could help improve quantum machine learning and quantum error correction The post Bayes’ rule goes quantum appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-10-03T13:00:06Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "2fc73e75c942b6c4",
+   "title": "Delft Circuits: cryogenic RF cable innovations offer a flexible path to quantum scalability",
+   "url": "https://physicsworld.com/a/delft-circuits-cryogenic-rf-cable-innovations-offer-a-flexible-path-to-quantum-scalability/",
+   "summary": "The Dutch manufacturer Delft Circuits is rewriting the rules of I/O cabling technology for full-stack quantum computing systems The post Delft Circuits: cryogenic RF cable innovations offer a flexible path to quantum scalability appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-09-22T08:55:45Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/09/hdsmp-32ch-module-black-scaled.jpg"
+  },
+  {
+   "id": "04d0f311201d0224",
+   "title": "Quantum gas keeps its cool",
+   "url": "https://physicsworld.com/a/quantum-gas-keeps-its-cool/",
+   "summary": "New measurements on Bose–Einstein condensate could help us better understand how objects transition from being quantum and ordered to classical and chaotic The post Quantum gas keeps its cool appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-19T08:30:57Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "ad416d2c8aa54cf7",
+   "title": "How the STFC Hartree Centre is helping UK industry de-risk quantum computing investment",
+   "url": "https://physicsworld.com/a/how-the-stfc-hartree-centre-is-helping-uk-industry-de-risk-quantum-computing-investment/",
+   "summary": "Stefano Mensa of the STFC Hartree Centre on how industry can use quantum computing to unlock opportunities for growth The post How the STFC Hartree Centre is helping UK industry de-risk quantum computing investment appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-09-18T09:00:06Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/09/2025-09-hartree-centre-building.jpg"
+  },
+  {
+   "id": "4c671c8649e58bab",
+   "title": "Quantum fluid instability produces eccentric skyrmions",
+   "url": "https://physicsworld.com/a/quantum-fluid-instability-produces-eccentric-skyrmions/",
+   "summary": "New finding advances our understanding of complex topological quantum systems and could help in the development of next-generation memory and storage devices The post Quantum fluid instability produces eccentric skyrmions appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-16T09:00:37Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "58ae299e2f58643a",
+   "title": "Guppy: Programming the Next Generation of Quantum Computers",
+   "url": "https://www.quantinuum.com/blog/guppy-programming-the-next-generation-of-quantum-computers",
+   "summary": "Today, the Quantinuum software team is excited to announce Guppy, a new quantum programming language for the next generation of quantum computing—designed to work with upcoming hardware like Helios, our most powerful system yet.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-09-15T20:42:34Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68a72b367c6404280f6b4d90_software-stack-technical-media-preview-rev.png"
+  },
+  {
+   "id": "90f7bf52db047d26",
+   "title": "Quantum sensors reveal ‘smoking gun’ of superconductivity in pressurized bilayer nickelates",
+   "url": "https://physicsworld.com/a/quantum-sensors-reveal-smoking-gun-of-superconductivity-in-pressurized-bilayer-nickelates/",
+   "summary": "Observation of the Meissner effect could spur the development of highly sensitive quantum detectors that operate under high-pressure conditions The post Quantum sensors reveal ‘smoking gun’ of superconductivity in pressurized bilayer nickelates appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-04T08:00:20Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "0d87e1a403d5d56d",
+   "title": "Quantum foundations: towards a coherent view of physical reality",
+   "url": "https://physicsworld.com/a/quantum-foundations-towards-a-coherent-view-of-physical-reality/",
+   "summary": "Ana María Cetto and Luis de la Peña explain why quantum science must stay focused on foundations The post Quantum foundations: towards a coherent view of physical reality appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-03T10:00:01Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "ec30c5bf802a04c2",
+   "title": "Quantum Computing Joins the Next Frontier in Genomics",
+   "url": "https://www.quantinuum.com/blog/quantum-computing-joins-the-next-frontier-in-genomics",
+   "summary": "The Sanger Institute, a world-leading research institute, has selected Quantinuum’s quantum computer to explore new solutions in complex genomics",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-09-03T00:55:24Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68af7626b7b54654a3c0c157_sanger-institute-media-preview-3.png"
+  },
+  {
+   "id": "055558da482a6648",
+   "title": "From Wafer to Wavefunction: The Quantum Transformation",
+   "url": "https://www.quantinuum.com/blog/from-wafer-to-wavefunction-the-quantum-transformation",
+   "summary": "Quantinuum has partnered with Infineon to make our next generation of quantum chips, leveraging the best of semiconductor tech to power the quantum computing revolutionize",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-09-03T00:55:24Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68a340acc9a1b39a5ecfa61f_infineon-media-preview%201%201%20(1).png"
+  },
+  {
+   "id": "cf2bee49e4bb943a",
+   "title": "Progress in Logical Teleportation",
+   "url": "https://www.quantinuum.com/blog/teleporting-to-new-heights",
+   "summary": "Quantinuum recently achieved a record logical teleportation fidelity of 99.82% – up from 97.5% in last year’s result. What’s more, our logical qubit teleportation fidelity now exceeds our physical qubit teleportation fidelity, passing the break-even point that establishes our H2 system as the gold standard for complex quantum operations.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-09-03T00:55:24Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6835e2f5e0362ae36c2ef682_logical-teleportation-media-preview%20(1).png"
+  },
+  {
+   "id": "5e71a02aa0e5907d",
+   "title": "Quantinuum Dominates the Quantum Landscape: New World-Record in Quantum Volume",
+   "url": "https://www.quantinuum.com/blog/quantum-volume-milestone",
+   "summary": "Quantinuum's System Model H2 has reached a Quantum Volume of 223 = 8,388,608, proving that our quantum computers are leading the world forward.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-09-03T00:55:24Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68220c297d652edf77e0ebe7_quantum-volume-media-preview_v2.png"
+  },
+  {
+   "id": "c82d20dd604a4ee9",
+   "title": "Strengthening the Foundations of Post-Quantum Cryptography",
+   "url": "https://www.quantinuum.com/blog/strengthening-the-foundations-of-post-quantum-cryptography",
+   "summary": "As organizations assess the impact of quantum computing on cryptography, many focus on algorithm migration and timelines. But preparing for PQC requires a broader view—one that includes not just new algorithms, but also the quality of the inputs that support them, including randomness.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2025-08-18T14:31:12Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/689d0f18c492b781a1f71f1b_Qsafe-media-preview_r01%20(1).png"
+  },
+  {
+   "id": "ce5acc64e6b82441",
+   "title": "Predicted quasiparticles called ‘neglectons’ hold promise for robust, universal quantum computing",
+   "url": "https://physicsworld.com/a/predicted-quasiparticles-called-neglectons-hold-promise-for-robust-universal-quantum-computing/",
+   "summary": "Discovery could lift theoretical constraints on calculations achievable with certain types of topological quantum computers The post Predicted quasiparticles called ‘neglectons’ hold promise for robust, universal quantum computing appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-08-14T14:00:30Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/08/implementing-quantum-gates-by-braiding-anyons-crop-web.png"
+  },
+  {
+   "id": "9f8a914338ec6660",
+   "title": "Festival opens up the quantum realm",
+   "url": "https://physicsworld.com/a/festival-opens-up-the-quantum-realm/",
+   "summary": "A series of events called the Quantum Fringe has enabled everyone from school students and the interested public to researchers and industry experts to gain new insights into quantum computing The post Festival opens up the quantum realm appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-08-13T08:07:57Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2025/08/quantumhackathon-nqcc-1200a.jpg"
+  },
+  {
+   "id": "dbdc083d47d0cf60",
+   "title": "Quantum thermochemical engine could achieve high power with near-maximum efficiency",
+   "url": "https://physicsworld.com/a/quantum-thermochemical-engine-could-achieve-high-power-with-near-maximum-efficiency/",
+   "summary": "Otto engine design uses Bose gas as a working fluid and exchanges particles as well as heat with reservoirs The post Quantum thermochemical engine could achieve high power with near-maximum efficiency appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-08-05T11:00:11Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "46e1ff0b01800815",
+   "title": "Setting the Benchmark: Independent Study Ranks Quantinuum #1 in Performance",
+   "url": "https://www.quantinuum.com/blog/setting-the-benchmark-independent-study-ranks-quantinuum-1-in-performance",
+   "summary": "Independent Study Ranks Quantinuum's Trapped Ion Quantum Computers #1 in Performance",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-08-04T18:23:14Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67d36ccdb2a98920c4bed75b_benchmarking-media-preview.png"
+  },
+  {
+   "id": "ab683f6cb19842d6",
+   "title": "Announcing the Launch of Quantinuum Nexus: Our All-in-One Quantum Computing Platform",
+   "url": "https://www.quantinuum.com/blog/announcing-the-launch-of-quantinuum-nexus-our-all-in-one-quantum-computing-platform",
+   "summary": "Designed to provide an exceptional experience for managing, storing, and executing quantum workflows, Nexus offers unparalleled integration with Quantinuum’s software and hardware.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-07-23T20:46:52Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/673c8d3f6be6e8e2e19bd17a_nexus-media-preview_v2.png"
+  },
+  {
+   "id": "3a4bc259dde5fa38",
+   "title": "Making fault-tolerance a reality: Introducing our QEC decoder toolkit",
+   "url": "https://www.quantinuum.com/blog/making-fault-tolerance-a-reality-introducing-our-qec-decoder-toolkit",
+   "summary": "We are dedicated to realizing universal fault-tolerant quantum computing by the end of this decade. A key component of this mission is equipping our customers with essential QEC workflows, making advanced quantum computing more accessible than ever before.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-07-23T20:46:52Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67360466b028e703978fa865_QEC-media-preview.png"
+  },
+  {
+   "id": "428c1e6cc6f8e2df",
+   "title": "Cracking the code of superconductors: quantum computers just got closer to the dream",
+   "url": "https://www.quantinuum.com/blog/cracking-the-code-of-superconductors-quantum-computers-just-got-closer-to-the-dream",
+   "summary": "In a new paper in Nature Physics, we've made a major breakthrough in one of quantum computing’s most elusive promises: simulating the physics of superconductors. A deeper understanding of superconductivity would have an enormous impact: greater insight could pave the way to real-world advances, like phone batteries that last for months, “lossless”…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-07-03T12:36:52Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68654fcea80ce5ba51c8e581_compact-encoding-media-preview_r01.png"
+  },
+  {
+   "id": "64596b017124654f",
+   "title": "Quantinuum with partners Princeton and NIST deliver seminal result in quantum error correction",
+   "url": "https://www.quantinuum.com/blog/quantinuum-with-partners-princeton-and-nist-deliver-seminal-result-in-quantum-error-correction",
+   "summary": "In an experiment led by Princeton and NIST, we’ve just delivered a crucial result in Quantum Error Correction (QEC), demonstrating key principles of scalable quantum computing developed by Peter Shor, Dorit Aharonov, and Michael Ben-Or.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "Normes & politiques"
+   ],
+   "date": "2025-07-01T17:25:47Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6863f6c3a6611a6a82b1d458_multi-tree-media-preview.png"
+  },
+  {
+   "id": "e1eef9ea8e22d692",
+   "title": "Quantinuum Overcomes Last Major Hurdle to Deliver Scalable Universal Fault-Tolerant Quantum Computers by 2029",
+   "url": "https://www.quantinuum.com/blog/quantinuum-overcomes-last-major-hurdle-to-deliver-scalable-universal-fault-tolerant-quantum-computers-by-2029",
+   "summary": "In a landmark scientific breakthrough, Quantinuum becomes the first company to demonstrate a fully fault-tolerant universal gate set with repeatable error correction, and in doing so, achieved a ten-fold improvement over current industry-leading benchmarks",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-07-01T17:13:15Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6859b5507cd8481a0f251014_magic-states-media-preview.png"
+  },
+  {
+   "id": "a48cbe50dd78e00f",
+   "title": "Debunking algorithmic qubits",
+   "url": "https://www.quantinuum.com/blog/debunking-algorithmic-qubits",
+   "summary": "Quantinuum’s H-Series computers have the highest performance in the industry, verified by multiple widely adopted benchmarks including quantum volume",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-07-01T17:13:15Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66df2ceff54611ac9f775ed6_algorithmic-qubits-media-preview.png"
+  },
+  {
+   "id": "a1ef10e0eacf8b22",
+   "title": "Quantinuum accelerates the path to Universal Fully Fault-Tolerant Quantum Computing; supports Microsoft’s AI and quantum-powered compute platform and “the path to a Quantum Supercomputer”",
+   "url": "https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer",
+   "summary": "Quantinuum will achieve universal fault-tolerant quantum computing, built on foundations such as a universal fault-tolerant gate set, high fidelity physical qubits uniquely capable of supporting reliable logical qubits, and a fully-scalable architecture",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-05-27T13:16:34Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e4791a243b8c5e5debca44_roadmap-media-preview.png"
+  },
+  {
+   "id": "3b04bec2d7bec3ca",
+   "title": "Join us at the RSA Conference to Learn Why Organizations are Adopting Quantum-Powered Cybersecurity",
+   "url": "https://www.quantinuum.com/blog/at-rsa-learn-why-organizations-are-adopting-quantum-powered-cybersecurity",
+   "summary": "At RSA 2024, hear from our experts on the value of provable quantum randomness for cybersecurity, in partnership with Thales",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2025-04-29T15:52:13Z",
+   "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "37d98dd6631712a9",
+   "title": "Quantinuum H-Series quantum computer accelerates through 3 more performance records for quantum volume",
+   "url": "https://www.quantinuum.com/blog/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume",
+   "summary": "Quantinuum H-Series quantum computer accelerates through 3 more performance records for quantum volume",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-04-29T15:45:18Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/673cf954ce0dec158426f99d_01_quantinuum-systems-media-preview.png"
+  },
+  {
+   "id": "3f49216d415a954c",
+   "title": "Quantinuum and Google DeepMind Unveil the Reality of the Symbiotic Relationship Between Quantum and AI",
+   "url": "https://www.quantinuum.com/blog/quantinuum-and-google-deepmind-unveil-the-reality-of-the-symbiotic-relationship-between-quantum-and-ai",
+   "summary": "A paper in Nature Machine Intelligence reveals the results of a recent collaboration between Quantinuum and Google DeepMind to tackle the hard problem of quantum compilation. The work shows a classical AI model supporting quantum computing by demonstrating its potential for quantum circuit optimization. An AI approach like this has the potential…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-04-14T20:37:11Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e553e85d856d62e9645420_deepmind-media-preview.png"
+  },
+  {
+   "id": "31482a3483cd62c4",
+   "title": "Why is everyone suddenly talking about random numbers?",
+   "url": "https://www.quantinuum.com/blog/why-is-everyone-suddenly-talking-about-random-numbers-we-explain",
+   "summary": "The first practical application of quantum computing, quantum random number generation (QRNG), is moving beyond early adopters, as government and business leaders accelerate broader commercialization.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-04-04T14:12:43Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67efe7d2a9ebfe65486674c0_NIST-blog-media-preview%201%20(1).png"
+  },
+  {
+   "id": "124883cf616bb1e4",
+   "title": "Quantinuum Introduces First Commercial Application for Quantum Computers",
+   "url": "https://www.quantinuum.com/blog/quantinuum-introduces-first-commercial-application-for-quantum-computers",
+   "summary": "The time when quantum computing was years away from having societal and business impact is now over. Capping two years where Quantinuum introduced multiple technical and commercial advances to lead the quantum computing sector, today we introduce the first commercial application for quantum computers.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-03-31T14:25:10Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e4246ad4a9af704ad95bc8_CR-media-preview_v3.png"
+  },
+  {
+   "id": "42334a8d90860290",
+   "title": "Another win for quantum computing in particle physics",
+   "url": "https://www.quantinuum.com/blog/another-win-for-quantum-computing-in-particle-physics",
+   "summary": "A team from Quantinuum and the University of Freiburg found that quantum computers outperform classical for a workhorse calculation often used in accelerators like the Large Hadron Collider (LHC) at CERN.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-03-07T18:48:17Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67cb3285dd9e3b66b759edf7_CERN-media-preview.png"
+  },
+  {
+   "id": "f5d9b3986dff8aef",
+   "title": "Unlocking Quantum Advantage with Complement Sampling",
+   "url": "https://www.quantinuum.com/blog/unlocking-quantum-advantage-with-complement-sampling",
+   "summary": "Quantum computing continues to push the boundaries of what is computationally possible.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-02-25T21:06:53Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67bde477b43672918cd90acb_complement-sampling-media-preview.png"
+  },
+  {
+   "id": "fb3c5dbaa8b7c111",
+   "title": "Quantinuum’s H-Series hits 56 physical qubits that are all-to-all connected, and departs the era of classical simulation",
+   "url": "https://www.quantinuum.com/blog/quantinuums-h-series-hits-56-physical-qubits-that-are-all-to-all-connected-and-departs-the-era-of-classical-simulation",
+   "summary": "Quantinuum’s H-Series combines full scalability with market-leading fidelity, performance, and error correction capabilities. In a demonstration with JPMorgan Chase & Co., Quantinuum’s H2-1 with 56 qubits achieved a massive uplift in an iconic demonstration.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2025-01-29T00:20:30Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21c8107881ef1878a98_666066b2b75b0f6ac8d9c862_n%253D56-media-preview_r01.png"
+  },
+  {
+   "id": "e55a22e0d8674b9c",
+   "title": "Quantinuum Customer JPMorgan Chase Advances Constrained Quantum Optimization with New 20-Qubit System",
+   "url": "https://www.quantinuum.com/blog/quantinuum-customer-jpmorgan-chase-advances-constrained-quantum-optimization-with-new-20-qubit-system",
+   "summary": "Quantinuum H1-1 returns promising results on large-scale extractive summarization experiment",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2024-11-20T18:31:25Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21926a2ce4603037683_6361375b96e1e434b200b383_Honeywell-Quantum-Solutions---Trap-Inside-the-Chamber-(2).jpeg"
+  },
+  {
+   "id": "b55be7789209ca3e",
+   "title": "Quantinuum extends its significant lead in quantum computing, achieving historic milestones for hardware fidelity and Quantum Volume",
+   "url": "https://www.quantinuum.com/blog/quantinuum-extends-its-significant-lead-in-quantum-computing-achieving-historic-milestones-for-hardware-fidelity-and-quantum-volume",
+   "summary": "Quantinuum achieved “three 9's” 2-qubit gate fidelity in its trapped-ion quantum computer and surpassed Quantum Volume one million – exponentially higher than its nearest competitors.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2024-11-20T18:27:21Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b218324137d15f591a42_661d99447f322021215152b5_three-nines-media-preview_r01%255B46%255D.png"
+  },
+  {
+   "id": "3bb36ca37f86d16e",
+   "title": "Quantinuum announces a world record in fidelity for quantum computing qubits",
+   "url": "https://www.quantinuum.com/blog/quantinuum-announces-a-world-record-in-fidelity-for-quantum-computing-qubits",
+   "summary": "We've achieved 99.9904% SPAM Fidelity with barium-137 sets the standard and creates a further step towards solving some of the world’s most intractable problems.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2024-11-20T18:23:40Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/673cf954ce0dec158426f99d_01_quantinuum-systems-media-preview.png"
+  },
+  {
+   "id": "c4d0dbeb0ec118d2",
+   "title": "Quantinuum Researchers Demonstrate a new Optimization Algorithm that delivers solutions on H2 Quantum Computer",
+   "url": "https://www.quantinuum.com/blog/quantinuum-researchers-demonstrate-a-new-optimization-algorithm-that-delivers-solutions-on-h2-quantum-computer",
+   "summary": "Quantum computing algorithm reliably and consistently solves combinatorial optimization problems using minimal quantum resources",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2024-11-20T18:23:02Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21a2463bfa0a99c2bf4_64594f16ea5b2a837ddd9833_6452e499fa096bdcaed78069_H2-combinatorial-optimization-thumbnail.png"
+  },
+  {
+   "id": "c0084fea9db37b05",
+   "title": "Quantinuum uses the extremely high precision of the H2-1 quantum computer to take a step forward in the race to understand exotic physics",
+   "url": "https://www.quantinuum.com/blog/quantinuum-uses-the-extremely-high-precision-of-the-h2-1-quantum-computer-to-take-a-step-forward-in-the-race-to-understand-exotic-physics",
+   "summary": "A joint team of scientists at Quantinuum, NIST, and the University of Maryland have measured the Loschmidt amplitude of the Fermi-Hubbard model, demonstrating a vital tool for understanding enigmatic phases of matter such as superconductivity",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "Normes & politiques"
+   ],
+   "date": "2024-11-20T18:22:00Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21bbc1036fb1e7a2c6a_6511809eaae280ed519d9a17_MediaPreview_FermiHubbard.png"
   }
  ]
 }
