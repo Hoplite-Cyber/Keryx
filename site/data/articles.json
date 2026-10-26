@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T19:52:33Z",
- "count": 630,
+ "generated_at": "2026-10-26T23:43:58Z",
+ "count": 632,
  "sources": [
   {
    "name": "ANSSI",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T19:52:33Z",
+   "date": "2026-10-26T23:43:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-26T19:52:33Z",
+   "date": "2026-10-26T23:43:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-26T19:52:33Z",
+   "date": "2026-10-26T23:43:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T19:52:33Z",
+   "date": "2026-10-26T23:43:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,41 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T19:52:33Z",
+   "date": "2026-10-26T23:43:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "613afddc84ae86a6",
+   "title": "Researchers Bypass Blockchain Certificates in Post-Quantum Protocol",
+   "url": "https://quantumzeitgeist.com/blockchain-quorum-certificates-post-quantum-bypass-protocol/",
+   "summary": "Two hundred validators agreeing on blockchain transactions typically requires broadcasting bundled signatures, a process vulnerable to future quantum computers. Now, a new protocol called Quantum Cadence bypasses these certificates entirely by having each validator independently tally votes from received messages. This “signatureless” approach…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-26T21:22:57Z",
+   "first_seen": "2026-10-26T23:43:58Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-bypass-blockchain-certificates-in-post-quantum-protocol.png"
+  },
+  {
+   "id": "9a04a963d859e5e8",
+   "title": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
+   "url": "https://thequantuminsider.com/2026/10/26/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform/",
+   "summary": "Insider Brief PRESS RELEASE — Intel Corporation today announced that it has entered into a definitive agreement to acquire Classiq, a leading provider of quantum computing software. The combination of Classiq’s synthesis platform with Intel’s spin-qubit manufacturing and existing software would create a user-friendly full-stack quantum computing…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-26T20:55:35Z",
+   "first_seen": "2026-10-26T23:43:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Intel-and-Classiq-quantum-wave-banner.png"
   },
   {
    "id": "7c3d9fe9d3329f44",
