@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:06:49Z",
+ "generated_at": "2026-10-26T15:53:00Z",
  "count": 629,
  "sources": [
   {
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -173,9 +173,8 @@
   {
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
-   "ok": true,
-   "fetched": 20,
-   "kept": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
   },
   {
    "name": "InCyber",
@@ -216,7 +215,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 3,
+   "fetched": 4,
    "kept": 0
   },
   {
@@ -285,9 +284,8 @@
   {
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
-   "ok": true,
-   "fetched": 20,
-   "kept": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
   },
   {
    "name": "Futura Sciences",
@@ -358,7 +356,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T14:06:49Z",
+   "date": "2026-10-26T15:53:00Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +370,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-26T14:06:49Z",
+   "date": "2026-10-26T15:53:00Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +386,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-26T14:06:49Z",
+   "date": "2026-10-26T15:53:00Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +401,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T14:06:49Z",
+   "date": "2026-10-26T15:53:00Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,7 +416,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T14:06:49Z",
+   "date": "2026-10-26T15:53:00Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
