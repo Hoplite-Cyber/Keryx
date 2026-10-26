@@ -239,5 +239,41 @@
     "url": "https://www.futura-sciences.com/rss/actualites.xml",
     "category": "Presse spécialisée",
     "lang": "fr"
+  },
+  {
+    "name": "Post-Quantum.com",
+    "url": "https://postquantum.com/feed/",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "DigiCert",
+    "url": "https://www.digicert.com/blog/feed",
+    "category": "Industrie"
+  },
+  {
+    "name": "OpenSSL",
+    "url": "https://openssl-library.org/post/index.xml",
+    "category": "Industrie"
+  },
+  {
+    "name": "IETF – blog",
+    "url": "https://www.ietf.org/blog/feed/",
+    "category": "Officiel"
+  },
+  {
+    "name": "Filippo Valsorda",
+    "url": "https://words.filippo.io/rss/",
+    "category": "Presse spécialisée"
+  },
+  {
+    "name": "Let's Encrypt",
+    "url": "https://letsencrypt.org/feed.xml",
+    "category": "Industrie"
+  },
+  {
+    "name": "Open Quantum Safe (liboqs)",
+    "url": "https://github.com/open-quantum-safe/liboqs/releases.atom",
+    "category": "Industrie",
+    "all": true
   }
 ]
