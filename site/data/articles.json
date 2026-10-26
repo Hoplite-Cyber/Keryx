@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T08:46:11Z",
- "count": 541,
+ "generated_at": "2026-10-26T09:55:10Z",
+ "count": 622,
  "sources": [
   {
    "name": "ANSSI",
@@ -103,9 +103,8 @@
   {
    "name": "Quantum Zeitgeist – cryptographie",
    "category": "Presse spécialisée",
-   "ok": true,
-   "fetched": 200,
-   "kept": 171
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "The Quantum Insider",
@@ -216,7 +215,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 0,
+   "fetched": 1,
    "kept": 0
   },
   {
@@ -295,6 +294,55 @@
    "ok": true,
    "fetched": 50,
    "kept": 0
+  },
+  {
+   "name": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "ok": true,
+   "fetched": 30,
+   "kept": 30
+  },
+  {
+   "name": "DigiCert",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 782,
+   "kept": 39
+  },
+  {
+   "name": "OpenSSL",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 216,
+   "kept": 8
+  },
+  {
+   "name": "IETF – blog",
+   "category": "Officiel",
+   "ok": true,
+   "fetched": 599,
+   "kept": 4
+  },
+  {
+   "name": "Filippo Valsorda",
+   "category": "Presse spécialisée",
+   "ok": true,
+   "fetched": 10,
+   "kept": 4
+  },
+  {
+   "name": "Let's Encrypt",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 123,
+   "kept": 3
+  },
+  {
+   "name": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "ok": true,
+   "fetched": 10,
+   "kept": 10
   }
  ],
  "articles": [
@@ -309,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T08:46:11Z",
+   "date": "2026-10-26T09:55:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -323,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-26T08:46:11Z",
+   "date": "2026-10-26T09:55:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -339,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-26T08:46:11Z",
+   "date": "2026-10-26T09:55:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -354,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T08:46:11Z",
+   "date": "2026-10-26T09:55:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -369,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T08:46:11Z",
+   "date": "2026-10-26T09:55:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -1105,6 +1153,22 @@
    "first_seen": "2026-10-24T23:47:18Z"
   },
   {
+   "id": "0539a27c10b73d0b",
+   "title": "Key Ceremonies: What They Are, What Good Looks Like, and What PQC Changes",
+   "url": "https://postquantum.com/post-quantum/key-ceremony-best-practices-pqc/",
+   "summary": "A key ceremony produces the main evidence that a CA key was generated correctly. What the rules require and miss, what a good ceremony looks like, the skills it needs, and what PQC changes. The post Key Ceremonies: What They Are, What Good Looks Like, and What PQC Changes appeared first on PostQuantum - Quantum Computing, Quantum Security, PQC .",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-22T05:05:40Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/key-ceremony-pqc-1170x744.jpg"
+  },
+  {
    "id": "3b603fcfbb4a5fc1",
    "title": "PQ-Vault: Provably Quantum-Safe Asset Custody for Unmodified Ethereum",
    "url": "https://arxiv.org/abs/2610.29230",
@@ -1270,6 +1334,23 @@
    ],
    "date": "2026-10-21T07:22:27Z",
    "first_seen": "2026-10-24T16:52:50Z"
+  },
+  {
+   "id": "5427f7d08469ed0f",
+   "title": "eMudhra CA Keys: A Q-Day Rehearsal at the Scale of One CA",
+   "url": "https://postquantum.com/security-pqc/emudhra-ca-keys-q-day/",
+   "summary": "A ceremony error left eight eMudhra intermediate CA keys computable from their certificates for 17 months. Chrome and Firefox blocked them within hours. Linux, runtimes and devices could take years, and a CRQC would expose every classical CA key. The post eMudhra CA Keys: A Q-Day Rehearsal at the Scale of One CA appeared first on PostQuantum -…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-21T07:16:51Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/emudhra-ca-pqc-q-day-1170x744.jpg"
   },
   {
    "id": "3b92ee0186cf31ed",
@@ -1650,6 +1731,22 @@
    "date": "2026-10-20T13:25:26Z",
    "first_seen": "2026-10-20T14:18:00Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-20_18-20.png"
+  },
+  {
+   "id": "467631ab169d15ea",
+   "title": "Quantinuum Reports Record Error Suppression on Helios, at About a Fifth of a Second per Correction Round",
+   "url": "https://postquantum.com/industry-news/quantinuum-color-code-helios/",
+   "summary": "On Helios, Quantinuum held a distance-7 color-code logical qubit at five errors per million correction rounds. Errors fell about twelvefold per code-size step on average. Each round lasted close to 200,000 times as long as one on Google's Willow. The post Quantinuum Reports Record Error Suppression on Helios, at About a Fifth of a Second per…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-20T04:44:03Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/quantinuum-helios-error-correction-1170x744.png"
   },
   {
    "id": "15af72545df2f431",
@@ -2198,6 +2295,86 @@
    "lang": "en"
   },
   {
+   "id": "8a1033880e1869e9",
+   "title": "My Updated Global PQC Migration Timeline Tracks 162 Milestones as More Regulators Set Earlier Deadlines",
+   "url": "https://postquantum.com/pqc-governance/pqc-migration-timeline-update/",
+   "summary": "I rebuilt my Global PQC Migration Timeline around every dated PQC instrument I could verify: 162 entries from 24 jurisdictions, the G7 and NATO. What it shows, how to use it, and why first deadlines now come within months. The post My Updated Global PQC Migration Timeline Tracks 162 Milestones as More Regulators Set Earlier Deadlines appeared…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-18T19:33:54Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/global-pqc-migration-timelines-1170x744.png"
+  },
+  {
+   "id": "190b314b0732bfe1",
+   "title": "I Rebuilt My Free PQC Readiness Assessment on the PQC Migration Framework v3.0",
+   "url": "https://postquantum.com/post-quantum/free-pqc-readiness-self-assessment/",
+   "summary": "My PQC readiness scorecard now rates seven domains on the PQC Migration Framework's 0 to 5 scale and takes the weakest as your readiness level. It also lists your regulatory deadlines. Your answers never leave your browser. The post I Rebuilt My Free PQC Readiness Assessment on the PQC Migration Framework v3.0 appeared first on PostQuantum -…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-18T13:09:02Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/pqc-readiness-assessment-1170x744.png"
+  },
+  {
+   "id": "c430f7d0a5d00588",
+   "title": "The PQC Migration Budget Builder Turns Deadlines and Estate Counts Into a Defensible Budget Request",
+   "url": "https://postquantum.com/pqc-governance/pqc-budget-builder-guide/",
+   "summary": "How the PQC Migration Budget Builder works: what to enter, what comes out, where every unit cost comes from, a worked example for a large EU bank, and where the model will be wrong about your estate. The post The PQC Migration Budget Builder Turns Deadlines and Estate Counts Into a Defensible Budget Request appeared first on PostQuantum - Quantum…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-18T11:54:03Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/pqc-migration-budget-builder-1170x744.png"
+  },
+  {
+   "id": "f95d86f58317839b",
+   "title": "I Rebuilt the PQC Migration Advisor With 63 Algorithms, 18 Protocol Families and 20 Jurisdictions and Regimes",
+   "url": "https://postquantum.com/post-quantum/pqc-migration-advisor-guide/",
+   "summary": "With version 2.0 of my free PQC Migration Advisor, you can compare your migration estimate with your earliest regulatory deadline and export a sourced, four-tier action plan as a PDF, CSV or Markdown file. The post I Rebuilt the PQC Migration Advisor With 63 Algorithms, 18 Protocol Families and 20 Jurisdictions and Regimes appeared first on…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-18T11:28:21Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/pqc-migration-advisor-1170x744.png"
+  },
+  {
+   "id": "505da158cdb0d0f6",
+   "title": "IBM’s AI Agents Cut a Quantum Decoder’s Estimated Latency 52-Fold for $26 and 204-Fold for $299",
+   "url": "https://postquantum.com/engineering-news/ai-chip-design-quantum-decoder/",
+   "summary": "IBM let AI coding agents rework the hardware design of its Relay-BP quantum decoder, at an estimated $26 in inference with open-weight models. By the synthesis tool's estimates, even the best design is far slower than IBM's hand-written decoder. The post IBM’s AI Agents Cut a Quantum Decoder’s Estimated Latency 52-Fold for $26 and 204-Fold for…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-18T09:02:52Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/ibm-ai-chip-design-quantum-1170x744.jpg"
+  },
+  {
    "id": "fe169363f79f26cf",
    "title": "Enjoy FAEST on Hardware: Efficient and Novel Hardware Acceleration of Emerging Post-Quantum Digital Signature Scheme FAEST",
    "url": "https://eprint.iacr.org/2026/2525",
@@ -2230,6 +2407,70 @@
    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-error-correction-t.jpg"
   },
   {
+   "id": "94d8fa679f2d75b4",
+   "title": "MITRE Rated Eight Enterprise Technologies on Post-Quantum Readiness. Key Exchange Is in General Release in Five, Signatures in Two.",
+   "url": "https://postquantum.com/security-pqc/mitre-pqc-capability-report/",
+   "summary": "In a July review of public evidence, MITRE found no enterprise technology category with FIPS-validated post-quantum support and no post-quantum hardware TPM on sale. What that means for agencies planning toward 2030 and 2031. The post MITRE Rated Eight Enterprise Technologies on Post-Quantum Readiness. Key Exchange Is in General Release in Five…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-17T15:44:04Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/mitre-pqc-1170x744.jpg"
+  },
+  {
+   "id": "39deb1032c7cd7b1",
+   "title": "Starknet Asks Its Stakers Whether to Research Leaving Ethereum Over Quantum Risk",
+   "url": "https://postquantum.com/security-pqc/starknet-post-quantum-l1/",
+   "summary": "StarkWare says Starknet could finish its post-quantum migration on its own schedule if it left Ethereum. A forum commenter named the cost. One of Starknet's most direct quantum exposures, its users' elliptic-curve keys, does not depend on Ethereum. The post Starknet Asks Its Stakers Whether to Research Leaving Ethereum Over Quantum Risk appeared…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-17T15:40:49Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/starknet-pqc-1170x744.jpg"
+  },
+  {
+   "id": "af2b5b316da80562",
+   "title": "Europe’s Quantum Industry Association Asks the EU for Faster Export Licensing",
+   "url": "https://postquantum.com/quantum-policy/eu-quantum-export-controls/",
+   "summary": "The European Quantum Industry Consortium wants electronic licensing in every member state, published processing times and South Korea added to EU001. Its members report lost customers, but QuIC gave no figures on licensing times. The post Europe’s Quantum Industry Association Asks the EU for Faster Export Licensing appeared first on PostQuantum -…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-17T14:19:05Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/quic-quantum-dual-use-export-controls-1170x744.png"
+  },
+  {
+   "id": "fc8df6e04b1307a6",
+   "title": "Coinbase, Which Says It Holds About 12% of All Bitcoin, Sets Out What It Needs From Bitcoin’s Post-Quantum Signatures. Its Request for Multi-Party Signing Is the Hardest to Meet.",
+   "url": "https://postquantum.com/security-pqc/coinbase-bitcoin-post-quantum-requirements/",
+   "summary": "On October 13, Coinbase listed what its custody systems need from Bitcoin's post-quantum signatures: multi-party signing, HSM support and a stateless signing mode. The SHRINCS draft already includes the stateless mode. Post-quantum multi-party signing is still a research topic. The post Coinbase, Which Says It Holds About 12% of All Bitcoin, Sets…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-17T13:00:03Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/quantum-computing-blockchain-coinbase-1170x744.jpg"
+  },
+  {
    "id": "caaa32ceea5c37e7",
    "title": "Efficient Fixed-Point Implementation of Mitaka",
    "url": "https://eprint.iacr.org/2026/2521",
@@ -2242,6 +2483,39 @@
    "date": "2026-10-17T12:57:50Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "baabddeb9a106c66",
+   "title": "Supervisors Can Measure a Sector’s Cryptographic Exposure Without Collecting Anyone’s Inventory",
+   "url": "https://postquantum.com/post-quantum/sector-wide-cryptographic-exposure/",
+   "summary": "Under the EU's Cyber Resilience Act, authorities may collect software inventories before anonymizing them. Supervisors measuring cryptographic exposure can skip that step, with federated queries, secure aggregation and private set intersection run against each firm's own CBOM. The post Supervisors Can Measure a Sector’s Cryptographic Exposure…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-17T12:46:15Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/zero-knowledge-cbom-1170x744.jpg"
+  },
+  {
+   "id": "2652a8ddf24d52a8",
+   "title": "Google Ran Magic State Cultivation on Willow and Cut Magic-State Error 40-Fold. The Test Covered Only the Protocol’s Smallest Version.",
+   "url": "https://postquantum.com/quantum-research/google-magic-state-cultivation/",
+   "summary": "Google put an upper bound of one to two in 10,000 on the error of T states cultivated on Willow. The result supports one assumption in Google's sub-million-qubit RSA-2048 estimate and leaves the rest of a factory untested. The post Google Ran Magic State Cultivation on Willow and Cut Magic-State Error 40-Fold. The Test Covered Only the Protocol’s…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-17T08:23:09Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/magic-state-cultivation-superconducting-google-1170x744.jpg"
   },
   {
    "id": "6b4159ed10bd654e",
@@ -2550,6 +2824,24 @@
    "lang": "en"
   },
   {
+   "id": "d86d25f8f0904721",
+   "title": "Germany Sets a 2030 Post-Quantum Target for High-Risk Systems in Government, Business and Critical Infrastructure",
+   "url": "https://postquantum.com/security-pqc/germany-national-pqc-guideline/",
+   "summary": "BMI, BMDS and BSI have turned the EU's post-quantum roadmap into German guidance. Before 2030 comes an end-2026 checkpoint: named owners, a first cryptographic inventory, and a link to the state-of-the-art duty in the BSI Act. The post Germany Sets a 2030 Post-Quantum Target for High-Risk Systems in Government, Business and Critical Infrastructure…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "Menace quantique",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-15T06:56:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/bsi-germany-pqc-date-1170x744.png"
+  },
+  {
    "id": "7027b0d540f7699c",
    "title": "Threshold Post-Quantum E-Voting from Lattice Commitments",
    "url": "https://eprint.iacr.org/2026/2500",
@@ -2562,6 +2854,38 @@
    "date": "2026-10-15T06:55:07Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "e16e1ddcb009fcb2",
+   "title": "Singapore Will Pay Up to 70% of Quantum-Safe Migration Pilots, Critical Infrastructure First",
+   "url": "https://postquantum.com/quantum-policy/singapore-quantum-safe-kickstarter-grant/",
+   "summary": "Singapore's cyber regulator will now pay up to 70% of the cost of quantum-safe migration pilots, with priority for the critical infrastructure owners it told to finish by 2031. The pilot reports could show how much effort migration takes. The post Singapore Will Pay Up to 70% of Quantum-Safe Migration Pilots, Critical Infrastructure First appeared…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-15T06:52:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/singapore-pqc-1170x744.jpg"
+  },
+  {
+   "id": "58575751708206c6",
+   "title": "Michael Saylor’s Quantum Claims About Bitcoin, Checked",
+   "url": "https://postquantum.com/security-pqc/saylor-bitcoin-quantum-claims/",
+   "summary": "Strategy's executive chairman says Bitcoin should wait for a quantum threat before upgrading. Its upgrade record, its draft proposals, the arithmetic of block space and his company's own SEC filings all say otherwise. The post Michael Saylor’s Quantum Claims About Bitcoin, Checked appeared first on PostQuantum - Quantum Computing, Quantum…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-15T05:20:22Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/saylor-bitcoin-quantum-1170x744.jpg"
   },
   {
    "id": "9b66bc365de8dd1a",
@@ -2606,6 +2930,22 @@
    "date": "2026-10-14T17:12:25Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "860e751455691d07",
+   "title": "A Key Step of a Quantum Attack on Bitcoin and Ethereum Now Fits in Under 900 Logical Qubits Within Google’s Gate Budget",
+   "url": "https://postquantum.com/security-pqc/ecdsa-fail-low-qubit-circuit/",
+   "summary": "An open leaderboard now lists secp256k1 point-addition circuits under 900 logical qubits that stay within Google's published Toffoli bound. Whether that saves a quarter of the physical qubits depends on the machine. Nobody has compiled a full attack with them. The post A Key Step of a Quantum Attack on Bitcoin and Ethereum Now Fits in Under 900…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-14T15:58:31Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/ecdsa-fail-1170x744.png"
   },
   {
    "id": "c1ead893cfbe1277",
@@ -2687,6 +3027,23 @@
    "lang": "en"
   },
   {
+   "id": "4ed7d2f0b81a93e7",
+   "title": "IonQ Is Buying Elisity for Access to CISOs. Most of the Post-Quantum Capabilities Those CISOs Need First Are Still Missing.",
+   "url": "https://postquantum.com/security-pqc/ionq-elisity-acquisition/",
+   "summary": "IonQ's hardware acquisitions shorten its own path to better quantum computers. Its security purchases face a different test: whether a CISO planning a post-quantum migration can get inventory, signature migration and validated cryptography from IonQ. The post IonQ Is Buying Elisity for Access to CISOs. Most of the Post-Quantum Capabilities Those…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques",
+    "Menace quantique"
+   ],
+   "date": "2026-10-13T10:13:38Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/ionq-elisity-pqc-1170x744.png"
+  },
+  {
    "id": "e398058e1e0abb0b",
    "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
    "url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
@@ -2747,6 +3104,22 @@
    "lang": "en"
   },
   {
+   "id": "fe6173024c065a84",
+   "title": "(Post-Quantum) Cryptographic Right Answers",
+   "url": "https://words.filippo.io/right-answers/",
+   "summary": "In the tradition started by Colin Percival and Thomas Ptacek, a set of “Cryptographic Right Answers” updated for the accelerated post-quantum transition timeline.",
+   "source": "Filippo Valsorda",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-12T12:00:27Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://assets.buttondown.email/images/cc14aaa4-8914-48a4-9b5d-83f0ed53dd7a.jpeg?w=960&fit=max"
+  },
+  {
    "id": "7e6c43367ee0d548",
    "title": "QuDef, TTP Bring QKD Security Assurance to Asia-Pacific",
    "url": "https://quantumzeitgeist.com/qudef-ttp-qkd-security-assurance/",
@@ -2760,6 +3133,22 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/qudef-ttp-bring-qkd-security-assurance-to-asia.png",
    "lang": "en"
+  },
+  {
+   "id": "55829eb731d6b833",
+   "title": "The US Energy Department Named Eight Science Problems for Its First Fault-Tolerant Quantum Computers Without Setting Problem Sizes or Classical Baselines",
+   "url": "https://postquantum.com/industry-news/doe-quantum-genesis-priority-applications/",
+   "summary": "The US Energy Department aimed its eight Quantum Genesis priority applications at the right science for fault-tolerant quantum computers but published no problem sizes or classical baselines. I compare them with resource estimates for related problems. The post The US Energy Department Named Eight Science Problems for Its First Fault-Tolerant…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-12T09:42:01Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/us-department-of-energy-quantum-1170x744.jpg"
   },
   {
    "id": "d7fa2d3286dc7d25",
@@ -2793,6 +3182,39 @@
    "first_seen": "2026-10-26T08:46:11Z"
   },
   {
+   "id": "79613f0b80a566b7",
+   "title": "PQC for MSSPs and Consultancies: Opportunity and Risk",
+   "url": "https://postquantum.com/post-quantum/pqc-mssps-security-consultancies/",
+   "summary": "Post-quantum migration will keep security consultancies and MSSPs busy for a decade, but the revenue is in PKI, legacy systems, vendors and governance, not in scans. Clients will also check each provider's own cryptography before they buy. The post PQC for MSSPs and Consultancies: Opportunity and Risk appeared first on PostQuantum - Quantum…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-10T10:28:41Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/quantum-mssp-1170x744.jpg"
+  },
+  {
+   "id": "3b906a0bbd6fe88d",
+   "title": "IBM and Rutgers Controlled Quantum Chaos on 100 Qubits With Thousands of Mid-Circuit Resets. The Experiment Was Not Quantum Error Correction.",
+   "url": "https://postquantum.com/quantum-research/ibm-quantum-chaos-control/",
+   "summary": "In a Nature Physics paper, IBM and Rutgers researchers drove 100 superconducting qubits from chaotic to controlled dynamics with mid-circuit resets. The physics is sound. The error-correction framing in the Rutgers announcement goes beyond anything the experiment tested. The post IBM and Rutgers Controlled Quantum Chaos on 100 Qubits With…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-10T06:57:13Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/ibm-chaos-error-1170x744.png"
+  },
+  {
    "id": "06fd66fb7d5425e1",
    "title": "Lattice Bingo: Asynchrony and One-Shot Adaptivity in Verifiable Secret Sharing via Erasure Code Commitments",
    "url": "https://eprint.iacr.org/2026/2432",
@@ -2805,6 +3227,22 @@
    "date": "2026-10-09T21:47:08Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "febd68d1459e9a22",
+   "title": "IonQ Entangles a Trapped Ion With a Diamond Memory 1,000 Times a Second at 88% Fidelity. Its Own Paper Puts the Rate Needed Between Modules 10 to 100 Times Higher.",
+   "url": "https://postquantum.com/quantum-research/ionq-quantum-memory-interconnect/",
+   "summary": "IonQ's preprint entangles a barium ion with a silicon-vacancy memory in diamond at four times the rate of the fastest photonic link between two trapped ions. I compare it with what error-corrected modules need and with IonQ's press release. The post IonQ Entangles a Trapped Ion With a Diamond Memory 1,000 Times a Second at 88% Fidelity. Its Own…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-09T19:09:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/ionq-quantum-networking-1170x744.png"
   },
   {
    "id": "d18cfbd97165b6ef",
@@ -2836,6 +3274,38 @@
    "date": "2026-10-09T05:53:03Z",
    "first_seen": "2026-10-20T12:25:07Z",
    "lang": "en"
+  },
+  {
+   "id": "e83e939a7234e1e6",
+   "title": "Pentagon’s $350 Million Quantum Package Backs DARPA Testing and PsiQuantum Manufacturing",
+   "url": "https://postquantum.com/industry-news/pentagons-350-million-quantum/",
+   "summary": "The Pentagon’s $350 million quantum package combines DARPA verification funding with conditional manufacturing finance for PsiQuantum. A parallel applications effort will bring quantum researchers and defense users together to define what future machines should actually do. The post Pentagon’s $350 Million Quantum Package Backs DARPA Testing and…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-09T02:38:45Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/pentagon-quantum-computer-1170x693.jpg"
+  },
+  {
+   "id": "42211c515924eb65",
+   "title": "DARPA Advances Four More Quantum Companies to Stage C",
+   "url": "https://postquantum.com/industry-news/darpa-quantum-benchmarking-stage-c/",
+   "summary": "Six quantum companies have reached DARPA’s final evaluation stage. As Atom Computing, Diraq, IBM and IonQ join Microsoft and PsiQuantum, we examine the funding, hardware evidence and what Stage C selection means for the prospect of economically useful quantum computing by 2033. The post DARPA Advances Four More Quantum Companies to Stage C…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-09T01:33:13Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/darpa-quantum-benchmarking-1170x744.jpg"
   },
   {
    "id": "db5ee720bbf80f90",
@@ -2943,6 +3413,23 @@
    "lang": "en"
   },
   {
+   "id": "739b9f54c7b072e8",
+   "title": "Europol Urges Early Action on Quantum Threats to Crypto Wallets and Stored Data",
+   "url": "https://postquantum.com/security-pqc/europol-quantum-reports-crypto-hndl/",
+   "summary": "Europol's October 2026 reports place quantum risk on wallet signing keys and long-lived data. Since they were drafted, the IETF has published post-quantum OpenPGP and the hybrid TLS standards behind key exchange already running in major software. The post Europol Urges Early Action on Quantum Threats to Crypto Wallets and Stored Data appeared…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-08T07:22:58Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/europol-pqc-1170x744.jpg"
+  },
+  {
    "id": "f3652a5d581e8187",
    "title": "Error semitransparent universal control of a bosonic logical qubit",
    "url": "https://www.nature.com/articles/s41467-026-78317-y",
@@ -2987,6 +3474,39 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/sama-pushes-banks-quantum-safe-encryption-scaled.jpeg",
    "lang": "en"
+  },
+  {
+   "id": "7a5e536947c4e484",
+   "title": "US Agencies Had Until May 2023 to Inventory Quantum-Vulnerable Cryptography. Auditors Found One of 24 Inventories Complete.",
+   "url": "https://postquantum.com/security-pqc/us-cryptographic-inventory-audit/",
+   "summary": "Washington called the federal inventory of quantum-vulnerable cryptography comprehensive in 2023. An audit made public on October 6 checked the inventories against agencies' own records and asked sampled agencies for evidence. One passed, and most sampled entries had no documentation. The post US Agencies Had Until May 2023 to Inventory…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-07T08:25:17Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/gao-pqc-audit-1170x744.jpg"
+  },
+  {
+   "id": "ff7790a2bf76f490",
+   "title": "Modular Quantum Error Correction: 10x in Simulation",
+   "url": "https://postquantum.com/quantum-research/google-modular-error-correction/",
+   "summary": "Google Quantum AI and DeepMind simulated a modular error-correction memory that needs a tenth of the surface code's physical qubits per logical qubit. The abstract's 30× figure comes from codes too large to simulate. The post Modular Quantum Error Correction: 10x in Simulation appeared first on PostQuantum - Quantum Computing, Quantum Security…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-06T21:07:27Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/google-modular-error-correction-1170x744.jpg"
   },
   {
    "id": "d3cc06de7b5133df",
@@ -3046,6 +3566,24 @@
    "date": "2026-10-06T00:00:00Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "413a80982fadd291",
+   "title": "Dutch Quantum Strategy Says Prepare for Q-Day Around 2030. Medium-Risk Systems Have Until 2035.",
+   "url": "https://postquantum.com/security-pqc/netherlands-quantum-strategy-pqc-deadlines/",
+   "summary": "Dutch central-government organizations are asked to move high-risk systems to post-quantum cryptography by the end of 2030 under a new national strategy, which expects a CRQC between 2029 and 2035 and adds no money for the migration. The post Dutch Quantum Strategy Says Prepare for Q-Day Around 2030. Medium-Risk Systems Have Until 2035. appeared…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-05T17:41:02Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/netherlands-quantum-strategy-pqc-1170x744.jpg"
   },
   {
    "id": "c3dc4179acdecff6",
@@ -3156,6 +3694,23 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/qnu-labs-and-partners-send-quantum-keys-556km-scaled.jpg",
    "lang": "en"
+  },
+  {
+   "id": "bcd51559ea962a7b",
+   "title": "Crypto-Agility for Digital Assets: Chains Are Planning One Post-Quantum Change When They Will Need Several",
+   "url": "https://postquantum.com/post-quantum/crypto-agility-digital-assets/",
+   "summary": "Zcash replaced a flawed proof circuit and sealed a pool then worth $1.7 billion within 60 days. Bitcoin and Ethereum are planning one post-quantum change. Crypto-agility means a chain can change its cryptography again, and retire what it replaced. The post Crypto-Agility for Digital Assets: Chains Are Planning One Post-Quantum Change When They…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-05T07:23:05Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/crypto-agility-digital-assets-1170x744.jpg"
   },
   {
    "id": "2b2f4794e012ac29",
@@ -3890,6 +4445,81 @@
    "lang": "en"
   },
   {
+   "id": "42e6f4497f3581ea",
+   "title": "Do PQC Certificates Require Quantum-Safe HSMs? | DigiCert",
+   "url": "https://www.digicert.com/blog/do-pqc-certificates-require-quantum-safe-hsms",
+   "summary": "In this article, we look at two options for post-quantum HSMs: deploying a new fleet of quantum-safe HSMs or using current HSMs that are upgraded to perform PQC operations.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-09-21T11:58:38Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "62731def3ae75f61",
+   "title": "NIST advances post-quantum signature algorithms | DigiCert",
+   "url": "https://www.digicert.com/blog/nist-advances-post-quantum-signature-algorithms",
+   "summary": "NIST recently announced a third round of competition for post-quantum digital signature algorithms. The agency continues to evaluate additional candidates.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-09-21T11:55:07Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "9bf609b31868629c",
+   "title": "A field guide to post-quantum cryptography migration | DigiCert",
+   "url": "https://www.digicert.com/blog/field-guide-to-pqc-migration",
+   "summary": "RFC 9958, Post-Quantum Cryptography for Engineers. It’s not a math paper, and it’s not a marketing deck. It’s a field guide for engineers who have to build, migrate, and ship.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-09-21T11:54:13Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "466c93a0e9fbca5e",
+   "title": "EO 14412: What the federal PQC mandate means for you | DigiCert",
+   "url": "https://www.digicert.com/blog/what-the-federal-pqc-mandate-means-for-you",
+   "summary": "The United States government has now put a timeline on post-quantum cryptography (PQC). Executive Order 14412 establishes deadlines for migrating critical systems.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-09-21T11:49:52Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "ffc6c42a80cb54d2",
+   "title": "DigiCert’s 2029 post-quantum infrastructure migration plan | DigiCert",
+   "url": "https://www.digicert.com/blog/digicert-post-quantum-infrastructure-migration-plan",
+   "summary": "At DigiCert, our goal is to complete our core post-quantum infrastructure migration by 2029. That work includes confidentiality and authentication systems.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-09-21T11:46:55Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "0e49aa2de10e099a",
    "title": "Researchers Secure Healthcare Data Using Quantum Networks over Fibre",
    "url": "https://quantumzeitgeist.com/quantum-networks-fibre-healthcare-data-security/",
@@ -4093,6 +4723,21 @@
    "first_seen": "2026-10-20T12:52:48Z"
   },
   {
+   "id": "1ff516a599f329c0",
+   "title": "How We Built a Data Warehouse Using ClickHouse",
+   "url": "https://letsencrypt.org/2026/09/17/clickhouse.html",
+   "summary": "When the scripts that generate the data for letsencrypt.org/stats broke yet again, we decided to retire them rather than repair them. Let’s Encrypt issues six to ten million certificates each day , producing a large volume of logs that keeps growing. It became increasingly time-consuming and difficult to answer questions about our own issuance…",
+   "source": "Let's Encrypt",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-09-17T00:00:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://letsencrypt.org/images/blog/2026.09.17-clickhouse-daily-certificate-issuance.png"
+  },
+  {
    "id": "816cc6980a0dcd18",
    "title": "Researchers Map Reversals in Crypto Scheme Rankings with GAUGE",
    "url": "https://quantumzeitgeist.com/gauge-cryptographic-scheme-ranking-reversals-mapping/",
@@ -4136,6 +4781,36 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-pki-qnu-labs-full-platform.jpg",
    "lang": "en"
+  },
+  {
+   "id": "d72f9299d6f4d0ea",
+   "title": "How to Build Your Own PQC Test Server | DigiCert",
+   "url": "https://www.digicert.com/blog/how-to-build-your-own-pqc-test-server",
+   "summary": "To get started on the post-quantum journey, we’ve created a simple web application that is fully protected by PQC and published it in a GitHub repository.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-09-15T18:32:56Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "57948b35a922f33e",
+   "title": "Software Supply Chain Blind Spots | DigiCert",
+   "url": "https://www.digicert.com/blog/software-supply-chain-blind-spots",
+   "summary": "Software supply chains are under unprecedented pressure—from dependency risk and regulatory scrutiny to the coming impact of post-quantum cryptography (PQC).",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-09-15T18:24:08Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "e710659111257d4a",
@@ -4489,6 +5164,22 @@
    "first_seen": "2026-10-19T14:49:59Z"
   },
   {
+   "id": "1698326946b06901",
+   "title": "The OpenSSL Library supports DTLS 1.3",
+   "url": "https://openssl-library.org/post/2026-09-09-dtls-1.3/",
+   "summary": "OpenSSL 4.1, which will be released in October 2026 , adds the Datagram Transport Layer Security (DTLS) protocol version 1.3. Summary According to the DTLS 1.3 standard : DTLS is deliberately designed to be as similar to TLS as possible, both to minimize new security invention and to maximize the amount of code and infrastructure reuse. Therefore…",
+   "source": "OpenSSL",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-09-09T00:00:00Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "28f7d28da3dbc5b2",
    "title": "26 days to break Bitcoin? IonQ publishes a detailed quantum plan",
    "url": "https://quantumzeitgeist.com/ionq-quantum-break-bitcoin/",
@@ -4801,6 +5492,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/ietf-workshop-speed-up-post-quantum-scaled.jpg",
    "lang": "en"
+  },
+  {
+   "id": "4c911bb8dfd64303",
+   "title": "Post-Quantum Authentication: Up Next",
+   "url": "http://www.ietf.org/blog/iab-pq-workshop-cfp/",
+   "summary": "Post-quantum key establishment has moved from standards into deployment. Post-quantum authentication has not moved nearly as far, and specification work is no longer the only constraint. The IAB is holding a workshop in Prague on 11 and 12 October 2026 to bring deployment experience together with the people working on the relevant protocols and…",
+   "source": "IETF – blog",
+   "category": "Officiel",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-08-27T18:16:00Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "ca9452be783e1730",
@@ -5235,6 +5940,22 @@
    "lang": "en"
   },
   {
+   "id": "67ff0a64f5e7c151",
+   "title": "How composite signatures fit into PQC migration | DigiCert",
+   "url": "https://www.digicert.com/blog/how-composite-signatures-fit-into-pqc-migration",
+   "summary": "Migrating to post-quantum cryptography (PQC) will take time. During that transition, some organizations expect to use conventional and post-quantum algorithms together.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-08-11T17:23:18Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "10e8fbbe788b23ec",
    "title": "Quantum principle allows heat to flow from cold to hot",
    "url": "https://physicsworld.com/a/quantum-principle-allows-heat-to-flow-from-cold-to-hot/",
@@ -5458,6 +6179,21 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/which-cryptocurrencies-survive-quantum-computing.jpg",
    "lang": "en"
+  },
+  {
+   "id": "1c3538c9484dacf0",
+   "title": "Production ML-DSA Verification in 350 Lines of Python",
+   "url": "https://words.filippo.io/mldsa-py/",
+   "summary": "I am publishing a production, pure-Python ML-DSA verifier. It's just 350 lines, and pretty readable and robust.",
+   "source": "Filippo Valsorda",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-07-26T11:45:08Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://assets.buttondown.email/images/3f31264f-fd5c-4919-b109-7c727a5964bb.png"
   },
   {
    "id": "016eac1afe2b51c8",
@@ -5728,6 +6464,20 @@
    "lang": "en"
   },
   {
+   "id": "dcfb76e5f487359d",
+   "title": "Quantum readiness made practical | DigiCert",
+   "url": "https://www.digicert.com/blog/start-your-pqc-journey-with-quantum-central",
+   "summary": "A free preview of DigiCert Quantum Central, a new DigiCert ONE solution that helps organizations discover cryptographic assets, prioritize remediation, and track quantum readiness.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-07-13T17:38:50Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "844b7bd238ee15d1",
    "title": "What Is HNDL? Harvest Now, Decrypt Later, Explained",
    "url": "https://quantumzeitgeist.com/what-is-harvest-now-decrypt-later/",
@@ -5743,6 +6493,22 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/harvest-now-decrypt-later-hndl.jpg",
    "lang": "en"
+  },
+  {
+   "id": "e9756c5d734f9f13",
+   "title": "liboqs version 0.16.0",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.16.0",
+   "summary": "The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic algorithms. Details about…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-07-09T14:59:09Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "0f198f7aa5abf7b0",
@@ -6089,6 +6855,22 @@
    "first_seen": "2026-10-26T08:46:11Z"
   },
   {
+   "id": "27c6a2a511567bdd",
+   "title": "liboqs version 0.16.0-rc1",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.16.0-rc1",
+   "summary": "The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic algorithms. Details about…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-06-24T15:10:52Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "2fdfca55abbb7aad",
    "title": "Accompagner la transition vers la cryptographie post-quantique",
    "url": "https://campuscyber.fr/5893/",
@@ -6308,6 +7090,25 @@
    "image": "https://physicsworld.com/wp-content/uploads/2026/06/People-sitting-in-a-conference-room-listening-to-Janet-Coyle.jpg"
   },
   {
+   "id": "f614d01e2b125cc0",
+   "title": "A Post-Quantum Future for Let's Encrypt",
+   "url": "https://letsencrypt.org/2026/06/03/pq-certs.html",
+   "summary": "Let’s Encrypt is committed to a post-quantum-safe Web PKI. The path we’re planning to take is Merkle Tree Certificates (“MTCs”), a new approach that adds post-quantum authentication to the web without sacrificing the speed and reliability that have made TLS universal. This post is about these plans and why we believe MTCs are worth pursuing as a…",
+   "source": "Let's Encrypt",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques",
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-06-03T00:00:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://letsencrypt.org/images/blog/2026.06.03-pq-certs-handshake-size.svg"
+  },
+  {
    "id": "738e943cde77a201",
    "title": "DASTE: Decentralized Ad-Hoc Access-Structured Threshold Encryption with Dynamic Policy Evolution",
    "url": "https://eprint.iacr.org/2026/1141",
@@ -6397,6 +7198,22 @@
    "first_seen": "2026-10-26T08:46:11Z"
   },
   {
+   "id": "eb901564de063cad",
+   "title": "NIST Releases Quantum-safe Cryptography Standards: What Happens Now? | DigiCert",
+   "url": "https://www.digicert.com/blog/nist-pqc-standards-are-here",
+   "summary": "Cryptography is crucial to digital trust - from online banking and cloud infrastructure to iPhone backups and digitally signed documents. The cryptography behind these interactions enables us to trust them as authentic.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-05-01T15:25:59Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "813590a486ebf7cb",
    "title": "The weirdness of quantum contextuality is not a bug – it’s a feature",
    "url": "https://physicsworld.com/a/the-weirdness-of-quantum-contextuality-is-not-a-bug-its-a-feature/",
@@ -6452,6 +7269,21 @@
    ],
    "date": "2026-04-21T00:00:00Z",
    "first_seen": "2026-10-20T12:52:48Z"
+  },
+  {
+   "id": "c7d2a44b32b6462f",
+   "title": "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
+   "url": "https://words.filippo.io/128-bits/",
+   "summary": "There is no need to update symmetric key sizes as part of the post-quantum transition, due to the details of how Grover's algorithm scales. Most authorities agree.",
+   "source": "Filippo Valsorda",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-04-20T15:21:12Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://assets.buttondown.email/images/0f86b37f-5bdb-4151-928e-5e3812a29dc9.png?w=960&fit=max"
   },
   {
    "id": "161f791bf6006b6d",
@@ -6524,6 +7356,21 @@
    "date": "2026-04-10T10:27:14Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://www.pasqal.com/wp-content/uploads/2026/04/2026.04-Blog-Logiqa.png?w=570&h=352&quality=80&strip=all"
+  },
+  {
+   "id": "bcb714dd695185d7",
+   "title": "A Cryptography Engineer’s Perspective on Quantum Computing Timelines",
+   "url": "https://words.filippo.io/crqc-timeline/",
+   "summary": "The risk that cryptographically-relevant quantum computers materialize within the next few years is now high enough to be dispositive, unfortunately.",
+   "source": "Filippo Valsorda",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-04-06T15:00:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://assets.buttondown.email/images/c768727d-01a9-4f44-919b-bab3c84cb81d.png?w=960&fit=max"
   },
   {
    "id": "ab629f90ae7c21f4",
@@ -6763,6 +7610,20 @@
    "first_seen": "2026-10-26T08:46:11Z"
   },
   {
+   "id": "34d9ad70471fb649",
+   "title": "How Google's Merkle Tree Certificates Reshape Web Trust | DigiCert",
+   "url": "https://www.digicert.com/blog/google-merkle-tree-certificates",
+   "summary": "Google is already live-testing Merkle Tree Certificates with Cloudflare and has outlined a three-phase roadmap that includes a new quantum-resistant root store by late 2027.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-03-03T19:53:42Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "0acb3c1186b7ace5",
    "title": "Cultivating a robust and efficient quantum-safe HTTPS",
    "url": "http://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
@@ -6808,6 +7669,22 @@
    ],
    "date": "2026-02-25T16:25:37Z",
    "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "cad544585d99d90a",
+   "title": "Why Analysts See CLM as Mission-Critical in 2026 | DigiCert",
+   "url": "https://www.digicert.com/blog/why-clm-is-mission-critical-in-2026",
+   "summary": "Shorter certificate lifespans, persistent outage risks from expired certificates, and the growing urgency of post-quantum cryptography (PQC) have pushed certificate lifecycle management.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-02-20T19:12:48Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "b8d7026ce77efcca",
@@ -6912,6 +7789,36 @@
    ],
    "date": "2026-02-06T09:00:04Z",
    "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "18a6108188f3ca25",
+   "title": "No Time to Wait: PQC Pressure from the Dept. of War | DigiCert",
+   "url": "https://www.digicert.com/blog/no-time-to-wait-pqc-pressure-from-the-dept-of-war",
+   "summary": "DoW Mandate: Why Post-Quantum Cryptography Migration is Urgent. Stay ahead of quantum threats with DigiCert’s breakdown of the latest government memorandum.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-02-02T16:27:38Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "080ce781cac710c9",
+   "title": "What the Dept. Of War’s PQC Push Reveals about Cryptographic Debt | DigiCert",
+   "url": "https://www.digicert.com/blog/what-dow-pqc-push-reveals-about-cryptographic-debt",
+   "summary": "Dept. of War PQC guidance highlights cryptographic debt. Learn why PQC timelines are compressing—and why crypto inventories and ownership matter.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-02-02T13:59:51Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "164f52fde1210f4b",
@@ -7616,6 +8523,21 @@
    "image": "https://physicsworld.com/wp-content/uploads/2025/11/2025-11-careers-demming-shelbaya-635x635.jpg"
   },
   {
+   "id": "f9ee5f927d9b76f2",
+   "title": "New \"Generation Y\" Hierarchy of Root and Intermediate Certificates",
+   "url": "https://letsencrypt.org/2025/11/24/gen-y-hierarchy.html",
+   "summary": "In a ceremony held in September, Let’s Encrypt generated two new Root Certification Authorities (CAs) and six new Intermediate CAs, which we’re collectively calling the “Generation Y” hierarchy. Now we’re moving to begin issuing certificates from this new hierarchy, and to submit it to various root programs for inclusion in their trust stores. The…",
+   "source": "Let's Encrypt",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-11-24T00:00:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://letsencrypt.org/images/blog/2025-11-24-gen-y-hierarchy.png"
+  },
+  {
    "id": "907112ee94ded958",
    "title": "Quantum 2.0: Paul Davies on the next revolution in physics",
    "url": "https://physicsworld.com/a/quantum-2-0-paul-davies-on-the-next-revolution-in-physics/",
@@ -7628,6 +8550,21 @@
    ],
    "date": "2025-11-19T13:00:07Z",
    "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "d66892cb359d6d59",
+   "title": "liboqs version 0.15.0",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.15.0",
+   "summary": "The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic algorithms. Details about…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2025-11-14T21:37:49Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "6d5eeecc92c25b15",
@@ -7643,6 +8580,21 @@
    "date": "2025-11-13T21:01:33Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/690b7e9735632d985a336a96_helios-blog-media-preview.png"
+  },
+  {
+   "id": "95cb1bf700546c83",
+   "title": "liboqs version 0.15.0-rc2",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.15.0-rc2",
+   "summary": "liboqs version 0.15.0-rc2 The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2025-11-12T21:34:48Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "8375cc050b9790d7",
@@ -7734,6 +8686,20 @@
    ],
    "date": "2025-11-10T00:00:00Z",
    "first_seen": "2026-10-20T12:52:48Z"
+  },
+  {
+   "id": "2c79549a5277761f",
+   "title": "Why Shorter TLS Validity Raises the Bar | DigiCert",
+   "url": "https://www.digicert.com/blog/crypto-agility-in-action",
+   "summary": "On October 21, quantum leaders gathered in London for a hands-on discussion on post-quantum readiness as part of DigiCert’s World Quantum Readiness Workshop series.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-11-05T16:52:24Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "08b6fce2a0d2ef48",
@@ -7872,6 +8838,21 @@
    "image": "https://physicsworld.com/wp-content/uploads/2025/10/eedl-jsne.jpg"
   },
   {
+   "id": "e2a127221601c429",
+   "title": "liboqs version 0.15.0-rc1",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.15.0-rc1",
+   "summary": "liboqs version 0.15.0-rc1 The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2025-10-28T00:26:30Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "c4b37a748b8fb5c3",
    "title": "Performance metrics and benchmarks point the way to practical quantum advantage",
    "url": "https://physicsworld.com/a/performance-metrics-and-benchmarks-point-the-way-to-practical-quantum-advantage/",
@@ -7976,6 +8957,50 @@
    "first_seen": "2026-10-26T08:46:11Z"
   },
   {
+   "id": "788e2037ac734e8f",
+   "title": "Networking4All + DigiCert: Putting the Future of the Customer First | DigiCert.com",
+   "url": "https://www.digicert.com/blog/networking4all-digicert-putting-the-future-of-the-customer-first",
+   "summary": "Networking4All + DigiCert. The biggest challenge today is that companies don’t think they’re at risk. In DigiCert, Networking4All has found a partner that shares the customer-first focus and the perspective to be ready for the post-quantum changes ahead.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-25T18:01:26Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "e62b84387b42a64c",
+   "title": "The Impact of Quantum Computing on Society | Post Quantum Cryptography | DigiCert",
+   "url": "https://www.digicert.com/blog/the-impact-of-quantum-computing-on-society",
+   "summary": "Quantum computing has the potential to be “as revolutionary in the 2020s as smartphones were in the 2010s,” according to current strategists. The benefits of quantum computing will extend to all aspects of society. Quantum computing will quite literally change the world in various sectors including privacy, finance, healthcare, entertainment and…",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2025-09-22T19:26:47Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "702526f64227ed33",
+   "title": "How to Improve your Organization's Crypto-Agility | DigiCert.com",
+   "url": "https://www.digicert.com/blog/how-to-improve-your-crypto-agility",
+   "summary": "How to Improve your Crypto-Agility. Securing devices and applications and becoming “crypto agile” is fundamental to an organization’s effort to stay secure as the number of IoT devices increase in world full of quantum computers.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-22T18:22:56Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "2fc73e75c942b6c4",
    "title": "Delft Circuits: cryogenic RF cable innovations offer a flexible path to quantum scalability",
    "url": "https://physicsworld.com/a/delft-circuits-cryogenic-rf-cable-innovations-offer-a-flexible-path-to-quantum-scalability/",
@@ -8047,6 +9072,142 @@
    "date": "2025-09-15T20:42:34Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68a72b367c6404280f6b4d90_software-stack-technical-media-preview-rev.png"
+  },
+  {
+   "id": "803cf6fc3198d023",
+   "title": "Quantum-Ready FN-DSA (FIPS 206) Nears Draft Approval from NIST | DigiCert",
+   "url": "https://www.digicert.com/blog/quantum-ready-fndsa-nears-draft-approval-from-nist",
+   "summary": "One of the most anticipated developments? FN-DSA (FIPS 206), the FALCON-based digital signature scheme, has now been submitted to NIST for approval as a draft standard.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2025-09-05T17:07:46Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "70b5ce474bfe98be",
+   "title": "DigiCert Labs: Innovating for a Secure Digital Future | DigiCert",
+   "url": "https://www.digicert.com/blog/digicert-labs-innovating-for-a-secure-digital-future",
+   "summary": "PQC, IoT and AI: three tiny acronyms making massive waves in the world of digital security. But those best prepared for the threats and innovations we know are coming aren’t just reading about them.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-05T13:47:45Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "cbbbc74cffec5a3e",
+   "title": "Is Kyber Vulnerable? A Look At The Math And Implementation | DigiCert",
+   "url": "https://www.digicert.com/blog/is-kyber-vulnerable-look-at-the-math-and-implementation",
+   "summary": "Recent reports indicate the Kyber ML-KEM protection against post-quantum cryptography (PQC) has a serious flaw. The full picture is more complicated.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2025-09-05T13:47:42Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "b4907026d0fd9e11",
+   "title": "The Challenges Of Achieving Crypto-Agility For Private Keys | DigiCert",
+   "url": "https://www.digicert.com/blog/managing-private-keys-in-a-pqc-world",
+   "summary": "DigiCert recently sponsored a Ponemon survey that revealed 61% of IT leaders are concerned their organizations are unprepared to address the security implications of quantum computing.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-05T13:47:33Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "b8df6239e65cc259",
+   "title": "NIST Announces Selection of First Quantum-Resistant Cryptographic Algorithms | DigiCert",
+   "url": "https://www.digicert.com/blog/nist-announces-selection-of-first-quantum-resistant-cryptographic-algorithms",
+   "summary": "Quantum computers could break the internet. Well, not exactly. That’s why NIST has been reviewing potential cryptographic algorithms that could withstand both traditional and quantum computers. Read more about how this announcement signals that it’s time to start preparing for when NIST’s standards go into place.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Normes & politiques",
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2025-09-05T13:47:27Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "1fb59f5dce03ffbb",
+   "title": "PKIlint and the Path to Interoperable, Quantum-Safe PKI | DigiCert",
+   "url": "https://www.digicert.com/blog/pkilint-and-the-path-to-interoperable-quantum-safe-pki",
+   "summary": "Without interoperability, the adoption of new cryptographic algorithms would lead to isolated silos of incompatible systems, breaking the seamless interactions.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2025-09-05T13:47:26Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "4feb105593565c5a",
+   "title": "An In-Depth Look At The NIST PQC Algorithms | DigiCert",
+   "url": "https://www.digicert.com/blog/in-depth-look-at-the-nist-pqc-algorithms",
+   "summary": "One crucial detail missing from many of the conversations around NIST’s long-awaited release of the final specifications for several post-quantum cryptography (PQC) algorithms",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2025-09-05T13:47:17Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "d4026b24b4540262",
+   "title": "Unlocking Crypto-Agility: Simplifying PKI Management with DigiCert and HashiCorp | DigiCert",
+   "url": "https://www.digicert.com/blog/unlocking-cryptoagility-and-simplifying-pki-management",
+   "summary": "DigiCert Trust Lifecycle Manager (TLM) integrates with HashiCorp’s Vault Enterprise Secrets Engine to streamline Public Key Infrastructure (PKI) management.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-09-05T13:47:12Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "ca9d6a3c24905043",
+   "title": "How Will Quantum Computing Impact IoT Security? | DigiCert",
+   "url": "https://www.digicert.com/blog/how-will-quantum-computing-impact-iot-security",
+   "summary": "Quantum computers could break many of the encryption algorithms currently used to secure digital trust. Thus, we’re exploring how quantum computing will impact security of various interactions.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2025-09-04T18:18:37Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "90f7bf52db047d26",
@@ -8243,6 +9404,22 @@
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67360466b028e703978fa865_QEC-media-preview.png"
   },
   {
+   "id": "69a3ed65740b130b",
+   "title": "liboqs version 0.14.0",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.14.0",
+   "summary": "liboqs version 0.14.0 About The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2025-07-10T17:47:36Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "428c1e6cc6f8e2df",
    "title": "Cracking the code of superconductors: quantum computers just got closer to the dream",
    "url": "https://www.quantinuum.com/blog/cracking-the-code-of-superconductors-quantum-computers-just-got-closer-to-the-dream",
@@ -8304,6 +9481,22 @@
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66df2ceff54611ac9f775ed6_algorithmic-qubits-media-preview.png"
   },
   {
+   "id": "a9fbbb0b6087d3cd",
+   "title": "liboqs version 0.14.0-rc1",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.14.0-rc1",
+   "summary": "liboqs version 0.14.0-rc1 About The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2025-06-25T20:42:57Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "a1ef10e0eacf8b22",
    "title": "Quantinuum accelerates the path to Universal Fully Fault-Tolerant Quantum Computing; supports Microsoft’s AI and quantum-powered compute platform and “the path to a Quantum Supercomputer”",
    "url": "https://www.quantinuum.com/blog/quantinuum-accelerates-the-path-to-universal-fault-tolerant-quantum-computing-supports-microsofts-ai-and-quantum-powered-compute-platform-and-the-path-to-a-quantum-supercomputer",
@@ -8317,6 +9510,23 @@
    "date": "2025-05-27T13:16:34Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e4791a243b8c5e5debca44_roadmap-media-preview.png"
+  },
+  {
+   "id": "f5cdbc6220aa5bc9",
+   "title": "Working on Post-Quantum Cryptography for Open Source Software from Africa",
+   "url": "http://www.ietf.org/blog/open-source-software-post-quantum-cryptography-from-africa/",
+   "summary": "During the IETF 122 Hackathon in Bangkok and online last month, the cyberstorm.mu team from Mauritius, the United States, and Kenya participated remotely to implement post-quantum cryptography components currently missing from widely-used open source software such as nmap, zmap, wireshark, and GnuTLS.",
+   "source": "IETF – blog",
+   "category": "Officiel",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2025-04-30T14:33:00Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "3b04bec2d7bec3ca",
@@ -8348,6 +9558,22 @@
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/673cf954ce0dec158426f99d_01_quantinuum-systems-media-preview.png"
   },
   {
+   "id": "4a135629d8e890e2",
+   "title": "liboqs version 0.13.0",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.13.0",
+   "summary": "liboqs version 0.13.0 About The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2025-04-17T15:06:05Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
    "id": "3f49216d415a954c",
    "title": "Quantinuum and Google DeepMind Unveil the Reality of the Symbiotic Relationship Between Quantum and AI",
    "url": "https://www.quantinuum.com/blog/quantinuum-and-google-deepmind-unveil-the-reality-of-the-symbiotic-relationship-between-quantum-and-ai",
@@ -8377,6 +9603,22 @@
    "date": "2025-04-04T14:12:43Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67efe7d2a9ebfe65486674c0_NIST-blog-media-preview%201%20(1).png"
+  },
+  {
+   "id": "4a5f5d01cad7e3ba",
+   "title": "liboqs version 0.13.0-rc1",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.13.0-rc1",
+   "summary": "liboqs version 0.13.0-rc1 About The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2025-04-02T15:23:58Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "124883cf616bb1e4",
@@ -8424,6 +9666,56 @@
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67bde477b43672918cd90acb_complement-sampling-media-preview.png"
   },
   {
+   "id": "56db5960a328bab5",
+   "title": "The NIST standards for quantum-safe cryptography | DigiCert",
+   "url": "https://www.digicert.com/blog/nist-standards-for-quantum-safe-cryptography",
+   "summary": "For nearly a decade, the world’s leading cryptographers have been collaborating with the National Institute of Standards and Technology (NIST) to create new algorithms to safeguard us.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques",
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2025-02-07T16:22:23Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "a4e00f34a13cad11",
+   "title": "Tracking the progress toward post-quantum cryptography | DigiCert",
+   "url": "https://www.digicert.com/blog/the-progress-toward-post-quantum-cryptography",
+   "summary": "The National Institute of Standards and Technology (NIST) has been leading efforts to standardize post-quantum cryptography (PQC) algorithms.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2025-02-07T15:05:17Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "45d52f2f70118ef0",
+   "title": "OpenSSL 3.5: Upcoming Release Announcement",
+   "url": "https://openssl-library.org/post/2025-02-04-release-announcement-3.5/",
+   "summary": "The freeze date for OpenSSL 3.5 Alpha is rapidly approaching. If you have a feature on the planning page, please ensure that your associated PRs are posted, reviewed, and ready to be merged before the include/exclude decision date ( Tuesday, February 11, 2025 ) and merged before the repository freeze date ( Tuesday, February 25, 2025 ). Otherwise…",
+   "source": "OpenSSL",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2025-02-04T00:00:00Z",
+   "first_seen": "2026-10-26T09:55:10Z",
+   "image": "https://openssl-library.org/images/blog/release-3.5.svg"
+  },
+  {
    "id": "fb3c5dbaa8b7c111",
    "title": "Quantinuum’s H-Series hits 56 physical qubits that are all-to-all connected, and departs the era of classical simulation",
    "url": "https://www.quantinuum.com/blog/quantinuums-h-series-hits-56-physical-qubits-that-are-all-to-all-connected-and-departs-the-era-of-classical-simulation",
@@ -8437,6 +9729,36 @@
    "date": "2025-01-29T00:20:30Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21c8107881ef1878a98_666066b2b75b0f6ac8d9c862_n%253D56-media-preview_r01.png"
+  },
+  {
+   "id": "283e39b14ee36b03",
+   "title": "OpenSSL Position and Plans on Private Key Formats for the ML-KEM and ML-DSA Post-quantum (PQ) Algorithms",
+   "url": "https://openssl-library.org/post/2025-01-21-blog-positionandplans/",
+   "summary": "The anticipated future arrival of cryptographically relevant quantum computers (CRQCs), that could undermine the algorithms that underlie the currently most widely used public key algorithms (ECDHE, ECDSA, DH and RSA), has led to the development and recent standardisation of new “post-quantum” (PQ) algorithms, that are believed to not be…",
+   "source": "OpenSSL",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2025-01-21T00:00:00Z",
+   "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "f5de5802596d0702",
+   "title": "liboqs version 0.12.0",
+   "url": "https://github.com/open-quantum-safe/liboqs/releases/tag/0.12.0",
+   "summary": "liboqs version 0.12.0 About The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography. More information on OQS can be found on our website: https://openquantumsafe.org/ and on Github at https://github.com/open-quantum-safe/ . liboqs is an open source C library for quantum-resistant cryptographic…",
+   "source": "Open Quantum Safe (liboqs)",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2024-12-10T01:29:13Z",
+   "first_seen": "2026-10-26T09:55:10Z"
   },
   {
    "id": "e55a22e0d8674b9c",
