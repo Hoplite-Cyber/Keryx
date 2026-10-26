@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T15:53:00Z",
- "count": 629,
+ "generated_at": "2026-10-26T19:52:33Z",
+ "count": 630,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 18
+   "kept": 17
   },
   {
    "name": "arXiv quant-ph",
@@ -173,8 +173,9 @@
   {
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "fetched": 20,
+   "kept": 0
   },
   {
    "name": "InCyber",
@@ -215,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 4,
+   "fetched": 7,
    "kept": 0
   },
   {
@@ -284,8 +285,9 @@
   {
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "fetched": 20,
+   "kept": 0
   },
   {
    "name": "Futura Sciences",
@@ -305,7 +307,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 782,
+   "fetched": 783,
    "kept": 39
   },
   {
@@ -356,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T15:53:00Z",
+   "date": "2026-10-26T19:52:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -370,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-26T15:53:00Z",
+   "date": "2026-10-26T19:52:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -386,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-26T15:53:00Z",
+   "date": "2026-10-26T19:52:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -401,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T15:53:00Z",
+   "date": "2026-10-26T19:52:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -416,9 +418,26 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-26T15:53:00Z",
+   "date": "2026-10-26T19:52:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "7c3d9fe9d3329f44",
+   "title": "IDEMIA Secure Transactions Collaborates With KT in Advancing Post-Quantum Security For South Korea’s Defense Communications",
+   "url": "https://thequantuminsider.com/2026/10/26/idemia-secure-transactions-collaborates-with-kt-in-advancing-post-quantum-security-for-south-koreas-defense-communications/",
+   "summary": "Insider Brief PRESS RELEASE — IDEMIA Secure Transactions (IST), a global leader in payment, connectivity and cybersecurity, is collaborating with KT, a major South Korean mobile network operator, on South Korea’s 2026 Post-Quantum Cryptography (PQC) Pilot Conversion Project. The project is organized by the Ministry of Science and ICT (MSIT) and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-26T16:38:00Z",
+   "first_seen": "2026-10-26T19:52:33Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/qjsmpf0ao48.jpg"
   },
   {
    "id": "cd80bd4467690f14",
