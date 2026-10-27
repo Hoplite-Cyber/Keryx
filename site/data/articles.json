@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T14:37:28Z",
- "count": 655,
+ "generated_at": "2026-10-27T19:41:15Z",
+ "count": 660,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 18
+   "kept": 20
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 171
+   "kept": 172
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 7
   },
   {
    "name": "ETSI – actualités",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 13,
+   "fetched": 14,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-27T14:37:28Z",
+   "date": "2026-10-27T19:41:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-27T14:37:28Z",
+   "date": "2026-10-27T19:41:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-27T14:37:28Z",
+   "date": "2026-10-27T19:41:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-27T14:37:28Z",
+   "date": "2026-10-27T19:41:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,60 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-27T14:37:28Z",
+   "date": "2026-10-27T19:41:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "85a38d52c671a857",
+   "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+   "url": "https://thequantuminsider.com/2026/10/27/nist-report-provides-guidelines-for-transition-to-post-quantum-cryptography-standards/",
+   "summary": "Insider Brief PRESS RELEASE — In August 2024, the National Institute of Standards and Technology (NIST) released post-quantum cryptography (PQC) standards made to withstand the assault of a future quantum computer. Now, the agency has released its high-level road map to help organizations switch to these standards. The report, Transition to…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-27T18:24:05Z",
+   "first_seen": "2026-10-27T19:41:15Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-2.17.42-PM-1.png"
+  },
+  {
+   "id": "58f8482224ff1c22",
+   "title": "Guest Post: The Next Threat to Encryption May Not Need a Quantum Computer",
+   "url": "https://thequantuminsider.com/2026/10/27/guest-post-the-next-threat-to-encryption-may-not-need-a-quantum-computer/",
+   "summary": "Guest Post by Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo, Prof. Irit Hadar, Dean, Faculty of Computer and Information Science & Director, Center for Cyber, Law and Policy, University of Haifa; Sean Galantzan, Researcher, Tel Aviv University and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-27T16:37:43Z",
+   "first_seen": "2026-10-27T19:41:15Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/c5pxrfejq3w.jpg"
+  },
+  {
+   "id": "8044a5241939a3da",
+   "title": "NIST lays out a plan for quantum-proof encryption",
+   "url": "https://quantumzeitgeist.com/quantum-proof-encryption-nist-lays-out/",
+   "summary": "NIST released NISTIR 8547, a report detailing the transition to post-quantum cryptography standards, necessary to protect data from future quantum computer attacks.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "Normes & politiques",
+    "QKD"
+   ],
+   "date": "2026-10-27T14:59:23Z",
+   "first_seen": "2026-10-27T19:41:15Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/nist-lays-out-plan-quantum-proof-scaled.jpeg"
   },
   {
    "id": "d70e00d04bf5b54f",
@@ -6150,6 +6201,20 @@
    "lang": "en"
   },
   {
+   "id": "a2e5c678a30fdab7",
+   "title": "Faster Post-Quantum zkSNARK Provers Using the LCH Polynomial Basis",
+   "url": "https://eprint.iacr.org/2026/1784",
+   "summary": "An important class of plausibly post-quantum zkSNARKs uses univariate-polynomial interactive oracle proofs (IOPs) over binary extension fields $\\mathbb{F}_{2^k}$, relying on the Fast Reed--Solomon (RS) Interactive Oracle Proof of Proximity (FRI) for low-degree testing. Their provers fold RS codewords in FRI and perform polynomial arithmetic…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-08-23T19:00:18Z",
+   "first_seen": "2026-10-27T19:41:15Z"
+  },
+  {
    "id": "2acbb843107699fd",
    "title": "Researchers Achieve 0.93 Mbit/sec Key Rate Via Squeezed-State QKD",
    "url": "https://quantumzeitgeist.com/squeezed-state-qkd-fibre-free-space-key-rate/",
@@ -9980,6 +10045,21 @@
    "date": "2025-07-01T17:13:15Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66df2ceff54611ac9f775ed6_algorithmic-qubits-media-preview.png"
+  },
+  {
+   "id": "382982e255143b0d",
+   "title": "Ring-LWR based Commitments and ZK-PoKs with Application to Verifiable Quantum-Safe Searchable Symmetric Encryption",
+   "url": "https://eprint.iacr.org/2025/1216",
+   "summary": "Prior research on ensuring trust in delegated computation through lattice-based zero-knowledge proofs mostly rely on Learning-With-Errors (LWE) assumption. In this work, we propose a zero-knowledge proof of knowledge using the Ring Learning with Rounding (RLWR) assumption for an interesting and useful class of statements: linear relations on…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2025-06-30T06:34:46Z",
+   "first_seen": "2026-10-27T19:41:15Z"
   },
   {
    "id": "a9fbbb0b6087d3cd",
