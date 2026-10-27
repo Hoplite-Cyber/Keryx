@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T08:18:33Z",
- "count": 641,
+ "generated_at": "2026-10-27T14:37:28Z",
+ "count": 655,
  "sources": [
   {
    "name": "ANSSI",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -147,7 +147,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 50,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "BleepingComputer",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 8,
+   "fetched": 13,
    "kept": 0
   },
   {
@@ -252,7 +252,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 5
+   "kept": 6
   },
   {
    "name": "Quantinuum",
@@ -266,7 +266,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 48
+   "kept": 47
   },
   {
    "name": "Pasqal",
@@ -294,7 +294,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Post-Quantum.com",
@@ -348,21 +348,6 @@
  ],
  "articles": [
   {
-   "id": "391665d80276ae24",
-   "title": "Intel rachète Classiq pour devenir un acteur « full-stack » de l’informatique quantique",
-   "url": "https://www.zdnet.fr/actualites/intel-rachete-classiq-pour-devenir-un-acteur-full-stack-de-linformatique-quantique-506539.htm#xtor=RSS-1",
-   "summary": "Intel a officialisé l’acquisition de Classiq, une jeune pousse israélienne dont la plateforme génère automatiquement des algorithmes quantiques.",
-   "source": "ZDNet France",
-   "category": "Presse spécialisée",
-   "lang": "fr",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-10-27T09:10:48Z",
-   "first_seen": "2026-10-27T08:18:33Z",
-   "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/08/intel-gettyimages-2021265321.webp"
-  },
-  {
    "id": "f6a5343802cba0e8",
    "title": "Post-quantum encryption for modern security",
    "url": "https://pqshield.com/post-quantum-cryptography/",
@@ -373,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-27T08:18:33Z",
+   "date": "2026-10-27T14:37:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-27T08:18:33Z",
+   "date": "2026-10-27T14:37:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-27T08:18:33Z",
+   "date": "2026-10-27T14:37:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-27T08:18:33Z",
+   "date": "2026-10-27T14:37:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -433,9 +418,208 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-27T08:18:33Z",
+   "date": "2026-10-27T14:37:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "d70e00d04bf5b54f",
+   "title": "Quantinuum and GE Vernova Collaborate to Advance High-Temperature Superconductivity Research",
+   "url": "https://thequantuminsider.com/2026/10/27/quantinuum-and-ge-vernova-collaborate-to-advance-high-temperature-superconductivity-research/",
+   "summary": "Insider Brief PRESS RELEASE — Quantinuum and GE Vernova’s Advanced Research Center are launching a collaboration to apply quantum computing to one of the research community’s most consequential challenges: understanding the behavior behind high-temperature superconductivity. Advances in this field could, over the long term, transform the energy…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T12:50:33Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantinuum-and-GE-in-quantum-waves-1.png"
+  },
+  {
+   "id": "7891e839ccf6d6dc",
+   "title": "Quantinuum and GE Vernova Collaborate to Advance High-Temperature Superconductivity Research",
+   "url": "https://www.quantinuum.com/blog/quantinuum-and-ge-vernova-collaborate-to-advance-high-temperature-superconductivity-research",
+   "summary": "Quantinuum and GE Vernova’s Advanced Research Center are launching a collaboration to apply quantum computing to one of the research community’s most consequential challenges: understanding the behavior behind high-temperature superconductivity. Advances in this field could, over the long term, transform the energy sector by enabling lighter…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T12:00:06Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6adfdfae73f315dc02acbe1c_GE_MP%201.png"
+  },
+  {
+   "id": "73a3b515772d1b74",
+   "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+   "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+   "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
+   "source": "NIST",
+   "category": "Officiel",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-27T12:00:00Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://www.nist.gov/sites/default/files/styles/social/public/images/2023/08/22/PQC_Algo_Pre-standardization-vid.jpg?itok=QoP6Ie_b"
+  },
+  {
+   "id": "1d29169ffbabc426",
+   "title": "Modular quantum computing takes shape with l-couplers",
+   "url": "https://research.ibm.com/blog/connecting-quantum-processors-with-l-couplers?utm_medium=rss&utm_source=rss",
+   "summary": "IBM researchers achieve a critical advance for scaling quantum computers.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T12:00:00Z",
+   "first_seen": "2026-10-27T14:37:28Z"
+  },
+  {
+   "id": "b434e7ad4a7b0ac3",
+   "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+   "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+   "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since…",
+   "source": "The Hacker News",
+   "category": "Actualité cyber",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-27T11:32:31Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg"
+  },
+  {
+   "id": "f8d8e95801fea0a1",
+   "title": "Keyfactor maps five stages to quantum-safe cryptography",
+   "url": "https://quantumzeitgeist.com/quantum-safe-cryptography-keyfactor-maps-five/",
+   "summary": "Keyfactor details Stage 4 of PQC readiness, scaling migration of priority systems for post-quantum security.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-27T10:49:58Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/post-363489.png"
+  },
+  {
+   "id": "ece218212c3ad02d",
+   "title": "Unexpected relaxation in a 2D quantum magnet on a 256-qubit processor",
+   "url": "https://www.pasqal.com/blog/unexpected-relaxation-in-a-2d-quantum-magnet-on-a-256-qubit-processor/",
+   "summary": "Author: Alexandre Dauphin (VP Quantum Materials) TL;DR – Using a 256-qubit Rydberg-atom quantum processing unit (QPU), we prepared a two-dimensional quantum magnet, suddenly changed its Hamiltonian and watched it relax. The system followed three paths. It could thermalize rapidly, remain in a long-lived prethermal state, or relax much more slowly…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T10:26:13Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://www.pasqal.com/wp-content/uploads/2026/10/Pasqal-Unexpected-Quantum-Magnet@2x.webp?w=1024"
+  },
+  {
+   "id": "0d59ad731f25930d",
+   "title": "Il avait pavé la voie aux ordinateurs quantiques avec atomes froids : le prix Nobel Claude Cohen-Tannoudji est décédé",
+   "url": "https://www.futura-sciences.com/sciences/actualites/physique-il-avait-pave-voie-ordinateurs-quantiques-atomes-froids-prix-nobel-claude-cohen-tannoudji-decede-138842/#xtor%3DRSS-8",
+   "summary": "Il avait compris comment refroidir proche du zéro absolu des atomes et comment les piéger avec des lasers, tout en étant un enseignant hors pair en ce qui concerne la physique quantique pour des générations d'étudiants, avec notamment un célèbre traité qu'il avait coécrit avec deux collègues. Le...",
+   "source": "Futura Sciences",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T10:03:12Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://cdn8.futura-sciences.com/buildsv6/images/wide1920/2/1/b/21b2258a10_50262557_claude-cohen-tannoudji-laboratoire-amir-bernat-chat-gpt.jpg"
+  },
+  {
+   "id": "48b6edd76d6c877d",
+   "title": "Researchers Trace Leaks in Quantum Secrets",
+   "url": "https://quantumzeitgeist.com/quantum-secret-sharing-leak-accountability-mechanisms/",
+   "summary": "Quantum information is typically secured by *preventing* access, but what happens when a share is compromised or deliberately faked. New work establishes explicit methods to trace leaked portions of an encrypted message, or pinpoint those submitting false data during decryption attempts. This framework builds accountability directly into quantum…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-27T09:50:19Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-trace-leaks-in-quantum-secrets-scaled.jpeg"
+  },
+  {
+   "id": "a8d10e8209b1dd6f",
+   "title": "Researchers Bound Signature Forgery to Q/q + 1/(q-1) Probability",
+   "url": "https://quantumzeitgeist.com/blockchains-signature-forgery-probability-bound-qq1q/",
+   "summary": "Existing permissioned blockchains face a stark choice: rely on vulnerable cryptography or suffer massive performance penalties when upgrading to quantum resistance. Now, a new signature scheme, SILMARILS-MV, cuts verification costs by up to 22 times compared to current methods using just 71 KiB of authentication traffic per validator in networks…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-27T09:39:33Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-bound-signature-forgery-to-qq-1q-1-probability.png"
+  },
+  {
+   "id": "391665d80276ae24",
+   "title": "Intel rachète Classiq pour devenir un acteur « full-stack » de l’informatique quantique",
+   "url": "https://www.zdnet.fr/actualites/intel-rachete-classiq-pour-devenir-un-acteur-full-stack-de-linformatique-quantique-506539.htm#xtor=RSS-1",
+   "summary": "Intel a officialisé l’acquisition de Classiq, une jeune pousse israélienne dont la plateforme génère automatiquement des algorithmes quantiques.",
+   "source": "ZDNet France",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T09:10:48Z",
+   "first_seen": "2026-10-27T08:18:33Z",
+   "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/08/intel-gettyimages-2021265321.webp"
+  },
+  {
+   "id": "3e4fba4473cecf6c",
+   "title": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage",
+   "url": "https://thequantuminsider.com/2026/10/27/openai-computing-claim-faces-review-raising-questions-about-quantum-advantage/",
+   "summary": "Insider Brief OpenAI has enlisted outside researchers to examine an AI-generated proof that it says overturns a longstanding assumption about computing’s limits, according to a company news release that identifies three scientific advances under scrutiny. The claim concerns the Exponential Time Hypothesis, or ETH, which describes how quickly the…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T08:55:21Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Branching-paths-in-quantum-complexity-1.png"
+  },
+  {
+   "id": "aa6e16138ccb4f83",
+   "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
+   "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
+   "summary": "Insider Brief IBM researchers connected two quantum processors through four superconducting cables, demonstrating a way to build larger quantum computers from separate chips. The links transferred quantum states with an average fidelity of 99% and supported operations between computing elements on different processors, according to a study posted…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T08:01:04Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.58.24-AM.png"
   },
   {
    "id": "d446f1e1e71f6a91",
@@ -3232,6 +3416,21 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/sealsqs-quantum-qs7001-expertise-backed-peer-scaled.jpeg",
    "lang": "en"
+  },
+  {
+   "id": "8cdd3986223bec79",
+   "title": "Hybrid Quantum–Computational Key Distribution with Reduced Assumptions (Short Paper)",
+   "url": "https://eprint.iacr.org/2026/2462",
+   "summary": "The HM-QCT protocol, presented by Mazzoncini et al. in 2025, uses a unique feature of quantum information to achieve quantum key distribution (QKD) with secret-key rates beyond standard constructions. The protocol has been designed in the hybrid quantum–computational time-lock (QCT) security model which imposes two independent (but related)…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-13T14:49:43Z",
+   "first_seen": "2026-10-27T14:37:28Z"
   },
   {
    "id": "7f40e7aba96a9946",
@@ -8061,6 +8260,22 @@
    "first_seen": "2026-10-19T14:47:11Z",
    "image": "https://www.nist.gov/sites/default/files/styles/social/public/images/2025/08/18/shutterstock_2491000037.jpg?itok=RJoyvcmO",
    "lang": "en"
+  },
+  {
+   "id": "0d12617c247507dc",
+   "title": "Isochronous Fixed-Weight Sampling in Hardware",
+   "url": "https://eprint.iacr.org/2026/218",
+   "summary": "We present hardware implementations of the recently proposed isochronous fixed-weight sampling algorithm by Décio Luiz Gazzoni Filho, Tomás S. R. Silva, Julio López (CiC vol. 1, 2024) and apply them to the post-quantum cryptographic algorithms NTRU-HPS, Streamlined NTRU Prime and Classic McEliece. We offer multiple implementations, optimized for…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-02-10T09:21:44Z",
+   "first_seen": "2026-10-27T14:37:28Z"
   },
   {
    "id": "0ae54c25c25961ba",
