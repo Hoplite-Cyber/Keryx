@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T08:43:35Z",
- "count": 666,
+ "generated_at": "2026-10-28T15:29:15Z",
+ "count": 678,
  "sources": [
   {
    "name": "ANSSI",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 172
+   "kept": 173
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 7
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -168,7 +168,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – sécurité",
@@ -196,7 +196,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Numerama",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 15,
+   "fetched": 13,
    "kept": 0
   },
   {
@@ -280,7 +280,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – quantique",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T08:43:35Z",
+   "date": "2026-10-28T15:29:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-28T08:43:35Z",
+   "date": "2026-10-28T15:29:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-28T08:43:35Z",
+   "date": "2026-10-28T15:29:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T08:43:35Z",
+   "date": "2026-10-28T15:29:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,134 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T08:43:35Z",
+   "date": "2026-10-28T15:29:15Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "6efe2fd899c4b5a6",
+   "title": "Qarakal Quantum And Quantum Elements Receive BIRD Foundation Grant For Quantum Computing Innovation With a $2.4 Million Budget",
+   "url": "https://thequantuminsider.com/2026/10/28/qarakal-quantum-and-quantum-elements-receive-bird-foundation-grant-for-quantum-computing-innovation-with-a-2-4-million-budget/",
+   "summary": "Insider Brief PRESS RELEASE — Quantum Elements and Qarakal Quantum today announced they have been selected by the Israel-U.S. Binational Industrial Research and Development (BIRD) Foundation to jointly develop a quantum simulation platform for understanding and designing the chemical reactions that occur on material surfaces. The project, one of…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-28T13:09:30Z",
+   "first_seen": "2026-10-28T15:29:15Z"
+  },
+  {
+   "id": "ac5b0a449c9c2e14",
+   "title": "Zumo and Quantum Chain Partner on Quantum-Resilient Finance",
+   "url": "https://thequantuminsider.com/2026/10/28/zumo-quantum-chain-quantum-resilient-finance/",
+   "summary": "Insider Brief PRESS RELEASE — Crypto-as-a-service platform Zumo has signed a Memorandum of Understanding (MoU) with Quantum Chain, a quantum-resilient blockchain and infrastructure platform, with the companies uniting to help safeguard the UK’s developing digital assets sector against the spectre of future quantum threats. There are growing fears…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T12:35:42Z",
+   "first_seen": "2026-10-28T15:29:15Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-34.png"
+  },
+  {
+   "id": "de7540b620c0523d",
+   "title": "Pasqal Launches AI Workflow for Cloud Quantum Experiments",
+   "url": "https://thequantuminsider.com/2026/10/28/pasqal-ai-workflow-cloud-quantum-experiments/",
+   "summary": "Insider Brief PRESS RELEASE — Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced the availability of an AI-assisted workflow on Pasqal Cloud. Available as a plugin for leading agentic coding environments, the new feature can take a well-defined scientific idea to a running experiment on a quantum processing…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-28T12:07:54Z",
+   "first_seen": "2026-10-28T15:29:15Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+  },
+  {
+   "id": "9fc3cf51112a8165",
+   "title": "Telkom, partners prepare Indonesia for post-quantum security",
+   "url": "https://quantumzeitgeist.com/bssn-telkom-partnership-post-quantum-prepare/",
+   "summary": "Telkom, BSSN, Peruri, and Danantara Indonesia formalized a collaboration at DTIIF 2026 to prepare Indonesia’s digital ecosystem for post-quantum cryptography.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T11:57:32Z",
+   "first_seen": "2026-10-28T15:29:15Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/telkom-partners-prepare-indonesia-for-post-quantum-security.webp"
+  },
+  {
+   "id": "66c1d725d15c50bf",
+   "title": "What NIST’s Post-Quantum Cryptography Plan Means For Companies And Their Suppliers",
+   "url": "https://thequantuminsider.com/2026/10/28/what-nists-post-quantum-cryptography-plan-means-for-companies-and-their-suppliers/",
+   "summary": "Insider Brief Companies buying software, renewing cloud contracts or designing connected devices may be making decisions that determine whether their systems can withstand a future quantum attack. That is one of the practical implications of the National Institute of Standards and Technology’s new report on the transition to post-quantum…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-28T11:44:14Z",
+   "first_seen": "2026-10-28T15:29:15Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Reconfiguring-the-enterprise-key-1.png"
+  },
+  {
+   "id": "d67d8b94dfd15b4d",
+   "title": "AWS adds a new encryption method to guard data from future quantum attacks",
+   "url": "https://quantumzeitgeist.com/aws-adds-encryption-method-guard/",
+   "summary": "AWS Key Management Service now supports ML-KEM, a NIST FIPS 203 post-quantum encryption method, guarding data from future quantum attacks.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-28T10:18:21Z",
+   "first_seen": "2026-10-28T15:29:15Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/duokey-lets-you-test-post-quantum-key-exchange-scaled.png"
+  },
+  {
+   "id": "1030544c2ad9059c",
+   "title": "Intel et l’informatique quantique : je t’aime, moi non plus",
+   "url": "https://next.ink/263995/intel-et-linformatique-quantique-je-taime-moi-non-plus/",
+   "summary": "Intel ne laisse pas tomber l’informatique quantique, la recherche continue. C’est en substance le message de son patron, mais aussi de ses équipes que nous avons rencontrées à Teratec. La nouvelle version de Tunnel Falls attendue pour 2024 n’a par contre jamais vu le jour. Cela fait bien longtemps qu’Intel s’intéresse à l’informatique quantique…",
+   "source": "Next",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-28T09:20:36Z",
+   "first_seen": "2026-10-28T15:29:15Z",
+   "image": "https://next.ink/wp-content/uploads/2023/12/Informatique-quantique6.jpg"
+  },
+  {
+   "id": "912754d112342de2",
+   "title": "Ordinateur quantique : Fujitsu présente un prototype basé sur un diamant",
+   "url": "https://www.lemagit.fr/actualites/366652697/Ordinateur-quantique-Fujitsu-presente-un-prototype-base-sur-un-diamant",
+   "summary": "Associé à des chercheurs néerlandais, le constructeur japonais utilise la structure cristalline pour mettre ses qubits à l’abri des interférences extérieures. Le dispositif fonctionne sans cuve d’azote liquide et pourrait s’installer en un grand nombre d’exemplaires dans un datacenter.",
+   "source": "LeMagIT – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-28T05:45:00Z",
+   "first_seen": "2026-10-28T15:29:15Z"
   },
   {
    "id": "2cca57e1bc1343fc",
@@ -614,6 +739,22 @@
    "first_seen": "2026-10-28T08:43:35Z"
   },
   {
+   "id": "dd295059dd6863e1",
+   "title": "Israel Innovation Authority Says the Country’s Quantum Edge Is Software and Control, on the Day Intel Announced a Deal to Buy Classiq",
+   "url": "https://postquantum.com/quantum-policy/israel-quantum-ecosystem-report/",
+   "summary": "Israel's quantum sector grew from about five companies in 2019 to more than 20, with over $1 billion in private funding. A new national review explains how, but its budget and funding-ratio figures need qualifying. The post Israel Innovation Authority Says the Country’s Quantum Edge Is Software and Control, on the Day Intel Announced a Deal to Buy…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-27T21:20:00Z",
+   "first_seen": "2026-10-28T15:29:15Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/israel-quantum-ecosystem-1170x744.jpg"
+  },
+  {
    "id": "85a38d52c671a857",
    "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
    "url": "https://thequantuminsider.com/2026/10/27/nist-report-provides-guidelines-for-transition-to-post-quantum-cryptography-standards/",
@@ -757,6 +898,21 @@
    "date": "2026-10-27T10:49:58Z",
    "first_seen": "2026-10-27T14:37:28Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/post-363489.png"
+  },
+  {
+   "id": "850c00f3a379abc5",
+   "title": "Intel Agrees to Buy Quantum Software Maker Classiq Before It Has a Quantum Computer to Sell",
+   "url": "https://postquantum.com/industry-news/intel-classiq-acquisition/",
+   "summary": "Intel has agreed to buy Tel Aviv quantum software company Classiq, reportedly for about $2.3 billion, while its own spin-qubit hardware is still in research. Intel now has to show that a chipmaker can keep a quantum compiler neutral. The post Intel Agrees to Buy Quantum Software Maker Classiq Before It Has a Quantum Computer to Sell appeared first…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "PQC"
+   ],
+   "date": "2026-10-27T10:35:00Z",
+   "first_seen": "2026-10-28T15:29:15Z"
   },
   {
    "id": "ece218212c3ad02d",
@@ -10138,6 +10294,20 @@
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66df2ceff54611ac9f775ed6_algorithmic-qubits-media-preview.png"
   },
   {
+   "id": "ef3a4efb6a041531",
+   "title": "Lattice EPID with Efficient Revocation",
+   "url": "https://eprint.iacr.org/2025/1225",
+   "summary": "Enhanced Privacy Identification (EPID) is one of the anonymous authentication mechanisms that found their way into the industry, being deployed in billions of chips and standardized at ISO. The linchpin of EPID lies in its decentralized revocation procedure that allows to revoke a signer by simply placing one of its signatures on a signature…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-07-01T13:08:06Z",
+   "first_seen": "2026-10-28T15:29:15Z"
+  },
+  {
    "id": "382982e255143b0d",
    "title": "Ring-LWR based Commitments and ZK-PoKs with Application to Verifiable Quantum-Safe Searchable Symmetric Encryption",
    "url": "https://eprint.iacr.org/2025/1216",
@@ -10167,6 +10337,20 @@
    ],
    "date": "2025-06-25T20:42:57Z",
    "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "f48cd3cab3d355d3",
+   "title": "A Practical Randomized Nearest-Colattice Framework for Arbitrary Norms",
+   "url": "https://eprint.iacr.org/2025/1176",
+   "summary": "The approximate Closest Vector Problem $\\mathsf{CVP}$ with large approximation factors, such as a polynomial approximation, arises in the concrete cryptanalysis of lattice-based signatures, yet it is commonly estimated indirectly through $\\mathsf{SVP}$ after Kannan's embedding (Wang et al, PQC2025). Such reductions may return short vectors that do…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-06-23T01:10:04Z",
+   "first_seen": "2026-10-28T15:29:15Z"
   },
   {
    "id": "a1ef10e0eacf8b22",
