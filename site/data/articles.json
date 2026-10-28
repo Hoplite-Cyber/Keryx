@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T15:29:15Z",
- "count": 678,
+ "generated_at": "2026-10-28T20:29:29Z",
+ "count": 684,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 21
+   "kept": 25
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 173
+   "kept": 172
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 3
   },
   {
    "name": "ETSI – actualités",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "The Hacker News",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 13,
+   "fetched": 15,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T15:29:15Z",
+   "date": "2026-10-28T20:29:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-28T15:29:15Z",
+   "date": "2026-10-28T20:29:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-28T15:29:15Z",
+   "date": "2026-10-28T20:29:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T15:29:15Z",
+   "date": "2026-10-28T20:29:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T15:29:15Z",
+   "date": "2026-10-28T20:29:29Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "848165de01247938",
+   "title": "NVision and HyperLight Partner to Develop Photonic Quantum Chips",
+   "url": "https://thequantuminsider.com/2026/10/28/nvision-nature-molecular-qubits-hyperlight/",
+   "summary": "Insider Brief PRESS RELEASE — NVision, a quantum technology company, announced the publication of landmark peer-reviewed research in Nature and a strategic partnership with HyperLight Corporation (“HyperLight”), an industry leader in thin-film lithium niobate (TFLN) photonics. The companies will integrate NVision’s thin-film molecular qubits…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-28T16:05:00Z",
+   "first_seen": "2026-10-28T20:29:29Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_19-18.png"
   },
   {
    "id": "6efe2fd899c4b5a6",
@@ -532,6 +547,20 @@
    "date": "2026-10-28T09:20:36Z",
    "first_seen": "2026-10-28T15:29:15Z",
    "image": "https://next.ink/wp-content/uploads/2023/12/Informatique-quantique6.jpg"
+  },
+  {
+   "id": "9a2dda5a34f5a9fa",
+   "title": "Rerandomizable Garbling Beyond BHHO-KMHE and a Construction from LWE",
+   "url": "https://eprint.iacr.org/2026/2664",
+   "summary": "Rerandomizable garbling schemes (RGS) are a fundamental primitive enabling advanced cryptographic constructions such as multi-hop homomorphic encryption (Gentry, Halevi, Vaikuntanathan, CRYPTO 2010), iO-combiners (Ananth, Jain, Naor, Sahai, Yogev, CRYPTO 2016), and YOSO-style MPC (Acharya, Hazay, Kolesnikov, Prabhakaran, TCC 2022 and CRYPTO 2024).…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-28T08:30:41Z",
+   "first_seen": "2026-10-28T20:29:29Z"
   },
   {
    "id": "912754d112342de2",
@@ -806,6 +835,20 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/nist-lays-out-plan-quantum-proof-scaled.jpeg"
   },
   {
+   "id": "3634672a703d1a71",
+   "title": "Towards Quantum Sensing for Side-Channel Analysis",
+   "url": "https://eprint.iacr.org/2026/2660",
+   "summary": "Side-Channel Analysis is an established field of research to assess implementation vulnerabilities of cryptographic algorithms. One typically exploited side-channel is the electromagnetic (EM) near-field, which is proportional to the data-dependent currents flowing through an Integrated Circuit (IC). The field of Quantum Sensing (QS) based on…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-27T13:19:05Z",
+   "first_seen": "2026-10-28T20:29:29Z"
+  },
+  {
    "id": "d70e00d04bf5b54f",
    "title": "Quantinuum and GE Vernova Collaborate to Advance High-Temperature Superconductivity Research",
    "url": "https://thequantuminsider.com/2026/10/27/quantinuum-and-ge-vernova-collaborate-to-advance-high-temperature-superconductivity-research/",
@@ -1005,6 +1048,20 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Branching-paths-in-quantum-complexity-1.png"
   },
   {
+   "id": "1444f16aeb59043f",
+   "title": "Alg\\{Ossa\\}: Decentralized Secure Aggregation with Rotating Committees and Eventual Delivery",
+   "url": "https://eprint.iacr.org/2026/2659",
+   "summary": "Secure aggregation lets clients reveal only an aggregate of their private contributions, supporting a variety of applications, including privacy-preserving sensing, collaborative analytics, and federated learning. Building on the single-server, committee-aided model for one-shot clients used by OPA and Willow~(CRYPTO~'25), we present Ossa, a…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-27T08:39:08Z",
+   "first_seen": "2026-10-28T20:29:29Z"
+  },
+  {
    "id": "aa6e16138ccb4f83",
    "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
    "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
@@ -1018,6 +1075,34 @@
    "date": "2026-10-27T08:01:04Z",
    "first_seen": "2026-10-27T14:37:28Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.58.24-AM.png"
+  },
+  {
+   "id": "fee49afeec183d50",
+   "title": "Unshuffling Fisher-Yates: Practical Recovery of Length-128 Permutations and Application to ML-DSA",
+   "url": "https://eprint.iacr.org/2026/2658",
+   "summary": "Shuffling is a standard hiding countermeasure against (single-trace) side-channel attacks on the number-theoretic transform (NTT) of lattice-based post-quantum schemes, such as ML-DSA. The Fisher-Yates algorithm can be used to generate the underlying random permutation. Recovering this permutation itself from a single trace has so far only been…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-27T07:26:12Z",
+   "first_seen": "2026-10-28T20:29:29Z"
+  },
+  {
+   "id": "ed169704b48d324b",
+   "title": "Falcon Key Recovery from Joint Sampler Leakages",
+   "url": "https://eprint.iacr.org/2026/2656",
+   "summary": "Falcon and the forthcoming FN-DSA standard based on it generate signatures via discrete Gaussian sampling, during which power consumption leaks information about secret-dependent intermediate values. While prior attacks exploit sampler leakages individually or in pairs, we present a unified key-recovery framework that fuses three observations from…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-27T06:41:03Z",
+   "first_seen": "2026-10-28T20:29:29Z"
   },
   {
    "id": "fba96e358481fa0f",
