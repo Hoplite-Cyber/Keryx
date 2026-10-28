@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T02:20:38Z",
- "count": 660,
+ "generated_at": "2026-10-28T08:43:35Z",
+ "count": 666,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 20
+   "kept": 21
   },
   {
    "name": "arXiv quant-ph",
@@ -69,8 +69,8 @@
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 131,
-   "kept": 5
+   "fetched": 78,
+   "kept": 6
   },
   {
    "name": "Cloudflare Blog",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 14,
+   "fetched": 15,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T02:20:38Z",
+   "date": "2026-10-28T08:43:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-28T02:20:38Z",
+   "date": "2026-10-28T08:43:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-28T02:20:38Z",
+   "date": "2026-10-28T08:43:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T02:20:38Z",
+   "date": "2026-10-28T08:43:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,200 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T02:20:38Z",
+   "date": "2026-10-28T08:43:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "2cca57e1bc1343fc",
+   "title": "NIST Finalizes Its Post-Quantum Transition Plan, Deprecating RSA and ECC at All Approved Key Sizes After 2030",
+   "url": "https://postquantum.com/security-pqc/nist-ir-8547-final/",
+   "summary": "In the final version of its post-quantum transition report, NIST added a deprecation step after 2030 for P-256, RSA-3072 and other 128-bit classical parameters. NIST also confirmed that hybrid key exchange can be FIPS 140-validated after 2035. The post NIST Finalizes Its Post-Quantum Transition Plan, Deprecating RSA and ECC at All Approved Key…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-28T05:15:52Z",
+   "first_seen": "2026-10-28T08:43:35Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/nist-ir-8547-1170x744.png"
+  },
+  {
+   "id": "d446f1e1e71f6a91",
+   "title": "Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT",
+   "url": "https://arxiv.org/abs/2610.30383",
+   "summary": "ML-KEM and ML-DSA compute forward number-theoretic transforms on secret polynomials. Their fixed multipliers, or twiddles, are a documented fault-attack target. This paper characterises the linear map from a secret polynomial to the difference between correct and faulted transform outputs. Each selected twiddle takes a fixed changed field value at…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "dc1c7fdd4bc3b5a6",
+   "title": "Post-Quantum Perfect Zero-Knowledge Arguments for NP From Any One-Way Permutation",
+   "url": "https://arxiv.org/abs/2610.33185",
+   "summary": "In this paper, we show for the first time that post-quantum one-way permutations are sufficient for perfect zero-knowledge classical arguments for all of NP with security guaranteed against quantum adversaries. We first establish that Naor, Ostrovsky,Venkatesen, and Yung's bit commitment scheme built from any permutation using interactive hashing…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "49530c23ea5231f8",
+   "title": "Multimode continuous-variable quantum key distribution with CMOS-compatible photonic-electronic integration",
+   "url": "https://arxiv.org/abs/2610.35410",
+   "summary": "Multiplexing and photonic-electronic integration offer a route to scalable and high-throughput quantum key distribution (QKD) networks through parallel transmission and compact hardware suited to volume manufacturing. Realizing this route requires multichannel transmitters and receivers, and a security analysis accounting for mode coupling. Here…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "48101a8a11ed6a97",
+   "title": "Admissible Subspaces for the Collective Haar Twirl: Schur-Weyl Classification and Heredity under Tensor-Factor Reduction",
+   "url": "https://arxiv.org/abs/2610.33553",
+   "summary": "Quantum private broadcasting (\\textsf{QPB}) asks whether a quantum message can be encrypted once, broadcast to several recipients, and decrypted locally while the joint ciphertext reveals no plaintext information. Broadbent, Gonz\\'alez-Guill\\'en, and Schuknecht showed that the full tensor-power space \\(\\mathcal H_d^{\\otimes t}\\) is generally…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "12366209be50016e",
+   "title": "Frequency-matching quantum key distribution",
+   "url": "https://arxiv.org/abs/2512.05496",
+   "summary": "Quantum key distribution (QKD) enables information-theoretically secure communication against eavesdropping. However, phase instability remains a challenge across many QKD applications, particularly in schemes such as twin-field QKD and measurement-device-independent QKD. The most dominant source of phase fluctuation arises from the frequency…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "2930b899c4ae0c6d",
+   "title": "Homomorphic Quantum Error Correction",
+   "url": "https://arxiv.org/abs/2605.25692",
+   "summary": "We study the algebraic compatibility between quantum homomorphic encryption and stabilizer quantum error correction in an honest-but-curious model, restricting the encryption to the transversal block-Pauli mask $(X^aZ^b)^{\\otimes n}$ controlled by two secret key bits $a$ and $b$. We prove a necessary and sufficient criterion for an $[[n,1,d]]$…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "e89de84cb2f49d75",
+   "title": "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT",
+   "url": "https://arxiv.org/abs/2609.16105",
+   "summary": "Discrete-Modulated (DM) Continuous-Variable (CV) Quantum Key Distribution (QKD) is an experimentally attractive approach to quantum cryptography, offering high key rates over metropolitan-scale distances while relying on state-of-the-art telecom infrastructure. However, a fundamental gap has remained between this experimental promise and rigorous…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "13a963f7372bc5de",
+   "title": "FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq",
+   "url": "https://arxiv.org/abs/2610.30645",
+   "summary": "Quantum key distribution (QKD), whose security is derived from quantum mechanics rather than computational assumptions, is moving into standardization and commercial deployment. Yet its security guarantees rest on technically delicate proofs checked by hand. Formal verification closes this gap, establishing a two-factor assurance: unconditional…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-23T14:52:42Z"
+  },
+  {
+   "id": "9a0ea85f412f8940",
+   "title": "They Will See Johnny's Message: A Measurement Study of Post-Quantum Cryptography Across Email Delivery Paths",
+   "url": "https://arxiv.org/abs/2610.36145",
+   "summary": "Harvest-now, decrypt-later (HNDL) attacks make the transition to post-quantum cryptography (PQC) urgent for email. This paper presents a systematic measurement that jointly examines PQC deployment across email service stages, negotiation by communicating peers, and usable message encryption. Endpoint-level support alone does not establish PQC…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-28T08:43:35Z"
+  },
+  {
+   "id": "679b907b61851c59",
+   "title": "Peak-DNA: Recurrent Morphology in Global Narrative Propagation",
+   "url": "https://arxiv.org/abs/2610.36571",
+   "summary": "Global narrative streams exhibit noisy, fragmented, and asynchronous amplification bursts, making direct waveform comparison unreliable for recurrence analysis. This paper introduces Peak-DNA, a framework for identifying recurrent propagation morphology in global narrative streams. The proposed framework transforms hourly GDELT activity into…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-28T08:43:35Z"
+  },
+  {
+   "id": "ebe279175ae43b13",
+   "title": "Beyond LWE: Post-Quantum Assumptions under a Counterfactual Break of the Dihedral Coset Problem",
+   "url": "https://arxiv.org/abs/2610.36731",
+   "summary": "A refuted 2026 claim of an efficient quantum algorithm for the Dihedral Coset Problem (DCP) motivates this survey of the consequences of a genuine breakthrough. We distinguish a noiseless cyclic coset-state solver, a solver with a prescribed failure exponent, and an extrapolated-state solver. Regev's rare-corruption observation already makes the…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-28T08:43:35Z"
+  },
+  {
+   "id": "dcad4572ef310b8b",
+   "title": "HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers",
+   "url": "https://arxiv.org/abs/2610.36808",
+   "summary": "Stateless post-quantum authenticated key exchanges such as post-quantum WireGuard hedge against unexpected cryptanalytic advances by combining a lattice KEM with code-based Classic McEliece. However, recent attacks have led Germany's BSI to advise against McEliece, which leaves these protocols with lattices alone. HQC, the code-based KEM that NIST…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-28T04:00:00Z",
+   "first_seen": "2026-10-28T08:43:35Z"
   },
   {
    "id": "85a38d52c671a857",
@@ -673,20 +864,6 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.58.24-AM.png"
   },
   {
-   "id": "d446f1e1e71f6a91",
-   "title": "Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT",
-   "url": "https://arxiv.org/abs/2610.30383",
-   "summary": "NIST-standardised ML-KEM and ML-DSA use forward number-theoretic transforms on secret polynomials. This paper characterises the linear map from a polynomial to the difference between its correct and faulted transforms under static twiddle replacements. Each selected twiddle takes a fixed changed field value at every use during one call, including…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC"
-   ],
-   "date": "2026-10-27T04:00:00Z",
-   "first_seen": "2026-10-23T14:52:42Z"
-  },
-  {
    "id": "fba96e358481fa0f",
    "title": "Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures",
    "url": "https://arxiv.org/abs/2610.27111",
@@ -702,92 +879,6 @@
    ],
    "date": "2026-10-27T04:00:00Z",
    "first_seen": "2026-10-21T04:17:17Z"
-  },
-  {
-   "id": "dc1c7fdd4bc3b5a6",
-   "title": "Post-Quantum Perfect Zero-Knowledge Arguments for NP From Any One-Way Permutation",
-   "url": "https://arxiv.org/abs/2610.33185",
-   "summary": "In this paper, we show for the first time that post-quantum one-way permutations are sufficient for perfect zero-knowledge classical arguments for all of NP with security guaranteed against quantum adversaries. We first establish that Naor, Ostrovsky,Venkatesen, and Yung's bit commitment scheme built from any permutation using interactive hashing…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC"
-   ],
-   "date": "2026-10-27T04:00:00Z",
-   "first_seen": "2026-10-27T08:18:33Z"
-  },
-  {
-   "id": "49530c23ea5231f8",
-   "title": "Multimode continuous-variable quantum key distribution with CMOS-compatible photonic-electronic integration",
-   "url": "https://arxiv.org/abs/2610.35410",
-   "summary": "Multiplexing and photonic-electronic integration offer a route to scalable and high-throughput quantum key distribution (QKD) networks through parallel transmission and compact hardware suited to volume manufacturing. Realizing this route requires multichannel transmitters and receivers, and a security analysis accounting for mode coupling. Here…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD",
-    "PQC"
-   ],
-   "date": "2026-10-27T04:00:00Z",
-   "first_seen": "2026-10-27T08:18:33Z"
-  },
-  {
-   "id": "48101a8a11ed6a97",
-   "title": "Admissible Subspaces for the Collective Haar Twirl: Schur-Weyl Classification and Heredity under Tensor-Factor Reduction",
-   "url": "https://arxiv.org/abs/2610.33553",
-   "summary": "Quantum private broadcasting (\\textsf{QPB}) asks whether a quantum message can be encrypted once, broadcast to several recipients, and decrypted locally while the joint ciphertext reveals no plaintext information. Broadbent, Gonz\\'alez-Guill\\'en, and Schuknecht showed that the full tensor-power space \\(\\mathcal H_d^{\\otimes t}\\) is generally…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "Menace quantique"
-   ],
-   "date": "2026-10-27T04:00:00Z",
-   "first_seen": "2026-10-27T08:18:33Z"
-  },
-  {
-   "id": "12366209be50016e",
-   "title": "Frequency-matching quantum key distribution",
-   "url": "https://arxiv.org/abs/2512.05496",
-   "summary": "Quantum key distribution (QKD) enables information-theoretically secure communication against eavesdropping. However, phase instability remains a challenge across many QKD applications, particularly in schemes such as twin-field QKD and measurement-device-independent QKD. The most dominant source of phase fluctuation arises from the frequency…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD"
-   ],
-   "date": "2026-10-27T04:00:00Z",
-   "first_seen": "2026-10-27T08:18:33Z"
-  },
-  {
-   "id": "2930b899c4ae0c6d",
-   "title": "Homomorphic Quantum Error Correction",
-   "url": "https://arxiv.org/abs/2605.25692",
-   "summary": "We study the algebraic compatibility between quantum homomorphic encryption and stabilizer quantum error correction in an honest-but-curious model, restricting the encryption to the transversal block-Pauli mask $(X^aZ^b)^{\\otimes n}$ controlled by two secret key bits $a$ and $b$. We prove a necessary and sufficient criterion for an $[[n,1,d]]$…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "Menace quantique"
-   ],
-   "date": "2026-10-27T04:00:00Z",
-   "first_seen": "2026-10-27T08:18:33Z"
-  },
-  {
-   "id": "e89de84cb2f49d75",
-   "title": "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT",
-   "url": "https://arxiv.org/abs/2609.16105",
-   "summary": "Discrete-Modulated (DM) Continuous-Variable (CV) Quantum Key Distribution (QKD) is an experimentally attractive approach to quantum cryptography, offering high key rates over metropolitan-scale distances while relying on state-of-the-art telecom infrastructure. However, a fundamental gap has remained between this experimental promise and rigorous…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD",
-    "Menace quantique"
-   ],
-   "date": "2026-10-27T04:00:00Z",
-   "first_seen": "2026-10-27T08:18:33Z"
   },
   {
    "id": "8bf82ee335dcf0d9",
@@ -1440,21 +1531,6 @@
    "date": "2026-10-23T04:00:00Z",
    "first_seen": "2026-10-20T04:04:28Z",
    "lang": "en"
-  },
-  {
-   "id": "13a963f7372bc5de",
-   "title": "FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq",
-   "url": "https://arxiv.org/abs/2610.30645",
-   "summary": "Quantum key distribution (QKD), whose security is derived from quantum mechanics rather than computational assumptions, is moving into standardization and commercial deployment. Yet its security guarantees rest on technically delicate proofs checked by hand. Formal verification closes this gap, establishing a two-factor assurance: unconditional…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD",
-    "Menace quantique"
-   ],
-   "date": "2026-10-23T04:00:00Z",
-   "first_seen": "2026-10-23T14:52:42Z"
   },
   {
    "id": "74c973252d9cbd20",
@@ -7671,6 +7747,21 @@
    ],
    "date": "2026-05-30T05:08:07Z",
    "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "d95d0f0e31293415",
+   "title": "A gentle introduction to lattice-based cryptography",
+   "url": "https://eprint.iacr.org/2026/1098",
+   "summary": "We present four quantum-safe schemes: the Kyber (ML-KEM) and FrodoKEM key encapsulation mechanisms, and the Dilithium (ML-DSA) and Falcon (FN-DSA) signature schemes. We also develop the mathematical background on lattices needed to understand why Kyber, FrodoKEM, Dilithium and Falcon are regarded as lattice-based cryptosystems, and we provide…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-05-29T13:08:16Z",
+   "first_seen": "2026-10-28T08:43:35Z"
   },
   {
    "id": "d7ff899cc35aed8f",
