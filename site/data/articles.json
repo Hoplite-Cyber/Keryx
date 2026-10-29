@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T00:18:04Z",
- "count": 686,
+ "generated_at": "2026-10-29T05:55:34Z",
+ "count": 687,
  "sources": [
   {
    "name": "ANSSI",
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 228,
-   "kept": 6
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 78,
-   "kept": 6
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -307,7 +307,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 783,
+   "fetched": 785,
    "kept": 39
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T00:18:04Z",
+   "date": "2026-10-29T05:55:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-29T00:18:04Z",
+   "date": "2026-10-29T05:55:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-29T00:18:04Z",
+   "date": "2026-10-29T05:55:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T00:18:04Z",
+   "date": "2026-10-29T05:55:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,7 +418,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T00:18:04Z",
+   "date": "2026-10-29T05:55:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -1164,6 +1164,23 @@
    ],
    "date": "2026-10-27T04:00:00Z",
    "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "600d0ca58954e26e",
+   "title": "Iceberg Quantum Estimates 72,000 Qubits Could Break RSA-2048 in 3.7 Days but Hasn’t Published the Circuits or the Decoder",
+   "url": "https://postquantum.com/security-pqc/iceberg-pinnacle-crevasse-rsa/",
+   "summary": "In Pinnacle 1.2, Iceberg Quantum reports direct simulations of its logical error rates and cuts its estimated spacetime cost of factoring RSA-2048 about tenfold. The circuits and the Crevasse decoder behind the numbers remain unpublished. The post Iceberg Quantum Estimates 72,000 Qubits Could Break RSA-2048 in 3.7 Days but Hasn’t Published the…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-10-27T03:59:51Z",
+   "first_seen": "2026-10-29T05:55:34Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/iceberg-pinnacle-1-2-1170x744.png"
   },
   {
    "id": "613afddc84ae86a6",
