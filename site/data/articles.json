@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T05:55:34Z",
- "count": 687,
+ "generated_at": "2026-10-29T12:48:22Z",
+ "count": 696,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 25
+   "kept": 24
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 172
+   "kept": 173
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 3
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 15,
+   "fetched": 14,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T05:55:34Z",
+   "date": "2026-10-29T12:48:22Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-29T05:55:34Z",
+   "date": "2026-10-29T12:48:22Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-29T05:55:34Z",
+   "date": "2026-10-29T12:48:22Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T05:55:34Z",
+   "date": "2026-10-29T12:48:22Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,147 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T05:55:34Z",
+   "date": "2026-10-29T12:48:22Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "b8863bb4dfcceb9e",
+   "title": "Niels Bohr Institute Spinout Pelagic Systems Targets Quantum Hardware Control",
+   "url": "https://thequantuminsider.com/2026/10/29/pelagic-systems-quantum-control-software/",
+   "summary": "Insider Brief Pelagic Systems, a new spinout from the Novo Nordisk Foundation Quantum Computing Programme (NQCP) at the Niels Bohr Institute, was announced on October 27, 2026, according to a company press release. The company is developing the software layer for operating quantum hardware at the frontier. Pelagic describes quantum processors as…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-29T10:39:36Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_15-34.png"
+  },
+  {
+   "id": "6d17423ba88653bf",
+   "title": "Post-quantum security market will hit $3.8 billion by 2031 From MarketsandMarkets",
+   "url": "https://quantumzeitgeist.com/nist-post-quantum-3-8-billion/",
+   "summary": "The Post-Quantum Cryptography Market is forecast to reach $3.8 billion by 2031, growing at a 44.5% CAGR, driven by increasing cybersecurity regulations and the need to protect long-lived data.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-10-29T10:23:51Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/post-quantum-security-market-hit-38-scaled.jpeg"
+  },
+  {
+   "id": "122e9616da0e9860",
+   "title": "IQM Demonstrates Entanglement Across a Complete 54-Qubit Processor",
+   "url": "https://thequantuminsider.com/2026/10/29/iqm-full-chip-entanglement-54-qubit-processor/",
+   "summary": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced that its cloud-accessible IQM Emerald system has fully entangled all 54 qubits on the chip simultaneously, a result that shows the system’s computational quality holds up when every qubit is put to work at once.…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-29T09:58:29Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-56.png"
+  },
+  {
+   "id": "bac33f835023ff1e",
+   "title": "Large post-quantum keys slow Virtual Private Network handshakes, tests show",
+   "url": "https://quantumzeitgeist.com/ietf-post-quantum-keys-large-slow/",
+   "summary": "Post-quantum key encapsulation mechanisms carry public keys far larger than the established VPN handshake protocol IKEv2 was designed for, and its initial exchange comprising the public keys cannot be fragmented. The IETF discusses a range of protocol adjustments, yet these proposals have never been compared in terms of their performance and…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-29T09:58:17Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/large-post-quantum-keys-slow-virtual.jpeg"
+  },
+  {
+   "id": "e3008f21655eb620",
+   "title": "Pasqal’s 256-Qubit Processor Finds Unexpected Quantum Magnet Behavior",
+   "url": "https://thequantuminsider.com/2026/10/29/pasqal-processor-unexpected-quantum-magnet-behavior/",
+   "summary": "Insider Brief PRESS RELEASE — Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced that its 256-qubit quantum processor has revealed an unexpected behavior in a two-dimensional quantum magnet: under certain conditions, the system takes far longer to settle after being disturbed than theory predicts. The…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-29T09:51:12Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-50.png"
+  },
+  {
+   "id": "546cec54d868a457",
+   "title": "Nord Quantique Secures $10 Million DARPA Funding Extension",
+   "url": "https://thequantuminsider.com/2026/10/29/nord-quantique-10-million-darpa-funding-extension/",
+   "summary": "Insider Brief PRESS RELEASE — Nord Quantique, a Canadian quantum computing company pioneering hardware-efficient quantum error correction, today announced a US$10 million extension of its Defense Advanced Research Projects Agency’s (DARPA) Quantum Benchmarking Initiative (QBI) Stage B agreement. The extension supports Nord Quantique’s continued…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-29T09:45:00Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-44.png"
+  },
+  {
+   "id": "1b275a8f7f5e197a",
+   "title": "A single leak bound now secures quantum key distribution",
+   "url": "https://quantumzeitgeist.com/universite-libre-quantum-key-distribution-single/",
+   "summary": "Every quantum key distribution (QKD) protocol must limit the information available outside the users’ laboratories, and in a prepare-and-measure setting, a leakage bound—how much information about the input leaves the sender’s laboratory—serves as a minimal requirement. This single bound, quantified by the probability of guessing the input from…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-29T09:37:54Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/a-single-leak-bound-now-secures-quantum-key.jpg"
+  },
+  {
+   "id": "dd145c00c41e6658",
+   "title": "Verona launches a network upgrade to resist quantum attacks",
+   "url": "https://quantumzeitgeist.com/verona-quantum-network-upgrade-resist/",
+   "summary": "Verona launched Fermi, the v32 upgrade to Verona mainnet, bringing live post-quantum signatures to every account on the network. Fermi allows users to attach an ML-DSA authenticator to any existing account and revoke the pre-quantum key, as NIST plans to deprecate elliptic curve signatures after 2030 and disallow them after 2035.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-29T09:37:51Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/verona-launches-a-network-upgrade-to-resist-quantum.png"
+  },
+  {
+   "id": "2f3ff70cb8007768",
+   "title": "Shionogi Wins NEDO Award for Quantum-Assisted Drug Discovery",
+   "url": "https://thequantuminsider.com/2026/10/29/shionogi-nedo-quantum-drug-discovery/",
+   "summary": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave“), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced that its customer Shionogi & Co., Ltd. (“Shionogi”) has won first place in the Quality of Life (QOL) category of the NEDO Challenge for…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-29T09:22:24Z",
+   "first_seen": "2026-10-29T12:48:22Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-21.png"
   },
   {
    "id": "abca4e1cac174fa7",
