@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T12:48:22Z",
- "count": 696,
+ "generated_at": "2026-10-29T18:40:18Z",
+ "count": 704,
  "sources": [
   {
    "name": "ANSSI",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 7
   },
   {
    "name": "ETSI – actualités",
@@ -294,7 +294,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Post-Quantum.com",
@@ -335,7 +335,7 @@
    "name": "Let's Encrypt",
    "category": "Industrie",
    "ok": true,
-   "fetched": 123,
+   "fetched": 124,
    "kept": 3
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T12:48:22Z",
+   "date": "2026-10-29T18:40:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-29T12:48:22Z",
+   "date": "2026-10-29T18:40:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-29T12:48:22Z",
+   "date": "2026-10-29T18:40:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T12:48:22Z",
+   "date": "2026-10-29T18:40:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,127 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-29T12:48:22Z",
+   "date": "2026-10-29T18:40:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "0e9dc59704560aeb",
+   "title": "CISOs supplement encryptors with PQC-derived material on key corridors.",
+   "url": "https://quantumzeitgeist.com/ionq-pqc-derived-material-cisos-supplement/",
+   "summary": "CISOs are supplementing existing encryptors with post-quantum cryptography (PQC) on key network links, addressing board-level risk even during longer migrations.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-10-29T15:34:50Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/cisos-supplement-encryptors-with-pqc-derived-material-on.png"
+  },
+  {
+   "id": "f1e2e8ed847e743f",
+   "title": "Lumen Announces AI Networking, Quantum Research and PQC Plans",
+   "url": "https://thequantuminsider.com/2026/10/29/lumen-ai-networking-quantum-research-pqc/",
+   "summary": "Insider Brief PRESS RELEASE — Lumen Technologies (Nasdaq: LUMN) today announced three new initiatives using intelligent networking to address AI energy challenges, future quantum connectivity, and emerging security threats. As enterprises’ AI and quantum ambition begin to outgrow traditional networks, Lumen is turning its network into an active…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-29T14:55:42Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_19-53.png"
+  },
+  {
+   "id": "84830375be6bf6db",
+   "title": "EU roadmap guides Germany’s shift to quantum-resistant security",
+   "url": "https://quantumzeitgeist.com/federal-office-quantum-resistant-security-roadmap/",
+   "summary": "Germany is enacting an EU roadmap for Post-Quantum Cryptography (PQC), addressing threats to cybersecurity from quantum computers.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-29T14:40:32Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/eu-roadmap-guides-germanys-shift-quantum-scaled.jpg"
+  },
+  {
+   "id": "dba15b1be2810131",
+   "title": "AppViewX expands its Quantum Trust Hub with new features",
+   "url": "https://quantumzeitgeist.com/quantum-trust-hub-appviewx-features/",
+   "summary": "AppViewX expands Quantum Trust Hub, now available as a standalone solution, to deliver cryptographic posture management and agility for enterprises. The new capabilities help organizations discover cryptographic assets, assess quantum-related vulnerabilities, and prioritize risks by business impact, with NIST finalizing its first post-quantum…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Normes & politiques",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-10-29T14:34:30Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/appviewx-expands-its-quantum-trust-hub-with-new.jpg"
+  },
+  {
+   "id": "61fe2e7d093b1922",
+   "title": "IDEMIA gets first EMVCo certification for quantum-safe payment cards",
+   "url": "https://quantumzeitgeist.com/quantum-safe-payment-cards-idemia-gets/",
+   "summary": "IDEMIA Secure Transactions earned EMVCo certification for a payment card platform with post-quantum cryptography, enabling banks to prepare for future quantum threats.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-10-29T14:29:50Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/idemia-gets-first-emvco-certification-quantum.png"
+  },
+  {
+   "id": "72bafc6daf8e9fad",
+   "title": "Alice & Bob Estimates 22,593 Qubits Could Break RSA-2048 in Three Days, but Nobody Can Build Those Qubits Yet",
+   "url": "https://postquantum.com/security-pqc/alice-bob-rsa-2048-cat-qubits/",
+   "summary": "Alice & Bob's new estimate puts RSA-2048 at 22,593 cat qubits and 3.14 days, small and fast at once. Here is what that rests on, and a reality check for the headlines it will produce. The post Alice & Bob Estimates 22,593 Qubits Could Break RSA-2048 in Three Days, but Nobody Can Build Those Qubits Yet appeared first on PostQuantum - Quantum…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-10-29T14:03:00Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/alice-bob-shor-rsa-quantum-1170x744.png"
+  },
+  {
+   "id": "622cdf47d376da08",
+   "title": "Alice & Bob Estimates 22,593 Qubits to Break RSA-2048",
+   "url": "https://thequantuminsider.com/2026/10/29/alice-bob-22593-qubits-break-rsa-2048/",
+   "summary": "Insider Brief PRESS RELEASE — Alice & Bob, a leader in fault-tolerant quantum computing, sets a record low for the total quantum resources (qubits multiplied by runtime) required to run Shor’s algorithm on today’s encryption. Its cat-qubit architecture needs 40 times fewer physical qubits than Google Quantum AI’s Craig Gidney 2025 estimate to…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "Menace quantique"
+   ],
+   "date": "2026-10-29T14:00:00Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-38.png"
   },
   {
    "id": "b8863bb4dfcceb9e",
@@ -559,6 +677,21 @@
    "date": "2026-10-29T09:22:24Z",
    "first_seen": "2026-10-29T12:48:22Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-21.png"
+  },
+  {
+   "id": "cde2403c409f860d",
+   "title": "Simon Fried, VP Communications chez Classiq : « Semi-conducteurs et quantique : quand l’un devient le moteur de l’autre »",
+   "url": "https://www.zdnet.fr/tribune/simon-fried-vp-communications-chez-classiq-semi-conducteurs-et-quantique-quand-lun-devient-le-moteur-de-lautre-506711.htm#xtor=RSS-1",
+   "summary": "Simon Fried, VP Communications chez Classiq, explore la convergence naissante entre quantique et semi-conducteurs, une relation à double sens où l’industrie des puces peut faire gagner en maturité industrielle les ordinateurs quantiques, qui pourraient à leur tour accélérer la conception des prochaines générations de composants.",
+   "source": "ZDNet France",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-29T05:10:07Z",
+   "first_seen": "2026-10-29T18:40:18Z",
+   "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/simon-fried.jpg"
   },
   {
    "id": "abca4e1cac174fa7",
