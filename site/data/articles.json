@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T20:29:29Z",
- "count": 684,
+ "generated_at": "2026-10-29T00:18:04Z",
+ "count": 686,
  "sources": [
   {
    "name": "ANSSI",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T20:29:29Z",
+   "date": "2026-10-29T00:18:04Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-28T20:29:29Z",
+   "date": "2026-10-29T00:18:04Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-28T20:29:29Z",
+   "date": "2026-10-29T00:18:04Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T20:29:29Z",
+   "date": "2026-10-29T00:18:04Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,23 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-28T20:29:29Z",
+   "date": "2026-10-29T00:18:04Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "abca4e1cac174fa7",
+   "title": "Efficient SIMD SHAKE through Cost-Aware Permutation Scheduling",
+   "url": "https://eprint.iacr.org/2026/2666",
+   "summary": "Lattice-based cryptography uses SHAKE to expand seeds into byte strings for matrix generation and sampling. SIMD Keccak implementations process multiple hash streams in parallel. Differences in stream lengths and input dependencies can prevent full SIMD utilization. We present a cost-aware method for scheduling Keccak permutations across hash…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-28T16:11:14Z",
+   "first_seen": "2026-10-29T00:18:04Z"
   },
   {
    "id": "848165de01247938",
@@ -450,6 +464,20 @@
    ],
    "date": "2026-10-28T13:09:30Z",
    "first_seen": "2026-10-28T15:29:15Z"
+  },
+  {
+   "id": "2233996fc67e84ec",
+   "title": "Shor's algorithm compiled on cat qubits: 22 593 qubits for RSA-2048 in 3.14 days",
+   "url": "https://eprint.iacr.org/2026/2665",
+   "summary": "We present an end-to-end resource estimation of Shor's algorithm on superconducting cat qubits, from its mathematical description to the allocation and scheduling of physical qubits on a chip layout. After proposing a comprehensive view of the modern versions of Shor's algorithm for RSA, ECDLP and FFDLP, we make explicit their logical circuits and…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-28T13:08:44Z",
+   "first_seen": "2026-10-29T00:18:04Z"
   },
   {
    "id": "ac5b0a449c9c2e14",
