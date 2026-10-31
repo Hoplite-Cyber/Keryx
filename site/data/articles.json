@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T02:30:42Z",
- "count": 704,
+ "generated_at": "2026-10-31T08:54:10Z",
+ "count": 710,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 23
+   "kept": 22
   },
   {
    "name": "arXiv quant-ph",
@@ -91,7 +91,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 10,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "AWS Security Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 173
+   "kept": 172
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 7
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -161,7 +161,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 50,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "LeMagIT",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 14,
+   "fetched": 13,
    "kept": 0
   },
   {
@@ -307,7 +307,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 785,
+   "fetched": 786,
    "kept": 39
   },
   {
@@ -321,7 +321,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 599,
+   "fetched": 600,
    "kept": 4
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-30T02:30:42Z",
+   "date": "2026-10-31T08:54:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-30T02:30:42Z",
+   "date": "2026-10-31T08:54:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-30T02:30:42Z",
+   "date": "2026-10-31T08:54:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-30T02:30:42Z",
+   "date": "2026-10-31T08:54:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,99 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-30T02:30:42Z",
+   "date": "2026-10-31T08:54:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "eca860d3e06a0688",
+   "title": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
+   "url": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
+   "summary": "Julien Camirand Lemire, co-founder and CEO of Nord Quantique, is interviewed by Yuval Boger. Julien discusses Nord Quantique‘s bosonic code approach, which uses microwave photons in superconducting cavities to achieve quantum error correction without large qubit overhead, including their GKP and Tesseract code demonstrations and a quantum error…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-31T08:00:00Z",
+   "first_seen": "2026-10-31T08:54:10Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Julien.jpg"
+  },
+  {
+   "id": "09ea953ba07b66ec",
+   "title": "Infleqtion Tests Optical Atomic Clock During US Navy Exercise",
+   "url": "https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/",
+   "summary": "Insider Brief PRESS RELEASE — Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, demonstrated quantum timing capabilities to support navigation using the company’s Tiqker optical atomic clock. The demonstration took place during the Maritime Big Play Pacific (MBP-P) military…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-30T13:50:41Z",
+   "first_seen": "2026-10-31T08:54:10Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-30_18-49.png"
+  },
+  {
+   "id": "deab3e4f3c81b1c6",
+   "title": "Netpoleon India Partners With QNu Labs on Quantum-Safe Security",
+   "url": "https://thequantuminsider.com/2026/10/30/netpoleon-qnu-labs-quantum-safe-security/",
+   "summary": "Insider Brief PRESS RELEASE — Netpoleon India, a value-added cybersecurity distributor, has onboarded QNu Labs, an India-born deep-tech cybersecurity company, in a strategic collaboration aimed at accelerating quantum-safe cybersecurity readiness and strengthening long-term digital resilience across Indian enterprises. As organisations accelerate…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-30T13:42:42Z",
+   "first_seen": "2026-10-31T08:54:10Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-30_18-41.png"
+  },
+  {
+   "id": "1975f91537087a0f",
+   "title": "Researchers Secure Keys with a New Information Leakage Bound",
+   "url": "https://quantumzeitgeist.com/quantum-key-distribution-information-leakage-bound-device-independence/",
+   "summary": "Quantum key distribution now tolerates visibility levels as low as 0. 84, equating to an 8% quantum bit error rate, a marked improvement over the 11% previously achievable with standard methods. This advance demonstrates security can be proven by bounding information leakage from all signals, rather than requiring detailed knowledge of QKD system…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-30T11:04:59Z",
+   "first_seen": "2026-10-31T08:54:10Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-secure-keys-with-a-new-information-leakage.png"
+  },
+  {
+   "id": "1a841556bb6cc93b",
+   "title": "Post-selection boosts quantum key rate, researchers find",
+   "url": "https://quantumzeitgeist.com/post-selection-boosts-quantum-key-rate/",
+   "summary": "Quantum Key Distribution with Entanglement-Swapped Photons from a Quantum Emitter is explored, and researchers found post-selection boosts the quantum key rate. This work utilizes a quantum emitter to generate the entangled photons necessary for the distribution.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-30T10:59:15Z",
+   "first_seen": "2026-10-31T08:54:10Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/post-selection-boosts-quantum-key-rate-scaled.jpeg"
+  },
+  {
+   "id": "7c4a0def6d1b64e3",
+   "title": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing",
+   "url": "https://thequantuminsider.com/2026/10/30/wolfspeed-transparent-silicon-carbide-technology/",
+   "summary": "Insider Brief PRESS RELEASE — Wolfspeed, Inc. (NYSE: WOLF), a global leader in silicon carbide (SiC) technology, today announced the commercial introduction of its proprietary transparent silicon carbide (TSiCTM) technology expanding the potential of silicon carbide to enable next-generation augmented reality (AR), quantum computing and advanced…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-30T09:55:39Z",
+   "first_seen": "2026-10-31T08:54:10Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-30_14-54.png"
   },
   {
    "id": "0e9dc59704560aeb",
@@ -680,7 +770,7 @@
   },
   {
    "id": "cde2403c409f860d",
-   "title": "Simon Fried, VP Communications chez Classiq : « Semi-conducteurs et quantique : quand l’un devient le moteur de l’autre »",
+   "title": "Simon Fried, Classiq : Semi-conducteurs et quantique : quand l’un devient le moteur de l’autre",
    "url": "https://www.zdnet.fr/tribune/simon-fried-vp-communications-chez-classiq-semi-conducteurs-et-quantique-quand-lun-devient-le-moteur-de-lautre-506711.htm#xtor=RSS-1",
    "summary": "Simon Fried, VP Communications chez Classiq, explore la convergence naissante entre quantique et semi-conducteurs, une relation à double sens où l’industrie des puces peut faire gagner en maturité industrielle les ordinateurs quantiques, qui pourraient à leur tour accélérer la conception des prochaines générations de composants.",
    "source": "ZDNet France",
