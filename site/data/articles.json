@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:58:06Z",
+ "generated_at": "2026-10-31T16:00:37Z",
  "count": 711,
  "sources": [
   {
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 22
+   "kept": 21
   },
   {
    "name": "arXiv quant-ph",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 12,
+   "fetched": 9,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-31T10:58:06Z",
+   "date": "2026-10-31T16:00:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-31T10:58:06Z",
+   "date": "2026-10-31T16:00:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-31T10:58:06Z",
+   "date": "2026-10-31T16:00:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-31T10:58:06Z",
+   "date": "2026-10-31T16:00:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,7 +418,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-31T10:58:06Z",
+   "date": "2026-10-31T16:00:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
