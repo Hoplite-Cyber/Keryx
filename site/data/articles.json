@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T08:54:10Z",
- "count": 710,
+ "generated_at": "2026-10-31T10:58:06Z",
+ "count": 711,
  "sources": [
   {
    "name": "ANSSI",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 13,
+   "fetched": 12,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-31T08:54:10Z",
+   "date": "2026-10-31T10:58:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-10-31T08:54:10Z",
+   "date": "2026-10-31T10:58:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-10-31T08:54:10Z",
+   "date": "2026-10-31T10:58:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-31T08:54:10Z",
+   "date": "2026-10-31T10:58:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,25 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-10-31T08:54:10Z",
+   "date": "2026-10-31T10:58:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "50b091f478e9a1d1",
+   "title": "Tel Aviv University Boosts Post-Quantum Crypto Security Efforts",
+   "url": "https://quantumzeitgeist.com/post-quantum-crypto-masked-convolutional-codes-security-boost/",
+   "summary": "Can code-based encryption offer a safety margin exceeding existing schemes against future cryptanalytic advances? A new framework achieves security margins over classical McEliece and Niederreiter systems by factors greater than 2^200, potentially redefining secure communication in the post-quantum era. This construction conceals algebraic…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-10-31T09:27:15Z",
+   "first_seen": "2026-10-31T10:58:06Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/tel-aviv-university-boosts-post-quantum-crypto-security-past-2-scaled.png"
   },
   {
    "id": "eca860d3e06a0688",
