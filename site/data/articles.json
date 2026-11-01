@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T19:29:45Z",
- "count": 712,
+ "generated_at": "2026-11-01T22:59:28Z",
+ "count": 715,
  "sources": [
   {
    "name": "ANSSI",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-01T19:29:45Z",
+   "date": "2026-11-01T22:59:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-01T19:29:45Z",
+   "date": "2026-11-01T22:59:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-01T19:29:45Z",
+   "date": "2026-11-01T22:59:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-01T19:29:45Z",
+   "date": "2026-11-01T22:59:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,42 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-01T19:29:45Z",
+   "date": "2026-11-01T22:59:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "fff319f7934396c5",
+   "title": "IBM Quantum Safe helps firms plan a move to quantum-resistant data",
+   "url": "https://quantumzeitgeist.com/quantum-safe-helps-firms-ibm/",
+   "summary": "IBM Quantum Safe enables firms to plan for post-quantum cryptography migration, as research indicates fault-tolerant quantum computing by 2030.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-01T21:20:19Z",
+   "first_seen": "2026-11-01T22:59:28Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/ibm-quantum-safe-helps-firms-plan-scaled.jpeg"
+  },
+  {
+   "id": "a2a91be2d57fccca",
+   "title": "Researchers Find Attack Exploiting QKD Transmitter Recovery",
+   "url": "https://quantumzeitgeist.com/quantum-key-distribution-transmitter-recovery-attack-demonstration/",
+   "summary": "A secure key exchange should become *less* reliable after temporary hardware interference, but this isn’t always true. For the first time, an experiment demonstrates how moderate blue light temporarily altering components within a continuous-variable QKD setup allows attackers to generate keys even when no secure rate exists. This reveals a…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-01T19:46:52Z",
+   "first_seen": "2026-11-01T22:59:28Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-find-attack-exploiting-qkd-transmitter-recovery.png"
   },
   {
    "id": "50b091f478e9a1d1",
@@ -1636,6 +1669,22 @@
    "date": "2026-10-26T13:07:01Z",
    "first_seen": "2026-10-26T14:06:49Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-Art-research-showcase.png"
+  },
+  {
+   "id": "7fac5ef59d2c0b0c",
+   "title": "Sectigo Reports 38% Have Fully Assessed Their Quantum Exposure, but Only 4% Say Their Certificate Management Is Fully Automated",
+   "url": "https://postquantum.com/security-pqc/sectigo-crypto-agility-survey/",
+   "summary": "In its 2026 survey of 500 IT and security leaders, Sectigo reports more quantum assessments and fuller certificate inventories than in 2025. Reading its appendix alongside Chrome's post-quantum certificate plans, I see certificate automation as the work due first. The post Sectigo Reports 38% Have Fully Assessed Their Quantum Exposure, but Only 4%…",
+   "source": "Post-Quantum.com",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-10-26T12:00:00Z",
+   "first_seen": "2026-11-01T22:59:28Z",
+   "image": "https://postquantum.com/wp-content/uploads/2026/10/sectigo-crypto-agility-report-1170x744.jpg"
   },
   {
    "id": "adbbf876f0f33524",
