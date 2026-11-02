@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T22:59:28Z",
+ "generated_at": "2026-11-02T02:18:35Z",
  "count": 715,
  "sources": [
   {
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 0,
+   "fetched": 1,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-01T22:59:28Z",
+   "date": "2026-11-02T02:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-01T22:59:28Z",
+   "date": "2026-11-02T02:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-01T22:59:28Z",
+   "date": "2026-11-02T02:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-01T22:59:28Z",
+   "date": "2026-11-02T02:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,7 +418,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-01T22:59:28Z",
+   "date": "2026-11-02T02:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
