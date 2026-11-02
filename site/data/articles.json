@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T02:18:35Z",
- "count": 715,
+ "generated_at": "2026-11-02T09:37:40Z",
+ "count": 727,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 18
+   "kept": 19
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 161,
+   "kept": 11
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 64,
+   "kept": 1
   },
   {
    "name": "Cloudflare Blog",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T02:18:35Z",
+   "date": "2026-11-02T09:37:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-02T02:18:35Z",
+   "date": "2026-11-02T09:37:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-02T02:18:35Z",
+   "date": "2026-11-02T09:37:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T02:18:35Z",
+   "date": "2026-11-02T09:37:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,178 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T02:18:35Z",
+   "date": "2026-11-02T09:37:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "dd80fe4161a05044",
+   "title": "Optical Quantum Memory Processing for Quantum Hashing",
+   "url": "https://arxiv.org/abs/2610.40904",
+   "summary": "Sender authentication is an important requirement for secure quantum communication networks. We propose programmable photon-echo quantum memory processing of a multi-time-bin photonic qudit for implementing a quantum-hash-based verification protocol. In this approach, using QM, sender (Alice) generates a quantum hash state by transforming a single…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "5f4452ceb422f582",
+   "title": "Quantum Advantage in Beam-Displacement Estimation for Inter-Satellite Quantum-Secure Time Transfer",
+   "url": "https://arxiv.org/abs/2610.41198",
+   "summary": "In this work, we investigate the practical feasibility of achieving a quantum advantage, in the context of inter-satellite quantum communication, of satellite position estimation. The investigation focuses on a quantum-enhanced scheme in which squeezing is added to the derivative mode of a Gaussian probe beam as a means of estimating photon-beam…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "57b11cb4a6f7fd27",
+   "title": "oracq: A Modular Framework for Implementing and Analyzing Quantum Scientific Computing Algorithms",
+   "url": "https://arxiv.org/abs/2610.41431",
+   "summary": "Quantum algorithms for scientific computing are specified against access models such as block-encodings, sparse oracles, state preparations, and quantum random-access memories. Their concrete realization is deliberately left open, yet it is a research variable that changes both the numerical behavior and the resource cost of the program, so every…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "0fefa5034f5894e1",
+   "title": "An Unbounded Separation of Almost-Quantum and Commuting-Operator Correlations in Zero-Error Communication",
+   "url": "https://arxiv.org/abs/2610.41448",
+   "summary": "Almost-quantum correlations form the $\\mathtt{1+AB}$ level of the Navascu\\'es--Pironio--Ac\\'in hierarchy. They strictly contain the quantum set, are characterized by a single semidefinite program, arise in Sorkin's quantum measure theory, and satisfy several principles proposed to single out quantum theory. We show that they are nevertheless…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "975973f74e254798",
+   "title": "A Highly Nondegenerate Photon-Pair Source for Detector-Matched Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2610.41709",
+   "summary": "In a commercial entanglement-distribution system over telecom fibre, the single-photon detectors are the largest part of the hardware cost. In entanglement-based quantum key distribution (QKD), both photons of each pair must be detected. With two telecom photons, each arm needs either an InGaAs single-photon avalanche diode (SPAD) of low…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "1b575a5613c8d7b6",
+   "title": "Benchmarking Single-Photon Sources for Measurement-Device-Independent Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2610.42041",
+   "summary": "Measurement-Device-Independent Quantum Key Distribution (MDI-QKD) enables secure communication without trusting the measurement devices, but its performance critically depends on the quality of the employed photon sources. We compare MDI-QKD implementations based on Weak Coherent Pulses (WCPs) with those employing Quantum Dot (QD) single-photon…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "f31655b9a73e32de",
+   "title": "The Quartic Gap Between Quantum and Dequantized Algorithms for Linear Algebra Is Tight",
+   "url": "https://arxiv.org/abs/2610.42069",
+   "summary": "Quantum algorithms for linear algebra that access a matrix $A$ through quantum random access memory (QRAM) prepare quantum states proportional to the solutions of linear systems and related problems. Dequantized classical algorithms, when given sampling and query access to $A$, return sampling and query access to an approximate solution. Both…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "8d3e9f7590bcb5d3",
+   "title": "Certification of quantum correlations at arbitrary distances through routed Bell tests",
+   "url": "https://arxiv.org/abs/2502.12241",
+   "summary": "Transmission loss represents a major obstacle to the device-independent certification of quantum correlations over long distances, limiting applications such as device-independent quantum key distribution (DIQKD). In this work, we investigate the recently proposed concept of routed Bell experiments, in which a particle sent to one side can be…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "fff78bdae1220f4a",
+   "title": "Preprocessing noise in finite-size quantum key distribution",
+   "url": "https://arxiv.org/abs/2603.18213",
+   "summary": "It is known that trusted, preprocessing noise may boost quantum key distribution by expanding the range of values of tolerated noise. For BB84, adding trusted noise may allow the generation of secret keys even for qubit error rate (QBER) beyond the 11% threshold in the asymptotic regime. Here we study the effect of preprocessing noise in the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "3ed0fad8dba61751",
+   "title": "Entanglement cost in non-local quantum computation",
+   "url": "https://arxiv.org/abs/2605.02840",
+   "summary": "This is a book-length treatment of the subject of non-local quantum computation (NLQC). NLQC is a method for implementing quantum operations that interact two systems without directly bringing the systems together. Instead, a single round of communication and shared entanglement is used. NLQC has appeared in the context of quantum cryptography…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "bb1b70f8775032ed",
+   "title": "A scalable entanglement distribution framework for hybrid quantum networks",
+   "url": "https://arxiv.org/abs/2609.25571",
+   "summary": "The realization of a scalable quantum network (QN) hinges on the efficient distribution of entanglement across heterogeneous hardware platforms. While traditional QN frameworks are often restricted to single-encoding schemes, relying exclusively on either discrete (DV) or continuous (CV) variables, such segregated architectures limit the capacity…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "d82525e6b42eda85",
+   "title": "Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks",
+   "url": "https://arxiv.org/abs/2610.41055",
+   "summary": "Federated reinforcement learning supports cooperative vehicular routing without centralizing trajectory data, but model updates may reveal private information and incur communication overhead over intermittent vehicle-to-infrastructure links, particularly when post-quantum authentication is required. We study correlated private quantization, using…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-02T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
   },
   {
    "id": "fff319f7934396c5",
