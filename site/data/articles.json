@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T09:37:40Z",
- "count": 727,
+ "generated_at": "2026-11-02T19:49:23Z",
+ "count": 741,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 19
+   "kept": 21
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 172
+   "kept": 171
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 7
   },
   {
    "name": "ETSI – actualités",
@@ -210,13 +210,13 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 1,
+   "fetched": 5,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T09:37:40Z",
+   "date": "2026-11-02T19:49:23Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-02T09:37:40Z",
+   "date": "2026-11-02T19:49:23Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-02T09:37:40Z",
+   "date": "2026-11-02T19:49:23Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T09:37:40Z",
+   "date": "2026-11-02T19:49:23Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,198 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T09:37:40Z",
+   "date": "2026-11-02T19:49:23Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "6a75c502587302ac",
+   "title": "Photon Source May Lower Telecom Detector Costs for QKD",
+   "url": "https://quantumzeitgeist.com/qubitrium-b-telecom-detector-costs-photon/",
+   "summary": "In entanglement-based quantum key distribution (QKD), the single-photon detectors represent the largest hardware cost, as both photons of each pair must be detected. A highly nondegenerate photon-pair source, emitting pairs at 548 and 1550 nm, requires a telecom detector on only one arm, potentially reducing costs.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-02T14:56:19Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/photon-source-lower-telecom-detector-costs.jpg"
+  },
+  {
+   "id": "9c0737d32307d04e",
+   "title": "StealthPQ uses quantum-resistant keys against glitch & side-channel attacks",
+   "url": "https://quantumzeitgeist.com/stealthcores-quantum-resistant-keys-stealthpq-uses/",
+   "summary": "StealthCores’ StealthPQ IP core delivers hardware offload for ML-KEM & ML-DSA, NIST’s post-quantum standards, protecting against future quantum computing threats.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-02T14:56:15Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/stealthpq-uses-quantum-resistant-keys-against.jpg"
+  },
+  {
+   "id": "9cd5f7211130809f",
+   "title": "How Many Qubits Would it Take to Simulate a Holographic Universe?",
+   "url": "https://thequantuminsider.com/2026/11/02/how-many-qubits-would-it-take-to-simulate-a-holographic-universe/",
+   "summary": "Insider brief Quantum computing roadmaps usually talk about drug discovery, materials and optimisation. One of the most influential theoretical physicists alive has a different application in mind: simulating a universe. In the latest episode of The Quantum Kid, Prof. Juan Maldacena of the Institute for Advanced Study in Princeton explains the…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-02T14:23:25Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Universe-in-a-Glowing-Cosmic-Cube.png"
+  },
+  {
+   "id": "032c064223a50a3f",
+   "title": "HKUST and HKMA Launch PQC Toolkit for Banks",
+   "url": "https://thequantuminsider.com/2026/11/02/hkust-hkma-launch-pqc-toolkit-banks/",
+   "summary": "Insider Brief PRESS RELEASE — The Hong Kong University of Science and Technology (HKUST) and The Hong Kong Monetary Authority (HKMA) today (2 November) launched the Post-Quantum Cryptography (PQC) Toolkit (Toolkit), with support from industry participants. The Toolkit sets out a structured and comprehensive framework to guide banks in planning and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-02T13:55:24Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_18-54.png"
+  },
+  {
+   "id": "0490f5461d03b643",
+   "title": "South Korea Launches Hangang Supercomputer, Plans Quantum Integration",
+   "url": "https://thequantuminsider.com/2026/11/02/south-korea-hangang-supercomputer-quantum-integration/",
+   "summary": "Insider Brief South Korea’s sixth national supercomputer, Hangang, is now fully operational, Seoul Economic Daily reported. The government expects the system to place among the world’s top 10 machines. It also intends to pair Hangang with a quantum computer in the first half of next year, forming a hybrid system meant to speed up both [...]",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-02T13:24:22Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_18-23.png"
+  },
+  {
+   "id": "18881d41f09a0a61",
+   "title": "Scottish Widows Targets Quantum Computing With UK Venture Growth Investments",
+   "url": "https://thequantuminsider.com/2026/11/02/scottish-widows-targets-quantum-computing-with-uk-venture-growth-investments/",
+   "summary": "Insider Brief Scottish Widows is directing workplace pension savings into British technology businesses, with two quantum computing companies among its expected initial investments. The pension provider has announced its first investments in U.K. venture growth companies through a portfolio overseen by IP Group, Corporate Adviser reported. The…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-02T13:05:38Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/8trttka3pws.jpg"
+  },
+  {
+   "id": "94c6914c9383cd80",
+   "title": "Nobel Laureate John Martinis to Deliver Quantum Computing Lecture at UWA",
+   "url": "https://thequantuminsider.com/2026/11/02/john-martinis-quantum-computing-lecture-uwa/",
+   "summary": "Insider Brief PRESS RELEASE — How quantum computing has evolved during the past 40 years from an intellectual curiosity to a potentially realisable technology will be the subject of a free public talk at The University of Western Australia next month by US Nobel Laureate Professor John Martinis. Professor Martinis, from the University of…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-02T12:42:49Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_17-41.png"
+  },
+  {
+   "id": "b65d3d889deab699",
+   "title": "Equal1 Appoints Andrew Flynn as Chief Operating Officer",
+   "url": "https://thequantuminsider.com/2026/11/02/andrew-flynn-joins-equal1-chief-operating-officer/",
+   "summary": "Insider Brief PRESS RELEASE — Equal1 has today announced the appointment of Andrew Flynn as Chief Operating Officer to lead operations, as the quantum computing firm scales global commercialisation of RacQ, its rack-mounted quantum computer. Andrew brings more than twenty years of experience in scaling operations, semiconductor manufacturing…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-02T11:34:39Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_16-32.png"
+  },
+  {
+   "id": "e7506c6974c31cab",
+   "title": "Chiffrement post-quantique : Sanofi passe à l’action",
+   "url": "https://www.lemagit.fr/etude/Chiffrement-post-quantique-Sanofi-passe-a-laction",
+   "summary": "Dès la publication de la liste des algorithmes de chiffrement post-quantique (PQC) par le NIST, le géant pharmaceutique français a démarré ses travaux. Certaines mesures sont déjà effectives. D’autres vont demander beaucoup plus de temps.",
+   "source": "LeMagIT – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-02T11:17:00Z",
+   "first_seen": "2026-11-02T19:49:23Z"
+  },
+  {
+   "id": "d5aadc9bebb9b544",
+   "title": "Track post-quantum adoption with Amazon CloudFront’s new data",
+   "url": "https://quantumzeitgeist.com/amazon-braket-track-post-quantum-adoption/",
+   "summary": "Amazon CloudFront now reveals TLS details, including whether connections use post-quantum cryptography (PQC), letting you measure PQC usage and understand adoption rates.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-02T10:50:44Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/track-post-quantum-adoption-amazon-cloudfronts.png"
+  },
+  {
+   "id": "449ecacff29644f7",
+   "title": "Researchers Cut Qc-Mdpc Decoding Failures by 63.7% with Neural Network",
+   "url": "https://quantumzeitgeist.com/qc-mdpc-codes-neural-network-decoding-improvements/",
+   "summary": "Decoding failures that jeopardise next generation encryption are now reduced by 63. 7% thanks to a new neural network approach for QC-MDPC codes used in Post Quantum Cryptography. This Recurrent Bipartite Graph Neural Network overcomes decoding stalls caused by short cycles, a common vulnerability in current systems, while also requiring fewer…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-02T10:22:27Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-qc-mdpc-decoding-failures-by-637-with-neural-network.jpg"
+  },
+  {
+   "id": "1de0f77f0b906e28",
+   "title": "Chattanooga Accelerator Selects Four Quantum Startups For Commercialization Program",
+   "url": "https://thequantuminsider.com/2026/11/02/chattanooga-accelerator-selects-four-quantum-startups-for-commercialization-program/",
+   "summary": "Insider Brief Chattanooga’s CO.LAB has selected four quantum startups for a yearlong program aimed at turning their technologies into commercial products. The inaugural CO.LAB Q cohort includes Ridge Quantum, which is commercializing encryption technology licensed from Oak Ridge National Laboratory, alongside software developers Superquantum and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-02T09:29:12Z",
+   "first_seen": "2026-11-02T19:49:23Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-4.21.55-AM-1.png"
   },
   {
    "id": "dd80fe4161a05044",
@@ -8630,6 +8819,20 @@
    "first_seen": "2026-10-20T19:32:25Z"
   },
   {
+   "id": "eea13cdb1c7ff71b",
+   "title": "SoK: Cryptographic Erasure on Public Ledgers: Application-Layer Architectures, Key-Lifecycle Adversaries, and GDPR Art. 17 Sufficiency",
+   "url": "https://eprint.iacr.org/2026/1109",
+   "summary": "Public permissionless ledgers are append-only by design, yet are increasingly asked to host data subject to statutory erasure obligations (GDPR Art. 17, EDPB Guidelines 02/2025). The prevailing cryptographic response, rewriting the chain via chameleon hashes and redactable-blockchain constructions, is structurally unavailable on Bitcoin and…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-05-30T10:56:55Z",
+   "first_seen": "2026-11-02T19:49:23Z"
+  },
+  {
    "id": "8183316afbdd1501",
    "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
    "url": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
@@ -10954,6 +11157,20 @@
    "date": "2025-07-23T20:46:52Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67360466b028e703978fa865_QEC-media-preview.png"
+  },
+  {
+   "id": "d289436da8d12d5e",
+   "title": "Can FrodoKEM Run in a Millisecond? FPGA Says Yes!",
+   "url": "https://eprint.iacr.org/2025/1312",
+   "summary": "FrodoKEM is a post-quantum key encapsulation mechanism based on plain Learning With Errors (LWE). In contrast to module-lattice-based schemes, it relies on an unstructured variant of the LWE problem, providing more conservative and better-understood security guarantees. In this paper, we explore hardware-level parallelization of FrodoKEM's matrix…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-07-17T20:54:30Z",
+   "first_seen": "2026-11-02T19:49:23Z"
   },
   {
    "id": "69a3ed65740b130b",
