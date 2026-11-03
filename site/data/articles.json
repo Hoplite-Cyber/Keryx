@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T01:50:58Z",
- "count": 741,
+ "generated_at": "2026-11-03T08:39:52Z",
+ "count": 742,
  "sources": [
   {
    "name": "ANSSI",
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 161,
-   "kept": 11
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 64,
-   "kept": 1
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T01:50:58Z",
+   "date": "2026-11-03T08:39:52Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-03T01:50:58Z",
+   "date": "2026-11-03T08:39:52Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-03T01:50:58Z",
+   "date": "2026-11-03T08:39:52Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T01:50:58Z",
+   "date": "2026-11-03T08:39:52Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T01:50:58Z",
+   "date": "2026-11-03T08:39:52Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "dfb8c1f31edb52b8",
+   "title": "A new quantum authentication method relies on entanglement, not pre-shared keys",
+   "url": "https://quantumzeitgeist.com/edinburgh-quantum-authentication-method-relies-entanglement/",
+   "summary": "Researchers developed a new approach to Quantum Key Distribution (QKD) using Hybrid Entangled Physical Unclonable Functions, eliminating the need for pre-shared secrets and achieving Information-Theoretically Secure authentication.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-03T07:58:13Z",
+   "first_seen": "2026-11-03T08:39:52Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/a-new-quantum-authentication-method-relies-on-entanglement-scaled.jpg"
   },
   {
    "id": "6a75c502587302ac",
