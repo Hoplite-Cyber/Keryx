@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:49:23Z",
+ "generated_at": "2026-11-03T01:50:58Z",
  "count": 741,
  "sources": [
   {
@@ -307,7 +307,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 786,
+   "fetched": 787,
    "kept": 39
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T19:49:23Z",
+   "date": "2026-11-03T01:50:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-02T19:49:23Z",
+   "date": "2026-11-03T01:50:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-02T19:49:23Z",
+   "date": "2026-11-03T01:50:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T19:49:23Z",
+   "date": "2026-11-03T01:50:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,7 +418,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-02T19:49:23Z",
+   "date": "2026-11-03T01:50:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
