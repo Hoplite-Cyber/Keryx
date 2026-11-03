@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T16:37:30Z",
- "count": 763,
+ "generated_at": "2026-11-03T22:03:54Z",
+ "count": 766,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 19
+   "kept": 18
   },
   {
    "name": "arXiv quant-ph",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "The Hacker News",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T16:37:30Z",
+   "date": "2026-11-03T22:03:54Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-03T16:37:30Z",
+   "date": "2026-11-03T22:03:54Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-03T16:37:30Z",
+   "date": "2026-11-03T22:03:54Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T16:37:30Z",
+   "date": "2026-11-03T22:03:54Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,27 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T16:37:30Z",
+   "date": "2026-11-03T22:03:54Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "a0b2727774ce5dd6",
+   "title": "STMicroelectronics launches MCU with hardware for post-quantum cryptography",
+   "url": "https://quantumzeitgeist.com/stmicroelectronics-post-quantum-mcu-hardware-cryptography/",
+   "summary": "STMicroelectronics’ new STM32G5 MCU offers hardware support for post-quantum cryptography, helping designs meet regulations from NIST and the European Commission.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-03T18:12:23Z",
+   "first_seen": "2026-11-03T22:03:54Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/stmicroelectronics-launches-mcu-with-hardware-for-post-quantum.jpg"
   },
   {
    "id": "a7a587fa799da6bb",
@@ -9009,6 +9027,20 @@
    "lang": "en"
   },
   {
+   "id": "75b1e4445a97d81d",
+   "title": "A Toolkit for Succinct Lattice-Based Zero Knowledge Proofs",
+   "url": "https://eprint.iacr.org/2026/1289",
+   "summary": "The development of proof systems whose security relies on the hardness of lattice problems has been a fruitful research area in recent years. By leveraging the techniques introduced in LaBRADOR (Beullens, Seiler, Crypto 2023), the state-of-the-art lattice-based schemes have very fast provers and have output sizes under 100KB for arbitrarily large…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-06-19T09:18:07Z",
+   "first_seen": "2026-11-03T22:03:54Z"
+  },
+  {
    "id": "c5aa25e5f5ee99d2",
    "title": "Scottish quantum start-up Quantcore wins IOP qBIG prize",
    "url": "https://physicsworld.com/a/scottish-quantum-start-up-quantcore-wins-iop-qbig-prize/",
@@ -9738,6 +9770,20 @@
    ],
    "date": "2026-02-26T21:18:30Z",
    "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "7542cabfb04f562f",
+   "title": "Orthus: Practical Sublinear Batch-Verification of Lattice Relations from Standard Assumptions",
+   "url": "https://eprint.iacr.org/2026/398",
+   "summary": "The past several years have seen a rapid rise in practical lattice-based proof systems with linear-sized zero-knowledge proofs forming the foundation of many of the most efficient quantum-safe privacy protocols, and succinct proofs rapidly catching up and surpassing other quantum-safe alternatives in many metrics. A recent comparison of…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-02-26T16:03:54Z",
+   "first_seen": "2026-11-03T22:03:54Z"
   },
   {
    "id": "d08d884eace8c780",
