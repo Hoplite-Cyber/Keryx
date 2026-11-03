@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T08:39:52Z",
- "count": 742,
+ "generated_at": "2026-11-03T16:37:30Z",
+ "count": 763,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 21
+   "kept": 19
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 258,
+   "kept": 4
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 139,
+   "kept": 2
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 171
+   "kept": 174
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 7
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -168,7 +168,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 2
   },
   {
    "name": "Le Monde Informatique – sécurité",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 5,
+   "fetched": 10,
    "kept": 0
   },
   {
@@ -280,7 +280,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 2
   },
   {
    "name": "Le Monde Informatique – quantique",
@@ -314,7 +314,7 @@
    "name": "OpenSSL",
    "category": "Industrie",
    "ok": true,
-   "fetched": 216,
+   "fetched": 217,
    "kept": 8
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T08:39:52Z",
+   "date": "2026-11-03T16:37:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-03T08:39:52Z",
+   "date": "2026-11-03T16:37:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-03T08:39:52Z",
+   "date": "2026-11-03T16:37:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T08:39:52Z",
+   "date": "2026-11-03T16:37:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,249 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T08:39:52Z",
+   "date": "2026-11-03T16:37:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "a7a587fa799da6bb",
+   "title": "Tuning excitation can change photon number coherence in quantum dots",
+   "url": "https://quantumzeitgeist.com/vienna-photon-number-coherence-tuning-excitation/",
+   "summary": "Photon number coherence (PNC) has become an important figure of merit to fulfill the security requirements of quantum cryptography, and quantum dots (QDs) embedded in photonic microcavities offer a tunable source of single photons. The “Swing-UP of quantum EmitteR population” (SUPER) scheme can significantly decrease the PNC of the emitted photon…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-03T15:03:13Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/tuning-excitation-photon-number-coherence-quantum.png"
+  },
+  {
+   "id": "675915666fd03c90",
+   "title": "HKUST and Hong Kong Monetary Authority launch tools to help banks prepare for quantum threats",
+   "url": "https://quantumzeitgeist.com/quantum-threats-hkust-hong-kong-banks/",
+   "summary": "HKUST & HKMA launched a Post-Quantum Cryptography (PQC) Toolkit to help banks prepare for potential risks from future quantum computing, aiming for a QPI score of 10 by 2030.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-03T14:49:57Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/hkust-and-hong-kong-monetary-authority-launch-tools-scaled.jpg"
+  },
+  {
+   "id": "7e022f994b2ee876",
+   "title": "Vietnam drafts standards to fend off future quantum hacks From Government Cipher Committee",
+   "url": "https://quantumzeitgeist.com/government-cipher-vietnam-drafts-standards-fend/",
+   "summary": "Vietnam is developing standards for post-quantum cryptography, announcing 3 draft algorithms—HB-PQSign, ML-KEM, and ML-DSA—to protect systems by 2035.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-03T14:49:54Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/vietnam-drafts-standards-to-fend-off-future-quantum.webp"
+  },
+  {
+   "id": "ca2443f2188915d6",
+   "title": "Gix Internet backs Quantum X Labs’ encryption advance",
+   "url": "https://quantumzeitgeist.com/quantum-x-encryption-gix-internet-backs/",
+   "summary": "Gix Internet announced that Quantum X Labs, in which Gix holds approximately 13% (2,818,585 shares), reported the first demonstration of its Qatacomb quantum encryption scheme on commercial quantum hardware, specifically an IBM Quantum Heron r2 processor. In the demonstration, the intended recipient reconstructed an encrypted image, while an…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-03T14:16:14Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/gix-internet-backs-quantum-x-labs-scaled.jpeg"
+  },
+  {
+   "id": "13637b45cbd8fc3c",
+   "title": "Instanodes Develops Post-Quantum Account Solutions for Ethereum and Solana",
+   "url": "https://thequantuminsider.com/2026/11/03/instanodes-introduces-post-quantum-accounts-ethereum-solana/",
+   "summary": "Insider Brief PRESS RELEASE — Instanodes, a blockchain infrastructure provider offering RPC endpoints across more than 50 blockchain networks, dedicated nodes, validators and rollup infrastructure, today announced post-quantum account engineering for Ethereum Virtual Machine (EVM)-compatible networks and Solana. The expanded offering also includes…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-03T12:38:14Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-03_17-37.png"
+  },
+  {
+   "id": "1c3d07af6dea4b78",
+   "title": "When Not If: Coinbase Chief Sees Quantum, Not AI as The Biggest Threat to Crypto",
+   "url": "https://thequantuminsider.com/2026/11/03/when-not-if-coinbase-chief-sees-quantum-not-ai-as-the-biggest-threat-to-crypto/",
+   "summary": "Insider Brief An argument is forming that artificial intelligence may be a bigger threat right now than the ominous introduction of future cryptographically relevant quantum computers. Coinbase Global Inc. CEO Brian Armstrong weighed in during an earnings call and add his own two cents. He said quantum computing poses a more serious long-term…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-03T12:34:09Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/c6-y-fxhsis.jpg"
+  },
+  {
+   "id": "eeee2f6aa30bf59d",
+   "title": "Instanodes launches post-quantum accounts for Ethereum and Solana networks",
+   "url": "https://quantumzeitgeist.com/instanodes-post-quantum-accounts-ethereum-networks/",
+   "summary": "Instanodes now offers post-quantum account engineering for Ethereum and Solana, addressing risks from quantum computing advances.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-03T12:29:13Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/instanodes-post-quantum-accounts-ethereum-solana.png"
+  },
+  {
+   "id": "87a14c37aa4dec01",
+   "title": "Universal Quantum Combines Ion Trap, Controls and Modular Links in New Chip",
+   "url": "https://thequantuminsider.com/2026/11/03/universal-quantum-combines-ion-trap-controls-and-modular-links-in-new-chip/",
+   "summary": "Insider Brief PRESS RELEASE — Universal Quantum launches the iQPU, an integrated quantum processing unit designed to make quantum computers practical to manufacture, scale and deploy cost effectively. Combining the largest trapped-ion compute surface with built-in ultra-low noise control technology and modular chip-to-chip interconnect (UQConnect)…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-03T12:17:43Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Image-1-1.jpg"
+  },
+  {
+   "id": "25ad14f1b0d4b6c9",
+   "title": "Technology companies join forces to boost scientific discovery and quantum scale-up",
+   "url": "https://physicsworld.com/a/technology-companies-join-forces-to-boost-scientific-discovery-and-quantum-scale-up/",
+   "summary": "Quantum Design's acquisition of Oxford Instruments NanoScience has created a global company with the engineering firepower to create innovative measurement solutions and large-scale cryogenic systems for quantum computing and physics research The post Technology companies join forces to boost scientific discovery and quantum scale-up appeared…",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-03T10:43:19Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://physicsworld.com/wp-content/uploads/2026/11/2026-quantum-design-oxford-na-image01.jpg"
+  },
+  {
+   "id": "cf4716e467be8fe0",
+   "title": "HPT Vietnam to deliver SpecterAI’s post-quantum migration services",
+   "url": "https://quantumzeitgeist.com/post-quantum-migration-hpt-vietnam-specterais/",
+   "summary": "SpecterAI Quantum Security and HPT Vietnam Corporation signed detailed schedules and action roadmap on October 28, 2026, following an agreement concluded in June 2026. The partnership will bring post-quantum cryptography migration services and quantum security education to the Vietnamese market.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-03T09:41:15Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/hpt-vietnam-to-deliver-specterais-post-quantum-migration-scaled.jpg"
+  },
+  {
+   "id": "d1da437206574da6",
+   "title": "Visio : Tixeo passe au chiffrement post-quantique",
+   "url": "https://www.lemagit.fr/actualites/366653396/Visio-Tixeo-passe-au-chiffrement-post-quantique",
+   "summary": "L’éditeur français de visioconférence Tixeo annonce l’arrivée d’une protection post-quantique hybride pour se conformer aux exigences de l’ANSSI. Elle sera, dans un premier temps, limitée à l’accès par le navigateur.",
+   "source": "LeMagIT – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-03T09:34:00Z",
+   "first_seen": "2026-11-03T16:37:30Z"
+  },
+  {
+   "id": "338002a38afd720e",
+   "title": "Sectigo finds 78% see PKI change for quantum era",
+   "url": "https://quantumzeitgeist.com/quantum-era-sectigo-see-78-percent/",
+   "summary": "Sectigo’s 2026 State of Crypto Agility Report reveals 78% of organizations anticipate significant PKI changes to support post-quantum cryptography (PQC).",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-03T09:19:42Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/sectigo-finds-78-see-pki-change-for-quantum.png"
+  },
+  {
+   "id": "4d8c98adcba32cfb",
+   "title": "Casser RSA-2048 en 3 jours ? On décortique l’annonce d’Alice & Bob",
+   "url": "https://next.ink/265217/casser-rsa-2048-en-3-jours-on-decortique-lannonce-dalice-bob/",
+   "summary": "Alice & Bob vient de jeter un pavé dans la mare : avec seulement 22 600 qubits (physiques) de chat, il sera possible de casser une clé RSA sur 2048 bits en à peine plus de trois jours. Enfin en théorie, car il faut encore franchir plusieurs barrières techniques. L’ordinateur quantique soulève autant de fantasmes [...]",
+   "source": "Next",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-03T09:10:44Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://next.ink/wp-content/uploads/2024/04/Dediee-faq1.webp"
+  },
+  {
+   "id": "d880b23824693041",
+   "title": "SpecterAI and HPT Set Out PQC Migration Plans for Vietnam",
+   "url": "https://thequantuminsider.com/2026/11/03/specterai-hpt-pqc-migration-vietnam/",
+   "summary": "Insider Brief PRESS RELEASE — SpecterAI Quantum Security, a post-quantum cryptography (PQC) company, and HPT Vietnam Corporation signed the detailed schedules and action roadmap of their Strategic Partnership Agreement on October 28, 2026. The signing moves the partnership, first concluded in June 2026, from framework to execution, with a joint…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-03T09:07:31Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-03_14-06.png"
+  },
+  {
+   "id": "aaa32001d1bf917b",
+   "title": "Germany’s Quint Raises 9.1 Million Euros to Develop Quantum Chips With Fewer Errors",
+   "url": "https://thequantuminsider.com/2026/11/03/germanys-quint-raises-9-1-million-euros-to-develop-quantum-chips-with-fewer-errors/",
+   "summary": "Insider Brief German quantum computing startup Quint has raised 9.1 million euros in its first funding round to develop chips designed to reduce errors and lower the cost of building reliable quantum computers, Handelsblatt reported. The financing, secured a little more than a year after the company’s founding, was led by Vsquared Ventures.…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-03T09:00:34Z",
+   "first_seen": "2026-11-03T16:37:30Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-3.57.25-AM-1.png"
   },
   {
    "id": "dfb8c1f31edb52b8",
@@ -436,6 +676,95 @@
    "date": "2026-11-03T07:58:13Z",
    "first_seen": "2026-11-03T08:39:52Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/a-new-quantum-authentication-method-relies-on-entanglement-scaled.jpg"
+  },
+  {
+   "id": "4ef3acfb5ad4bc44",
+   "title": "On the Failure Probability of Quantum Leftover Hashing with Bad Seeds",
+   "url": "https://arxiv.org/abs/2611.03484",
+   "summary": "We study hashing against quantum adversaries, as used in cryptographic applications, and provide bounds on the probability of failure in practical settings where seeds might be reused and might be non-ideal. Randomness extraction and privacy amplification are key components of quantum cryptographic protocols, such as quantum randomness generation…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-03T05:00:00Z",
+   "first_seen": "2026-11-03T16:37:30Z"
+  },
+  {
+   "id": "ac38f403ed022f99",
+   "title": "Pervasive Vulnerability Analysis and Defense for QKD-based Quantum Private Query",
+   "url": "https://arxiv.org/abs/2601.01918",
+   "summary": "Quantum Private Query (QPQ) based on Quantum Key Distribution (QKD) is among the most practically viable quantum communication protocols, with application value second only to QKD itself. However, prevalent security vulnerabilities in the post-processing stages of most existing QKD-based QPQ protocols have been severely overlooked. This study…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-03T05:00:00Z",
+   "first_seen": "2026-11-03T16:37:30Z"
+  },
+  {
+   "id": "889aeff23f9dec95",
+   "title": "Multipartite GHZ diagonal states and their entanglement properties",
+   "url": "https://arxiv.org/abs/2609.28351",
+   "summary": "In this paper, we investigate the family of GHZ diagonal states, which are mixed multipartite quantum states that are diagonal in a GHZ type basis. We show that the class of GHZ diagonal states is highly symmetric and exhibits rich entanglement properties, making it relevant for applications in multipartite quantum key distribution.",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-03T05:00:00Z",
+   "first_seen": "2026-11-03T16:37:30Z"
+  },
+  {
+   "id": "a11e03729036b062",
+   "title": "Universal Inductive Inference of Quantum States",
+   "url": "https://arxiv.org/abs/2609.36912",
+   "summary": "Solomonoff's universal inductive inference [Inf. Control. 1964] is one of the most general frameworks for learning from sequential data and predicting future observations. It provides prediction guarantees for any computable stochastic source. We ask whether an analogous universal theory of induction can be developed for quantum systems. To this…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-03T05:00:00Z",
+   "first_seen": "2026-11-03T16:37:30Z"
+  },
+  {
+   "id": "d93b8242c9a077fc",
+   "title": "Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach",
+   "url": "https://arxiv.org/abs/2611.01144",
+   "summary": "Despite their theoretical quantum attack resistance, practical implementations of post-quantum cryptography (PQC) algorithms remain susceptible to side-channel attacks. This includes all standard algorithms selected the National Institute of Standards and Technology (NIST) such as Kyber/ML-KEM, Dilithium/ML-DSA, Falcon/FN-DSA and SPHINCS+/SLH-DSA.…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-03T05:00:00Z",
+   "first_seen": "2026-11-03T16:37:30Z"
+  },
+  {
+   "id": "e3e21028603f0e67",
+   "title": "Empirical Ciphertext Distinguishability Testing of KEMs and Hybrid Encryption via Deep Learning",
+   "url": "https://arxiv.org/abs/2604.06942",
+   "summary": "We model indistinguishability under chosen-plaintext attack (IND-CPA) games as binary classification tasks for deep neural networks (DNNs). We apply this methodology to the public-key encryption (PKE) schemes used to construct PQC key encapsulation mechanisms (KEMs) such as ML-KEM and HQC, and to cascaded symmetric algorithms, demonstrating…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-03T05:00:00Z",
+   "first_seen": "2026-11-03T16:37:30Z"
   },
   {
    "id": "6a75c502587302ac",
@@ -4581,7 +4910,8 @@
     "Menace quantique"
    ],
    "date": "2026-10-15T03:39:21Z",
-   "first_seen": "2026-10-19T14:46:21Z"
+   "first_seen": "2026-10-19T14:46:21Z",
+   "lang": "en"
   },
   {
    "id": "2327d2bbeb5e7661",
