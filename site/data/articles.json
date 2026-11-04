@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T09:23:06Z",
- "count": 783,
+ "generated_at": "2026-11-04T17:42:34Z",
+ "count": 792,
  "sources": [
   {
    "name": "ANSSI",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 2
   },
   {
    "name": "ETSI – actualités",
@@ -126,7 +126,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 22,
-   "kept": 12
+   "kept": 11
   },
   {
    "name": "Schneier on Security",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 10,
+   "fetched": 13,
    "kept": 0
   },
   {
@@ -266,7 +266,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 47
+   "kept": 48
   },
   {
    "name": "Pasqal",
@@ -307,7 +307,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 787,
+   "fetched": 786,
    "kept": 39
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T09:23:06Z",
+   "date": "2026-11-04T17:42:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-04T09:23:06Z",
+   "date": "2026-11-04T17:42:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-04T09:23:06Z",
+   "date": "2026-11-04T17:42:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T09:23:06Z",
+   "date": "2026-11-04T17:42:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,135 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T09:23:06Z",
+   "date": "2026-11-04T17:42:34Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "52af3f858d2bb55b",
+   "title": "Wigner researchers send quantum-safe radio messages across Budapest",
+   "url": "https://quantumzeitgeist.com/meshtastic-quantum-safe-radio-messages-wigner/",
+   "summary": "Wigner researchers sent quantum-key-encrypted messages via the Meshtastic radio network across Budapest’s Margaret Bridge on October 29, 2026.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-04T16:53:20Z",
+   "first_seen": "2026-11-04T17:42:34Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/wigner-send-quantum-safe-radio-messages.png"
+  },
+  {
+   "id": "519ae224bee2131e",
+   "title": "IonQ | IonQ Acquires Elisity: Uniting Zero Trust & Quantum Security",
+   "url": "https://ionq.com/news/ionq-completes-acquisition-of-elisity-extending-quantum-security-for-enterprises-and-government",
+   "summary": "IonQ completes the acquisition of Elisity, integrating Zero Trust security with post-quantum cryptography and QKD to defend against emerging quantum threats.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-04T13:49:17Z",
+   "first_seen": "2026-11-04T17:42:34Z"
+  },
+  {
+   "id": "6bf275a0586bddaf",
+   "title": "A sign-less key exchange aims to secure IoT networks post-quantum",
+   "url": "https://quantumzeitgeist.com/ho-chi-key-exchange-aims-less/",
+   "summary": "HPQ-AKE, a sign-less authenticated key exchange protocol, secures bandwidth-constrained IoT networks using ML-KEM-768 and RSA-OAEP.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T13:20:38Z",
+   "first_seen": "2026-11-04T17:42:34Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/a-sign-less-key-exchange-aims-to-secure-scaled.png"
+  },
+  {
+   "id": "c8e50cdb662d8fca",
+   "title": "Versasec unlocks quantum-safe 3 benefits with vSEC, CMS 7.5 & Thales integration",
+   "url": "https://quantumzeitgeist.com/versasec-unlocks-quantum-safe-benefits-thales/",
+   "summary": "Versasec’s vSEC:CMS 7.5 accelerates enterprise transitions to quantum-safe security, offering PQC HSM migration & Thales integration.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T13:20:33Z",
+   "first_seen": "2026-11-04T17:42:34Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/versasec-unlocks-quantum-safe-3-benefits.jpeg"
+  },
+  {
+   "id": "1b6b390b46082709",
+   "title": "D-Wave Updates Stride Hybrid Solver With Faster Optimization Performance",
+   "url": "https://thequantuminsider.com/2026/11/04/d-wave-stride-hybrid-solver-optimization-performance/",
+   "summary": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, today announced powerful performance enhancements to its StrideTM hybrid solver. In key benchmark testing, the enhanced solver found…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-04T13:09:51Z",
+   "first_seen": "2026-11-04T17:42:34Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-04_18-08.png"
+  },
+  {
+   "id": "1df3a43e0853cd59",
+   "title": "Intel chips speed up post-quantum encryption for IoT devices",
+   "url": "https://quantumzeitgeist.com/hqc-intel-chips-speed-post-quantum/",
+   "summary": "Optimizations to HQC post-quantum encryption, leveraging AVX-512 on Intel Core i5-1135G7 processors, reduce key generation by up to 29.5%.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-04T12:59:19Z",
+   "first_seen": "2026-11-04T17:42:34Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/intel-chips-speed-up-post-quantum.jpg"
+  },
+  {
+   "id": "1dccd62a6c0d374c",
+   "title": "Keyfactor maps five steps to quantum-safe encryption as tests begin",
+   "url": "https://quantumzeitgeist.com/quantum-safe-encryption-keyfactor-maps-five/",
+   "summary": "Keyfactor details a five-stage path to post-quantum cryptography, with Stage 4 testing & migration now underway.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-04T11:39:04Z",
+   "first_seen": "2026-11-04T17:42:34Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/keyfactor-maps-five-steps-quantum-safe.png"
+  },
+  {
+   "id": "15c5e7b786114ba4",
+   "title": "Guest Post: Why Crypto-Agility Matters for Financial Institutions Preparing for PQC",
+   "url": "https://thequantuminsider.com/2026/11/04/crypto-agility-post-quantum-security-banks/",
+   "summary": "Guest Post by Andrew Gault, CEO, ZeroTier. The financial services industry depends on cryptography to move money, protect customer and transaction data, verify digital identities, and connect banks with processors, cloud providers, and other third parties. This protection, Quantum computing puts that protection at risk. A sufficiently capable…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-04T08:50:37Z",
+   "first_seen": "2026-11-04T17:42:34Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-04_13-47.png"
   },
   {
    "id": "8d3e9f7590bcb5d3",
@@ -1332,6 +1458,21 @@
    "date": "2026-11-01T19:46:52Z",
    "first_seen": "2026-11-01T22:59:28Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-find-attack-exploiting-qkd-transmitter-recovery.png"
+  },
+  {
+   "id": "23a95a7da1681658",
+   "title": "A Constant-Rate Compiler for Continual Memory Leakage",
+   "url": "https://eprint.iacr.org/2026/2715",
+   "summary": "Leakage-resilient compilers transform any computation so that physical leakage from its implementation reveals nothing beyond its input-output behaviour. In this work, we investigate this question in the well-motivated continual memory leakage (CML) model, that captures a variety of relevant real-world side-channel attacks and subsumes several…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-01T16:32:24Z",
+   "first_seen": "2026-11-04T17:42:34Z"
   },
   {
    "id": "50b091f478e9a1d1",
@@ -9429,7 +9570,7 @@
    "id": "eea13cdb1c7ff71b",
    "title": "SoK: Cryptographic Erasure on Public Ledgers: Application-Layer Architectures, Key-Lifecycle Adversaries, and GDPR Art. 17 Sufficiency",
    "url": "https://eprint.iacr.org/2026/1109",
-   "summary": "Public permissionless ledgers are append-only by design, yet are increasingly asked to host data subject to statutory erasure obligations (GDPR Art. 17, EDPB Guidelines 02/2025). The prevailing cryptographic response, rewriting the chain via chameleon hashes and redactable-blockchain constructions, is structurally unavailable on Bitcoin and…",
+   "summary": "Public permissionless ledgers are append-only by design, yet are increasingly asked to host data subject to statutory erasure obligations (GDPR Art. 17, EDPB Guidelines 02/2025). The prevailing cryptographic response, redacting the chain itself, needs either a different chaining hash or the cooperation of every node, neither of which a controller…",
    "source": "IACR ePrint",
    "category": "Recherche",
    "lang": "en",
