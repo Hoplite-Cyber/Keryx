@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T02:08:57Z",
- "count": 767,
+ "generated_at": "2026-11-04T09:23:06Z",
+ "count": 783,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 17
+   "kept": 14
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 258,
-   "kept": 4
+   "fetched": 178,
+   "kept": 9
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 139,
-   "kept": 2
+   "fetched": 62,
+   "kept": 5
   },
   {
    "name": "Cloudflare Blog",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T02:08:57Z",
+   "date": "2026-11-04T09:23:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-04T02:08:57Z",
+   "date": "2026-11-04T09:23:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-04T02:08:57Z",
+   "date": "2026-11-04T09:23:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T02:08:57Z",
+   "date": "2026-11-04T09:23:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,181 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T02:08:57Z",
+   "date": "2026-11-04T09:23:06Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "8d3e9f7590bcb5d3",
+   "title": "Certification of quantum correlations at arbitrary distances through routed Bell tests",
+   "url": "https://arxiv.org/abs/2502.12241",
+   "summary": "Transmission loss represents a major obstacle to the device-independent certification of quantum correlations over long distances, limiting applications such as device-independent quantum key distribution (DIQKD). In this work, we investigate the recently proposed concept of routed Bell experiments, in which a particle sent to one side can be…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-02T09:37:40Z"
+  },
+  {
+   "id": "354ed793328c47c1",
+   "title": "Quantum banking system for secure cash withdrawal",
+   "url": "https://arxiv.org/abs/2611.03706",
+   "summary": "A quantum-secure withdrawal framework is presented by replacing reproducible classical credentials with quantum tokens for authentication. The protocol integrates token generation, authentication, and verification into the existing banking workflow using experimentally motivated quantum control techniques. This mitigates card cloning, credential…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "688ce5b11ab10211",
+   "title": "Optimised finite key for satellite up-link entangled quantum key distribution",
+   "url": "https://arxiv.org/abs/2611.03788",
+   "summary": "Entanglement-based quantum key distribution from ground to satellite has been proposed as a scalable primitive for global quantum networks and will be demonstrated as part of the imminent QEYSSat mission. Both theoretical studies and experimental emulations have shown that a significant asymptotic key rate can be expected. In this work we…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "8f59ca1cead0969b",
+   "title": "Quantum identity authentication protocol via perturbed probability amplitudes",
+   "url": "https://arxiv.org/abs/2611.04129",
+   "summary": "Quantum identity authentication is an effective solution for establishing mutual trust between communicating parties in the post-quantum era. To address the risk of partial secret information leakage under special measurements, this paper designs a quantum identity authentication protocol based on perturbed probability amplitudes. The protocol…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "ff1ed36f88b35415",
+   "title": "Decoy-state quantum key distribution with a leaky Mach-Zehnder receiver",
+   "url": "https://arxiv.org/abs/2611.04539",
+   "summary": "We prove the security of phase-encoded decoy-state BB84 quantum key distribution for a Mach-Zehnder receiver with imbalanced beam splitters and two threshold detectors that leak fine-grained information about the detection patterns. For this, we derive a lower bound on Bob's single-photon contributions and combine it with the decoy-state method…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "652e73f6cd034044",
+   "title": "Quantum Advantage has Few Complexity Implications",
+   "url": "https://arxiv.org/abs/2611.05303",
+   "summary": "We consider the complexity implications of proofs of quantumness and (quantum verifier) oblivious state preparation. We show that both of these objects can coexist with the easiness of nondeterministic computation. That is, we give evidence that proofs of quantumness can exist when $\\mathsf{P} = \\mathsf{NP}$ and that (quantum verifier) oblivious…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "108df1d2a1133c4a",
+   "title": "Everlasting secure key agreement from a quantum computational hybrid security model",
+   "url": "https://arxiv.org/abs/2004.10173",
+   "summary": "We introduce the Quantum Computational Timelock (QCT) model, combining time-lock encryption with a quantitative noisy-quantum-storage assumption. Time-lock encryption gives Bob immediate access to the encoding seed and gives Eve the same final information as access to that seed only after a protected interval. Eve may then process her retained…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "9b0211e966c23a21",
+   "title": "A parity obstruction to degree-optimal syndrome extraction in bivariate bicycle codes",
+   "url": "https://arxiv.org/abs/2509.26494",
+   "summary": "Syndrome extraction for a CSS code has depth at least the Tanner-graph degree $\\Delta$, attained by edge colouring if gate order is ignored; correctness adds a parity constraint. We prove three general obstructions to depth-$\\Delta$ extraction and show that, for every two-block group-algebra code with weight-three polynomials whose checks overlap…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "38402545cd0fdaaa",
+   "title": "Robust and leakage-resilient device-independent oblivious transfer in MiniQCrypt",
+   "url": "https://arxiv.org/abs/2610.01421",
+   "summary": "Assuming post-quantum one-way functions, we construct device-independent oblivious transfer and bit commitment that tolerate independent honest faults at a constant rate and adaptive, bidirectional quantum leakage between the laboratories at a constant rate. Honest parties use trusted classical computation to operate untrusted quantum devices…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "6fdc9b08360feb4d",
+   "title": "On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle",
+   "url": "https://arxiv.org/abs/2611.04052",
+   "summary": "Information-theoretic MPC among $n$ parties with $t$ corruptions can securely evaluate a circuit $C$ with $O(|C| \\cdot t/(n-t))$ online communication in the preprocessing model and $O(|C| \\cdot t/(n-2t))$ communication in the honest majority setting. Damg{\\aa}rd, Larsen and Nielsen (CRYPTO 2019) showed that both communication bounds are tight for…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "5b0b9899359b7925",
+   "title": "Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices",
+   "url": "https://arxiv.org/abs/2611.05136",
+   "summary": "Can deterministic information loss yield post-quantum pseudorandomness with $TC^0$ evaluation? We show that deterministic rounding achieves this under quantum worst-case lattice hardness, with fixed polynomial parameters and no predetermined sample bound. We introduce learning with algebraic rounding (LAR), which applies an explicit integer…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "79ab3a53ecca39d8",
+   "title": "Cryptanalysis of Isogeny-Based Quantum Money with Rational Points",
+   "url": "https://arxiv.org/abs/2508.00351",
+   "summary": "Quantum money is a representative application in cryptography that utilizes quantum technology to achieve security that is unattainable with classical systems. Since the theoretical proposal by Wiesner in 1983, the most recent instantiation is the quantum money using class group actions on elliptic curves, proposed by Montgomery and Sharif in…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-04T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
   },
   {
    "id": "a0b2727774ce5dd6",
@@ -1072,20 +1244,6 @@
    "first_seen": "2026-11-02T09:37:40Z"
   },
   {
-   "id": "8d3e9f7590bcb5d3",
-   "title": "Certification of quantum correlations at arbitrary distances through routed Bell tests",
-   "url": "https://arxiv.org/abs/2502.12241",
-   "summary": "Transmission loss represents a major obstacle to the device-independent certification of quantum correlations over long distances, limiting applications such as device-independent quantum key distribution (DIQKD). In this work, we investigate the recently proposed concept of routed Bell experiments, in which a particle sent to one side can be…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD"
-   ],
-   "date": "2026-11-02T05:00:00Z",
-   "first_seen": "2026-11-02T09:37:40Z"
-  },
-  {
    "id": "fff78bdae1220f4a",
    "title": "Preprocessing noise in finite-size quantum key distribution",
    "url": "https://arxiv.org/abs/2603.18213",
@@ -1207,6 +1365,50 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Julien.jpg"
   },
   {
+   "id": "4aed30dc4f0c1d60",
+   "title": "SpreadMAYO: Unlocking Greater Parallelism for Faster MAYO Signatures on GPUs",
+   "url": "https://eprint.iacr.org/2026/2705",
+   "summary": "Quantum computing threatens public-key cryptography, motivating post-quantum signature standardization. MAYO, a multivariate Round 3 candidate in NIST's additional signature process, offers compact keys and signatures. However, prior GPU implementations do not fully exploit parallelism within each MAYO operation: equation-slice partitioning…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-31T05:47:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "4f95dc61ee48b170",
+   "title": "Registered Functional Encryption with Certified Everlasting Security",
+   "url": "https://eprint.iacr.org/2026/2699",
+   "summary": "Registered functional encryption removes the trusted authority bottleneck of standard functional encryption by allowing users to register their own public keys, with a transparent aggregation procedure producing a compact master public key. On the other hand, certified everlasting deletion enables a recipient to produce a classical certificate…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-30T15:14:32Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "bba441d3a5fef83a",
+   "title": "Batched Identity-Based Encryption with Succinct Publicly Verifiable Subset Deletion",
+   "url": "https://eprint.iacr.org/2026/2698",
+   "summary": "Batched identity-based encryption (BIBE) compresses a bounded set of identities into a succinct public digest, and provides a single secret key for decrypting ciphertexts associated with identities in the set. We introduce batched identity-based encryption with succinct publicly verifiable subset deletion (BIBE-SPVD), which allows a holder of…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-10-30T14:26:30Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
    "id": "09ea953ba07b66ec",
    "title": "Infleqtion Tests Optical Atomic Clock During US Navy Exercise",
    "url": "https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/",
@@ -1267,6 +1469,20 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/post-selection-boosts-quantum-key-rate-scaled.jpeg"
   },
   {
+   "id": "3875984716c127ad",
+   "title": "Quantum Time-Space Tradeoffs for Short Merkle-Damgård Collisions",
+   "url": "https://eprint.iacr.org/2026/2694",
+   "summary": "We study time-space tradeoffs for finding short collisions in Merkle-Damg{\\aa}rd~(MD) hashing in the quantum auxiliary-input quantum random-oracle model~(QAI-QROM). An adversary may preprocess the compression function into $S$ qubits of arbitrary oracle-dependent quantum advice and, after receiving a fresh salt, make $T$ superposition queries to…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-10-30T10:29:17Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
    "id": "7c4a0def6d1b64e3",
    "title": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing",
    "url": "https://thequantuminsider.com/2026/10/30/wolfspeed-transparent-silicon-carbide-technology/",
@@ -1280,6 +1496,20 @@
    "date": "2026-10-30T09:55:39Z",
    "first_seen": "2026-10-31T08:54:10Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-30_14-54.png"
+  },
+  {
+   "id": "e9da36bf73d65874",
+   "title": "Efficient Implementations of Small-Modulus Lattice KEM Components",
+   "url": "https://eprint.iacr.org/2026/2692",
+   "summary": "Small moduli support compact polynomial representations in lattice-based key encapsulation mechanisms (KEMs), including BAT (TCHES 2022) and END (ASIACRYPT 2026, to appear). However, compact encodings can be costly to convert, and uniform generation must account for both coefficient-extraction cost and random-bit demand. Incomplete…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-30T06:40:08Z",
+   "first_seen": "2026-11-04T09:23:06Z"
   },
   {
    "id": "0e9dc59704560aeb",
