@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T22:03:54Z",
- "count": 766,
+ "generated_at": "2026-11-04T02:08:57Z",
+ "count": 767,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 18
+   "kept": 17
   },
   {
    "name": "arXiv quant-ph",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T22:03:54Z",
+   "date": "2026-11-04T02:08:57Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-03T22:03:54Z",
+   "date": "2026-11-04T02:08:57Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-03T22:03:54Z",
+   "date": "2026-11-04T02:08:57Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T22:03:54Z",
+   "date": "2026-11-04T02:08:57Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,7 +418,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-03T22:03:54Z",
+   "date": "2026-11-04T02:08:57Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -10682,6 +10682,22 @@
    "date": "2025-11-24T00:00:00Z",
    "first_seen": "2026-10-26T09:55:10Z",
    "image": "https://letsencrypt.org/images/blog/2025-11-24-gen-y-hierarchy.png"
+  },
+  {
+   "id": "018fe2a621ad7d7e",
+   "title": "New Post-Quantum IBE leveraging maturity, efficiency and security of standard schemes",
+   "url": "https://eprint.iacr.org/2025/2143",
+   "summary": "Many Identity-Based Encryption (IBE) schemes rely on the hardness of the Discrete Logarithm Problem, making them vulnerable to quantum attacks. In recent years, lattice-based cryptography has emerged as a source of Post-Quantum cryptosystems, for example with Kyber, Dilithium and Falcon chosen by NIST to be standardized as ML-KEM, ML-DSA and…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2025-11-23T18:12:03Z",
+   "first_seen": "2026-11-04T02:08:57Z"
   },
   {
    "id": "907112ee94ded958",
