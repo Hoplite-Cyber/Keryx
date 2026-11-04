@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T17:42:34Z",
- "count": 792,
+ "generated_at": "2026-11-04T22:48:58Z",
+ "count": 795,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 14
+   "kept": 15
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 2
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T17:42:34Z",
+   "date": "2026-11-04T22:48:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-04T17:42:34Z",
+   "date": "2026-11-04T22:48:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-04T17:42:34Z",
+   "date": "2026-11-04T22:48:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T17:42:34Z",
+   "date": "2026-11-04T22:48:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,41 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T17:42:34Z",
+   "date": "2026-11-04T22:48:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "a818a42372ac1722",
+   "title": "IonQ Partners With QuantumCT to Expand Quantum Computing Access in Connecticut",
+   "url": "https://thequantuminsider.com/2026/11/04/ionq-quantumct-quantum-computing-access-connecticut/",
+   "summary": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a partnership with QuantumCT, Connecticut’s statewide initiative to accelerate quantum innovation and economic development. QuantumCT will purchase access to IonQ’s trapped-ion quantum computers on behalf of…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-04T18:25:54Z",
+   "first_seen": "2026-11-04T22:48:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-04_23-25.png"
+  },
+  {
+   "id": "579020650303c797",
+   "title": "IonQ Completes Acquisition of Zero Trust Security Company Elisity",
+   "url": "https://thequantuminsider.com/2026/11/04/ionq-completes-acquisition-zero-trust-security-company-elisity/",
+   "summary": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today completed its acquisition of Elisity, Inc., a Zero Trust security company, in an all-stock transaction. The combination extends IonQ’s quantum security strategy, adding Zero Trust technology that complements IonQ’s post-quantum…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-04T18:20:27Z",
+   "first_seen": "2026-11-04T22:48:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-04_23-19.png"
   },
   {
    "id": "52af3f858d2bb55b",
@@ -451,7 +483,7 @@
     "Menace quantique",
     "PQC"
    ],
-   "date": "2026-11-04T13:49:17Z",
+   "date": "2026-11-04T16:13:03Z",
    "first_seen": "2026-11-04T17:42:34Z"
   },
   {
@@ -10261,6 +10293,22 @@
    ],
    "date": "2026-02-16T10:00:06Z",
    "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "9fed7ffa2d7f9807",
+   "title": "Adams Bridge (V2.0) Accelerator: Bridging the Post-Quantum Transition",
+   "url": "https://eprint.iacr.org/2026/256",
+   "summary": "Quantum computing threatens widely deployed public-key cryptosystems, driving the urgent adoption of post-quantum cryptography (PQC) in cloud and hardware-accelerated security infrastructures. This paper presents \\emph{Adams Bridge}, an industry-grade hardware accelerator for lattice-based PQC that integrates ML-KEM and ML-DSA within a unified…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-02-13T19:40:28Z",
+   "first_seen": "2026-11-04T22:48:58Z"
   },
   {
    "id": "dee85ba4ff5dfae1",
