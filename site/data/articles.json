@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T22:48:58Z",
- "count": 795,
+ "generated_at": "2026-11-05T02:52:07Z",
+ "count": 797,
  "sources": [
   {
    "name": "ANSSI",
@@ -259,7 +259,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 46
+   "kept": 47
   },
   {
    "name": "IonQ",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T22:48:58Z",
+   "date": "2026-11-05T02:52:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-04T22:48:58Z",
+   "date": "2026-11-05T02:52:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-04T22:48:58Z",
+   "date": "2026-11-05T02:52:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T22:48:58Z",
+   "date": "2026-11-05T02:52:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,40 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-04T22:48:58Z",
+   "date": "2026-11-05T02:52:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "5dfcb044109ff722",
+   "title": "The Right Way to Think About Speed",
+   "url": "https://www.quantinuum.com/blog/the-right-way-to-think-about-speed",
+   "summary": "At Quantinuum, we are pursuing that goal by scaling our systems and removing bottlenecks. Speed depends on how much work is required to make a computation reliable and how much of that work can happen simultaneously. We are improving how we build and operate logical qubits—an essential mechanism for complex computations—through more efficient…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T00:02:54Z",
+   "first_seen": "2026-11-05T02:52:07Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aebb5660d17b63316f9e970_The-Right-Way-to-Think-About-Speed-Media-Preview.png"
+  },
+  {
+   "id": "51a2abfff66acd5d",
+   "title": "New lattice assumption, LAR, links rounding to quantum-resistant encryption",
+   "url": "https://quantumzeitgeist.com/shandong-university-lattice-assumption-links-rounding/",
+   "summary": "New research introduces the Learning with Algebraic Rounding (LAR) assumption, connecting deterministic rounding to worst-case lattice hardness.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-04T19:02:50Z",
+   "first_seen": "2026-11-05T02:52:07Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/lattice-assumption-lar-links-rounding-quantum.png"
   },
   {
    "id": "a818a42372ac1722",
