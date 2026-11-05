@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T09:56:05Z",
- "count": 815,
+ "generated_at": "2026-11-05T14:19:24Z",
+ "count": 822,
  "sources": [
   {
    "name": "ANSSI",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 3
+   "kept": 7
   },
   {
    "name": "ETSI – actualités",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 13,
+   "fetched": 11,
    "kept": 0
   },
   {
@@ -252,7 +252,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 6
+   "kept": 5
   },
   {
    "name": "Quantinuum",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T09:56:05Z",
+   "date": "2026-11-05T14:19:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-05T09:56:05Z",
+   "date": "2026-11-05T14:19:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-05T09:56:05Z",
+   "date": "2026-11-05T14:19:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T09:56:05Z",
+   "date": "2026-11-05T14:19:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,113 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T09:56:05Z",
+   "date": "2026-11-05T14:19:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "8770dac00aeda6f9",
+   "title": "Build for the fault-tolerant era with Quantinuum Nexus",
+   "url": "https://www.quantinuum.com/blog/build-for-the-fault-tolerant-era-with-quantinuum-nexus",
+   "summary": "Fault-tolerant quantum computing is entering a new phase. At Quantinuum, we have demonstrated almost every piece needed for large-scale fault tolerant hardware, from a universal fault tolerant gate set, to a proven fault tolerant architecture, to large-scale materials simulations with encoded qubits, at world-leading fidelity.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T13:20:29Z",
+   "first_seen": "2026-11-05T14:19:24Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aea1684b40e114380708d7c_Nexus-Launch-Media-Preview.png"
+  },
+  {
+   "id": "07bdc61358d0b01e",
+   "title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+   "url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+   "summary": "Insider Brief PRESS RELEASE — IBM (NYSE: IBM), the U.S. Department of Energy-funded Quantum Science Center (QSC) at Oak Ridge National Laboratory (ORNL), and AMD (NASDAQ: AMD) today unveiled a new co-design platform for quantum error correction, integrating quantum and high-performance computing. Over the last several years, researchers have made…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T13:02:38Z",
+   "first_seen": "2026-11-05T14:19:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/IBM-ORNL-AMD-Co-design-Platform-for-QEC-Ribbon-Cutting-2-1.jpg"
+  },
+  {
+   "id": "345e641afcb01469",
+   "title": "Quantinuum Maps Nexus Expansion Ahead of Planned 2029 Fault-Tolerant Computer",
+   "url": "https://thequantuminsider.com/2026/11/05/quantinuum-maps-nexus-expansion-ahead-of-planned-2029-fault-tolerant-computer/",
+   "summary": "Insider Brief Quantinuum (NASDAQ: QNT), the leading full-stack quantum computing company, today unveiled a new roadmap to evolve Quantinuum Nexus, its platform as a service, with the aim of delivering the quantum industry’s first developer platform designed for the fault-tolerant era. The roadmap introduces new capabilities with each generation of…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T13:01:05Z",
+   "first_seen": "2026-11-05T14:19:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Quantinuum-Maps-Nexus_-Golden-Quantum-Chip-2.png"
+  },
+  {
+   "id": "5487aa9687cdf014",
+   "title": "ORNL, IBM, AMD launch co-design platform for QEC",
+   "url": "https://research.ibm.com/blog/ornl-amd-error-correction-co-design-platform?utm_medium=rss&utm_source=rss",
+   "summary": "The U.S. DOE’s Quantum Science Center at Oak Ridge National Lab is leading the integration of IBM quantum hardware with ORNL HPC clusters, powered by AMD.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T13:00:00Z",
+   "first_seen": "2026-11-05T14:19:24Z"
+  },
+  {
+   "id": "1637603a5e2ebc57",
+   "title": "FCA to Test Quantum Machine Learning for Fraud and Money Laundering Detection",
+   "url": "https://thequantuminsider.com/2026/11/05/fca-quantum-computing-group-financial-crime-detection/",
+   "summary": "Insider Brief PRESS RELEASE — The FCA will bring together financial services firms, quantum technology providers and national research laboratories to explore how quantum computing could help tackle financial crime. The Quantum Experimentation Group, the first of its kind for a regulator, will initially explore how quantum machine learning could…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T10:47:24Z",
+   "first_seen": "2026-11-05T14:19:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_15-46.png"
+  },
+  {
+   "id": "bbfea5a1481b3645",
+   "title": "Orange Joins Acceleronix and IDEMIA’s Quantum-Safe eSIM Provisioning Program",
+   "url": "https://thequantuminsider.com/2026/11/05/orange-joins-acceleronix-idemia-quantum-safe-esim-provisioning/",
+   "summary": "Insider Brief PRESS RELEASE — Orange, one of the world’s leading telecom operators, has joined the global quantum-safe In-Factory Profile Provisioning (IFPP) program, jointly launched by Acceleronix and IDEMIA Secure Transactions at MWC Barcelona in February. The program enables device makers to build a single product for every market and connect…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T10:39:58Z",
+   "first_seen": "2026-11-05T14:19:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_15-37.png"
+  },
+  {
+   "id": "13089763bb8bf74e",
+   "title": "Bitcoin Cash Proposal Seeks Path to Quantum-Resistant Transactions",
+   "url": "https://thequantuminsider.com/2026/11/05/bitcoin-cash-proposal-seeks-path-to-quantum-resistant-transactions/",
+   "summary": "Insider Brief PRESS RELEASE — The Bitcoin Cash (BCH) development community has formalized CHIP-2026-06, a Cash Improvement Proposal introducing the `OP_SIGHASH` opcode. The proposal is under active discussion and implementation review for potential lock-in on November 15, 2026, with mainnet activation targeted for May 15, 2027, following the…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T09:51:03Z",
+   "first_seen": "2026-11-05T14:19:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/uxdu0gg5pqq.jpg"
   },
   {
    "id": "79ab3a53ecca39d8",
@@ -549,6 +653,21 @@
    "date": "2026-11-05T00:02:54Z",
    "first_seen": "2026-11-05T02:52:07Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aebb5660d17b63316f9e970_The-Right-Way-to-Think-About-Speed-Media-Preview.png"
+  },
+  {
+   "id": "7891e839ccf6d6dc",
+   "title": "Quantinuum and GE Vernova Collaborate to Advance High-Temperature Superconductivity Research",
+   "url": "https://www.quantinuum.com/blog/quantinuum-and-ge-vernova-collaborate-to-advance-high-temperature-superconductivity-research",
+   "summary": "Quantinuum and GE Vernova’s Advanced Research Center are launching a collaboration to apply quantum computing to one of the research community’s most consequential challenges: understanding the behavior behind high-temperature superconductivity. Advances in this field could, over the long term, transform the energy sector by enabling lighter…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-04T20:58:11Z",
+   "first_seen": "2026-10-27T14:37:28Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6adfdfae73f315dc02acbe1c_GE_MP%201.png"
   },
   {
    "id": "51a2abfff66acd5d",
@@ -2719,21 +2838,6 @@
    "date": "2026-10-27T12:50:33Z",
    "first_seen": "2026-10-27T14:37:28Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantinuum-and-GE-in-quantum-waves-1.png"
-  },
-  {
-   "id": "7891e839ccf6d6dc",
-   "title": "Quantinuum and GE Vernova Collaborate to Advance High-Temperature Superconductivity Research",
-   "url": "https://www.quantinuum.com/blog/quantinuum-and-ge-vernova-collaborate-to-advance-high-temperature-superconductivity-research",
-   "summary": "Quantinuum and GE Vernova’s Advanced Research Center are launching a collaboration to apply quantum computing to one of the research community’s most consequential challenges: understanding the behavior behind high-temperature superconductivity. Advances in this field could, over the long term, transform the energy sector by enabling lighter…",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-10-27T12:00:06Z",
-   "first_seen": "2026-10-27T14:37:28Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6adfdfae73f315dc02acbe1c_GE_MP%201.png"
   },
   {
    "id": "73a3b515772d1b74",
