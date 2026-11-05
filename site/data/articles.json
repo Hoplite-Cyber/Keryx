@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T17:56:59Z",
- "count": 830,
+ "generated_at": "2026-11-05T23:31:43Z",
+ "count": 832,
  "sources": [
   {
    "name": "ANSSI",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 7
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -259,7 +259,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 47
+   "kept": 46
   },
   {
    "name": "IonQ",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T17:56:59Z",
+   "date": "2026-11-05T23:31:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-05T17:56:59Z",
+   "date": "2026-11-05T23:31:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-05T17:56:59Z",
+   "date": "2026-11-05T23:31:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T17:56:59Z",
+   "date": "2026-11-05T23:31:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,41 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T17:56:59Z",
+   "date": "2026-11-05T23:31:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "e1e6011595d40634",
+   "title": "IonQ | IonQ Q3 Revenue, GAAP EPS and Adjusted EPS All Exceed Consensus Estimates",
+   "url": "https://ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion",
+   "summary": "Reported GAAP Revenue of $173.8 Million, Up 336% Year-over-Year, Marking the Sixth Consecutive Record QuarterRaises. Full Year Revenue Guidance to $505 to $515 Million and Expects 110% Year-Over-Year Growth in Quantum Computing. IonQ Platform Segment Revenue Up 127% to $90.3 Million on Global Tempo Quantum Computer Deployments",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T21:05:02Z",
+   "first_seen": "2026-11-05T23:31:43Z"
+  },
+  {
+   "id": "c3113694d86102eb",
+   "title": "QSE’s quantum encryption upgrades prep for 2027 deadlines",
+   "url": "https://quantumzeitgeist.com/oracle-quantum-encryption-upgrades-qses-prep/",
+   "summary": "The NSA warns of “harvest now, decrypt later” attacks, driving demand for post-quantum cryptography.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Normes & politiques",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-05T20:38:45Z",
+   "first_seen": "2026-11-05T23:31:43Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/qses-quantum-encryption-upgrades-prep-for-2027-deadlines.png"
   },
   {
    "id": "87a22d49f202fdde",
