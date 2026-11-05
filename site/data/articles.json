@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T02:52:07Z",
- "count": 797,
+ "generated_at": "2026-11-05T09:56:05Z",
+ "count": 815,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 15
+   "kept": 21
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 178,
-   "kept": 9
+   "fetched": 181,
+   "kept": 8
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 62,
-   "kept": 5
+   "fetched": 64,
+   "kept": 2
   },
   {
    "name": "Cloudflare Blog",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 3
   },
   {
    "name": "ETSI – actualités",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T02:52:07Z",
+   "date": "2026-11-05T09:56:05Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-05T02:52:07Z",
+   "date": "2026-11-05T09:56:05Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-05T02:52:07Z",
+   "date": "2026-11-05T09:56:05Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T02:52:07Z",
+   "date": "2026-11-05T09:56:05Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,122 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T02:52:07Z",
+   "date": "2026-11-05T09:56:05Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "79ab3a53ecca39d8",
+   "title": "Cryptanalysis of Isogeny-Based Quantum Money with Rational Points",
+   "url": "https://arxiv.org/abs/2508.00351",
+   "summary": "Quantum money is a representative application in cryptography that utilizes quantum technology to achieve security that is unattainable with classical systems. Since the theoretical proposal by Wiesner in 1983, the most recent instantiation is the quantum money using class group actions on elliptic curves, proposed by Montgomery and Sharif in…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "81520ae042416811",
+   "title": "From Claws to Conferences: Device-Independent Key Agreement Beyond Non-Signaling",
+   "url": "https://arxiv.org/abs/2611.05509",
+   "summary": "Device-independent conference key agreement (DI-CKA) allows a group of users to establish a common secret key without trusting the internal operation of their quantum devices. Existing DI-CKA protocols derive their security from multipartite Bell tests and therefore require the device components not to communicate during each round. We present, to…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "da11fde0839aa3ae",
+   "title": "Norm Bounds on Sums of Positive Operators with Applications to Monogamy Games and Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2611.05943",
+   "summary": "Bounding the acceptance probabilities of quantum measurements is a recurring task in quantum information theory. An acceptance probability averaged over a random measurement setting can be bounded uniformly over the input state by the operator norm of an average of positive semidefinite operators. We prove a general inequality for such norms…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "b162c54e0a724863",
+   "title": "A Post-Quantum Interactive Hashing Theorem",
+   "url": "https://arxiv.org/abs/2611.06124",
+   "summary": "Interactive hashing, introduced by Ostrovsky, Venkatesan, and Yung [OVY93], is a building block in many cryptographic protocols, including perfectly hiding commitments from one-way permutations [NOVY92]. Its multi-output generalization is a key ingredient in constructions of statistical zero-knowledge arguments for NP and statistically hiding…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "7a5146c2300916ba",
+   "title": "Spatial Path Superposition: A No-Cloning Perspective on MIMO-Inspired Spatial Diversity",
+   "url": "https://arxiv.org/abs/2611.06306",
+   "summary": "Spatial diversity is a key mechanism in classical Multi-Input Multi-Output (MIMO) communications, where multiple propagation alternatives provide redundant observations that improve reliability in noisy environments. A direct translation of this principle to quantum communications is forbidden by the no-cloning theorem, since an unknown quantum…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "da58d7f22b15d587",
+   "title": "Solving a non-abelian hidden subgroup problem on a trapped-ion quantum computer: the power of the measurement basis",
+   "url": "https://arxiv.org/abs/2611.06716",
+   "summary": "The hidden subgroup problem (HSP) unifies many of the best-known quantum speed-ups. For abelian groups it is solved efficiently by weak Fourier sampling, but for non-abelian groups, which include the cases relevant to graph isomorphism and lattice-based cryptography, the right measurement basis is crucial and often unknown. We experimentally study…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "7049d7b518937590",
+   "title": "Marginal-constrained entropy accumulation theorem",
+   "url": "https://arxiv.org/abs/2502.02563",
+   "summary": "We derive a novel chain rule for a family of channel conditional entropies, covering von Neumann and sandwiched R\\'{e}nyi entropies. In the process, we show that these channel conditional entropies are equal to their regularized version, and more generally, additive across tensor products of channels. For the purposes of cryptography, applying our…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "0de5b07d55d40af5",
+   "title": "Quantum Information Transmission Over Quantum Relay Channels",
+   "url": "https://arxiv.org/abs/2507.06770",
+   "summary": "Quantum relays are central to both quantum communication and distributed quantum computing, enabling long-distance transmission and modular architectures. Unlike classical repeaters, quantum repeaters preserve coherence without amplifying quantum information, relying on entanglement swapping and quantum error correction to overcome loss and…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-05T05:00:00Z",
+   "first_seen": "2026-11-05T09:56:05Z"
   },
   {
    "id": "5dfcb044109ff722",
@@ -769,19 +882,49 @@
    "first_seen": "2026-11-04T09:23:06Z"
   },
   {
-   "id": "79ab3a53ecca39d8",
-   "title": "Cryptanalysis of Isogeny-Based Quantum Money with Rational Points",
-   "url": "https://arxiv.org/abs/2508.00351",
-   "summary": "Quantum money is a representative application in cryptography that utilizes quantum technology to achieve security that is unattainable with classical systems. Since the theoretical proposal by Wiesner in 1983, the most recent instantiation is the quantum money using class group actions on elliptic curves, proposed by Montgomery and Sharif in…",
-   "source": "arXiv cs.CR",
+   "id": "901622dea204f9d8",
+   "title": "Correlation Power Analysis on SHA-2-Based SLH-DSA",
+   "url": "https://eprint.iacr.org/2026/2753",
+   "summary": "The stateless hash-based digital signature algorithm (SLH-DSA) repeatedly processes a fixed secret seed with varying public addresses. This paper presents non-profiled correlation power analysis of the address-based pseudorandom function for all six SHA-2 parameter sets, using separate recovery paths through SHA-256 compression rounds and…",
+   "source": "IACR ePrint",
    "category": "Recherche",
    "lang": "en",
    "themes": [
-    "Menace quantique",
-    "QKD"
+    "PQC"
    ],
-   "date": "2026-11-04T05:00:00Z",
-   "first_seen": "2026-11-04T09:23:06Z"
+   "date": "2026-11-04T00:46:59Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "fc1155be5f7fcc3e",
+   "title": "An efficient Failure Probability Estimator for LWE-based encryption, and application to IBE",
+   "url": "https://eprint.iacr.org/2026/2751",
+   "summary": "In recent years, lattice-based cryptography has proven to be a source of post-quantum cryptosystems. In particular, the blueprint of Learning With Errors (LWE) encryption enabled the creation of Kyber, chosen by NIST to be standardized as ML-KEM. Because of the structure of LWE encryption, the decryption of a ciphertext can give an incorrect…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-03T23:40:14Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "e54668c39efee481",
+   "title": "Information Loss Is All You Need: TC0 Pseudorandomness from Worst-Case Lattices",
+   "url": "https://eprint.iacr.org/2026/2752",
+   "summary": "Pseudorandomness plays a central role in algorithms, complexity theory, and cryptography. We ask whether deterministic information loss alone can yield post-quantum pseudorandomness with $\\mathrm{TC}^0$ evaluation. Learning with errors (LWE) hides linear measurements with random noise. Learning with rounding (LWR) replaces noise with deterministic…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-03T22:21:54Z",
+   "first_seen": "2026-11-05T09:56:05Z"
   },
   {
    "id": "a0b2727774ce5dd6",
@@ -800,6 +943,20 @@
    "date": "2026-11-03T18:12:23Z",
    "first_seen": "2026-11-03T22:03:54Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/stmicroelectronics-launches-mcu-with-hardware-for-post-quantum.jpg"
+  },
+  {
+   "id": "ce2c40355a09e216",
+   "title": "Phantom Timing Leaks on Cortex-M4: A Pre-registered Evaluation of ML-KEM Decapsulation",
+   "url": "https://eprint.iacr.org/2026/2744",
+   "summary": "Fixed-versus-random timing tests in the style of dudect are a cheap first check of constant-time behaviour, and on microcontrollers the cycle counter makes them exact to the cycle. We report a pre-registered evaluation of ML-KEM decapsulation on an STM32F411 (Cortex-M4) covering nine implementations of PQM4 (clean, m4fspeed, m4fstack for…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-03T15:09:08Z",
+   "first_seen": "2026-11-05T09:56:05Z"
   },
   {
    "id": "a7a587fa799da6bb",
@@ -930,6 +1087,21 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Image-1-1.jpg"
   },
   {
+   "id": "9b921fcf5598675c",
+   "title": "Archive Certificates for ML-DSA-87 Authorizations from an Exact Bounded Relation",
+   "url": "https://eprint.iacr.org/2026/2739",
+   "summary": "A blockchain that signs every transaction with FIPS 204 ML-DSA-87 keeps 4,627 bytes of signature per transaction forever. We describe and measure an archive certificate: one hash-based proof, for a range of already validated blocks, of knowledge of canonical FIPS 204 signatures on exactly the recorded messages under the keys resolved from chain…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-03T11:40:49Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
    "id": "25ad14f1b0d4b6c9",
    "title": "Technology companies join forces to boost scientific discovery and quantum scale-up",
    "url": "https://physicsworld.com/a/technology-companies-join-forces-to-boost-scientific-discovery-and-quantum-scale-up/",
@@ -1057,6 +1229,54 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/a-new-quantum-authentication-method-relies-on-entanglement-scaled.jpg"
   },
   {
+   "id": "c950d7cd3d161afe",
+   "title": "Cryptanalysis of MinRank 2.0",
+   "url": "https://eprint.iacr.org/2026/2733",
+   "summary": "MinRank is an NP-complete problem underlying the security of several post-quantum schemes. It is the hardness assumption of the NIST second-round signature candidate Mirath and of the encryption schemes of Chatterjee et al.\\ and Debris-Alazard et al.\\ at Eurocrypt 2026. Moreover, it is ubiquitous in the cryptanalysis of multivariate schemes, among…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-03T07:51:40Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "1a3594688fbffa10",
+   "title": "FixSampZ: A Fixed-Point Hardware-Efficient Discrete Gaussian Sampler for Falcon Signatures",
+   "url": "https://eprint.iacr.org/2026/2731",
+   "summary": "Falcon, a NIST-standardized post-quantum signature algorithm, offers compact signatures but relies on hardware-intensive floating-point arithmetic. Building on recent theoretical fixed-point formulations, we present a completely floating-point-free hardware architecture for SamplerZ, Falcon’s primary signing bottleneck. By utilizing zero-cost…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-03T06:24:18Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "0ab26bb61b7f7a89",
+   "title": "Kaiburr: ML-KEM at (much) higher security",
+   "url": "https://eprint.iacr.org/2026/2730",
+   "summary": "With deployment of standardized post-quantum cryptography well on the way, discussions continue about concrete choices of schemes and parameter sets. For example, while NIST standardized structured-lattice-based ML-KEM, European agencies like BSI and ANSSI favor unstructured-lattice-based FrodoKEM. Another discussion revolves around different…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques",
+    "QKD"
+   ],
+   "date": "2026-11-03T06:21:40Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
    "id": "4ef3acfb5ad4bc44",
    "title": "On the Failure Probability of Quantum Leftover Hashing with Bad Seeds",
    "url": "https://arxiv.org/abs/2611.03484",
@@ -1144,6 +1364,37 @@
    ],
    "date": "2026-11-03T05:00:00Z",
    "first_seen": "2026-11-03T16:37:30Z"
+  },
+  {
+   "id": "c1b2e68a3e93aad0",
+   "title": "On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle",
+   "url": "https://eprint.iacr.org/2026/2727",
+   "summary": "Information-theoretic MPC among $n$ parties with $t$ corruptions can securely evaluate a circuit $C$ with $O(|C| \\cdot t/(n-t))$ online communication in the preprocessing model and $O(|C| \\cdot t/(n-2t))$ communication in the honest majority setting. Damg{\\aa}rd, Larsen and Nielsen (CRYPTO 2019) showed that both communication bounds are tight for…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-02T19:49:28Z",
+   "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "64e87a37b985c492",
+   "title": "Efficient Polynomial Multiplier Architectures for ML-KEM on Resource-Constrained FPGAs",
+   "url": "https://eprint.iacr.org/2026/2726",
+   "summary": "The Number Theoretic Transform (NTT) is a key component of polynomial multiplication in Kyber, making its efficient hardware implementation essential for post-quantum cryptographic applications. This paper presents two hardware architectures for Kyber polynomial arithmetic, supporting the NTT, inverse NTT (INTT) and point-wise multiplication (PWM)…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-02T15:54:46Z",
+   "first_seen": "2026-11-05T09:56:05Z"
   },
   {
    "id": "6a75c502587302ac",
@@ -9702,6 +9953,22 @@
    "date": "2026-05-26T16:29:08Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://physicsworld.com/wp-content/uploads/2026/05/oratomic-team.jpg"
+  },
+  {
+   "id": "4f4f02573a05137f",
+   "title": "Formalizing PQC Signature Transition: Case of PoW Blockchain Against On-Spend Attack",
+   "url": "https://eprint.iacr.org/2026/952",
+   "summary": "It is getting widely recognized that quantum computers pose a fundamental threat to blockchain security. The transaction signature transition to Post-quantum cryptography (PQC) is therefore an urgent challenge. However, it remains unclear how much quantum computing power would be sufficient to compromise blockchain security and, consequently, by…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-05-13T18:21:25Z",
+   "first_seen": "2026-11-05T09:56:05Z"
   },
   {
    "id": "26a36e2580d74402",
