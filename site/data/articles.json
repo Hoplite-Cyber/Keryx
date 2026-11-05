@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T14:19:24Z",
- "count": 822,
+ "generated_at": "2026-11-05T17:56:59Z",
+ "count": 830,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 21
+   "kept": 24
   },
   {
    "name": "arXiv quant-ph",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 11,
+   "fetched": 13,
    "kept": 0
   },
   {
@@ -314,7 +314,7 @@
    "name": "OpenSSL",
    "category": "Industrie",
    "ok": true,
-   "fetched": 217,
+   "fetched": 218,
    "kept": 8
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T14:19:24Z",
+   "date": "2026-11-05T17:56:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-05T14:19:24Z",
+   "date": "2026-11-05T17:56:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-05T14:19:24Z",
+   "date": "2026-11-05T17:56:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T14:19:24Z",
+   "date": "2026-11-05T17:56:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,55 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T14:19:24Z",
+   "date": "2026-11-05T17:56:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "87a22d49f202fdde",
+   "title": "SEALSQ and Eco Wave Power Demonstrate Digital Energy Transactions for AI Data Centers",
+   "url": "https://thequantuminsider.com/2026/11/05/sealsq-eco-wave-power-digital-energy-transactions-ai-data-centers/",
+   "summary": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or “Company”), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that together with its parent company, WISeQey Corp. (“WISeQey”) (Nasdaq/SIX: WQEY), a global quantum cybersecurity and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T15:46:56Z",
+   "first_seen": "2026-11-05T17:56:59Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_20-45.png"
+  },
+  {
+   "id": "d5dea13ff0454697",
+   "title": "QuantiCoat project funds technologies at the Center for quantum cryptography components",
+   "url": "https://quantumzeitgeist.com/ftmc-quantum-cryptography-components-quanticoat-project/",
+   "summary": "FTMC researchers are developing advanced optical coatings & sets of optical components for laser sources used in quantum key distribution (QKD), funded by the QuantiCoat project.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-05T15:46:49Z",
+   "first_seen": "2026-11-05T17:56:59Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quanticoat-project-funds-technologies-at-the-center-for.jpg"
+  },
+  {
+   "id": "ed909e9f7d555c25",
+   "title": "Majorana qubits explained: The Quantum Kid goes inside Microsoft’s quantum lab",
+   "url": "https://thequantuminsider.com/2026/11/05/majorana-qubits-explained-the-quantum-kid-goes-inside-microsofts-quantum-lab/",
+   "summary": "Insider brief What happens when you zip a 10-year-old into a full clean room suit and walk him into one of the most advanced quantum labs in Europe? In the newest episode of The Quantum Kid, Kai gets to find out. He spent a day at Microsoft’s quantum lab in Lyngby, just outside Copenhagen. It’s [...]",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T15:28:02Z",
+   "first_seen": "2026-11-05T17:56:59Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Majorana-2_-The-Mystery-Chip.png"
   },
   {
    "id": "8770dac00aeda6f9",
@@ -686,6 +732,35 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/lattice-assumption-lar-links-rounding-quantum.png"
   },
   {
+   "id": "4f724b7c28c4d0cc",
+   "title": "HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers",
+   "url": "https://eprint.iacr.org/2026/2767",
+   "summary": "Stateless post-quantum authenticated key exchanges such as post-quantum WireGuard hedge against unexpected cryptanalytic advances by combining a lattice KEM with code-based Classic McEliece. However, recent attacks have led Germany's BSI to advise against McEliece, which leaves these protocols with lattices alone. HQC, the code-based KEM that NIST…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-04T18:34:05Z",
+   "first_seen": "2026-11-05T17:56:59Z"
+  },
+  {
+   "id": "79c16a8112735b60",
+   "title": "Keyber: Recovering the Signal by Amplifying the Noise in ML-KEM",
+   "url": "https://eprint.iacr.org/2026/2766",
+   "summary": "ML-KEM (FIPS 203) is now being deployed in real-world applications to provide security against adversaries with quantum computers. Therefore, the resistance of ML-KEM’s implementations to physical attacks requires thorough evaluation. So far, fault attacks on ML-KEM have targeted the decapsulation operation. The key generation operation has…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T18:29:32Z",
+   "first_seen": "2026-11-05T17:56:59Z"
+  },
+  {
    "id": "a818a42372ac1722",
    "title": "IonQ Partners With QuantumCT to Expand Quantum Computing Access in Connecticut",
    "url": "https://thequantuminsider.com/2026/11/04/ionq-quantumct-quantum-computing-access-connecticut/",
@@ -716,6 +791,20 @@
    "date": "2026-11-04T18:20:27Z",
    "first_seen": "2026-11-04T22:48:58Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-04_23-19.png"
+  },
+  {
+   "id": "34ded218c82c9bd1",
+   "title": "BASTION: Lock-Step, Staggered and Sequential Share Schedules for a First-Order Masked ML-KEM NTT on FPGA",
+   "url": "https://eprint.iacr.org/2026/2765",
+   "summary": "The Number Theoretic Transform (NTT) is the arithmetic core of ML-KEM (FIPS 203) and a prominent side-channel target in hardware. Because the transform is linear, first-order arithmetic masking applies share-wise without fresh randomness, which leaves one design decision open: when each share is processed. Published designs process the shares in…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T17:06:13Z",
+   "first_seen": "2026-11-05T17:56:59Z"
   },
   {
    "id": "52af3f858d2bb55b",
@@ -999,6 +1088,20 @@
    ],
    "date": "2026-11-04T05:00:00Z",
    "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "65bc1311d9595050",
+   "title": "Refined Bounds for the Smoothing Parameter of Lattices",
+   "url": "https://eprint.iacr.org/2026/2756",
+   "summary": "The smoothing parameter $\\eta_\\varepsilon(\\Lambda)$ is a fundamental invariant in lattice-based cryptography. Zheng, Zhao, and Xu (AAECC 2021) proved $\\eta_\\varepsilon(\\mathbb{Z}) \\le \\sqrt{\\ln(\\frac{2}{\\varepsilon} + \\frac{\\varepsilon}{44})/\\pi}$ and $\\eta_\\varepsilon(\\Lambda) \\le \\sqrt{\\ln(n - 1 +…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-04T02:43:31Z",
+   "first_seen": "2026-11-05T17:56:59Z"
   },
   {
    "id": "901622dea204f9d8",
@@ -6076,6 +6179,20 @@
    "date": "2026-10-09T19:09:00Z",
    "first_seen": "2026-10-26T09:55:10Z",
    "image": "https://postquantum.com/wp-content/uploads/2026/10/ionq-quantum-networking-1170x744.png"
+  },
+  {
+   "id": "dcd26704e143dfeb",
+   "title": "Flying, Not Floating: Precise Fixed-Point Falcon on Embedded Processors",
+   "url": "https://eprint.iacr.org/2026/2431",
+   "summary": "The Falcon digital signature scheme, under standardization as FN-DSA, requires real-number arithmetic during signing, with its security dependent on numerical precision. Recently, De Almeida Braga et al. (CRYPTO 2026) showed that Falcon-512 can sign in 64.64 fixed-point arithmetic on 64-bit hosts. In this work, we present the first fixed-point…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-10-09T17:06:27Z",
+   "first_seen": "2026-11-05T17:56:59Z"
   },
   {
    "id": "d18cfbd97165b6ef",
