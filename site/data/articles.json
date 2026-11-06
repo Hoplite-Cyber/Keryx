@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T11:25:51Z",
- "count": 853,
+ "generated_at": "2026-11-06T18:19:41Z",
+ "count": 856,
  "sources": [
   {
    "name": "ANSSI",
@@ -77,7 +77,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 2
   },
   {
    "name": "Google Security Blog",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -168,7 +168,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – sécurité",
@@ -215,9 +215,8 @@
   {
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
-   "ok": true,
-   "fetched": 14,
-   "kept": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Wavestone RiskInsight",
@@ -280,7 +279,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – quantique",
@@ -358,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T11:25:51Z",
+   "date": "2026-11-06T18:19:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-06T11:25:51Z",
+   "date": "2026-11-06T18:19:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-06T11:25:51Z",
+   "date": "2026-11-06T18:19:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T11:25:51Z",
+   "date": "2026-11-06T18:19:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +417,56 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T11:25:51Z",
+   "date": "2026-11-06T18:19:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "f99d8139ddbaccab",
+   "title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+   "url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+   "summary": "Insider Brief Quantum computers could deliver substantial speedups on 24 computational problems, but a new study also reveals the challenging conditions that would make those gains useful. Researchers affiliated with the Open Quantum Institute, hosted at CERN, Google Quantum AI, Microsoft, Oratomic, NVIDIA, JPMorganChase, MIT, Harvard University…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-06T15:23:58Z",
+   "first_seen": "2026-11-06T18:19:41Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Quantum-Processor-Mapping-Computational-Frontiers-1.png"
+  },
+  {
+   "id": "0788fb8018607ef2",
+   "title": "The post-quantum future of web privacy",
+   "url": "https://blog.cloudflare.com/vole-mole/",
+   "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+   "source": "Cloudflare Blog",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-06T14:00:00Z",
+   "first_seen": "2026-11-06T18:19:41Z",
+   "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNKQ9RKEJ9CKY6DGNF44RV.01M6RNKRJAQTN05BV66646AM7Z.png"
+  },
+  {
+   "id": "0447cc165461ef7e",
+   "title": "SEALSQ, TechAgency partner to guide firms through quantum shift",
+   "url": "https://quantumzeitgeist.com/sealsq-techagency-partnership-quantum-guide-firms/",
+   "summary": "SEALSQ Corp. & TechAgency are collaborating to help firms navigate the post-quantum transition, starting with a Quantum Readiness Assessment.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T13:56:12Z",
+   "first_seen": "2026-11-06T18:19:41Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/sealsq-techagency-guide-firms-quantum-shift.png"
   },
   {
    "id": "dc7d1807cec0cb26",
@@ -777,7 +823,7 @@
    "themes": [
     "Ordinateurs quantiques"
    ],
-   "date": "2026-11-05T21:05:02Z",
+   "date": "2026-11-05T21:05:01Z",
    "first_seen": "2026-11-05T23:31:43Z"
   },
   {
