@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T23:31:43Z",
- "count": 832,
+ "generated_at": "2026-11-06T03:35:59Z",
+ "count": 834,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 24
+   "kept": 22
   },
   {
    "name": "arXiv quant-ph",
@@ -105,7 +105,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 174
+   "kept": 175
   },
   {
    "name": "The Quantum Insider",
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T23:31:43Z",
+   "date": "2026-11-06T03:35:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-05T23:31:43Z",
+   "date": "2026-11-06T03:35:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-05T23:31:43Z",
+   "date": "2026-11-06T03:35:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T23:31:43Z",
+   "date": "2026-11-06T03:35:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-05T23:31:43Z",
+   "date": "2026-11-06T03:35:59Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "67935a62e9c3bf0f",
+   "title": "Researchers Link Mobile QKD Arrival Rates with Secure Key Deadlines",
+   "url": "https://quantumzeitgeist.com/mobile-qkd-links-secure-key-deadline-compliance/",
+   "summary": "Positive long-term bit generation doesn’t guarantee usable keys when you need them, a surprising disconnect now formally addressed for mobile quantum communication networks. This work distinguishes between simply *having* secret bits and reliably delivering them by deadline, introducing an elementary condition that prevents borrowing from future…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T00:02:00Z",
+   "first_seen": "2026-11-06T03:35:59Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-link-mobile-qkd-arrival-rates-with-secure-key-deadlines-scaled.jpeg"
   },
   {
    "id": "e1e6011595d40634",
@@ -731,6 +746,21 @@
    "date": "2026-11-05T00:02:54Z",
    "first_seen": "2026-11-05T02:52:07Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aebb5660d17b63316f9e970_The-Right-Way-to-Think-About-Speed-Media-Preview.png"
+  },
+  {
+   "id": "faeacf06d0ddaa07",
+   "title": "Separating Pseudorandom Codes from Quantum Random Oracles",
+   "url": "https://eprint.iacr.org/2026/2774",
+   "summary": "Pseudorandom codes (PRCs) combine two seemingly conflicting goals: robustness to noise and computational indistinguishability from random strings. Recent work has shown that classical symmetric-key PRCs over binary alphabets cannot be constructed from minimal cryptographic assumptions, such as one-way functions, via black-box reductions. In this…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-04T22:49:02Z",
+   "first_seen": "2026-11-06T03:35:59Z"
   },
   {
    "id": "7891e839ccf6d6dc",
