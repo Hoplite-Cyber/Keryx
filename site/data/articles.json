@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T18:19:41Z",
- "count": 856,
+ "generated_at": "2026-11-06T23:16:37Z",
+ "count": 858,
  "sources": [
   {
    "name": "ANSSI",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 174
+   "kept": 175
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 2
   },
   {
    "name": "ETSI – actualités",
@@ -334,8 +334,8 @@
    "name": "Let's Encrypt",
    "category": "Industrie",
    "ok": true,
-   "fetched": 124,
-   "kept": 3
+   "fetched": 125,
+   "kept": 4
   },
   {
    "name": "Open Quantum Safe (liboqs)",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T18:19:41Z",
+   "date": "2026-11-06T23:16:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-06T18:19:41Z",
+   "date": "2026-11-06T23:16:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-06T18:19:41Z",
+   "date": "2026-11-06T23:16:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T18:19:41Z",
+   "date": "2026-11-06T23:16:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T18:19:41Z",
+   "date": "2026-11-06T23:16:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "821e794c9cd8032d",
+   "title": "SPOQC mission tests CV payload transmitter.",
+   "url": "https://quantumzeitgeist.com/york-spoqc-demonstration-mission-cv-qkd/",
+   "summary": "Researchers built & tested a continuous variable payload transmitter for the SPOQC mission, aiming to prove downlink quantum key distribution from a CubeSat in low Earth orbit.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T20:36:50Z",
+   "first_seen": "2026-11-06T23:16:37Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/spoqc-mission-tests-cv-payload-transmitter.png"
   },
   {
    "id": "f99d8139ddbaccab",
@@ -1106,6 +1121,23 @@
    "date": "2026-11-05T00:02:54Z",
    "first_seen": "2026-11-05T02:52:07Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aebb5660d17b63316f9e970_The-Right-Way-to-Think-About-Speed-Media-Preview.png"
+  },
+  {
+   "id": "8147ee73b94e97de",
+   "title": "€1M from Sovereign Tech Agency to Fuel Post-Quantum Readiness at Let's Encrypt",
+   "url": "https://letsencrypt.org/2026/11/05/sta-pq-funding.html",
+   "summary": "Sovereign Tech Agency is investing in the development of a Merkle Tree Certificate Authority at Let’s Encrypt through the end of 2027 with a contract totaling more than €1M . This is the largest single investment in post-quantum readiness at Let’s Encrypt to date. This investment will help pave the path for free post-quantum Merkle Tree…",
+   "source": "Let's Encrypt",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Ordinateurs quantiques",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-05T00:00:00Z",
+   "first_seen": "2026-11-06T23:16:37Z"
   },
   {
    "id": "faeacf06d0ddaa07",
