@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T03:35:59Z",
- "count": 834,
+ "generated_at": "2026-11-06T11:25:51Z",
+ "count": 853,
  "sources": [
   {
    "name": "ANSSI",
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 181,
-   "kept": 8
+   "fetched": 171,
+   "kept": 11
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 64,
-   "kept": 2
+   "fetched": 58,
+   "kept": 7
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 175
+   "kept": 174
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -216,7 +216,7 @@
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 13,
+   "fetched": 14,
    "kept": 0
   },
   {
@@ -358,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T03:35:59Z",
+   "date": "2026-11-06T11:25:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-06T03:35:59Z",
+   "date": "2026-11-06T11:25:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-06T03:35:59Z",
+   "date": "2026-11-06T11:25:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T03:35:59Z",
+   "date": "2026-11-06T11:25:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +418,338 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-06T03:35:59Z",
+   "date": "2026-11-06T11:25:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "dc7d1807cec0cb26",
+   "title": "Checkpointing cuts the cost of quantum-safe industrial controllers by 90x",
+   "url": "https://quantumzeitgeist.com/j-warren-checkpointing-cuts-cost-quantum/",
+   "summary": "AMORT-V1, a checkpointed attestation protocol, dramatically reduces the cost of quantum-safe industrial controllers—by up to 90x compared to traditional methods.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T10:34:05Z",
+   "first_seen": "2026-11-06T11:25:51Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/checkpointing-cuts-the-cost-of-quantum-safe-industrial.png"
+  },
+  {
+   "id": "b94ad946012ecd80",
+   "title": "Monetary Authority of Singapore invites banks to comment on quantum-safe guidance",
+   "url": "https://quantumzeitgeist.com/quantum-safe-guidance-monetary-authority-comment/",
+   "summary": "The Monetary Authority of Singapore (MAS) is proposing a Circular on Financial Sector Quantum-Safe Migration Guidance and Timelines for all financial institutions (FIs) in Singapore, outlining supervisory expectations, indicative milestones, and completion timelines. MAS invites comments from FIs and interested parties on the proposed Circular…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T10:33:54Z",
+   "first_seen": "2026-11-06T11:25:51Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/monetary-authority-singapore-invites-banks-comment-scaled.jpeg"
+  },
+  {
+   "id": "fd9b1d9378a20837",
+   "title": "Software developers face gaps in migrating to post-quantum cryptography",
+   "url": "https://quantumzeitgeist.com/sok-post-quantum-cryptography-software-developers/",
+   "summary": "Standardised post-quantum cryptography (PQC) is critical for protecting software systems against future quantum threats, but algorithms alone do not provide a pathway for secure integration into software. This paper presents a Systematisation of Knowledge (SoK) of PQC integration in software development, synthesising existing approaches across…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-06T09:50:22Z",
+   "first_seen": "2026-11-06T11:25:51Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/software-developers-face-gaps-migrating-post.jpeg"
+  },
+  {
+   "id": "f7158b5189e0728b",
+   "title": "Quantum-proof cryptography is a vendor’s problem, says CISA",
+   "url": "https://quantumzeitgeist.com/quantum-proof-cryptography-vendors-problem-cisa/",
+   "summary": "CISA, NSA, & Australia’s ACSC released guidance urging organizations to assess vendor readiness for post-quantum cryptography (PQC) transitions.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques",
+    "QKD"
+   ],
+   "date": "2026-11-06T09:06:56Z",
+   "first_seen": "2026-11-06T11:25:51Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-proof-cryptography-vendors-problem-cisa.png"
+  },
+  {
+   "id": "babec343aa2568c1",
+   "title": "QNu Labs Launches Corporate Training Programme on Quantum-Safe Security",
+   "url": "https://thequantuminsider.com/2026/11/06/qnu-labs-corporate-training-quantum-safe-security/",
+   "summary": "Insider Brief PRESS RELEASE — QNu Labs (www.qnulabs.com), a global leader in end-to-end hybrid quantum cybersecurity solutions, has introduced a specialised corporate training programme in quantum cryptography and security under QNu Academy, its educational arm focused on advancing knowledge on quantum communications, including theory, practical…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-06T08:51:43Z",
+   "first_seen": "2026-11-06T11:25:51Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-06_13-50.png"
+  },
+  {
+   "id": "fa68ae394638ff9a",
+   "title": "Guest Post — Commercial Diplomacy: Building The Quantum Ecosystem",
+   "url": "https://thequantuminsider.com/2026/11/06/guest-post-commercial-diplomacy-building-the-quantum-ecosystem/",
+   "summary": "Guest Post by by Charlene B. Flick, Esq. “Demonstrating that logical qubits can maintain coherence, we are paving the way toward fault-tolerant systems that can eventually scale to millions of qubits!” The CEO paused, seemingly absorbing this revelation. “Congratulations, Professor. Forgive me, but what does it do?” This is the question every…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-06T08:10:00Z",
+   "first_seen": "2026-11-06T11:25:51Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/fyocihbhlq8.jpg"
+  },
+  {
+   "id": "5d6913b856192ed4",
+   "title": "ZeroTier Partners With Redapt to Deliver Post-Quantum Networking",
+   "url": "https://thequantuminsider.com/2026/11/06/zerotier-redapt-post-quantum-networking-partnership/",
+   "summary": "Insider Brief PRESS RELEASE — ZeroTier, one of the world’s top software-defined networking companies, today announced a partnership with Redapt, an end-to-end technology solutions and systems integration provider specializing in data center infrastructure, cloud, AI, and managed services. Through the partnership, Redapt will integrate ZeroTier…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-06T08:02:45Z",
+   "first_seen": "2026-11-06T11:25:51Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-06_13-01.png"
+  },
+  {
+   "id": "79ab3a53ecca39d8",
+   "title": "Cryptanalysis of Isogeny-Based Quantum Money with Rational Points",
+   "url": "https://arxiv.org/abs/2508.00351",
+   "summary": "Quantum money is a representative application in cryptography that utilizes quantum technology to achieve security that is unattainable with classical systems. Since the theoretical proposal by Wiesner in 1983, the most recent instantiation is the quantum money using class group actions on elliptic curves, proposed by Montgomery and Sharif in…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "5b0b9899359b7925",
+   "title": "Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices",
+   "url": "https://arxiv.org/abs/2611.05136",
+   "summary": "Can deterministic information loss yield post-quantum pseudorandomness with $TC^0$ evaluation? We show that deterministic rounding achieves this under quantum worst-case lattice hardness, with fixed polynomial parameters and no predetermined sample bound. We introduce learning with algebraic rounding (LAR), which applies an explicit integer…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-04T09:23:06Z"
+  },
+  {
+   "id": "dc1c7fdd4bc3b5a6",
+   "title": "Post-Quantum Perfect Zero-Knowledge Arguments for NP From Any One-Way Permutation",
+   "url": "https://arxiv.org/abs/2610.33185",
+   "summary": "In this paper, we show for the first time that post-quantum one-way permutations are sufficient for perfect zero-knowledge classical arguments for all of NP with security guaranteed against quantum adversaries. We first establish that Naor, Ostrovsky, Venkatesan, and Yung's bit commitment scheme built from any permutation using interactive…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "d68b7fad78592972",
+   "title": "Structured Quantum Hardness from Unstructured Assumptions",
+   "url": "https://arxiv.org/abs/2611.07413",
+   "summary": "Whether useful structured hardness can arise from unstructured assumptions is a fundamental question in complexity and cryptography. The longstanding Bennett-Gill question asks whether $\\mathsf{NP}\\cap\\mathsf{coNP}$ remains hard relative to a random oracle; [GIKKLS, STOC 2023] recently gave a conditional affirmative answer in the classical…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "4b2f01fab6e8ab3e",
+   "title": "Continuous variable payload transmitter for the SPOQC mission",
+   "url": "https://arxiv.org/abs/2611.07861",
+   "summary": "The continuous variable (CV) quantum key distribution (QKD) scheme enables two parties to share a secret key separated by a certain distance. Here we propose, design, build, test and show results of a CV payload transmitter, intended to demonstrate downlink based QKD from a CubeSat in low earth orbit. This is part of the SPOQC mission by Quantum…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "6f13a6300497e18c",
+   "title": "Crosstalk-Induced Row Hammer Attacks on Quantum Random Access Codes",
+   "url": "https://arxiv.org/abs/2611.07983",
+   "summary": "Quantum processors remain susceptible to crosstalk-induced effects despite the continuous evolution of their underlying hardware architectures. In this work, we experimentally investigate the effectiveness of crosstalk-induced attacks across six IBM superconducting quantum processors and one IQM processor. Our results demonstrate that such attacks…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "979f2223b6535908",
+   "title": "Exponential mixing time for the Davies dynamics of the quantum random energy model",
+   "url": "https://arxiv.org/abs/2611.08064",
+   "summary": "We prove exponentially slow thermalization for the quantum random energy model (QREM) under Davies dynamics. The QREM is the $n$-qubit Hamiltonian $H=\\Gamma T+U$, where $U$ assigns independent Gaussian energies with variance equal to the system size to computational-basis configurations and $T$ is the transverse field generated by single-qubit…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "ec7cea9dee81efb1",
+   "title": "Entropic measures of quantum information",
+   "url": "https://arxiv.org/abs/2611.08254",
+   "summary": "Entropy has played a pivotal role in physics ever since its inception by Clausius in the early industrial age. Shannon ushered the concept into the information age by using it to describe fundamental limits of information processing, founding the field of information theory. Today, a fruitful interaction between information theory and physics is…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "3cbe794a7a3fdf9b",
+   "title": "Beyond Quantum Messages: Toward Quantum-Native Network Functioning",
+   "url": "https://arxiv.org/abs/2611.08298",
+   "summary": "The Quantum Internet is commonly envisioned as a network that transports quantum states and distributes entanglement as the key resource underpinning distributed quantum applications. This view is necessary but incomplete if quantum phenomena are confined to what the network carries or manages, while network functionalities remain grounded…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "c270070cec8bad6e",
+   "title": "Room-Temperature Quantum Emission from Boron Nitride Nanotubes",
+   "url": "https://arxiv.org/abs/2611.08460",
+   "summary": "Quantum information systems such as quantum key distribution and quantum communications require bright, high-purity, stable sources of single photons to act as carriers of quantum information. As such, methods for obtaining single photon emitters (SPEs) in solid-state devices capable of articulating with quantum photonic circuits are a necessary…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "5ae1226cf3838e29",
+   "title": "Fully Passive Quantum Conference Key Agreement",
+   "url": "https://arxiv.org/abs/2407.15761",
+   "summary": "Quantum Conference Key Agreement (CKA) provides a secure method for multi-party communication. A recently developed interference-based prepare-and-measure quantum CKA possesses the advantages of measurement-device-independence, namely, being immune to side-channels from the detector side. Besides, it achieves good key rate performance, especially…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "d407e45bc8d863ea",
+   "title": "Security of quantum key distribution with passive basis choice and detection-efficiency mismatch for a realistic satellite setup",
+   "url": "https://arxiv.org/abs/2608.09793",
+   "summary": "Detection efficiency mismatch is a common problem in realistic quantum key distribution (QKD) systems. Existing security proofs for passive basis choice provide a nonzero secret key rate for small detection efficiency mismatches only. Unfortunately, in realistic setups, the detection efficiency mismatch can be significant. Here, we present a…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "7868bf0db85fc2b8",
+   "title": "AMORT-V1: Checkpointed Post-Quantum Attestation for Industrial Controllers",
+   "url": "https://arxiv.org/abs/2611.07476",
+   "summary": "Programmable logic controllers often remain deployed for decades, making post-quantum attestation a long-term requirement. Prior measurements of OpenPLC attestation show that post-quantum signing can consume 88--99% of round-trip latency and that durable state can further limit throughput. We introduce AMORT-V1, a checkpointed attestation protocol…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "9b2ad044b3bbf2ae",
+   "title": "Zirah: A Post-Quantum True Random Number Generator Hardware Signer With an Avalanche Noise",
+   "url": "https://arxiv.org/abs/2611.08200",
+   "summary": "Zirah is a hardware signer built around an STM32F407 microcontroller, and its purpose is to find out, on inexpensive hardware, where a post-quantum signing key is exposed and what actually protects it. The device draws every random bit from a reverse-biased 2N3904 junction in avalanche breakdown, amplified by an LM358 and screened by SP 800-90B…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "fa12f74562d3166c",
+   "title": "SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions",
+   "url": "https://arxiv.org/abs/2611.08442",
+   "summary": "Standardised post-quantum cryptography (PQC) is critical for protecting software systems against future quantum threats, but standardised algorithms alone do not provide a pathway for their secure integration into software. This paper presents a Systematisation of Knowledge (SoK) of PQC integration in software development, synthesising existing…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
   },
   {
    "id": "67935a62e9c3bf0f",
@@ -618,21 +947,6 @@
    "date": "2026-11-05T09:51:03Z",
    "first_seen": "2026-11-05T14:19:24Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/uxdu0gg5pqq.jpg"
-  },
-  {
-   "id": "79ab3a53ecca39d8",
-   "title": "Cryptanalysis of Isogeny-Based Quantum Money with Rational Points",
-   "url": "https://arxiv.org/abs/2508.00351",
-   "summary": "Quantum money is a representative application in cryptography that utilizes quantum technology to achieve security that is unattainable with classical systems. Since the theoretical proposal by Wiesner in 1983, the most recent instantiation is the quantum money using class group actions on elliptic curves, proposed by Montgomery and Sharif in…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "Menace quantique",
-    "QKD"
-   ],
-   "date": "2026-11-05T05:00:00Z",
-   "first_seen": "2026-11-04T09:23:06Z"
   },
   {
    "id": "81520ae042416811",
@@ -1133,20 +1447,6 @@
    "themes": [
     "PQC",
     "Menace quantique"
-   ],
-   "date": "2026-11-04T05:00:00Z",
-   "first_seen": "2026-11-04T09:23:06Z"
-  },
-  {
-   "id": "5b0b9899359b7925",
-   "title": "Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices",
-   "url": "https://arxiv.org/abs/2611.05136",
-   "summary": "Can deterministic information loss yield post-quantum pseudorandomness with $TC^0$ evaluation? We show that deterministic rounding achieves this under quantum worst-case lattice hardness, with fixed polynomial parameters and no predetermined sample bound. We introduce learning with algebraic rounding (LAR), which applies an explicit integer…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC"
    ],
    "date": "2026-11-04T05:00:00Z",
    "first_seen": "2026-11-04T09:23:06Z"
@@ -2747,20 +3047,6 @@
    ],
    "date": "2026-10-28T04:00:00Z",
    "first_seen": "2026-10-23T14:52:42Z"
-  },
-  {
-   "id": "dc1c7fdd4bc3b5a6",
-   "title": "Post-Quantum Perfect Zero-Knowledge Arguments for NP From Any One-Way Permutation",
-   "url": "https://arxiv.org/abs/2610.33185",
-   "summary": "In this paper, we show for the first time that post-quantum one-way permutations are sufficient for perfect zero-knowledge classical arguments for all of NP with security guaranteed against quantum adversaries. We first establish that Naor, Ostrovsky,Venkatesen, and Yung's bit commitment scheme built from any permutation using interactive hashing…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC"
-   ],
-   "date": "2026-10-28T04:00:00Z",
-   "first_seen": "2026-10-27T08:18:33Z"
   },
   {
    "id": "49530c23ea5231f8",
