@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T15:44:09Z",
- "count": 862,
+ "generated_at": "2026-11-07T19:39:40Z",
+ "count": 863,
  "sources": [
   {
    "name": "ANSSI",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "The Hacker News",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T15:44:09Z",
+   "date": "2026-11-07T19:39:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-07T15:44:09Z",
+   "date": "2026-11-07T19:39:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-07T15:44:09Z",
+   "date": "2026-11-07T19:39:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T15:44:09Z",
+   "date": "2026-11-07T19:39:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T15:44:09Z",
+   "date": "2026-11-07T19:39:40Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "d02d8cb47f8e9c4b",
+   "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
+   "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+   "summary": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-07T18:00:02Z",
+   "first_seen": "2026-11-07T19:39:40Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-paths-one-flux-tra.jpg"
   },
   {
    "id": "e0dc7c00436ff4e4",
