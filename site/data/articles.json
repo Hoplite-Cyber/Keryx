@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T02:51:48Z",
+ "generated_at": "2026-11-07T09:18:35Z",
  "count": 858,
  "sources": [
   {
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 22
+   "kept": 20
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 171,
-   "kept": 11
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 58,
-   "kept": 7
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T02:51:48Z",
+   "date": "2026-11-07T09:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-07T02:51:48Z",
+   "date": "2026-11-07T09:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-07T02:51:48Z",
+   "date": "2026-11-07T09:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T02:51:48Z",
+   "date": "2026-11-07T09:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T02:51:48Z",
+   "date": "2026-11-07T09:18:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
