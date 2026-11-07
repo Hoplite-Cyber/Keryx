@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T09:18:35Z",
- "count": 858,
+ "generated_at": "2026-11-07T15:44:09Z",
+ "count": 862,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 20
+   "kept": 19
   },
   {
    "name": "arXiv quant-ph",
@@ -168,7 +168,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Le Monde Informatique – sécurité",
@@ -279,7 +279,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Le Monde Informatique – quantique",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T09:18:35Z",
+   "date": "2026-11-07T15:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-07T09:18:35Z",
+   "date": "2026-11-07T15:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-07T09:18:35Z",
+   "date": "2026-11-07T15:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T09:18:35Z",
+   "date": "2026-11-07T15:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,58 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-07T09:18:35Z",
+   "date": "2026-11-07T15:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "e0dc7c00436ff4e4",
+   "title": "European project aims to harden quantum-safe cryptography against attack",
+   "url": "https://quantumzeitgeist.com/equip-quantum-safe-cryptography-european-project/",
+   "summary": "EQUIP aims to bolster Europe’s security with Post-Quantum Cryptography (PQC) implementations across IoT, automotive, and cloud systems.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-07T11:58:56Z",
+   "first_seen": "2026-11-07T15:44:09Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/european-project-aims-harden-quantum-safe-scaled.jpeg"
+  },
+  {
+   "id": "1957933270cf8f66",
+   "title": "SCANOSS’s Earnie maps crypto in code, flags quantum risks",
+   "url": "https://quantumzeitgeist.com/scanosss-earnie-maps-crypto-code/",
+   "summary": "SCANOSS’s Earnie inventories cryptographic algorithms, flagging those vulnerable to post-quantum threats.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-07T11:26:15Z",
+   "first_seen": "2026-11-07T15:44:09Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/scanosss-earnie-maps-crypto-code-flags-scaled.png"
+  },
+  {
+   "id": "a5ae6a35eaaeec42",
+   "title": "Batching signatures lowers the cost of post-quantum IoT data on Ethereum",
+   "url": "https://quantumzeitgeist.com/ethereum-post-quantum-iot-data-batching/",
+   "summary": "Securing IoT data for the future is critical, as today’s devices will outlive current encryption.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-07T09:41:46Z",
+   "first_seen": "2026-11-07T15:44:09Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/batching-signatures-lowers-cost-post-quantum.jpg"
   },
   {
    "id": "821e794c9cd8032d",
@@ -6355,6 +6404,24 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/gao-cryptographically-relevant-quantum-computer-arrive.jpg",
    "lang": "en"
+  },
+  {
+   "id": "cd803a0a05282756",
+   "title": "NSA says quantum cryptography is too limited for US security",
+   "url": "https://quantumzeitgeist.com/quantum-cryptography-nsa-limited-security/",
+   "summary": "As of June 2026, the National Security Agency (NSA) does not recommend using quantum key distribution (QKD) and quantum cryptography (QC) for securing the transmission of data in National Security Systems (NSS) unless several technical limitations are overcome. QKD and QC face substantial practical challenges, while quantum-resistant algorithms…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques",
+    "PQC"
+   ],
+   "date": "2026-10-13T12:32:25Z",
+   "first_seen": "2026-11-07T15:44:09Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/nsa-quantum-cryptography-limited-us-security-scaled.jpeg"
   },
   {
    "id": "e185bec5c97c0bd3",
