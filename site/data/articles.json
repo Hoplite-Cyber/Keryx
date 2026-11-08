@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T20:22:34Z",
- "count": 865,
+ "generated_at": "2026-11-08T23:57:12Z",
+ "count": 866,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 20
+   "kept": 19
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T20:22:34Z",
+   "date": "2026-11-08T23:57:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-08T20:22:34Z",
+   "date": "2026-11-08T23:57:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-08T20:22:34Z",
+   "date": "2026-11-08T23:57:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T20:22:34Z",
+   "date": "2026-11-08T23:57:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T20:22:34Z",
+   "date": "2026-11-08T23:57:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -1187,6 +1187,22 @@
    ],
    "date": "2026-11-05T05:00:00Z",
    "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "def2d44af19e9dd0",
+   "title": "Tamper-Resilient Quantum Key Encapsulation with Coherent Ciphertexts from qOWFs in the QROM",
+   "url": "https://eprint.iacr.org/2026/2777",
+   "summary": "Kitagawa et al. (CRYPTO 2024) constructed the first tamper-resilient, chosen-ciphertext-secure public-key encryption from quantum-secure one-way functions (qOWFs). However, their construction assumes authenticated classical channels and measures intermediate signed-phase states to produce classical ciphertexts. Therefore we ask whether coherent…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-05T01:30:48Z",
+   "first_seen": "2026-11-08T23:57:12Z"
   },
   {
    "id": "5dfcb044109ff722",
