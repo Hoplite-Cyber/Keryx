@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T02:20:55Z",
- "count": 863,
+ "generated_at": "2026-11-08T09:11:35Z",
+ "count": 864,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 19
+   "kept": 20
   },
   {
    "name": "arXiv quant-ph",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 20,
+   "fetched": 0,
    "kept": 0
   },
   {
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 20,
+   "fetched": 2,
    "kept": 0
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T02:20:55Z",
+   "date": "2026-11-08T09:11:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-08T02:20:55Z",
+   "date": "2026-11-08T09:11:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-08T02:20:55Z",
+   "date": "2026-11-08T09:11:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T02:20:55Z",
+   "date": "2026-11-08T09:11:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T02:20:55Z",
+   "date": "2026-11-08T09:11:35Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -10498,6 +10498,20 @@
    "date": "2026-06-16T12:05:25Z",
    "first_seen": "2026-10-19T14:46:21Z",
    "lang": "en"
+  },
+  {
+   "id": "ffddc3f965fbd71a",
+   "title": "Atlantis: Lattice-based Anonymous Tokens with Private Metadata Bit",
+   "url": "https://eprint.iacr.org/2026/1248",
+   "summary": "Anonymous tokens with private metadata bit (ATPM) allow an issuer to embed a hidden trust flag, as a single bit, within issued tokens. The bit remains hidden from the clients, but verifiers can read the bit and rate-limit or discard tokens marked suspect. A series of ATPM constructions exist in the literature, however all current constructions…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-06-12T20:54:19Z",
+   "first_seen": "2026-11-08T09:11:35Z"
   },
   {
    "id": "5e1452a84c45e770",
