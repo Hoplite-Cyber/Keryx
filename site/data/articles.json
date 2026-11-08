@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T09:11:35Z",
- "count": 864,
+ "generated_at": "2026-11-08T16:00:18Z",
+ "count": 865,
  "sources": [
   {
    "name": "ANSSI",
@@ -105,7 +105,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 175
+   "kept": 174
   },
   {
    "name": "The Quantum Insider",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T09:11:35Z",
+   "date": "2026-11-08T16:00:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-08T09:11:35Z",
+   "date": "2026-11-08T16:00:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-08T09:11:35Z",
+   "date": "2026-11-08T16:00:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T09:11:35Z",
+   "date": "2026-11-08T16:00:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,26 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-08T09:11:35Z",
+   "date": "2026-11-08T16:00:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "33e76da372b0d7a7",
+   "title": "Sovereign Tech Fund invests in Let’s Encrypt’s quantum-resistant infrastructure",
+   "url": "https://quantumzeitgeist.com/lets-encrypt-sovereign-tech-investment-fund/",
+   "summary": "The Sovereign Tech Fund is bolstering Let's Encrypt, the certificate authority securing 64.3% of websites, with funding for its post-quantum cryptography infrastructure and Boulder software.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-07T22:17:25Z",
+   "first_seen": "2026-11-08T16:00:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/sovereign-tech-fund-invests-in-lets-encrypts-quantum.png"
   },
   {
    "id": "d02d8cb47f8e9c4b",
