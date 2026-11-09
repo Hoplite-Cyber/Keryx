@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T05:57:56Z",
- "count": 877,
+ "generated_at": "2026-11-09T15:58:16Z",
+ "count": 888,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 19
+   "kept": 24
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 2
+   "kept": 3
   },
   {
    "name": "ETSI – actualités",
@@ -196,7 +196,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Numerama",
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 2,
+   "fetched": 4,
    "kept": 0
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-09T05:57:56Z",
+   "date": "2026-11-09T15:58:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-09T05:57:56Z",
+   "date": "2026-11-09T15:58:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-09T05:57:56Z",
+   "date": "2026-11-09T15:58:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-09T05:57:56Z",
+   "date": "2026-11-09T15:58:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,71 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-09T05:57:56Z",
+   "date": "2026-11-09T15:58:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "f6e68eee9605df17",
+   "title": "EV Group Helps Accelerate Qubit Scaling for Quantum Computing Through Advanced Packaging Expertise",
+   "url": "https://thequantuminsider.com/2026/11/09/ev-group-manufacturing-support-quantum-computing/",
+   "summary": "Insider Brief PRESS RELEASE — EV Group (EVG), a leading provider of innovative process solutions and expertise serving leading-edge and future semiconductor designs and chip integration schemes, today announced that it is supporting quantum chip developers and manufacturers in addressing the complex manufacturing requirements associated with…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-09T14:52:08Z",
+   "first_seen": "2026-11-09T15:58:16Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_19-50.png"
+  },
+  {
+   "id": "0caffe9ee1413e65",
+   "title": "Horizon Quantum Integrates OQC’s 32-Qubit Processor with Triple Alpha",
+   "url": "https://thequantuminsider.com/2026/11/09/horizon-quantum-oqc-pulse-level-integration-triple-alpha/",
+   "summary": "Insider Brief PRESS RELEASE — Horizon Quantum Computing Pte. Ltd., the wholly-owned subsidiary of Horizon Quantum Holdings Ltd. (Nasdaq: HQ) (“Horizon Quantum”), a pioneer of software infrastructure for quantum applications, and OQC, a global leader in quantum computing, today announced the successful pulse-level integration of OQC’s QPU with…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-09T14:37:31Z",
+   "first_seen": "2026-11-09T15:58:16Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_18-51-1.png"
+  },
+  {
+   "id": "5972aa03b0f5df78",
+   "title": "Malaysia Considers Faster Transition to Quantum-Resistant Security",
+   "url": "https://thequantuminsider.com/2026/11/09/malaysia-quantum-resistant-security-transition/",
+   "summary": "Insider Brief Malaysia is considering speeding up its shift to quantum-resistant security to strengthen national data protection, Free Malaysia Today reported. The move comes as advances in quantum computing are expected to create new challenges for cybersecurity systems. Communications minister Fahmi Fadzil said he has instructed the Malaysian…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-09T12:24:36Z",
+   "first_seen": "2026-11-09T15:58:16Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_17-23.png"
+  },
+  {
+   "id": "4ce21edaf1e75e91",
+   "title": "Niagara Networks launches 90 Gbps TLS decryption with post-quantum crypto",
+   "url": "https://quantumzeitgeist.com/niagara-networks-post-quantum-gbps-decryption/",
+   "summary": "Niagara Networks’ ePacketron now offers TLS 1.3 decryption with post-quantum cryptography, achieving 90 Gbps performance.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-09T08:40:19Z",
+   "first_seen": "2026-11-09T15:58:16Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/niagara-networks-90-gbps-tls-decryption.jpg"
   },
   {
    "id": "76c0c35b7610750d",
@@ -1116,6 +1178,34 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/qses-quantum-encryption-upgrades-prep-for-2027-deadlines.png"
   },
   {
+   "id": "05bfa9b96ed2e5ba",
+   "title": "Vector Commit-and-Reduce Schemes",
+   "url": "https://eprint.iacr.org/2026/2790",
+   "summary": "Hash-based argument systems are seeing increasing adoption in practice, owing to their ease of deployment, fast provers, and plausible post-quantum security. However, they still lag behind elliptic-curve counterparts due to their large proof sizes and (comparatively more) expensive verifiers. Attempts to optimize these metrics have focused on one…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T20:36:27Z",
+   "first_seen": "2026-11-09T15:58:16Z"
+  },
+  {
+   "id": "b1e4133a4be0c669",
+   "title": "SETH: Subcode Equivalence in the Head",
+   "url": "https://eprint.iacr.org/2026/2789",
+   "summary": "The Multi-Party Computation in the Head (MPCitH) paradigm has proven to be a versatile tool to design post-quantum digital signature schemes. Recently, MPCitH was improved with Threshold Computation in the Head (TCitH) and Vector Oblivious Linear Evaluation in the Head (VOLEitH). In this paper, we propose two polynomial models for the Subcode…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T18:04:39Z",
+   "first_seen": "2026-11-09T15:58:16Z"
+  },
+  {
    "id": "87a22d49f202fdde",
    "title": "SEALSQ and Eco Wave Power Demonstrate Digital Energy Transactions for AI Data Centers",
    "url": "https://thequantuminsider.com/2026/11/05/sealsq-eco-wave-power-digital-energy-transactions-ai-data-centers/",
@@ -1160,6 +1250,20 @@
    "date": "2026-11-05T15:28:02Z",
    "first_seen": "2026-11-05T17:56:59Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Majorana-2_-The-Mystery-Chip.png"
+  },
+  {
+   "id": "a8ed68749b8db27c",
+   "title": "Symbolic forward secrecy analysis of ML-KEM",
+   "url": "https://eprint.iacr.org/2026/2787",
+   "summary": "Post-quantum Key Encapsulation Mechanisms (KEMs) rely on generic transformations to achieve active security. Specifically, ML-KEM (FIPS 203) applies the Fujisaki--Okamoto (FO) transform to a lattice-based public-key encryption scheme, Kyber.CPAPKE, to construct an IND-CCA2 secure key exchange protocol, ML-KEM. While NIST standards and associated…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T14:51:05Z",
+   "first_seen": "2026-11-09T15:58:16Z"
   },
   {
    "id": "8770dac00aeda6f9",
@@ -1219,6 +1323,20 @@
    ],
    "date": "2026-11-05T13:00:00Z",
    "first_seen": "2026-11-05T14:19:24Z"
+  },
+  {
+   "id": "a8533a951dd62afa",
+   "title": "Quantum Key Exchange from Public Quantum Money",
+   "url": "https://eprint.iacr.org/2026/2786",
+   "summary": "Two-message quantum key exchange (2QKE) cannot be realized in a statistically secure way, and therefore some computational assumptions are required [Malavolta and Walter 2024]. So far, the known weakest assumption for 2QKE is the existence of one-way functions (OWFs): Malavolta and Walter constructed (even everlasting-secure) 2QKE from OWFs…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-05T11:34:56Z",
+   "first_seen": "2026-11-09T15:58:16Z"
   },
   {
    "id": "1637603a5e2ebc57",
@@ -1362,6 +1480,36 @@
    ],
    "date": "2026-11-05T05:00:00Z",
    "first_seen": "2026-11-05T09:56:05Z"
+  },
+  {
+   "id": "79e40861716f4027",
+   "title": "Memory-Efficient HQC Implementations on Cortex-M3 and Cortex-M7",
+   "url": "https://eprint.iacr.org/2026/2782",
+   "summary": "In the Hamming Quasi-Cyclic (HQC) key encapsulation mechanism (KEM), eliminating the polynomial product buffer still leaves serialized inputs, operands, and candidate ciphertexts that may coexist during decapsulation. We organize storage around the last use of each value. Comparing each candidate component before producing the next allows both to…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-05T04:04:23Z",
+   "first_seen": "2026-11-09T15:58:16Z"
+  },
+  {
+   "id": "40a4be43e8a3af75",
+   "title": "Structured Quantum Hardness from Unstructured Assumptions",
+   "url": "https://eprint.iacr.org/2026/2780",
+   "summary": "Whether useful structured hardness can arise from unstructured assumptions is a fundamental question in complexity and cryptography. The longstanding Bennett–Gill question asks whether $\\mathsf{NP}\\cap\\mathsf{coNP}$ remains hard relative to a random oracle; [GIKKLS, STOC 2023] recently gave a conditional affirmative answer in the classical…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-05T02:39:51Z",
+   "first_seen": "2026-11-09T15:58:16Z"
   },
   {
    "id": "def2d44af19e9dd0",
@@ -11230,6 +11378,20 @@
    "first_seen": "2026-10-19T14:46:21Z",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb5lOnA0GCP-Le-JkSsDvVv50etaBwWjTGUzmKcqN92u9L1qVjVZTa5Ij9_Q-GSrHrfW55y_tQbPPgMbdT-VMh3FQecBdPbqiKLEV502tDWKZMz48PGMWtgFzFJFQGAZ8R0rFf-vCcSwHK73632o8eKa78uvvhrq9OGDwgmtnzdbkJjymnAtGbk_SXKeO2/s72-c/Blog%20Post%20-%20Post%20Quantum%20Chain%20of%20Trust%20-%20inline%20v03.jpg",
    "lang": "en"
+  },
+  {
+   "id": "6c3ff6c3bb0292e7",
+   "title": "RoKoko: Lattice-based Succinct Arguments, a Committed Refinement",
+   "url": "https://eprint.iacr.org/2026/575",
+   "summary": "We present RoKoko, a new lattice-based succinct argument system that achieves a linear-time prover alongside polylogarithmic communication and verifier complexity. Asymptotically, our construction improves upon RoK and Roll (ASIACRYPT 2025), the first post-quantum SNARK with $\\tilde{O}(\\lambda)$ proof size, by a multiplicative factor of…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-03-23T07:53:09Z",
+   "first_seen": "2026-11-09T15:58:16Z"
   },
   {
    "id": "9c74a1ec19f50d5b",
