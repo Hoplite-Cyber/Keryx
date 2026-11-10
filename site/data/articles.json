@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T07:07:16Z",
- "count": 905,
+ "generated_at": "2026-11-10T15:37:51Z",
+ "count": 924,
  "sources": [
   {
    "name": "ANSSI",
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 235,
+   "kept": 12
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 136,
+   "kept": 8
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 174
+   "kept": 172
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 2
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 1,
+   "fetched": 4,
    "kept": 0
   },
   {
@@ -258,14 +258,14 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 46
+   "kept": 47
   },
   {
    "name": "IonQ",
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 46
+   "kept": 45
   },
   {
    "name": "Pasqal",
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 11,
+   "fetched": 16,
    "kept": 0
   },
   {
@@ -306,7 +306,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 786,
+   "fetched": 788,
    "kept": 39
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T07:07:16Z",
+   "date": "2026-11-10T15:37:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-10T07:07:16Z",
+   "date": "2026-11-10T15:37:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-10T07:07:16Z",
+   "date": "2026-11-10T15:37:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T07:07:16Z",
+   "date": "2026-11-10T15:37:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,302 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T07:07:16Z",
+   "date": "2026-11-10T15:37:51Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "42124e67bea19a36",
+   "title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
+   "url": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
+   "summary": "Insider Brief PRESS RELEASE — Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, in collaboration with HyperLight Corporation, a leading thin-film lithium niobate (TFLN) photonics company, today announced a significant hardware performance milestone using TFLN technology, reducing…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-10T13:09:20Z",
+   "first_seen": "2026-11-10T15:37:51Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-10_18-08.png"
+  },
+  {
+   "id": "14c805de16339bf7",
+   "title": "Gartner Names IonQ a Market Shaper in Quantum Computing",
+   "url": "https://thequantuminsider.com/2026/11/10/gartner-ionq-market-shaper-quantum-computing/",
+   "summary": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced it has been positioned as a Market Shaper in the inaugural Gartner® Emerging Market QuadrantTM for Quantum Computing. IonQ appears in the Market Shapers quadrant of the graphic above. In the report, Gartner states: “Market…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-10T13:01:26Z",
+   "first_seen": "2026-11-10T15:37:51Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_22-40-1.png"
+  },
+  {
+   "id": "1a93280e9e67d8d1",
+   "title": "Reimei Powers Up to Help Japan Lead the Next Era of Discovery",
+   "url": "https://www.quantinuum.com/blog/quantinuum-and-riken-announcement",
+   "summary": "RIKEN and Quantinuum have upgraded the Reimei quantum computer to Quantinuum’s System Model H2, bringing quantum advantage into sight with their hybrid supercomputing platform. Their combination of Reimei, the supercomputer Fugaku, and the ROQUO GPU supercomputer is a world-leading platform that reaches far beyond what any modality can currently…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-10T07:38:39Z",
+   "first_seen": "2026-11-10T15:37:51Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af24e2cfaf0fc25c536ff73_Reimei-Blog-Media-Preview.png"
+  },
+  {
+   "id": "8630e7ae4b3c091f",
+   "title": "Sharp error tolerance of the monogamy-of-entanglement game",
+   "url": "https://arxiv.org/abs/2611.09504",
+   "summary": "The BB84 monogamy-of-entanglement (MoE) game has numerous applications in quantum cryptography, including quantum key distribution, position verification, and unclonable encryption. In this short note, we improve the error threshold for parallel repetition with identical answer strings from the approximately $3.7\\%$ certified by the original bound…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-09T05:57:56Z"
+  },
+  {
+   "id": "337e183b0498f3f8",
+   "title": "How To Track Qubits Through Space and Time (Or: Sailing in a Quantum Boat)",
+   "url": "https://arxiv.org/abs/2605.30732",
+   "summary": "While quantum position verification aims to certify a prover's location using quantum information, existing security definitions only guarantee that part of the successful adversarial party is in the claimed location. This leaves open the possibility that a distributed team of adversaries can jointly simulate a prover in a way that defeats the…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-10-20T04:04:28Z",
+   "lang": "en"
+  },
+  {
+   "id": "c94a65bcae449043",
+   "title": "Demonstration of a partial knowledge quantum key distribution protocol",
+   "url": "https://arxiv.org/abs/2611.10670",
+   "summary": "We demonstrate a novel QKD protocol, named \\texttt{Bridge[$d,q$]}, which generalizes the \\texttt{SARG04} protocol to $d$ dimensions and $q$ bases. In this protocol, Alice and Bob gain only partial knowledge about each other's raw key. Nevertheless, this partial information is sufficient to distill a definite mutual encryption key. We present an…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "8e37a059133017ee",
+   "title": "MEAT with source and detector correlations",
+   "url": "https://arxiv.org/abs/2611.10817",
+   "summary": "We prove variants of the marginal-constrained entropy accumulation theorem (MEAT) that enable finite-size security analysis of quantum key distribution with source and detector correlations. For source correlations, our results allow for the state prepared in a given round to depend on the current setting choice and a finite number of preceding…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "ab7946971b5cbf0f",
+   "title": "Advantage Distillation in Paired-State Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2611.11754",
+   "summary": "We investigate advantage distillation for paired-state Loop-Back quantum key distribution, with a fixed optical station serving a lightweight portable terminal. Alice prepares two polarization-encoded pulses, Bob selects and applies a polarization filter to each pulse, and Alice infers his selections from the returned detection pattern. The…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "1bb062c4a7a0aacd",
+   "title": "Long-distance quantum secure direct communication with Gottesman-Kitaev-Preskill qubits",
+   "url": "https://arxiv.org/abs/2611.11822",
+   "summary": "The Gottesman-Kitaev-Preskill (GKP) code possesses a lattice periodic structure that enables the effective correction of small displacement errors induced by noise in phase space, which is indispensable for quantum computation. The GKP code was also used to construct a long-distance entanglement channel in quantum repeaters and distribute random…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "69a2e9f321e67972",
+   "title": "Deploying QKD on the fiber links of the National Quantum Communication Infrastructure in Sweden",
+   "url": "https://arxiv.org/abs/2611.12279",
+   "summary": "Quantum key distribution (QKD) is being deployed across Europe to evaluate its performance and practicality in real-world scenarios. When preparing this deployment, it is important to survey the properties of the fiber links that will be used for the quantum channel, cross-checking them with those of QKD devices, to ensure compatibility and…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "b2c277a4cdee295c",
+   "title": "Reducing Provers in Distributed Quantum Verification",
+   "url": "https://arxiv.org/abs/2611.12600",
+   "summary": "In the distributed quantum Merlin-Arthur ($\\mathsf{dQMA}$) model introduced by Fraigniaud, Le Gall, Nishimura, and Paz (ITCS 2021), a network of quantum computers verifies a global property with the aid of a quantum proof supplied by an untrusted prover. While the nodes are computationally unbounded, the challenge is to limit proof size and the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "df8b2365ac5c973d",
+   "title": "Polynomial-Space Quantum Algorithms from Classical Branching: Colouring, Domination and Monotone Local Search",
+   "url": "https://arxiv.org/abs/2611.12714",
+   "summary": "We give quantum algorithms for exponential-time problems on $n$ vertices or elements, with bounded error, polynomial space and no quantum random access memory. Our results are these. (1) 4-Colouring in quantum time $O(1.3032^n)$, from a polynomial-space branching algorithm with polynomial-space terminal algorithms; with the branching algorithm…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "190ec770a56cc787",
+   "title": "Reduced State Embedding for Quantum Cryptography",
+   "url": "https://arxiv.org/abs/2510.19989",
+   "summary": "Encoding in a high-dimensional Hilbert space improves noise resilience in quantum information processing. This approach, however, may result in cross-mode coupling and detection complexities, thereby reducing quantum cryptography performance. This fundamental trade-off between correctness and secrecy motivates the search for quantum…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "c7a509700b6e256b",
+   "title": "Quantum randomness under unambiguous attacks",
+   "url": "https://arxiv.org/abs/2601.16343",
+   "summary": "Intrinsic randomness is generated when a quantum state is measured in any basis in which it is not diagonal. In an adversarial scenario, we quantify this randomness by the probability that a correlated eavesdropper could correctly guess the measurement outcomes. What if the eavesdropper is never wrong, but can sometimes return an inconclusive…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "5d00663cfa13dbb6",
+   "title": "Breaking the Bounded Entanglement Barrier for Quantum Position Verification",
+   "url": "https://arxiv.org/abs/2609.39234",
+   "summary": "Position verification, introduced by Chandran et al. (SIAM J. Computing 2014), allows verifiers to test a prover's claimed position by an interactive protocol. Classical position verification is impossible. Even for Quantum Position Verification (QPV), there always exists an LOCC (Local Operations and Classical Communication) attack if the…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "2534bcea02f4f99a",
+   "title": "QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements",
+   "url": "https://arxiv.org/abs/2611.10403",
+   "summary": "We present QUASI, a newly conceived class of protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. Designed for quorum-based systems, QUASI enables parties to attest to external entities that the statement is valid. Surprisingly, each party need not sign the entire statement…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "6628fe1c457a4484",
+   "title": "PQC-Corpus: A Dataset of Linked Development Histories for Post-Quantum Cryptography",
+   "url": "https://arxiv.org/abs/2611.10966",
+   "summary": "As post-quantum cryptography (PQC) standards evolve, developers must adapt implementations, tests, and protocols. Studying this work requires connecting code changes to problem reports and developer reviews. We present PQC-Corpus, a dataset of linked development histories from 179 public GitHub repositories, spanning cryptographic libraries and…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "a77c289c8bfc3b9f",
+   "title": "An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health Data Processing",
+   "url": "https://arxiv.org/abs/2611.12367",
+   "summary": "The storage and processing of health data raise serious privacy concerns; therefore, the data must be encrypted. Fully Homomorphic Encryption (FHE) allows computations on encrypted data, which makes it a very promising technology in this context. However, although the efficiency of FHE algorithms has improved in recent years, they remain very…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "148665ce1e25ba0e",
+   "title": "Brief introduction to post-quantum cryptography in industrial applications",
+   "url": "https://arxiv.org/abs/2611.12479",
+   "summary": "The development of Post-Quantum Cryptography (PQC) is directly motivated by the necessity to secure information in the face of the quantum threat. This paper provides an overview of recent developments relevant to PQC adoption across several industrial applications, including IoT, healthcare, civil and infrastructure engineering, and defense. We…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "b4cd63e5fdb1375f",
+   "title": "Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain",
+   "url": "https://arxiv.org/abs/2607.07625",
+   "summary": "Blockchain systems are shifting from decentralized ledgers for digital assets to general-purpose trust infrastructures for verifiable computation, decentralized physical resources, and automated infrastructure management. However, deploying these systems through third-party Blockchain-as-a-Service (BaaS) offerings may introduce dependencies…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-10T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
   },
   {
    "id": "3d5b8db4072c192f",
@@ -628,7 +921,7 @@
    "id": "5f4a0734897fc4e8",
    "title": "Chiffrement postquantique : Red Hat accélère sa feuille de route",
    "url": "https://www.lemagit.fr/actualites/366654714/Chiffrement-postquantique-Red-Hat-accelere-sa-feuille-de-route",
-   "summary": "Comme bon nombre d'éditeurs américains, en matière de chiffrement postquantique, Red Hat suit le rythme imprimé par l’Administration américaine. Pour son directeur technique, un long travail attend encore les entreprises concernées.",
+   "summary": "Comme bon nombre d’éditeurs américains, en matière de chiffrement postquantique, Red Hat suit le rythme imprimé par l’Administration américaine. Pour son directeur technique, un long travail attend encore les entreprises concernées.",
    "source": "LeMagIT – quantique",
    "category": "Presse spécialisée",
    "lang": "fr",
@@ -708,21 +1001,6 @@
    "lang": "en",
    "themes": [
     "PQC"
-   ],
-   "date": "2026-11-09T05:00:00Z",
-   "first_seen": "2026-11-09T05:57:56Z"
-  },
-  {
-   "id": "8630e7ae4b3c091f",
-   "title": "Sharp error tolerance of the monogamy-of-entanglement game",
-   "url": "https://arxiv.org/abs/2611.09504",
-   "summary": "The BB84 monogamy-of-entanglement (MoE) game has numerous applications in quantum cryptography, including quantum key distribution, position verification, and unclonable encryption. In this short note, we improve the error threshold for parallel repetition with identical answer strings from the approximately $3.7\\%$ certified by the original bound…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD",
-    "Menace quantique"
    ],
    "date": "2026-11-09T05:00:00Z",
    "first_seen": "2026-11-09T05:57:56Z"
@@ -925,6 +1203,20 @@
    "date": "2026-11-07T09:41:46Z",
    "first_seen": "2026-11-07T15:44:09Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/batching-signatures-lowers-cost-post-quantum.jpg"
+  },
+  {
+   "id": "e1e6011595d40634",
+   "title": "IonQ | IonQ Q3 Revenue, GAAP EPS and Adjusted EPS All Exceed Consensus Estimates",
+   "url": "https://ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion",
+   "summary": "Reported GAAP Revenue of $173.8 Million, Up 336% Year-over-Year, Marking the Sixth Consecutive Record QuarterRaises. Full Year Revenue Guidance to $505 to $515 Million and Expects 110% Year-Over-Year Growth in Quantum Computing. IonQ Platform Segment Revenue Up 127% to $90.3 Million on Global Tempo Quantum Computer Deployments",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-06T22:29:49Z",
+   "first_seen": "2026-11-05T23:31:43Z"
   },
   {
    "id": "821e794c9cd8032d",
@@ -1392,20 +1684,6 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-link-mobile-qkd-arrival-rates-with-secure-key-deadlines-scaled.jpeg"
   },
   {
-   "id": "e1e6011595d40634",
-   "title": "IonQ | IonQ Q3 Revenue, GAAP EPS and Adjusted EPS All Exceed Consensus Estimates",
-   "url": "https://ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion",
-   "summary": "Reported GAAP Revenue of $173.8 Million, Up 336% Year-over-Year, Marking the Sixth Consecutive Record QuarterRaises. Full Year Revenue Guidance to $505 to $515 Million and Expects 110% Year-Over-Year Growth in Quantum Computing. IonQ Platform Segment Revenue Up 127% to $90.3 Million on Global Tempo Quantum Computer Deployments",
-   "source": "IonQ",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-05T21:05:01Z",
-   "first_seen": "2026-11-05T23:31:43Z"
-  },
-  {
    "id": "c3113694d86102eb",
    "title": "QSE’s quantum encryption upgrades prep for 2027 deadlines",
    "url": "https://quantumzeitgeist.com/oracle-quantum-encryption-upgrades-qses-prep/",
@@ -1436,6 +1714,21 @@
    ],
    "date": "2026-11-05T20:36:27Z",
    "first_seen": "2026-11-09T15:58:16Z"
+  },
+  {
+   "id": "8770dac00aeda6f9",
+   "title": "Build for the fault-tolerant era with Quantinuum Nexus",
+   "url": "https://www.quantinuum.com/blog/build-for-the-fault-tolerant-era-with-quantinuum-nexus",
+   "summary": "Fault-tolerant quantum computing is entering a new phase. At Quantinuum, we have demonstrated almost every piece needed for large-scale fault tolerant hardware, from a universal fault tolerant gate set, to a proven fault tolerant architecture, to large-scale materials simulations with encoded qubits, at world-leading fidelity.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T18:44:33Z",
+   "first_seen": "2026-11-05T14:19:24Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aea1684b40e114380708d7c_Nexus-Launch-Media-Preview.png"
   },
   {
    "id": "b1e4133a4be0c669",
@@ -1512,21 +1805,6 @@
    "first_seen": "2026-11-09T15:58:16Z"
   },
   {
-   "id": "8770dac00aeda6f9",
-   "title": "Build for the fault-tolerant era with Quantinuum Nexus",
-   "url": "https://www.quantinuum.com/blog/build-for-the-fault-tolerant-era-with-quantinuum-nexus",
-   "summary": "Fault-tolerant quantum computing is entering a new phase. At Quantinuum, we have demonstrated almost every piece needed for large-scale fault tolerant hardware, from a universal fault tolerant gate set, to a proven fault tolerant architecture, to large-scale materials simulations with encoded qubits, at world-leading fidelity.",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-05T13:20:29Z",
-   "first_seen": "2026-11-05T14:19:24Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aea1684b40e114380708d7c_Nexus-Launch-Media-Preview.png"
-  },
-  {
    "id": "07bdc61358d0b01e",
    "title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
    "url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
@@ -1569,6 +1847,21 @@
    ],
    "date": "2026-11-05T13:00:00Z",
    "first_seen": "2026-11-05T14:19:24Z"
+  },
+  {
+   "id": "5dfcb044109ff722",
+   "title": "The Right Way to Think About Speed",
+   "url": "https://www.quantinuum.com/blog/the-right-way-to-think-about-speed",
+   "summary": "At Quantinuum, we are pursuing that goal by scaling our systems and removing bottlenecks. Speed depends on how much work is required to make a computation reliable and how much of that work can happen simultaneously. We are improving how we build and operate logical qubits—an essential mechanism for complex computations—through more efficient…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-05T12:55:24Z",
+   "first_seen": "2026-11-05T02:52:07Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aebb5660d17b63316f9e970_The-Right-Way-to-Think-About-Speed-Media-Preview.png"
   },
   {
    "id": "a8533a951dd62afa",
@@ -1772,21 +2065,6 @@
    ],
    "date": "2026-11-05T01:30:48Z",
    "first_seen": "2026-11-08T23:57:12Z"
-  },
-  {
-   "id": "5dfcb044109ff722",
-   "title": "The Right Way to Think About Speed",
-   "url": "https://www.quantinuum.com/blog/the-right-way-to-think-about-speed",
-   "summary": "At Quantinuum, we are pursuing that goal by scaling our systems and removing bottlenecks. Speed depends on how much work is required to make a computation reliable and how much of that work can happen simultaneously. We are improving how we build and operate logical qubits—an essential mechanism for complex computations—through more efficient…",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-05T00:02:54Z",
-   "first_seen": "2026-11-05T02:52:07Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6aebb5660d17b63316f9e970_The-Right-Way-to-Think-About-Speed-Media-Preview.png"
   },
   {
    "id": "8147ee73b94e97de",
@@ -5883,21 +6161,6 @@
    "category": "Recherche",
    "themes": [
     "QKD",
-    "Menace quantique",
-    "PQC"
-   ],
-   "date": "2026-10-20T04:00:00Z",
-   "first_seen": "2026-10-20T04:04:28Z",
-   "lang": "en"
-  },
-  {
-   "id": "337e183b0498f3f8",
-   "title": "How To Track Qubits Through Space and Time (Or: Sailing in a Quantum Boat)",
-   "url": "https://arxiv.org/abs/2605.30732",
-   "summary": "While quantum position verification aims to certify a prover's location using quantum information, existing security definitions only guarantee that part of the successful adversarial party is in the claimed location. This leaves open the possibility that a distributed team of adversaries can jointly simulate a prover in a way that defeats the…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "themes": [
     "Menace quantique",
     "PQC"
    ],
@@ -13806,6 +14069,22 @@
    "date": "2025-05-27T13:16:34Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/67e4791a243b8c5e5debca44_roadmap-media-preview.png"
+  },
+  {
+   "id": "0e0c80fa97cd9d8c",
+   "title": "On the Provable Dual Attack for LWE by Modulus Switching",
+   "url": "https://eprint.iacr.org/2025/859",
+   "summary": "As a theoretical cornerstone of post-quantum cryptography, the Learning With Errors (LWE) problem serves as the security foundation for standardized algorithms such as Kyber and Dilithium. Recently, a framework for provable dual attacks on LWE has been proposed by Pouly et al. in Eurocrypt 2024, addressing the limitations in effectiveness caused…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2025-05-15T08:45:05Z",
+   "first_seen": "2026-11-10T15:37:51Z"
   },
   {
    "id": "f5cdbc6220aa5bc9",
