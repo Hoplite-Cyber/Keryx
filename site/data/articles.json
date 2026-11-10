@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-09T15:58:16Z",
- "count": 888,
+ "generated_at": "2026-11-10T00:06:18Z",
+ "count": 905,
  "sources": [
   {
    "name": "ANSSI",
    "category": "Officiel",
    "ok": true,
-   "fetched": 190,
+   "fetched": 191,
    "kept": 14
   },
   {
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 3
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -168,7 +168,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – sécurité",
@@ -265,7 +265,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 47
+   "kept": 46
   },
   {
    "name": "Pasqal",
@@ -279,13 +279,13 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "kept": 0
   },
   {
@@ -306,7 +306,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 786,
+   "fetched": 787,
    "kept": 39
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-09T15:58:16Z",
+   "date": "2026-11-10T00:06:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-09T15:58:16Z",
+   "date": "2026-11-10T00:06:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-09T15:58:16Z",
+   "date": "2026-11-10T00:06:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-09T15:58:16Z",
+   "date": "2026-11-10T00:06:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,182 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-09T15:58:16Z",
+   "date": "2026-11-10T00:06:18Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "3d5b8db4072c192f",
+   "title": "Researchers Unlock QKD Security with Any Entangled State",
+   "url": "https://quantumzeitgeist.com/quantum-key-distribution-any-entangled-state-security/",
+   "summary": "One-sided-device-independent Quantum Key Distribution previously demanded high-quality entanglement, now, *any* pure bipartite entangled state will do, even those approaching separability. This expansion of available resources removes a major obstacle to practical QKD systems by relaxing requirements for generating complex quantum states. The work…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-09T23:15:27Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-unlock-qkd-security-with-any-entangled-state.png"
+  },
+  {
+   "id": "445fa59bfdefab37",
+   "title": "Secured Quantum Services launches quantum utility nodes in Albuquerque, New Mexico",
+   "url": "https://quantumzeitgeist.com/sqs-quantum-services-utility-nodes-albuquerque/",
+   "summary": "Secured Quantum Services’ first nodes are live in Albuquerque, New Mexico, delivering quantum key distribution via Toshiba systems.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-09T20:10:12Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/sqs-nodes-live-in-albuquerque.jpg"
+  },
+  {
+   "id": "5528942006a55940",
+   "title": "SQS Nodes Live in Albuquerque",
+   "url": "https://quantumzeitgeist.com/sqs-nodes-live-albuquerque/",
+   "summary": "Secured Quantum Services (SQS) announced its first deployed nodes are live and operational in Albuquerque, New Mexico, delivering quantum key distribution and quantum-assured timing. This deployment marks a new delivery model for quantum technology, offering capabilities consumed as a service, similar to power or bandwidth.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-09T20:05:46Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/sqs-nodes-live-in-albuquerque.jpg"
+  },
+  {
+   "id": "24d8999770cf28d6",
+   "title": "Diraq Deploys Silicon Spin Quantum Computer Inside a Commercial Data Center",
+   "url": "https://thequantuminsider.com/2026/11/09/diraq-deploys-silicon-spin-quantum-computer-inside-a-commercial-data-center/",
+   "summary": "Insider Brief PRESS RELEASE — Quantum computing pioneer Diraq has installed the world’s first silicon spin quantum computer inside a commercial data center, now live at Equinix (Nasdaq: EQIX) in Sydney, Australia. As quantum computing moves into the everyday infrastructure that businesses rely on, Diraq is also launching Quantum at Work, a new…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-09T19:52:56Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/1-diraq-s-quantum-computer-in-an-equinix-data-centre-1.jpg"
+  },
+  {
+   "id": "4c010709fb8b4b6b",
+   "title": "Taiwan Quantum Computing group hosts finance debate",
+   "url": "https://quantumzeitgeist.com/taqcit-quantum-finance-taiwan-computing-hosts/",
+   "summary": "TAQCIT Quantum Finance Salon | Night of Debate 02 explored whether the quantum threat has arrived, and if financial institutions should immediately prioritize migration to post-quantum cryptography (PQC). The event, held on 15 December 2026, addressed the financial governance decision of prioritizing immediate action versus a staged approach based…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-09T18:20:36Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/taiwan-quantum-computing-group-hosts-finance-debate.jpg"
+  },
+  {
+   "id": "c857cab8a54a7ef1",
+   "title": "New quantum method achieves perfect success in subsets discrimination",
+   "url": "https://quantumzeitgeist.com/steklov-international-quantum-subsets-discrimination-method/",
+   "summary": "Non-distinguishability of non-orthogonal quantum states is an essential feature of quantum mechanics, and here, a method for error-free subsets discrimination with success probability reaching one is proposed, even for non-orthogonal and linearly dependent input states. This method may be applied in quantum cryptography, potentially providing unit…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-09T18:08:17Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-method-perfect-success-subsets-discrimination.png"
+  },
+  {
+   "id": "7e37d77786183a1b",
+   "title": "SEALSQ and IC’Alps embed post-quantum security in medical devices",
+   "url": "https://quantumzeitgeist.com/post-quantum-security-sealsq-icalps-medical/",
+   "summary": "SEALSQ and IC'Alps are embedding cryptography designed to resist future quantum computers into medical devices at the chip level.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-09T18:08:07Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/sealsq-icalps-embed-post-quantum-security.jpg"
+  },
+  {
+   "id": "ddb03bb092c9d8d2",
+   "title": "Cloudflare reports 65% of traffic uses key exchange.",
+   "url": "https://quantumzeitgeist.com/superqubit-key-exchange-cloudflare-65-percent/",
+   "summary": "The U.S. National Institute of Standards and Technology (NIST IR 8547) proposes deprecating RSA and elliptic-curve algorithms by 2030, and disallowing quantum-vulnerable algorithms entirely by 2035. Cloudflare reported in April 2026 that more than 65 percent of human traffic to its network already uses post-quantum key exchange, with Google and…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-09T17:46:12Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/cloudflare-65-traffic-uses-key-exchange.jpg"
+  },
+  {
+   "id": "f744cbeeed4fb62d",
+   "title": "IonQ and Carahsoft Partner to Bring Quantum Solutions to the Public Sector",
+   "url": "https://thequantuminsider.com/2026/11/09/ionq-carahsoft-quantum-technologies-government/",
+   "summary": "Insider Brief PRESS RELEASE — IonQ (NYSE: IONQ), a leading full-stack quantum platform and foundry, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a strategic partnership. The collaboration intends to drive quantum computing, networking, sensing and security adoption across Federal agencies and their…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-09T17:46:06Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_22-40.png"
+  },
+  {
+   "id": "29b4630736d3fe2a",
+   "title": "A new framework visualises QKD algorithms for secure communication",
+   "url": "https://quantumzeitgeist.com/framework-visualises-qkd-algorithms-communication/",
+   "summary": "This tutorial reviews post-processing for discrete-variable QKD, and presents a GUI-based simulation framework to analyze algorithms like Cascade and LDPC.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-09T17:09:18Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/framework-visualises-qkd-algorithms-communication.png"
+  },
+  {
+   "id": "1894dbbdf6448682",
+   "title": "PQSecure Technologies Partners with Carahsoft to Distribute PQC Solutions",
+   "url": "https://thequantuminsider.com/2026/11/09/pqsecure-technologies-carahsoft-pqc-partnership/",
+   "summary": "Insider Brief PRESS RELEASE — PQSecure Technologies, a U.S.-based provider of advanced post-quantum cryptography (PQC) hardware, software and cryptographic security solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under the agreement, Carahsoft will serve as PQSecure…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-09T16:25:39Z",
+   "first_seen": "2026-11-10T00:06:18Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_21-24.png"
   },
   {
    "id": "f6e68eee9605df17",
@@ -450,6 +623,20 @@
    "date": "2026-11-09T14:37:31Z",
    "first_seen": "2026-11-09T15:58:16Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-05_18-51-1.png"
+  },
+  {
+   "id": "5f4a0734897fc4e8",
+   "title": "Chiffrement postquantique : Red Hat accélère sa feuille de route",
+   "url": "https://www.lemagit.fr/actualites/366654714/Chiffrement-postquantique-Red-Hat-accelere-sa-feuille-de-route",
+   "summary": "Comme bon nombre d'éditeurs américains, en matière de chiffrement postquantique, Red Hat suit le rythme imprimé par l’Administration américaine. Pour son directeur technique, un long travail attend encore les entreprises concernées.",
+   "source": "LeMagIT – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-09T13:27:00Z",
+   "first_seen": "2026-11-10T00:06:18Z"
   },
   {
    "id": "5972aa03b0f5df78",
@@ -755,6 +942,20 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/spoqc-mission-tests-cv-payload-transmitter.png"
   },
   {
+   "id": "044b32c5acbe33d5",
+   "title": "Actively Secure PIR from Verifiable Linear Relations over Rings",
+   "url": "https://eprint.iacr.org/2026/2804",
+   "summary": "Privately retrieving data from a database without revealing which element is being retrieved is a fundamental problem in cryptography with many diverse applications. State-of-the-art solutions to this problem are generally based on homomorphic encryption, which offers security only against passive adversaries. In this work, we contribute to the…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T17:40:53Z",
+   "first_seen": "2026-11-10T00:06:18Z"
+  },
+  {
    "id": "f99d8139ddbaccab",
    "title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
    "url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
@@ -800,6 +1001,21 @@
    "date": "2026-11-06T13:56:12Z",
    "first_seen": "2026-11-06T18:19:41Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/sealsq-techagency-guide-firms-quantum-shift.png"
+  },
+  {
+   "id": "45ad17b6acc5bb30",
+   "title": "More Salt, Please: A Simple Compiler for Post-Quantum Strong aPAKE",
+   "url": "https://eprint.iacr.org/2026/2798",
+   "summary": "Resistance to precomputation attacks is a central security goal in password-based cryptography, as it drastically increases the runtime of brute-force attacks on breached password hashes. Strong asymmetric password-authenticated key exchange (saPAKE), which enforces such precomputation resistance, is standardized by the IRTF and deployed today at…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-06T11:57:20Z",
+   "first_seen": "2026-11-10T00:06:18Z"
   },
   {
    "id": "dc7d1807cec0cb26",
@@ -913,6 +1129,22 @@
    "date": "2026-11-06T08:02:45Z",
    "first_seen": "2026-11-06T11:25:51Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-06_13-01.png"
+  },
+  {
+   "id": "3099bbf255623d62",
+   "title": "Exploiting Matrix-Vector Multiplication in AIMer: Single-Trace Attacks on Key Generation and Signing",
+   "url": "https://eprint.iacr.org/2026/2795",
+   "summary": "This paper presents two side-channel attacks against AIMer v3.0, one of the two signature schemes selected in the Korean Post-Quantum Cryptography (KpqC) competition. Both are single-trace attacks that recover the full secret key without a profiling phase, one against key generation and one against signing. Both target the same routine: the…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-06T06:29:00Z",
+   "first_seen": "2026-11-10T00:06:18Z"
   },
   {
    "id": "79ab3a53ecca39d8",
@@ -1129,6 +1361,20 @@
    ],
    "date": "2026-11-06T05:00:00Z",
    "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "eefb3ee5d18b6e58",
+   "title": "BeaverDam: A Post-Quantum Threshold Key Recovery Protocol from a One-Time Threshold Oblivious Random Function",
+   "url": "https://eprint.iacr.org/2026/2794",
+   "summary": "Secure backups are a practical necessity of E2EE messaging apps, typically relying on password-protected key-recovery (PPKR) protocols. These allow users to turn a human-memorable password into a cryptographic key with the help of a server. Recently, Signal and Juicebox proposed threshold PPKR (tPPKR) protocols, removing the trust on a centralized…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-06T03:47:43Z",
+   "first_seen": "2026-11-10T00:06:18Z"
   },
   {
    "id": "67935a62e9c3bf0f",
@@ -12175,6 +12421,21 @@
    "date": "2026-01-14T00:43:40Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/68cde982862a870abbe695e2_68cad7b6c76256ecc7340729_IONQ%2520OG%2520Image.jpeg"
+  },
+  {
+   "id": "ccb3eeef9e92235c",
+   "title": "Masked Solving of Linear Equations System and Application to UOV Signatures",
+   "url": "https://eprint.iacr.org/2026/048",
+   "summary": "In response to the looming quantum threat, NIST has selected four algorithms for standardization (i.e., ML-KEM, ML-DSA, SLH-DSA, and FN-DSA), yet three of the four schemes are based on Euclidean lattices, which raises concerns about the mathematical diversity of post-quantum algorithms. NIST has therefore announced an additional call for…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-01-12T13:34:15Z",
+   "first_seen": "2026-11-10T00:06:18Z"
   },
   {
    "id": "068dd7ba44194958",
