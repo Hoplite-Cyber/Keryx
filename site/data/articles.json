@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:06:18Z",
+ "generated_at": "2026-11-10T07:07:16Z",
  "count": 905,
  "sources": [
   {
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 136,
-   "kept": 8
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 57,
-   "kept": 4
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 0,
+   "fetched": 1,
    "kept": 0
   },
   {
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 5,
+   "fetched": 11,
    "kept": 0
   },
   {
@@ -306,7 +306,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 787,
+   "fetched": 786,
    "kept": 39
   },
   {
@@ -320,7 +320,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 600,
+   "fetched": 601,
    "kept": 4
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T00:06:18Z",
+   "date": "2026-11-10T07:07:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-10T00:06:18Z",
+   "date": "2026-11-10T07:07:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-10T00:06:18Z",
+   "date": "2026-11-10T07:07:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T00:06:18Z",
+   "date": "2026-11-10T07:07:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T00:06:18Z",
+   "date": "2026-11-10T07:07:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
