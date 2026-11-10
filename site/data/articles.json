@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T15:37:51Z",
- "count": 924,
+ "generated_at": "2026-11-10T21:26:42Z",
+ "count": 928,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 24
+   "kept": 25
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 172
+   "kept": 171
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 2
+   "kept": 3
   },
   {
    "name": "ETSI – actualités",
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 16,
+   "fetched": 17,
    "kept": 0
   },
   {
@@ -298,9 +298,8 @@
   {
    "name": "Post-Quantum.com",
    "category": "Presse spécialisée",
-   "ok": true,
-   "fetched": 30,
-   "kept": 30
+   "ok": false,
+   "error": "IncompleteRead: IncompleteRead(45460 bytes read)"
   },
   {
    "name": "DigiCert",
@@ -357,7 +356,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T15:37:51Z",
+   "date": "2026-11-10T21:26:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +370,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-10T15:37:51Z",
+   "date": "2026-11-10T21:26:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +386,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-10T15:37:51Z",
+   "date": "2026-11-10T21:26:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +401,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T15:37:51Z",
+   "date": "2026-11-10T21:26:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +416,54 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-10T15:37:51Z",
+   "date": "2026-11-10T21:26:42Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "72ca41dace61ec11",
+   "title": "Swedish fibre links pass a month-long test of quantum key distribution",
+   "url": "https://quantumzeitgeist.com/euroqci-quantum-key-distribution-swedish-fibre/",
+   "summary": "Quantum key distribution (QKD) is being deployed across Europe, including Sweden’s National Quantum Communication Infrastructure, to evaluate performance in real-world scenarios. A one-month long successful test confirms the feasibility of QKD on one of the Swedish links, as part of the EU’s EuroQCI initiative established in 2023.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-10T18:16:48Z",
+   "first_seen": "2026-11-10T21:26:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/swedish-fibre-links-pass-month-long.png"
+  },
+  {
+   "id": "e450f098d9ca8877",
+   "title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
+   "url": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
+   "summary": "Insider Brief PRESS RELEASE — QuEra Computing, the leader in fault-tolerant quantum computing, today highlighted research with Harvard University and Anthropic showing that AI can design quantum circuits that require fewer computational resources. The findings show how advances in algorithm design could expand what future fault-tolerant quantum…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-10T18:10:47Z",
+   "first_seen": "2026-11-10T21:26:42Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-10_23-09.png"
+  },
+  {
+   "id": "1a93280e9e67d8d1",
+   "title": "Reimei Powers Up to Help Japan Lead the Next Era of Discovery",
+   "url": "https://www.quantinuum.com/blog/quantinuum-and-riken-announcement",
+   "summary": "RIKEN and Quantinuum have upgraded the Reimei quantum computer to Quantinuum’s System Model H2, bringing quantum advantage into sight with their hybrid supercomputing platform. Their combination of Reimei, the supercomputer Fugaku, and the ROQUO GPU supercomputer is a world-leading platform that reaches far beyond what any modality can currently…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-10T17:02:55Z",
+   "first_seen": "2026-11-10T15:37:51Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af24e2cfaf0fc25c536ff73_Reimei-Blog-Media-Preview.png"
   },
   {
    "id": "42124e67bea19a36",
@@ -450,21 +494,6 @@
    "date": "2026-11-10T13:01:26Z",
    "first_seen": "2026-11-10T15:37:51Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_22-40-1.png"
-  },
-  {
-   "id": "1a93280e9e67d8d1",
-   "title": "Reimei Powers Up to Help Japan Lead the Next Era of Discovery",
-   "url": "https://www.quantinuum.com/blog/quantinuum-and-riken-announcement",
-   "summary": "RIKEN and Quantinuum have upgraded the Reimei quantum computer to Quantinuum’s System Model H2, bringing quantum advantage into sight with their hybrid supercomputing platform. Their combination of Reimei, the supercomputer Fugaku, and the ROQUO GPU supercomputer is a world-leading platform that reaches far beyond what any modality can currently…",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-10T07:38:39Z",
-   "first_seen": "2026-11-10T15:37:51Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af24e2cfaf0fc25c536ff73_Reimei-Blog-Media-Preview.png"
   },
   {
    "id": "8630e7ae4b3c091f",
@@ -1203,6 +1232,34 @@
    "date": "2026-11-07T09:41:46Z",
    "first_seen": "2026-11-07T15:44:09Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/batching-signatures-lowers-cost-post-quantum.jpg"
+  },
+  {
+   "id": "af230e4e6e2e0e30",
+   "title": "QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements",
+   "url": "https://eprint.iacr.org/2026/2810",
+   "summary": "We present QUASI, a newly conceived class of protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. Designed for quorum-based systems, QUASI enables parties to attest to external entities that the statement is valid. Surprisingly, each party need not sign the entire statement…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-07T02:32:00Z",
+   "first_seen": "2026-11-10T21:26:42Z"
+  },
+  {
+   "id": "e111aa3c58320bca",
+   "title": "Pastel: Single Secret Leader Election with Private Weights",
+   "url": "https://eprint.iacr.org/2026/2809",
+   "summary": "A single secret leader election (SSLE) protocol allows an election of exactly one leader among $n$ parties in a secrecy-preserving manner, where only the elected leader knows it has won until it publicly announces and claims leadership. Motivated by proof-of-stake blockchains where stakes are stored in an encrypted or committed form for the sake…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-07T01:01:10Z",
+   "first_seen": "2026-11-10T21:26:42Z"
   },
   {
    "id": "e1e6011595d40634",
