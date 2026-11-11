@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T01:25:46Z",
- "count": 930,
+ "generated_at": "2026-11-11T08:16:16Z",
+ "count": 935,
  "sources": [
   {
    "name": "ANSSI",
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 235,
-   "kept": 12
+   "fetched": 156,
+   "kept": 5
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 136,
-   "kept": 8
+   "fetched": 50,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T01:25:46Z",
+   "date": "2026-11-11T08:16:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-11T01:25:46Z",
+   "date": "2026-11-11T08:16:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-11T01:25:46Z",
+   "date": "2026-11-11T08:16:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T01:25:46Z",
+   "date": "2026-11-11T08:16:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,80 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T01:25:46Z",
+   "date": "2026-11-11T08:16:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "1b70a31977c73b12",
+   "title": "Packet-wise multi-hop quantum routing of hybrid quantum-classical packets",
+   "url": "https://arxiv.org/abs/2611.13625",
+   "summary": "The ability to dynamically route quantum information across multiple nodes is a key requirement for realizing versatile and scalable quantum networks. Quantum routers are devices to achieve packet-level routing beyond static point-to-point connections by handling hybrid packets combining classical headers and quantum payloads. Previously proposed…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-11T05:00:00Z",
+   "first_seen": "2026-11-11T08:16:16Z"
+  },
+  {
+   "id": "9379d968746ce1ae",
+   "title": "CV-TF-QKD",
+   "url": "https://arxiv.org/abs/2611.14044",
+   "summary": "We introduce a continuous-variable version of twin-field quantum key distribution, using independent Gaussian-modulated coherent states and an untrusted single-photon relay. Full-record reconciliation and a binary phase-disclosure protocol achieve nearly equal asymptotic key rates against collective attacks. At fixed weak input-referred excess…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-11T05:00:00Z",
+   "first_seen": "2026-11-11T08:16:16Z"
+  },
+  {
+   "id": "c148d1bd878475a2",
+   "title": "The energetic cost of loading classical data in quantum computers",
+   "url": "https://arxiv.org/abs/2611.14422",
+   "summary": "Quantum algorithms for machine learning, chemistry, and cryptanalysis often assume coherent access to classical data at negligible physical cost. We instead treat data loading as a hardware process and quantify the dynamic energetic cost of a quantum random access memory (QRAM) query on a superconducting processor. Using the metric-noise-resource…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-11T05:00:00Z",
+   "first_seen": "2026-11-11T08:16:16Z"
+  },
+  {
+   "id": "29dccc098766aeac",
+   "title": "Finite-Key Readiness and Authentication-Key Replenishment in QKD-Assisted UAV Edge Computing",
+   "url": "https://arxiv.org/abs/2611.14461",
+   "summary": "A service that needs fresh quantum keys must wait for key release, and may be denied it, before protected computation starts. We quantify this cost for a trusted stationary UAV serving two ground gateways, each obtaining its keys from one finite-key decoy-state BB84 attempt with parameters fixed in advance. A count-level Monte Carlo model…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-11T05:00:00Z",
+   "first_seen": "2026-11-11T08:16:16Z"
+  },
+  {
+   "id": "f3e1c7e9041df75f",
+   "title": "CV-QKD over Turbulence Channels with Virtual Photon Subtraction and Quantum Multiple-Symbol Detection for Underwater Quantum Communications",
+   "url": "https://arxiv.org/abs/2605.23557",
+   "summary": "Continuous-variable quantum key distribution (CV-QKD) is a promising approach for secure underwater quantum communications (UQCs), where propagation loss, scattering, turbulence, and receiver thermal noise can severely degrade the transmission of quantum states. In this paper, we propose an underwater CV-QKD system with virtual photon subtraction…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-11T05:00:00Z",
+   "first_seen": "2026-11-11T08:16:16Z"
   },
   {
    "id": "72ca41dace61ec11",
