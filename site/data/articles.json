@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T16:14:27Z",
- "count": 944,
+ "generated_at": "2026-11-11T22:44:01Z",
+ "count": 947,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 20
+   "kept": 15
   },
   {
    "name": "arXiv quant-ph",
@@ -320,7 +320,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 601,
+   "fetched": 602,
    "kept": 4
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T16:14:27Z",
+   "date": "2026-11-11T22:44:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-11T16:14:27Z",
+   "date": "2026-11-11T22:44:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-11T16:14:27Z",
+   "date": "2026-11-11T22:44:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T16:14:27Z",
+   "date": "2026-11-11T22:44:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,25 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T16:14:27Z",
+   "date": "2026-11-11T22:44:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "1820400e2eaeb3b3",
+   "title": "Patero and Horizen Labs Collaborate to Help Organizations Prepare for Post-Quantum Security",
+   "url": "https://thequantuminsider.com/2026/11/11/patero-horizen-labs-post-quantum-security-migration/",
+   "summary": "Insider Brief PRESS RELEASE — Patero Inc. and Horizen Labs today announced a collaboration to help organizations identify where they rely on cryptography, decide what to migrate first, and test post-quantum protection for critical network connections. Most organizations have years of cryptographic decisions embedded in applications…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-11T17:01:18Z",
+   "first_seen": "2026-11-11T22:44:01Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_22-00.png"
   },
   {
    "id": "db2bca9751591601",
@@ -1356,6 +1372,35 @@
    ],
    "date": "2026-11-09T05:00:00Z",
    "first_seen": "2026-11-09T05:57:56Z"
+  },
+  {
+   "id": "e8fbef1ffdd25ef7",
+   "title": "The Closest Vector Problem on Gadget Lattices: Efficient Algorithms and Voronoi Geometry",
+   "url": "https://eprint.iacr.org/2026/2833",
+   "summary": "Gadget lattices are a prominent family of lattices widely used in lattice-based cryptography, error-correcting codes, and computational complexity. We present efficient algorithms for the Closest Vector Problem (CVP) on power and CRT gadget lattices and their duals, handling arbitrary real-valued target vectors. For the parity-check power gadget…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-08T20:41:18Z",
+   "first_seen": "2026-11-11T22:44:01Z"
+  },
+  {
+   "id": "f2209bb3b61fee27",
+   "title": "An Agile Homomorphic Encryption and ML-KEM Scheme for Privacy-Preserving Health Data Processing",
+   "url": "https://eprint.iacr.org/2026/2832",
+   "summary": "The storage and processing of health data raise serious privacy con- cerns; therefore, the data must be encrypted. Fully Homomorphic Encryption (FHE) allows computations on encrypted data, which makes it a very promising technology in this context. However, although the efficiency of FHE algorithms has improved in recent years, they remain very…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-08T20:32:29Z",
+   "first_seen": "2026-11-11T22:44:01Z"
   },
   {
    "id": "230568518c14d8d6",
