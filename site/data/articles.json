@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T08:16:16Z",
- "count": 935,
+ "generated_at": "2026-11-11T16:14:27Z",
+ "count": 944,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 22
+   "kept": 20
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 3
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -251,7 +251,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 5
+   "kept": 7
   },
   {
    "name": "Quantinuum",
@@ -306,7 +306,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 788,
+   "fetched": 789,
    "kept": 39
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T08:16:16Z",
+   "date": "2026-11-11T16:14:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-11T08:16:16Z",
+   "date": "2026-11-11T16:14:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-11T08:16:16Z",
+   "date": "2026-11-11T16:14:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T08:16:16Z",
+   "date": "2026-11-11T16:14:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,142 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T08:16:16Z",
+   "date": "2026-11-11T16:14:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "db2bca9751591601",
+   "title": "Zhengyuan Quantum Raises Angel Funding For 1,000-Qubit Computer",
+   "url": "https://thequantuminsider.com/2026/11/11/zhengyuan-quantum-raises-angel-funding-for-1000-qubit-computer/",
+   "summary": "Insider Brief Chinese quantum computing startup Zhengyuan Quantum has completed an angel funding round to support development of a 1,000-qubit superconducting computer, according to media reports. The company announced the financing Nov. 10, according to a Jiemian News report republished by Sohu. Investors include Shenzhen Capital Group, Pudong…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T15:23:36Z",
+   "first_seen": "2026-11-11T16:14:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Superconducting-quantum-chip-with-Chinese-flag-motif-1.png"
+  },
+  {
+   "id": "f00c5dfcba22abe0",
+   "title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+   "url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+   "summary": "Insider Brief PRESS RELEASE — IBM (NYSE: IBM) today announced IBM Quantum Nighthawk r3, its next-generation processor, will be built to accurately execute 10,000 quantum operations across 520 qubits to tackle larger, more complex problems while maintaining the speed and quality demonstrated by the current generation Nighthawk available today. In…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T14:03:23Z",
+   "first_seen": "2026-11-11T16:14:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_19-02.png"
+  },
+  {
+   "id": "ee240bc56edfc8b4",
+   "title": "Tracking progress on the path to IBM Quantum Starling",
+   "url": "https://research.ibm.com/blog/path-to-starling?utm_medium=rss&utm_source=rss",
+   "summary": "Advances across parallel technology areas are laying the groundwork for fault-tolerant quantum computing by the end of the decade.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T13:00:00Z",
+   "first_seen": "2026-11-11T16:14:27Z"
+  },
+  {
+   "id": "55906bec0b0f022b",
+   "title": "The year of advantage—and what comes next",
+   "url": "https://research.ibm.com/blog/qdc-2026?utm_medium=rss&utm_source=rss",
+   "summary": "IBM Quantum Developer Conference 2026 brings advances in hardware, software, and applications for turning quantum advantage into real-world impact.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T12:00:00Z",
+   "first_seen": "2026-11-11T16:14:27Z"
+  },
+  {
+   "id": "0b108f6fe90b4fc9",
+   "title": "Tracking progress on the path to IBM Quantum Starling",
+   "url": "https://research.ibm.com/blog/path-to-ibm-quantum-starling?utm_medium=rss&utm_source=rss",
+   "summary": "Advances across parallel technology areas are laying the groundwork for fault-tolerant quantum computing by the end of the decade.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T11:58:00Z",
+   "first_seen": "2026-11-11T16:14:27Z"
+  },
+  {
+   "id": "6840a3d36319db4c",
+   "title": "SQC Appoints W.H. Teh as Chief Manufacturing Officer",
+   "url": "https://thequantuminsider.com/2026/11/11/sqc-appoints-wh-teh-chief-manufacturing-officer/",
+   "summary": "Insider Brief PRESS RELEASE — Silicon Quantum Computing (SQC), a pioneer in quantum computing and atomic-precision manufacturing, today announced the appointment of W.H. Teh as Chief Manufacturing Officer, effective October 2026. Teh will oversee the scale-up of SQC’s atomic semiconductor manufacturing technology as the company advances its…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T11:56:33Z",
+   "first_seen": "2026-11-11T16:14:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_16-55.png"
+  },
+  {
+   "id": "fba98072c87b26a6",
+   "title": "Guest Post: Quantum-Resistant Wallets Could Support Institutional Blockchain Adoption",
+   "url": "https://thequantuminsider.com/2026/11/11/quantum-resistant-wallets-wall-street-capital-on-chain/",
+   "summary": "Guest Post by Seb Audy | COO at AmericanFortress, COO at Moon Pursuit Capital Institutional finance has a problem with how it approaches blockchain security. We are spending billions building systems intended to hold and move assets for decades, while much of the cryptography protecting those assets was designed without quantum computing in mind.…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-11T09:36:40Z",
+   "first_seen": "2026-11-11T16:14:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_14-35.png"
+  },
+  {
+   "id": "c044cd022fff38f5",
+   "title": "Rigetti Reports Q3 2026 Results and Updates Quantum Computing Roadmap",
+   "url": "https://thequantuminsider.com/2026/11/11/rigetti-q3-2026-results-quantum-computing-roadmap/",
+   "summary": "Insider Brief PRESS RELEASE — Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced financial results for the third quarter ended September 30, 2026 and provided an update on recent business and technology milestones. Third Quarter 2026 Financial Highlights…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T09:30:09Z",
+   "first_seen": "2026-11-11T16:14:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_14-29.png"
+  },
+  {
+   "id": "eb00138517649edc",
+   "title": "SEAFOOD Puts OCTOPUS and Quantum Computers on the Same Menu",
+   "url": "https://thequantuminsider.com/2026/11/11/seafood-puts-octopus-and-quantum-computers-on-the-same-menu/",
+   "summary": "Insider Brief PRESS RELEASE — Researchers at D3 Center and the Center for Quantum Information and Quantum Biology (QIQB), the University of Osaka, have created SEAFOOD, a platform that allows the university’s OCTOPUS supercomputer and superconducting quantum computers to work together in a single computing workflow. It is the first case in Japan…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-11T09:25:24Z",
+   "first_seen": "2026-11-11T16:14:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Low-Res_Fig.-1_D3.jpg"
   },
   {
    "id": "1b70a31977c73b12",
