@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T03:24:48Z",
- "count": 949,
+ "generated_at": "2026-11-12T11:44:09Z",
+ "count": 952,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,20 +56,20 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 15
+   "kept": 14
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 156,
-   "kept": 5
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 50,
+   "fetched": 0,
    "kept": 0
   },
   {
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 171
+   "kept": 170
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 4,
+   "fetched": 6,
    "kept": 0
   },
   {
@@ -285,8 +285,8 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 17,
-   "kept": 0
+   "fetched": 29,
+   "kept": 1
   },
   {
    "name": "Futura Sciences",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T03:24:48Z",
+   "date": "2026-11-12T11:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-12T03:24:48Z",
+   "date": "2026-11-12T11:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-12T03:24:48Z",
+   "date": "2026-11-12T11:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T03:24:48Z",
+   "date": "2026-11-12T11:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,55 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T03:24:48Z",
+   "date": "2026-11-12T11:44:09Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "78ab783ac5ed4a98",
+   "title": "Qunova’s Hybrid Computing Method Matches Classical Benchmark for Iron-Sulfur Cluster",
+   "url": "https://thequantuminsider.com/2026/11/12/qunovas-hybrid-computing-method-matches-classical-benchmark-for-iron-sulfur-cluster/",
+   "summary": "Insider Brief PRESS RELEASE — Qunova Computing, a world leader in quantum computations for advanced chemistry, today announces that its HI-VQE algorithm has become the first quantum algorithm to reach chemical accuracy (a level of precision required for practical use) at 80 qubits. It did so while simulating the 4Fe-4S iron-sulfur cubane cluster…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T10:02:05Z",
+   "first_seen": "2026-11-12T11:44:09Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-4.50.19-AM.png"
+  },
+  {
+   "id": "2c9199f1dbc0ba8f",
+   "title": "CyberRisk Collaborative Announces Virtual Event on Post-Quantum Readiness",
+   "url": "https://thequantuminsider.com/2026/11/12/cyberrisk-collaborative-virtual-event-post-quantum-readiness/",
+   "summary": "Insider Brief PRESS RELEASE — CyberRisk Collaborative, a membership organization for senior cybersecurity leaders, today announced Post-Quantum Readiness: Preparing for Q-Day, a virtual event taking place Tuesday, Jan. 26, 2027, focused on the security, risk, and technology implications of advances in quantum computing. The program will bring…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-12T08:29:00Z",
+   "first_seen": "2026-11-12T11:44:09Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-12_13-28.png"
+  },
+  {
+   "id": "b15d1b0eb6d4ce05",
+   "title": "Informatique quantique : IBM prépare un système Nighthawk de 1 040 qubits pour 2027",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/informatique-quantique-ibm-prepare-un-systeme-nigh",
+   "summary": "IBM prévoit de franchir le seuil des 1 000 qubits en 2027 grâce à l'interconnexion de deux processeurs quantiques Nighthawk r3. Chaque puce devrait intégrer 520 qubits et prendre en charge jusqu'à 10 000 opérations quantiques. Une nouvelle étape dans la stratégie d'industrialisation du groupe, même si la fiabilité des calculs demeure un défi…",
+   "source": "Le Monde Informatique – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T06:26:33Z",
+   "first_seen": "2026-11-12T11:44:09Z",
+   "image": "https://cdn.overlord.media/IBM_Quntum_Platform_81556ad1e9.png"
   },
   {
    "id": "1820400e2eaeb3b3",
