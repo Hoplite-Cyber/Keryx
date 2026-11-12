@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T22:44:01Z",
- "count": 947,
+ "generated_at": "2026-11-12T03:24:48Z",
+ "count": 949,
  "sources": [
   {
    "name": "ANSSI",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T22:44:01Z",
+   "date": "2026-11-12T03:24:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-11T22:44:01Z",
+   "date": "2026-11-12T03:24:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-11T22:44:01Z",
+   "date": "2026-11-12T03:24:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T22:44:01Z",
+   "date": "2026-11-12T03:24:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-11T22:44:01Z",
+   "date": "2026-11-12T03:24:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -569,6 +569,38 @@
    "date": "2026-11-11T09:25:24Z",
    "first_seen": "2026-11-11T16:14:27Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Low-Res_Fig.-1_D3.jpg"
+  },
+  {
+   "id": "7b8de93346583cd0",
+   "title": "Single-qubit measurement is universally applicable to quantum cryptography",
+   "url": "https://quantumzeitgeist.com/sorbonne-university-single-qubit-measurement-universally/",
+   "summary": "In quantum communication, cryptographic protocols often require trusted qubit sources or detectors, but recent work demonstrates several protocols can be performed with only single-qubit rotations. Researchers introduce two composably secure constructions that show how parties traditionally required to perform trusted qubit preparation or…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-11T09:16:11Z",
+   "first_seen": "2026-11-12T03:24:48Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/single-qubit-measurement-universally-applicable-quantum.png"
+  },
+  {
+   "id": "6c358d63ba5c76d7",
+   "title": "QKD supplements encryptor key establishment for select corridors.",
+   "url": "https://quantumzeitgeist.com/ionq-qkd-supplements-encryptor-key-establishment/",
+   "summary": "Even with PQC migration on track, long-lived data remains vulnerable—especially on encryptors with undated upgrades.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-11T09:16:04Z",
+   "first_seen": "2026-11-12T03:24:48Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/qkd-supplements-encryptor-key-establishment-corridors-scaled.png"
   },
   {
    "id": "1b70a31977c73b12",
