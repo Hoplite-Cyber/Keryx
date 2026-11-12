@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T11:44:09Z",
- "count": 952,
+ "generated_at": "2026-11-12T19:10:25Z",
+ "count": 959,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 14
+   "kept": 13
   },
   {
    "name": "arXiv quant-ph",
@@ -251,7 +251,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 7
+   "kept": 6
   },
   {
    "name": "Quantinuum",
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 29,
+   "fetched": 30,
    "kept": 1
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T11:44:09Z",
+   "date": "2026-11-12T19:10:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-12T11:44:09Z",
+   "date": "2026-11-12T19:10:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-12T11:44:09Z",
+   "date": "2026-11-12T19:10:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T11:44:09Z",
+   "date": "2026-11-12T19:10:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,130 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T11:44:09Z",
+   "date": "2026-11-12T19:10:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "1a93280e9e67d8d1",
+   "title": "Reimei Powers Up to Help Japan Lead the Next Era of Discovery",
+   "url": "https://www.quantinuum.com/blog/quantinuum-and-riken-announcement",
+   "summary": "RIKEN and Quantinuum have upgraded the Reimei quantum computer to Quantinuum’s System Model H2, bringing quantum advantage into sight with their hybrid supercomputing platform. Their combination of Reimei, the supercomputer Fugaku, and the ROQUO GPU supercomputer is a world-leading platform that reaches far beyond what any modality can currently…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T18:14:59Z",
+   "first_seen": "2026-11-10T15:37:51Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af24e2cfaf0fc25c536ff73_Reimei-Blog-Media-Preview.png"
+  },
+  {
+   "id": "5294955d0f39f2c5",
+   "title": "Cockpit launches quantum hybrid key sealing under BSI standards",
+   "url": "https://quantumzeitgeist.com/bsi-cockpit-quantum-hybrid-key-sealing/",
+   "summary": "Cockpit now supports hybrid key sealing under BSI TR-02102-1, addressing “harvest now, decrypt later” threats from quantum computers.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques",
+    "Menace quantique"
+   ],
+   "date": "2026-11-12T17:40:48Z",
+   "first_seen": "2026-11-12T19:10:25Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/cockpit-launches-quantum-hybrid-key-sealing-under-bsi-1-scaled.jpg"
+  },
+  {
+   "id": "6d5eeecc92c25b15",
+   "title": "Introducing Helios: The Most Accurate Quantum Computer in the World",
+   "url": "https://www.quantinuum.com/blog/introducing-helios-the-most-accurate-quantum-computer-in-the-world",
+   "summary": "Introducing Quantinuum Helios: The Most Accurate Quantum Computer in the World",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T16:24:26Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/690b7e9735632d985a336a96_helios-blog-media-preview.png"
+  },
+  {
+   "id": "b885cd0dc500ab33",
+   "title": "Qedma Appoints Scott Aaronson to Its Scientific Advisory Board",
+   "url": "https://thequantuminsider.com/2026/11/12/qedma-appoints-scott-aaronson-scientific-advisory-board/",
+   "summary": "Insider Brief PRESS RELEASE — Qedma, a quantum computing software company specializing in quantum error suppression and mitigation, today announced that Professor Scott Aaronson, one of the world’s leading researchers in quantum computing and computational complexity theory, has joined its Scientific Advisory Board. Aaronson is the Schlumberger…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T16:04:33Z",
+   "first_seen": "2026-11-12T19:10:25Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-12_21-03.png"
+  },
+  {
+   "id": "f180aba7604cebfa",
+   "title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+   "url": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
+   "summary": "Insider Brief PRESS RELEASE — PsiQuantum and AMD (NASDAQ: AMD) today announced an expanded strategic partnership to co-design the computing infrastructure required to operate utility-scale, fault-tolerant quantum computers and the hybrid applications that combine quantum, high-performance, and AI computing. The collaboration builds on the…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T15:54:57Z",
+   "first_seen": "2026-11-12T19:10:25Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-12_20-54.png"
+  },
+  {
+   "id": "593b82d369cea3db",
+   "title": "Two teams, one goal: why Pasqal built a joint lab with its founding research group",
+   "url": "https://www.pasqal.com/blog/two-teams-one-goal-why-pasqal-built-a-joint-lab-with-its-founding-research-group/",
+   "summary": "Pasqal was born from academic research, and it has never stopped investing in it. With AtomIQ-Lab, our joint laboratory with CNRS and Institut d’Optique Graduate School, we have turned a long-standing relationship into a shared research program. Here is what each side brings, and why that matters for the future of neutral-atom quantum computing.…",
+   "source": "Pasqal",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T15:30:00Z",
+   "first_seen": "2026-11-12T19:10:25Z"
+  },
+  {
+   "id": "a7e423d9899b26b4",
+   "title": "Quantum Elements Helps Rigetti Predict Quantum Hardware Behavior",
+   "url": "https://thequantuminsider.com/2026/11/12/quantum-elements-helps-rigetti-predict-quantum-hardware-behavior/",
+   "summary": "Insider Brief PRESS RELEASE — Quantum Elements, developers of software that shortens the path to fault-tolerant quantum computing, announces that Rigetti Computing, a pioneer in full-stack quantum-classical computing, is leveraging Quantum Elements’ Constellation platform to model quantum device behavior to better understand how systems will…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T14:12:15Z",
+   "first_seen": "2026-11-12T19:10:25Z"
+  },
+  {
+   "id": "7d455371c30a7b8b",
+   "title": "Quantum Xchange’s Phio TX gains EU cybersecurity certification",
+   "url": "https://quantumzeitgeist.com/quantum-xchange-phio-gains-cybersecurity-certification/",
+   "summary": "Quantum XChange’s Phio TX version 4.5.6 is the first post-quantum cryptographic management platform to earn European Union Cybersecurity Certification (EUCC) at Evaluation Assurance Level 2 (EAL2). Phio TX is also the first to hold both FIPS validation and EUCC certification, easing complexity for regulated European and global networks.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-12T13:47:52Z",
+   "first_seen": "2026-11-12T19:10:25Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-xchanges-phio-tx-gains-eu-scaled.jpeg"
   },
   {
    "id": "78ab783ac5ed4a98",
@@ -750,21 +871,6 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-10_23-09.png"
   },
   {
-   "id": "1a93280e9e67d8d1",
-   "title": "Reimei Powers Up to Help Japan Lead the Next Era of Discovery",
-   "url": "https://www.quantinuum.com/blog/quantinuum-and-riken-announcement",
-   "summary": "RIKEN and Quantinuum have upgraded the Reimei quantum computer to Quantinuum’s System Model H2, bringing quantum advantage into sight with their hybrid supercomputing platform. Their combination of Reimei, the supercomputer Fugaku, and the ROQUO GPU supercomputer is a world-leading platform that reaches far beyond what any modality can currently…",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-10T17:02:55Z",
-   "first_seen": "2026-11-10T15:37:51Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af24e2cfaf0fc25c536ff73_Reimei-Blog-Media-Preview.png"
-  },
-  {
    "id": "42124e67bea19a36",
    "title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
    "url": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
@@ -793,6 +899,22 @@
    "date": "2026-11-10T13:01:26Z",
    "first_seen": "2026-11-10T15:37:51Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_22-40-1.png"
+  },
+  {
+   "id": "3e12a75216877618",
+   "title": "A New Class of PRFs and Efficient VRFs from Isogeny-based Group Actions",
+   "url": "https://eprint.iacr.org/2026/2856",
+   "summary": "Polynomial-in-exponent pseudorandom functions (Poly-style PRFs) based on group actions have recently emerged as a promising framework for post-quantum cryptography, offering compact keys and efficient verifiability. However, the security of these constructions over composite-order class groups remains poorly understood. Prior work suggested that…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-10T05:17:26Z",
+   "first_seen": "2026-11-12T19:10:25Z"
   },
   {
    "id": "8630e7ae4b3c091f",
@@ -13483,21 +13605,6 @@
    ],
    "date": "2025-11-14T21:37:49Z",
    "first_seen": "2026-10-26T09:55:10Z"
-  },
-  {
-   "id": "6d5eeecc92c25b15",
-   "title": "Introducing Helios: The Most Accurate Quantum Computer in the World",
-   "url": "https://www.quantinuum.com/blog/introducing-helios-the-most-accurate-quantum-computer-in-the-world",
-   "summary": "Introducing Quantinuum Helios: The Most Accurate Quantum Computer in the World",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2025-11-13T21:01:33Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/690b7e9735632d985a336a96_helios-blog-media-preview.png"
   },
   {
    "id": "95cb1bf700546c83",
