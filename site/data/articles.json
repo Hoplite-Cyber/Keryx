@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T07:07:49Z",
- "count": 964,
+ "generated_at": "2026-11-13T15:26:36Z",
+ "count": 987,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 15
+   "kept": 13
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 284,
+   "kept": 15
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 104,
+   "kept": 4
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 170
+   "kept": 171
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 3
   },
   {
    "name": "ETSI – actualités",
@@ -196,7 +196,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Numerama",
@@ -237,7 +237,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 60,
-   "kept": 8
+   "kept": 9
   },
   {
    "name": "Nature – information quantique",
@@ -265,7 +265,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 45
+   "kept": 44
   },
   {
    "name": "Pasqal",
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 34,
+   "fetched": 37,
    "kept": 1
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T07:07:49Z",
+   "date": "2026-11-13T15:26:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-13T07:07:49Z",
+   "date": "2026-11-13T15:26:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-13T07:07:49Z",
+   "date": "2026-11-13T15:26:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T07:07:49Z",
+   "date": "2026-11-13T15:26:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,366 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T07:07:49Z",
+   "date": "2026-11-13T15:26:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "ade27f6547802807",
+   "title": "Ntt Research Builds Virtual Quantum Computer from Untrusted Servers",
+   "url": "https://quantumzeitgeist.com/quantum-computer-virtualized-from-untrusted-servers/",
+   "summary": "Before today, verifying any result from a distant quantum processor required trusting both the hardware *and* the operator, now, one machine can impersonate any other for an untrusting observer. This breakthrough demonstrates how a standard computer can leverage even a potentially malicious quantum server to perform complex calculations and…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-13T15:18:00Z",
+   "first_seen": "2026-11-13T15:26:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/ntt-research-builds-virtual-quantum-computer-from-untrusted-servers.png"
+  },
+  {
+   "id": "2a0ab1686d151214",
+   "title": "Sealsq highlights post-quantum security at BMO conference",
+   "url": "https://quantumzeitgeist.com/post-quantum-security-sealsq-highlights-bmo/",
+   "summary": "At the BMO conference, SEALSQ CEO Carlos Moreira discussed the need for solutions addressing vulnerabilities to quantum computing, like their work in post-quantum cryptography.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-13T14:00:27Z",
+   "first_seen": "2026-11-13T15:26:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/sealsq-highlights-post-quantum-security-bmo-scaled.png"
+  },
+  {
+   "id": "845e30241d1ef325",
+   "title": "Project Eleven launches Strongpoint MPC for post-quantum digital assets",
+   "url": "https://quantumzeitgeist.com/project-eleven-post-quantum-strongpoint-digital/",
+   "summary": "Project Eleven introduces Strongpoint MPC, a threshold cryptography solution enabling practical, high-performance post-quantum MPC.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-13T09:48:09Z",
+   "first_seen": "2026-11-13T15:26:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/project-eleven-launches-strongpoint-mpc-for-post-quantum.png"
+  },
+  {
+   "id": "4a1f17f8c933f7e6",
+   "title": "Continuous-mode CV-QKD better reflects practical optical systems",
+   "url": "https://quantumzeitgeist.com/beijing-posts-continuous-mode-cv-qkd/",
+   "summary": "Researchers found device imperfections shift continuous-variable quantum key distribution (CV-QKD) systems toward continuous-mode operation, creating a gap between theory & real-world performance.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T09:43:10Z",
+   "first_seen": "2026-11-13T15:26:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/continuous-mode-cv-qkd-better-reflects-practical-optical-1.png"
+  },
+  {
+   "id": "596e421105ce97e2",
+   "title": "Informatique quantique : IBM fait feu de tout qubit",
+   "url": "https://next.ink/267139/informatique-quantique-ibm-fait-feu-de-tout-qubits/",
+   "summary": "Mercredi 11 novembre, IBM a publié plusieurs papiers sur l’avancement de ses travaux autour des ordinateurs quantiques. Il s’agit bien de ses machines, au pluriel, car le fabricant court plusieurs lièvres à la fois avec Nighthawk et Starling. Dans le monde des machines quantiques, il y a deux approches : un qubit de travail peut [...]",
+   "source": "Next",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-13T08:01:00Z",
+   "first_seen": "2026-11-13T15:26:36Z",
+   "image": "https://next.ink/wp-content/uploads/2023/12/Informatique-quantique6.jpg"
+  },
+  {
+   "id": "842218841dfb1f99",
+   "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+   "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-13T05:26:41Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "1bb062c4a7a0aacd",
+   "title": "Long-distance quantum secure direct communication with Gottesman-Kitaev-Preskill qubits",
+   "url": "https://arxiv.org/abs/2611.11822",
+   "summary": "The Gottesman-Kitaev-Preskill (GKP) code possesses a lattice periodic structure that enables the effective correction of small displacement errors induced by noise in phase space, which is indispensable for quantum computation. The GKP code was also used to construct a long-distance entanglement channel in quantum repeaters and distribute random…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "148665ce1e25ba0e",
+   "title": "Brief introduction to post-quantum cryptography in industrial applications",
+   "url": "https://arxiv.org/abs/2611.12479",
+   "summary": "The development of Post-Quantum Cryptography (PQC) is directly motivated by the necessity to secure information in the face of the quantum threat. This paper provides an overview of recent developments relevant to PQC adoption across several industrial applications, including IoT, healthcare, civil and infrastructure engineering, and defense. We…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "b4e54ae646306ee3",
+   "title": "Full Mesh Dynamic Four-User Entanglement-based Switched QKD Network Integrated with SD-KMS",
+   "url": "https://arxiv.org/abs/2611.15374",
+   "summary": "We demonstrate a reconfigurable, four-user, full-mesh quantum key distribution network using polarization entanglement, integrated with a software-defined key management system to orchestrate dynamic optical switching and real-time key provisioning for quantum-safe applications.",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "bcff65ae79774199",
+   "title": "Revealing Bell Nonlocality Does Not Require the Same Physical Measurement to be Performed Twice",
+   "url": "https://arxiv.org/abs/2611.15871",
+   "summary": "Bell inequality violations, or Bell nonlocality for short, is not only central to testing the foundations of quantum physics but have also become an essential ingredient of numerous quantum information protocols, from quantum key distribution to the device-independent certification of randomness and secure communication. Existing analyses of Bell…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "e94dfd486f708b6f",
+   "title": "No Convergence in Learned Eavesdropping-Detection Dynamics for BB84 Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2611.16372",
+   "summary": "In prior work we showed that a reinforcement-learning eavesdropper can intercept BB84 quantum key distribution while holding the quantum bit error rate below the abort threshold and keeping a usable distillable key. In this paper we ask whether an equally adaptive learning detector can close this stealth window. We cast the interaction as an…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "70c21d9289d2888a",
+   "title": "Effect of atomic interactions on quantum communication protocols",
+   "url": "https://arxiv.org/abs/2611.16519",
+   "summary": "We develop a first-principles framework for analyzing photonic quantum communication in an atomic medium. Starting from a real-space quantization of the electromagnetic field coupled to an ensemble of two-level atoms, we derive an effective model for polarization-encoded single-photon states. We apply this framework to superdense coding to study…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "18746ea76dfdafd7",
+   "title": "Inter-city 18.9 km free-space QKD over a dense urban corridor",
+   "url": "https://arxiv.org/abs/2611.16774",
+   "summary": "Terrestrial free-space quantum key distribution (QKD) provides a flexible complement to fiber-based networks, but its deployment over long horizontal paths in dense metropolitan environments remains challenging, as atmospheric turbulence, demanding pointing and tracking requirements, and operational constraints can substantially increase system…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "296265d7e35ab5d5",
+   "title": "Implementation of a 1D Gaussian-modulated CV-QKD under finite-size parameter estimation",
+   "url": "https://arxiv.org/abs/2611.17250",
+   "summary": "Continuous-variable quantum key distribution (CV-QKD) is a promising technology for quantum-secure communications, offering high secret-key rates and straightforward integration with coherent optical communication systems. Conventional Gaussian-modulated CV-QKD encodes information in both optical-field quadratures, increasing requirements for…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "179a4dfe537cf8ec",
+   "title": "A deployed four-city entanglement-based QKD network with real-time key delivery, benchmarked against finite-key security bounds",
+   "url": "https://arxiv.org/abs/2611.17265",
+   "summary": "Quantum key distribution (QKD) generates shared secret keys whose security rests on the laws of physics rather than on computational assumptions. We report the entanglement-based segment of the Slovak national quantum communication infrastructure, connecting four cities in western Slovakia over deployed telecommunication fiber.…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "360f16f859fae118",
+   "title": "An optical-frequency-comb-enabled unified infrastructure for quantum networks",
+   "url": "https://arxiv.org/abs/2611.16349",
+   "summary": "Quantum networks require precision timing and classical communication to coordinate distributed quantum operations, yet these functions are typically supported by separate infrastructures, increasing system complexity and limiting scalability. Here we demonstrate an optical-frequency-comb-enabled infrastructure that unifies precision timing…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "efbecc7aa3b13c19",
+   "title": "Key Relay and Secure Network Coding: One-Shot Equivalence and Separation on Undirected Networks",
+   "url": "https://arxiv.org/abs/2611.16776",
+   "summary": "Motivated by quantum key distribution networks, we compare key relay protocols with secure network coding on the same undirected graph. In this comparison, we fix the finite field, terminal set, and wiretap family. Each edge supplies one independent uniform symbol to its endpoints for key relay, or carries one symbol once for network coding. The…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "55332b5c8f462f78",
+   "title": "Quantum randomness certification with untrusted measurements and few probe states",
+   "url": "https://arxiv.org/abs/2210.13608",
+   "summary": "We present a scheme for semidevice-independent quantum randomness certification from an untrusted measurement device and a trusted source and demonstrate it experimentally. No assumptions about noise or imperfections in the measurement are required, and the scheme is simple to implement with existing technology. The measurement device is probed…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "67f7b7c2d9feb548",
+   "title": "Global Clock-Based Stochastic Modeling of a Memory-Assisted Measurement-Device-Independent Quantum Key Distribution System",
+   "url": "https://arxiv.org/abs/2508.14983",
+   "summary": "On the pathway to quantum key distribution on a global scale will be the realization of metropolitan-sized, Memory-Assisted Measurement-Device-Independent Quantum Key Distribution (MA-MDI-QKD) systems. Here, we present a simplistic and intuitive stochastic model to predict error-corrected key throughput in a MA-MDI-QKD scheme that incorporates a…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "1d46409efd895f58",
+   "title": "Cloning is as Hard as Learning for Stabilizer States",
+   "url": "https://arxiv.org/abs/2604.15269",
+   "summary": "The impossibility of simultaneously cloning non-orthogonal states lies at the foundations of quantum theory. Even when allowing for approximation errors, cloning an arbitrary unknown pure state requires as many initial copies as needed to fully learn the state. Rather than arbitrary unknown states, modern quantum learning theory often considers…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "7fbe83dae6d91ef0",
+   "title": "From Quantum Cryptography to Intuitionism and beyond: relativity, many-worlds and non-locality",
+   "url": "https://arxiv.org/abs/2609.07127",
+   "summary": "After a recollection of some of my encounters with Gilles Brassard, on the occasion of his 70th birthday I present, first, a new idea on creation of new information at a limited rate. Next, I develop the idea that \"indeterminacy is relative\" [Entropy {23} 1326 (2021)] and how this illuminates the compatibility between relativity and non-locality.",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "054a6181f0df7cc8",
+   "title": "Encrypted Quantum Cloning Beyond Maximal Entanglement: Exact Classification of Multipartite Resources",
+   "url": "https://arxiv.org/abs/2609.28241",
+   "summary": "Encrypted quantum cloning distributes an unknown $k$-qubit state among $m$ individually concealed signals, each permitting exact recovery when combined with a common quantum key. While canonical constructions rely on maximally entangled resources, they do not establish which multipartite states are necessary or sufficient for this task. Here we…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "ab0a1ff5cd560691",
+   "title": "Maturity$^2$: Assessing the Maturity of Crypto Agility Maturity Models",
+   "url": "https://arxiv.org/abs/2611.17003",
+   "summary": "Crypto agility maturity models aim to support organizations in preparing for cryptographic transitions, such as migrating to post-quantum cryptography. Recognizing the importance of measurable maturity, NIST references several such models in its guidance. Given NIST's influence on cybersecurity practice, these models may shape organizational…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "d914d9be624c886c",
+   "title": "Quantum Machine Learning Protection of Military Quantum Key Distribution Against Cryptographically Camouflaged Attacks",
+   "url": "https://arxiv.org/abs/2610.04543",
+   "summary": "Quantum key distribution proves its protocol secure and says nothing about the hardware beneath it, so military and government operators fielding it for command-and-control keys monitor the channel for implementation attacks, and that monitoring has a blind spot. An adversary with a kleptographic foothold in the generator of a public per-block…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-13T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
   },
   {
    "id": "7068a3410013419c",
@@ -1062,21 +1419,6 @@
    "first_seen": "2026-11-10T15:37:51Z"
   },
   {
-   "id": "1bb062c4a7a0aacd",
-   "title": "Long-distance quantum secure direct communication with Gottesman-Kitaev-Preskill qubits",
-   "url": "https://arxiv.org/abs/2611.11822",
-   "summary": "The Gottesman-Kitaev-Preskill (GKP) code possesses a lattice periodic structure that enables the effective correction of small displacement errors induced by noise in phase space, which is indispensable for quantum computation. The GKP code was also used to construct a long-distance entanglement channel in quantum repeaters and distribute random…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC",
-    "QKD"
-   ],
-   "date": "2026-11-10T05:00:00Z",
-   "first_seen": "2026-11-10T15:37:51Z"
-  },
-  {
    "id": "69a2e9f321e67972",
    "title": "Deploying QKD on the fiber links of the National Quantum Communication Infrastructure in Sweden",
    "url": "https://arxiv.org/abs/2611.12279",
@@ -1202,22 +1544,6 @@
    "themes": [
     "PQC",
     "Menace quantique"
-   ],
-   "date": "2026-11-10T05:00:00Z",
-   "first_seen": "2026-11-10T15:37:51Z"
-  },
-  {
-   "id": "148665ce1e25ba0e",
-   "title": "Brief introduction to post-quantum cryptography in industrial applications",
-   "url": "https://arxiv.org/abs/2611.12479",
-   "summary": "The development of Post-Quantum Cryptography (PQC) is directly motivated by the necessity to secure information in the face of the quantum threat. This paper provides an overview of recent developments relevant to PQC adoption across several industrial applications, including IoT, healthcare, civil and infrastructure engineering, and defense. We…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC",
-    "Menace quantique",
-    "QKD"
    ],
    "date": "2026-11-10T05:00:00Z",
    "first_seen": "2026-11-10T15:37:51Z"
@@ -1705,6 +2031,23 @@
    ],
    "date": "2026-11-08T09:38:55Z",
    "first_seen": "2026-11-11T01:25:46Z"
+  },
+  {
+   "id": "93020b9fe276ea01",
+   "title": "DuoKey finds Swiss banks lead in ML-KEM adoption among Europe’s banking centers",
+   "url": "https://quantumzeitgeist.com/duokey-ml-kem-adoption-swiss-banks/",
+   "summary": "Swiss banks are leading Europe in post-quantum cryptography, with 46% negotiating ML-KEM—the highest percentage among six major banking centers.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-08T00:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/duokey-swiss-banks-lead-ml-kem.png"
   },
   {
    "id": "33e76da372b0d7a7",
