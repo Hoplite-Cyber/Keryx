@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T15:26:36Z",
- "count": 987,
+ "generated_at": "2026-11-13T21:32:03Z",
+ "count": 992,
  "sources": [
   {
    "name": "ANSSI",
@@ -168,14 +168,13 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
-   "ok": true,
-   "fetched": 7,
-   "kept": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   {
    "name": "InCyber",
@@ -258,7 +257,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 47
+   "kept": 48
   },
   {
    "name": "IonQ",
@@ -279,13 +278,13 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 37,
+   "fetched": 39,
    "kept": 1
   },
   {
@@ -320,8 +319,8 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 602,
-   "kept": 4
+   "fetched": 603,
+   "kept": 5
   },
   {
    "name": "Filippo Valsorda",
@@ -357,7 +356,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T15:26:36Z",
+   "date": "2026-11-13T21:32:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +370,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-13T15:26:36Z",
+   "date": "2026-11-13T21:32:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +386,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-13T15:26:36Z",
+   "date": "2026-11-13T21:32:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +401,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T15:26:36Z",
+   "date": "2026-11-13T21:32:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +416,69 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T15:26:36Z",
+   "date": "2026-11-13T21:32:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "3977054ad9393208",
+   "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+   "url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+   "summary": "Insider Brief PRESS RELEASE — Atom Computing, a leader in scalable neutral-atom quantum computing, today announced it has signed an agreement for up to $100 million with the U.S. Department of Commerce to accelerate research and development of fault-tolerant, utility-scale quantum computers. The award follows a Letter of Intent announced earlier…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-13T18:36:11Z",
+   "first_seen": "2026-11-13T21:32:03Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Atom-Computing-in-Quantum-Waves-1.png"
+  },
+  {
+   "id": "f73cd3efe76c29df",
+   "title": "Quantinuum Recognized as a “Market Shaper” by Gartner",
+   "url": "https://www.quantinuum.com/blog/quantinuum-recognized-as-a-market-shaper-by-gartner",
+   "summary": "Quantinuum has been recognized as a “Market Shaper” in Gartner’s first Emerging Market Quadrant for Quantum Computing - Established Vendors. According to Gartner, Market Shapers combine a high potential to transform the market with strong execution capabilities.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-13T18:33:05Z",
+   "first_seen": "2026-11-13T21:32:03Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af752abe36bfc54fcb5799c_Quantinuum-Gartner-Media-Preview.png"
+  },
+  {
+   "id": "787a243b69ed04c9",
+   "title": "Entanglement-based QKD network links four cities in Slovakia with real-time keys",
+   "url": "https://quantumzeitgeist.com/etsi-entanglement-qkd-network-based-links/",
+   "summary": "Quantum key distribution (QKD) generates shared secret keys secured by the laws of physics, and a four-city entanglement-based QKD network with real-time key delivery has been deployed in western Slovakia over telecommunication fiber. Polarization-entangled photons connect the cities, forming a trusted-node-free sub-network, with rates of 13.5…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T16:37:00Z",
+   "first_seen": "2026-11-13T21:32:03Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/entanglement-based-qkd-network-links-four-cities-in.jpg"
+  },
+  {
+   "id": "0bdece6e63a6b0ff",
+   "title": "Barcelona test shows 18.9km quantum key exchange over a city",
+   "url": "https://quantumzeitgeist.com/icfo-ciencies-barcelona-quantum-key-exchange/",
+   "summary": "Researchers achieved 18.9km quantum key distribution over a dense urban area, a significant step for secure communication in cities like Barcelona.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-13T15:43:53Z",
+   "first_seen": "2026-11-13T21:32:03Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/barcelona-test-189km-quantum-key-exchange.png"
   },
   {
    "id": "ade27f6547802807",
@@ -777,6 +836,20 @@
    ],
    "date": "2026-11-13T05:00:00Z",
    "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "603d16484f858f15",
+   "title": "Post-Quantum Authentication: Lessons from Prague",
+   "url": "http://www.ietf.org/blog/iab-pq-workshop-impressions/",
+   "summary": "In October, the Internet Architecture Board (IAB) held a two-day workshop in Prague with people who are deploying post-quantum authentication. These are the first impressions from the co-chairs, ahead of the full workshop report.",
+   "source": "IETF – blog",
+   "category": "Officiel",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-12T23:16:00Z",
+   "first_seen": "2026-11-13T21:32:03Z"
   },
   {
    "id": "7068a3410013419c",
