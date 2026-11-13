@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T00:30:39Z",
- "count": 960,
+ "generated_at": "2026-11-13T07:07:49Z",
+ "count": 964,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 12
+   "kept": 15
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "kept": 0
   },
   {
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 30,
+   "fetched": 34,
    "kept": 1
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T00:30:39Z",
+   "date": "2026-11-13T07:07:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-13T00:30:39Z",
+   "date": "2026-11-13T07:07:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-13T00:30:39Z",
+   "date": "2026-11-13T07:07:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T00:30:39Z",
+   "date": "2026-11-13T07:07:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T00:30:39Z",
+   "date": "2026-11-13T07:07:49Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -620,6 +620,20 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_22-00.png"
   },
   {
+   "id": "5ebf4f55f7e40db2",
+   "title": "BMRaccoon: Blind Multi-Signatures from Lattices",
+   "url": "https://eprint.iacr.org/2026/2870",
+   "summary": "Blind multi-signatures (BMS) allow a user to obtain a compact signature on a hidden message through the joint participation of multiple signers, providing a basis for decentralized issuance of anonymous tokens.We present BMRaccoon, the first lattice-based post-quantum BMS construction, with a two-round signing protocol secure under concurrent…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-11T16:20:05Z",
+   "first_seen": "2026-11-13T07:07:49Z"
+  },
+  {
    "id": "db2bca9751591601",
    "title": "Zhengyuan Quantum Raises Angel Funding For 1,000-Qubit Computer",
    "url": "https://thequantuminsider.com/2026/11/11/zhengyuan-quantum-raises-angel-funding-for-1000-qubit-computer/",
@@ -707,6 +721,20 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-11_16-55.png"
   },
   {
+   "id": "28323db1174b61a2",
+   "title": "HIT: Single-Pass Inference for Single-Trace NTT Side-Channel Attacks",
+   "url": "https://eprint.iacr.org/2026/2865",
+   "summary": "In physical implementations of the post-quantum standards ML-KEM and ML-DSA, the Number-Theoretic Transform (NTT) directly processes secret polynomials and is a primary target for single-trace side-channel key recovery. Existing Soft Analytical Side-Channel Attacks (SASCA) apply loopy Belief Propagation (BP) over cyclic $\\mathbb{Z}_q$ factor…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-11T10:23:19Z",
+   "first_seen": "2026-11-13T07:07:49Z"
+  },
+  {
    "id": "fba98072c87b26a6",
    "title": "Guest Post: Quantum-Resistant Wallets Could Support Institutional Blockchain Adoption",
    "url": "https://thequantuminsider.com/2026/11/11/quantum-resistant-wallets-wall-street-capital-on-chain/",
@@ -783,6 +811,20 @@
    "date": "2026-11-11T09:16:04Z",
    "first_seen": "2026-11-12T03:24:48Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/qkd-supplements-encryptor-key-establishment-corridors-scaled.png"
+  },
+  {
+   "id": "0df7490270f2bcaa",
+   "title": "Tightly Secure and Modular Post-Quantum TLS Handshakes",
+   "url": "https://eprint.iacr.org/2026/2864",
+   "summary": "In the post-quantum (PQ) migration of the TLS~1.3 handshake, the classical Diffie--Hellman key exchange is replaced with a post-quantum key encapsulation mechanism (KEM). Furthermore, KEMTLS builds upon PQ TLS~1.3 by replacing signature-based authentication with KEM-based authentication. However, all existing analyses of PQ TLS~1.3 and KEMTLS…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-11T07:25:19Z",
+   "first_seen": "2026-11-13T07:07:49Z"
   },
   {
    "id": "1b70a31977c73b12",
@@ -914,6 +956,22 @@
    "date": "2026-11-10T13:01:26Z",
    "first_seen": "2026-11-10T15:37:51Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_22-40-1.png"
+  },
+  {
+   "id": "5e54d58f30a61597",
+   "title": "A Single-Trace Side-Channel Attack on the KpqC Digital Signature Scheme AIMer v3",
+   "url": "https://eprint.iacr.org/2026/2859",
+   "summary": "The Korean Post-Quantum Cryptography (KpqC) competition selected AIMer, a post-quantum digital signature scheme based on the MPC-in-the-Head paradigm, as one of its final algorithms in 2025. However, detailed side-channel analysis (SCA) of AIMer remains limited, particularly for its latest version, AIMer v3. In this paper, we present, to the best…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-10T12:51:41Z",
+   "first_seen": "2026-11-13T07:07:49Z"
   },
   {
    "id": "3e12a75216877618",
