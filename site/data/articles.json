@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T19:10:25Z",
- "count": 959,
+ "generated_at": "2026-11-13T00:30:39Z",
+ "count": 960,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 13
+   "kept": 12
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T19:10:25Z",
+   "date": "2026-11-13T00:30:39Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-12T19:10:25Z",
+   "date": "2026-11-13T00:30:39Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-12T19:10:25Z",
+   "date": "2026-11-13T00:30:39Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T19:10:25Z",
+   "date": "2026-11-13T00:30:39Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-12T19:10:25Z",
+   "date": "2026-11-13T00:30:39Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "7068a3410013419c",
+   "title": "IonQ Inc Team Separates Public Encryption from Hard Problems",
+   "url": "https://quantumzeitgeist.com/quantum-encryption-separation-of-public-key-problems/",
+   "summary": "Can public key encryption truly exist without relying on computationally hard problems like one-way functions? New results demonstrate it can, at least under specific conditions, separating quantum public key encryption (qPKE) from the need for quantum one-way functions (qOWFs). This mirrors familiar cryptographic designs but achieves security…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-12T21:00:00Z",
+   "first_seen": "2026-11-13T00:30:39Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/ionq-inc-team-separates-public-encryption-from-hard-problems.jpeg"
   },
   {
    "id": "1a93280e9e67d8d1",
