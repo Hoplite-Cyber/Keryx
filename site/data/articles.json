@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T21:32:03Z",
- "count": 992,
+ "generated_at": "2026-11-14T01:40:13Z",
+ "count": 993,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 13
+   "kept": 14
   },
   {
    "name": "arXiv quant-ph",
@@ -173,8 +173,9 @@
   {
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "fetched": 8,
+   "kept": 0
   },
   {
    "name": "InCyber",
@@ -356,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T21:32:03Z",
+   "date": "2026-11-14T01:40:13Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -370,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-13T21:32:03Z",
+   "date": "2026-11-14T01:40:13Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -386,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-13T21:32:03Z",
+   "date": "2026-11-14T01:40:13Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -401,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T21:32:03Z",
+   "date": "2026-11-14T01:40:13Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -416,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-13T21:32:03Z",
+   "date": "2026-11-14T01:40:13Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -9142,6 +9143,21 @@
    "date": "2026-10-02T16:35:30Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6abad326312b743e6752c627_QWC-Perspectives-Blog-Media-Preview.png"
+  },
+  {
+   "id": "fdc15e87db33eccd",
+   "title": "ECLIPSE: Strongly Unforgeable Isogeny Signatures from the Prime-Degree Variant of PRISM",
+   "url": "https://eprint.iacr.org/2026/2312",
+   "summary": "ECLIPSE is the prime-degree signature construction the PRISM authors describe beside their salted scheme, with that salt, implemented. It exists because a two-dimensional isogeny signature carries an auxiliary isogeny the hash does not bind: the SQIsign round-3 specification says SQIsign cannot be strongly unforgeable for that reason, and PRISM's…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-10-02T16:32:53Z",
+   "first_seen": "2026-11-14T01:40:13Z"
   },
   {
    "id": "f8c9fd48096b6c61",
