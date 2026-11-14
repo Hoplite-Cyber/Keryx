@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T19:51:17Z",
+ "generated_at": "2026-11-14T23:26:07Z",
  "count": 995,
  "sources": [
   {
@@ -215,8 +215,9 @@
   {
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "fetched": 4,
+   "kept": 0
   },
   {
    "name": "Wavestone RiskInsight",
@@ -357,7 +358,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-14T19:51:17Z",
+   "date": "2026-11-14T23:26:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +372,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-14T19:51:17Z",
+   "date": "2026-11-14T23:26:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +388,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-14T19:51:17Z",
+   "date": "2026-11-14T23:26:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +403,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-14T19:51:17Z",
+   "date": "2026-11-14T23:26:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +418,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-14T19:51:17Z",
+   "date": "2026-11-14T23:26:07Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
