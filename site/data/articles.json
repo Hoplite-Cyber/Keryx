@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T14:57:59Z",
- "count": 993,
+ "generated_at": "2026-11-14T19:51:17Z",
+ "count": 995,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 14
+   "kept": 16
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-14T14:57:59Z",
+   "date": "2026-11-14T19:51:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-14T14:57:59Z",
+   "date": "2026-11-14T19:51:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-14T14:57:59Z",
+   "date": "2026-11-14T19:51:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-14T14:57:59Z",
+   "date": "2026-11-14T19:51:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-14T14:57:59Z",
+   "date": "2026-11-14T19:51:17Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -989,6 +989,20 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-xchanges-phio-tx-gains-eu-scaled.jpeg"
   },
   {
+   "id": "c2410c33c8267cc7",
+   "title": "Toward Efficient Post-Quantum Bitcoin Bridges",
+   "url": "https://eprint.iacr.org/2026/2877",
+   "summary": "BitVM-style protocols verify succinct proofs on Bitcoin by garbling a proof verifier off-chain. What reaches the chain in a dispute is the proof itself: its bits under one-time keys, the scripts that authenticate them and the signatures that bind them to transactions. Existing designs garble elliptic-curve SNARK verifiers, which a quantum…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-12T11:55:38Z",
+   "first_seen": "2026-11-14T19:51:17Z"
+  },
+  {
    "id": "78ab783ac5ed4a98",
    "title": "Qunova’s Hybrid Computing Method Matches Classical Benchmark for Iron-Sulfur Cluster",
    "url": "https://thequantuminsider.com/2026/11/12/qunovas-hybrid-computing-method-matches-classical-benchmark-for-iron-sulfur-cluster/",
@@ -1002,6 +1016,20 @@
    "date": "2026-11-12T10:02:05Z",
    "first_seen": "2026-11-12T11:44:09Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-4.50.19-AM.png"
+  },
+  {
+   "id": "0da787584b58eabe",
+   "title": "Optimized Solving Strategy and Two-Step Estimator for LWE with Hints",
+   "url": "https://eprint.iacr.org/2026/2873",
+   "summary": "Side-channel hints can reduce the cost of solving the Learning with Errors (LWE) problem. We optimize a two-step strategy for LWE with hints that uses BKZ reduction followed by final lattice sieving. Given a lattice constructed from the hints and a specified pair of reduction and sieving algorithms, the strategy jointly selects BKZ block sizes…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-12T08:39:49Z",
+   "first_seen": "2026-11-14T19:51:17Z"
   },
   {
    "id": "2c9199f1dbc0ba8f",
