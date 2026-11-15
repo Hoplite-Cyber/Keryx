@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T10:39:37Z",
- "count": 995,
+ "generated_at": "2026-11-15T17:26:19Z",
+ "count": 996,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 15
+   "kept": 14
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-15T10:39:37Z",
+   "date": "2026-11-15T17:26:19Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-15T10:39:37Z",
+   "date": "2026-11-15T17:26:19Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-15T10:39:37Z",
+   "date": "2026-11-15T17:26:19Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-15T10:39:37Z",
+   "date": "2026-11-15T17:26:19Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-15T10:39:37Z",
+   "date": "2026-11-15T17:26:19Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "0245040eef98a3ab",
+   "title": "1D Gaussian modulation simplifies CV-QKD complexity",
+   "url": "https://quantumzeitgeist.com/quantum-industrial-1d-gaussian-modulation-simplifies/",
+   "summary": "This research experimentally demonstrates a 1D Gaussian-modulated CV-QKD system over 12 km of standard single-mode fiber using a local oscillator architecture with independent lasers and integrated classical post-processing. These results establish an experimental baseline for the performance–complexity trade-off associated with unidimensional…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-15T10:39:58Z",
+   "first_seen": "2026-11-15T17:26:19Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/1d-gaussian-modulation-simplifies-cv-qkd.png"
   },
   {
    "id": "3977054ad9393208",
