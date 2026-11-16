@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T08:37:25Z",
- "count": 1001,
+ "generated_at": "2026-11-16T18:56:58Z",
+ "count": 1022,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 13
+   "kept": 14
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 3
+   "kept": 8
   },
   {
    "name": "ETSI – actualités",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 1
+   "kept": 3
   },
   {
    "name": "The Hacker News",
@@ -244,14 +244,14 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 30,
-   "kept": 2
+   "kept": 3
   },
   {
    "name": "IBM Research",
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 6
+   "kept": 8
   },
   {
    "name": "Quantinuum",
@@ -272,7 +272,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 10,
-   "kept": 9
+   "kept": 8
   },
   {
    "name": "LeMagIT – quantique",
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 46,
+   "fetched": 47,
    "kept": 1
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T08:37:25Z",
+   "date": "2026-11-16T18:56:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-16T08:37:25Z",
+   "date": "2026-11-16T18:56:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-16T08:37:25Z",
+   "date": "2026-11-16T18:56:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T08:37:25Z",
+   "date": "2026-11-16T18:56:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,271 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T08:37:25Z",
+   "date": "2026-11-16T18:56:58Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "e0c539e86c06ae64",
+   "title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test",
+   "url": "https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/",
+   "summary": "Insider Brief PRESS RELEASE — AQSolotl, a developer of quantum control systems, today announced initial results from integrating NVIDIA NVQLink into its Chronos-Q platform. Tests connecting Chronos-Q with NVIDIA DGX Spark recorded a minimum round-trip latency of 6.94 microseconds across 1,000 requests. Quantum processors rely on classical…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T18:02:01Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_23-00.png"
+  },
+  {
+   "id": "6e4f7c4ef5236593",
+   "title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
+   "url": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
+   "summary": "Insider Brief PRESS RELEASE — Saltgrain, the data-centric security platform for sovereign data, incubated in Scale Academy at NTT Research, the Silicon Valley research arm of NTT, Inc., and the NTT Research Cryptography and Information Security (CIS) Lab today announced that the first practical large-universe post-quantum attribute-based…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-16T17:33:34Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_22-32.png"
+  },
+  {
+   "id": "3b9bb8224c1166da",
+   "title": "IQM Supports NVIDIA’s Work to Make Quantum Computers Schedulable in Slurm",
+   "url": "https://thequantuminsider.com/2026/11/16/iqm-quantum-computers-slurm-integration/",
+   "summary": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, today announced at SC26 in Chicago its support for NVIDIA’s investment in making quantum processing units (QPUs) a schedulable resource in the Slurm workload manager by integrating IQM quantum computers. NVIDIA, which has…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T16:30:50Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_21-30.png"
+  },
+  {
+   "id": "ffb7a999c8b22224",
+   "title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+   "url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+   "summary": "Insider Brief PRESS RELEASE — IBM (NYSE: IBM) today announced plans to collaborate with NVIDIA and Fermi National Accelerator Laboratory (Fermilab) to advance the integration of quantum and classical computing and explore how these technologies can scale together in the modular architectures that will define fault-tolerant quantum computers. The…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T16:24:01Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_21-23.png"
+  },
+  {
+   "id": "21c6c766fca100e8",
+   "title": "Reading superconducting qubits while suppressing unwanted state transitions",
+   "url": "https://phys.org/news/2026-11-superconducting-qubits-suppressing-unwanted-state.html",
+   "summary": "Recently an artificial intelligence proved an 18-year-old conjecture in computer science, called the Aaronson–Ambainis conjecture. The proof settles a long-standing conjecture (educated guess) that eliminates one proposed route to enormous quantum computer speedups, ruling out one particular variant of \"quantum supremacy,\" the term for the…",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T16:20:42Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/reading-superconductin.jpg"
+  },
+  {
+   "id": "88c5d1a126faf13a",
+   "title": "SC26: IBM shows progress in bringing quantum & HPC together",
+   "url": "https://research.ibm.com/blog/sc26?utm_medium=rss&utm_source=rss",
+   "summary": "At SC26 in Chicago, IBM and partners show how quantum computers are integrating into workflows and tools that the supercomputing workforce already runs.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T16:00:00Z",
+   "first_seen": "2026-11-16T18:56:58Z"
+  },
+  {
+   "id": "5a04c7a7d501281c",
+   "title": "IBM, AMD advance quantum error correction decoding at scale",
+   "url": "https://research.ibm.com/blog/pelagos?utm_medium=rss&utm_source=rss",
+   "summary": "New open-source tool from IBM and AMD helps researchers evaluate quantum error-correction decoders at scale for future fault-tolerant quantum systems.",
+   "source": "IBM Research",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T15:59:00Z",
+   "first_seen": "2026-11-16T18:56:58Z"
+  },
+  {
+   "id": "ba0c7339e4a210e6",
+   "title": "Nippon Telegraph and Telephone reports U.S. agencies face 2026 deadline",
+   "url": "https://quantumzeitgeist.com/ntt-research-deadline-nippon-telegraph-telephone/",
+   "summary": "NTT Research developed post-quantum encryption, securing data with role-based access, as U.S. agencies face a June 2026 transition to quantum-safe systems per Executive Order 14412.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-16T15:50:37Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/nippon-telegraph-telephone-us-agencies-face.png"
+  },
+  {
+   "id": "dc81a4e931846d0e",
+   "title": "ExeQuantum partners with Yirigaa for quantum-safe cryptography rollout",
+   "url": "https://quantumzeitgeist.com/exequantum-partnership-cryptography-yirigaa/",
+   "summary": "ExeQuantum & Yirigaa announced a collaboration to rollout post-quantum cryptography solutions to Australian organizations.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-16T15:24:52Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/exequantum-yirigaa-quantum-safe-cryptography-rollout.png"
+  },
+  {
+   "id": "ff5cf57d7be24a7a",
+   "title": "Silicon photonics achieves composable security for quantum key distribution",
+   "url": "https://quantumzeitgeist.com/beijing-posts-silicon-photonics-quantum-key/",
+   "summary": "Researchers achieved composable security in continuous-variable quantum key distribution using a chip-based system leveraging silicon photonics.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-16T14:40:25Z",
+   "first_seen": "2026-11-16T18:56:58Z"
+  },
+  {
+   "id": "962fc6b756b76a7b",
+   "title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
+   "url": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
+   "summary": "Insider Brief PRESS RELEASE — Altera Corporation, the largest pure-play FPGA provider with a full-spectrum portfolio, today announced the development of an end-to-end FPGA-based quantum system controller reference design in collaboration with Oxford Quantum Circuits (OQC) and NVIDIA. Built on an Agilex® 9 Direct RF FPGA, the design runs real-time…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T14:05:00Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/altera-partners-at-sc26-press-release-v2.png"
+  },
+  {
+   "id": "2360d2bc1a47e913",
+   "title": "Liquid C2 and Graphiant Partner on Quantum-Secure Networking in Africa",
+   "url": "https://thequantuminsider.com/2026/11/16/liquid-c2-graphiant-quantum-secure-networking-africa/",
+   "summary": "Insider Brief PRESS RELEASE — Liquid C2, a business of Cassava Technologies, a global technology leader, and Graphiant (https://www.Graphiant.com/), a US-based provider of networking infrastructure built for AI, partnered to strengthen network security offerings through a new Quantum Secure Network-as-a-Service (NaaS). As quantum computing…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-16T13:13:12Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_18-11.png"
+  },
+  {
+   "id": "fcd83e5db8c34073",
+   "title": "Classiq and Ventum Consulting Partner on Enterprise Quantum Computing in Germany",
+   "url": "https://thequantuminsider.com/2026/11/16/classiq-ventum-consulting-enterprise-quantum-computing-germany/",
+   "summary": "Insider Brief PRESS RELEASE — Classiq, a leading quantum computing software company, and Ventum Consulting, a digital transformation consultancy, today announced a partnership to help enterprises in Germany build quantum computing expertise, establish strategies and develop applications aligned with their business priorities. The partnership…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T12:44:27Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_17-43.png"
+  },
+  {
+   "id": "999258d6af33afe0",
+   "title": "Quantum teleportation method uses weaker entanglement to transfer encoded information",
+   "url": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html",
+   "summary": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across groups of physical qubits, which makes teleporting the encoded state without losing information…",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T12:40:01Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-teleport-a.jpg"
+  },
+  {
+   "id": "0a3422728fb01144",
+   "title": "Qatar’s MCIT Partners with SignQuantum on Post-Quantum Cybersecurity",
+   "url": "https://thequantuminsider.com/2026/11/16/qatar-mcit-signquantum-post-quantum-cybersecurity/",
+   "summary": "Insider Brief PRESS RELEASE — The Ministry of Communications and Information Technology of the State of Qatar (MCIT Qatar) signed a collaboration agreement with SignQuantum to strengthen cybersecurity readiness for quantum computing risks. The announcement was made at MWC26 Doha on November 10, 2026. “Qatar’s digital future must be built on trust…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T10:13:21Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-16_15-11.png"
+  },
+  {
+   "id": "d31a05dbd66da6cb",
+   "title": "Qatar and SignQuantum collaborate on quantum-safe cybersecurity",
+   "url": "https://quantumzeitgeist.com/qatar-signquantum-collaboration-collaborate-quantum-safe/",
+   "summary": "Qatar’s Ministry of Communications and Information Technology signed a collaboration agreement with SignQuantum to strengthen cybersecurity readiness for quantum computing risks, announced November 10, 2026, at MWC26 Doha. The collaboration intends to share knowledge and explore use cases for post-quantum cryptography and quantum-resistant digital…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T10:01:59Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/qatar-and-signquantum-collaborate-on-quantum-safe-cybersecurity.jpg"
+  },
+  {
+   "id": "1a46b5f19914455e",
+   "title": "National and Kapodistrian University of Athens achieves Four-User quantum Network",
+   "url": "https://quantumzeitgeist.com/quantum-key-distribution-four-user-full-mesh-network/",
+   "summary": "Until now, building a truly flexible quantum communication network meant choosing between secure entanglement *or* automated key delivery, not both. This work demonstrates the first end-to-end four-user QKD network integrating physical WDM entanglement distribution with dynamic reconfiguration via optical switching and advanced software defined…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-16T10:01:34Z",
+   "first_seen": "2026-11-16T18:56:58Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/national-and-kapodistrian-university-of-athens-achieves-four-user-quantum-networ.png"
   },
   {
    "id": "fa12f74562d3166c",
@@ -511,6 +773,20 @@
    "first_seen": "2026-11-16T08:37:25Z"
   },
   {
+   "id": "f2321b294b68450d",
+   "title": "Extending qubit lifetime beyond break-even and enhancing quantum sensing by autonomous quantum error correction",
+   "url": "https://www.nature.com/articles/s41567-026-03493-z",
+   "summary": "",
+   "source": "Nature – information quantique",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-16T18:56:58Z"
+  },
+  {
    "id": "aecc7ed50d08bc3b",
    "title": "Philippines Manila Team finds quantum eavesdropping detection may not settle after twenty rounds",
    "url": "https://quantumzeitgeist.com/quantum-key-distribution-adaptive-eavesdropping-detection-limit/",
@@ -539,6 +815,21 @@
    "date": "2026-11-15T10:39:58Z",
    "first_seen": "2026-11-15T17:26:19Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/1d-gaussian-modulation-simplifies-cv-qkd.png"
+  },
+  {
+   "id": "e0a4667fb2453dd8",
+   "title": "Byzantine Agreement with Signature Tokens",
+   "url": "https://eprint.iacr.org/2026/2890",
+   "summary": "We investigate the power and limitations of quantum cryptography in distributed consensus protocols. Specifically, we study the fundamental problem of Byzantine Agreement in partial synchrony, in a setting in which each party has access to a finite number $k$ of signature tokens. Classically, this problem is solvable only when less than one-third…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-13T21:29:27Z",
+   "first_seen": "2026-11-16T18:56:58Z"
   },
   {
    "id": "3977054ad9393208",
@@ -631,6 +922,21 @@
    "date": "2026-11-13T14:00:27Z",
    "first_seen": "2026-11-13T15:26:36Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/sealsq-highlights-post-quantum-security-bmo-scaled.png"
+  },
+  {
+   "id": "09fc15d08b48b510",
+   "title": "FALCON-PARE: Full-Range Side-Channel Key Recovery of Falcon via Prior-Enhanced Evidence",
+   "url": "https://eprint.iacr.org/2026/2888",
+   "summary": "Falcon is a compact post-quantum signature scheme selected by the National Institute of Standards and Technology (NIST), and its number-theoretic transform (NTT) computations constitute a critical side-channel attack surface. Existing NTT attacks rely on truncated coefficient ranges and do not cover the full valid range of Falcon secret…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-13T12:40:54Z",
+   "first_seen": "2026-11-16T18:56:58Z"
   },
   {
    "id": "845e30241d1ef325",
@@ -1046,6 +1352,21 @@
    "date": "2026-11-12T16:04:33Z",
    "first_seen": "2026-11-12T19:10:25Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-12_21-03.png"
+  },
+  {
+   "id": "045337b44da9b6f5",
+   "title": "Sum-Checking SmallWood: Smaller Hash-Based Zero-Knowledge Arguments",
+   "url": "https://eprint.iacr.org/2026/2880",
+   "summary": "Hash-based zero-knowledge (ZK) arguments are particularly attractive for their conservative post-quantum security, relying only on cryptographic hash functions. While VOLE-in-the-Head proofs, based on GGM trees, are the most compact for very small witnesses, Merkle-tree-based approaches take over for larger ones. In this regime, the recent…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-12T15:55:49Z",
+   "first_seen": "2026-11-16T18:56:58Z"
   },
   {
    "id": "f180aba7604cebfa",
