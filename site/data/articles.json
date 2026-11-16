@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:00:34Z",
+ "generated_at": "2026-11-16T01:48:16Z",
  "count": 997,
  "sources": [
   {
@@ -105,7 +105,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 170
+   "kept": 169
   },
   {
    "name": "The Quantum Insider",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-15T22:00:34Z",
+   "date": "2026-11-16T01:48:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-15T22:00:34Z",
+   "date": "2026-11-16T01:48:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-15T22:00:34Z",
+   "date": "2026-11-16T01:48:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-15T22:00:34Z",
+   "date": "2026-11-16T01:48:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-15T22:00:34Z",
+   "date": "2026-11-16T01:48:16Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
