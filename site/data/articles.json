@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T01:48:16Z",
- "count": 997,
+ "generated_at": "2026-11-16T08:37:25Z",
+ "count": 1001,
  "sources": [
   {
    "name": "ANSSI",
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 131,
+   "kept": 3
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 44,
+   "kept": 3
   },
   {
    "name": "Cloudflare Blog",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 8,
+   "fetched": 10,
    "kept": 0
   },
   {
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 39,
+   "fetched": 46,
    "kept": 1
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T01:48:16Z",
+   "date": "2026-11-16T08:37:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-16T01:48:16Z",
+   "date": "2026-11-16T08:37:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-16T01:48:16Z",
+   "date": "2026-11-16T08:37:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T01:48:16Z",
+   "date": "2026-11-16T08:37:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,98 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T01:48:16Z",
+   "date": "2026-11-16T08:37:25Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "fa12f74562d3166c",
+   "title": "SoK: Assessing Post-Quantum Cryptography Adoption in Software Development: Standards, Lifecycle Coverage, Deployment Maturity, and Evidence of Readiness",
+   "url": "https://arxiv.org/abs/2611.08442",
+   "summary": "Standardised post-quantum cryptography (PQC) is critical for protecting software systems against future quantum threats, but standardised algorithms alone do not provide a pathway for their secure integration into software. This paper presents a Systematisation of Knowledge (SoK) of PQC integration in software development, synthesising existing…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-16T05:00:00Z",
+   "first_seen": "2026-11-06T11:25:51Z"
+  },
+  {
+   "id": "9a0ea85f412f8940",
+   "title": "They Will See Johnny's Message: A Measurement Study of Post-Quantum Cryptography Across Email Delivery Paths",
+   "url": "https://arxiv.org/abs/2610.36145",
+   "summary": "Harvest-now, decrypt-later (HNDL) attacks make the transition to post-quantum cryptography (PQC) urgent for email. This paper presents a systematic measurement that jointly examines PQC deployment across email service stages, negotiation by communicating peers, and usable message encryption. Endpoint-level support alone does not establish PQC…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-16T05:00:00Z",
+   "first_seen": "2026-10-28T08:43:35Z"
+  },
+  {
+   "id": "e39be361617f70d7",
+   "title": "Digital Coherent Twin-Field Quantum Key Distribution with Gaussian-Modulated Coherent States",
+   "url": "https://arxiv.org/abs/2611.17970",
+   "summary": "Quantum key distribution (QKD) enables information-theoretically secure key sharing between two distant parties. Recently, one promising QKD protocol which can distribute a secret key over long distances called twin-field QKD (TF-QKD) has been developed. However, it requires active compensation for experimental imperfections such as phase…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-16T05:00:00Z",
+   "first_seen": "2026-11-16T08:37:25Z"
+  },
+  {
+   "id": "8f22861981d5af58",
+   "title": "Chip-Based Discrete-Modulated Continuous-Variable Quantum Key Distribution with Uncertainty-Principle-Based Composable Security",
+   "url": "https://arxiv.org/abs/2611.18288",
+   "summary": "Continuous-variable quantum key distribution offers a promising platform for scalable quantum networks through its compatibility with standard telecommunications technology and photonic integration. High-order discrete modulation facilitates practical implementation while approaching the key-rate performance of ideal Gaussian modulation, but its…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-16T05:00:00Z",
+   "first_seen": "2026-11-16T08:37:25Z"
+  },
+  {
+   "id": "f2fb88c33162ee44",
+   "title": "Dual-Pilot-Assisted Frequency and Phase Recovery in Experimental CV-QKD",
+   "url": "https://arxiv.org/abs/2608.07277",
+   "summary": "Continuous-variable quantum key distribution (CV-QKD) offers high secret-key rates and compatibility with optical communication infrastructure. Locally generated local oscillator (LLO) architectures reduce security vulnerabilities associated with transmitting a strong optical reference, but independent lasers introduce frequency offsets and phase…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-16T05:00:00Z",
+   "first_seen": "2026-11-16T08:37:25Z"
+  },
+  {
+   "id": "530e3d58efeca8c5",
+   "title": "Information-Theoretic Threshold Designated-Verifier Digital Signatures for Resource-Constrained Devices",
+   "url": "https://arxiv.org/abs/2611.18355",
+   "summary": "Digital signatures are synonymous with data integrity and authenticity. Among applications such as e-commerce, software distribution, and instruction processing they play a vital role in the secure communication of data. Within this context and in preparation for quantum adversarial tactics we present three new information-theoretic threshold…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-16T05:00:00Z",
+   "first_seen": "2026-11-16T08:37:25Z"
   },
   {
    "id": "aecc7ed50d08bc3b",
@@ -2719,23 +2808,6 @@
    "lang": "en",
    "themes": [
     "PQC"
-   ],
-   "date": "2026-11-06T05:00:00Z",
-   "first_seen": "2026-11-06T11:25:51Z"
-  },
-  {
-   "id": "fa12f74562d3166c",
-   "title": "SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions",
-   "url": "https://arxiv.org/abs/2611.08442",
-   "summary": "Standardised post-quantum cryptography (PQC) is critical for protecting software systems against future quantum threats, but standardised algorithms alone do not provide a pathway for their secure integration into software. This paper presents a Systematisation of Knowledge (SoK) of PQC integration in software development, synthesising existing…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC",
-    "Menace quantique",
-    "QKD",
-    "Normes & politiques"
    ],
    "date": "2026-11-06T05:00:00Z",
    "first_seen": "2026-11-06T11:25:51Z"
@@ -5242,22 +5314,6 @@
    ],
    "date": "2026-10-28T04:00:00Z",
    "first_seen": "2026-10-23T14:52:42Z"
-  },
-  {
-   "id": "9a0ea85f412f8940",
-   "title": "They Will See Johnny's Message: A Measurement Study of Post-Quantum Cryptography Across Email Delivery Paths",
-   "url": "https://arxiv.org/abs/2610.36145",
-   "summary": "Harvest-now, decrypt-later (HNDL) attacks make the transition to post-quantum cryptography (PQC) urgent for email. This paper presents a systematic measurement that jointly examines PQC deployment across email service stages, negotiation by communicating peers, and usable message encryption. Endpoint-level support alone does not establish PQC…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC",
-    "QKD",
-    "Menace quantique"
-   ],
-   "date": "2026-10-28T04:00:00Z",
-   "first_seen": "2026-10-28T08:43:35Z"
   },
   {
    "id": "679b907b61851c59",
