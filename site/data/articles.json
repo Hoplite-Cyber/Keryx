@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T18:56:58Z",
- "count": 1022,
+ "generated_at": "2026-11-17T02:25:08Z",
+ "count": 1025,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 14
+   "kept": 15
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 8
+   "kept": 7
   },
   {
    "name": "ETSI – actualités",
@@ -249,9 +249,8 @@
   {
    "name": "IBM Research",
    "category": "Industrie",
-   "ok": true,
-   "fetched": 20,
-   "kept": 8
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
   },
   {
    "name": "Quantinuum",
@@ -357,7 +356,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T18:56:58Z",
+   "date": "2026-11-17T02:25:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +370,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-16T18:56:58Z",
+   "date": "2026-11-17T02:25:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +386,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-16T18:56:58Z",
+   "date": "2026-11-17T02:25:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +401,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T18:56:58Z",
+   "date": "2026-11-17T02:25:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +416,56 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-16T18:56:58Z",
+   "date": "2026-11-17T02:25:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "8fd8349fb2d6f891",
+   "title": "Splendor Labs launches wallet, eyes global quantum security market",
+   "url": "https://quantumzeitgeist.com/splendor-labs-quantum-wallet-eyes-security/",
+   "summary": "Splendor Labs SA today announced the official launch of Splendor Quantum Wallet for Google Chrome, completing a major milestone in the company’s development of operational post-quantum infrastructure. The release sets the stage for delivering quantum-resistant security solutions to financial institutions, global technology companies, enterprises…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-16T21:55:27Z",
+   "first_seen": "2026-11-17T02:25:08Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/splendor-labs-wallet-eyes-quantum-security-scaled.jpeg"
+  },
+  {
+   "id": "d3cc06de7b5133df",
+   "title": "From Theory to Practice: Quantinuum’s First InQuanto Summer School",
+   "url": "https://www.quantinuum.com/blog/from-theory-to-practice-quantinuums-first-inquanto-summer-school",
+   "summary": "Quantinuum’s first InQuanto Summer School, supported by the UK’s National Quantum Computing Centre (NQCC), combined lectures, hands-on workshops, and mini-projects to help participants connect fundamental concepts with practical research. By the end of the week, participants were applying those ideas to problems ranging from molecular electronic…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-16T20:51:47Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6abeba64578aa23a2d448c60_InQuanto-Media-Preview.png"
+  },
+  {
+   "id": "0b440a2510552022",
+   "title": "Crypto agility scores could improve with clearer measurement standards, a study finds",
+   "url": "https://quantumzeitgeist.com/crypto-agility-maturity-models-measurement-standards-improve/",
+   "summary": "Until now, a comparative evaluation of leading cryptographic agility frameworks remained absent, leaving organizations to adopt potentially flawed roadmaps for complex transitions like post-quantum cryptography. This research delivers precisely that comparison, assessing three industry models alongside an existing one and revealing systematic…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-16T19:13:17Z",
+   "first_seen": "2026-11-17T02:25:08Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/crypto-agility-scores-could-improve-with-clearer-measurement-standards-a-study-f-scaled.jpeg"
   },
   {
    "id": "e0c539e86c06ae64",
@@ -9281,21 +9327,6 @@
    "image": "https://postquantum.com/wp-content/uploads/2026/10/google-modular-error-correction-1170x744.jpg"
   },
   {
-   "id": "d3cc06de7b5133df",
-   "title": "From Theory to Practice: Quantinuum’s First InQuanto Summer School",
-   "url": "https://www.quantinuum.com/blog/from-theory-to-practice-quantinuums-first-inquanto-summer-school",
-   "summary": "Quantinuum’s first InQuanto Summer School, supported by the UK’s National Quantum Computing Centre (NQCC), combined lectures, hands-on workshops, and mini-projects to help participants connect fundamental concepts with practical research. By the end of the week, participants were applying those ideas to problems ranging from molecular electronic…",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-10-06T17:41:54Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6abeba64578aa23a2d448c60_InQuanto-Media-Preview.png"
-  },
-  {
    "id": "140933621e8d8cc7",
    "title": "Ericsson, Singtel and partners test quantum-safe networks in Singapore",
    "url": "https://quantumzeitgeist.com/ericsson-singtel-partnership-test-quantum-safe/",
@@ -14456,6 +14487,21 @@
    ],
    "date": "2025-12-02T00:00:00Z",
    "first_seen": "2026-10-20T12:52:48Z"
+  },
+  {
+   "id": "74a92464a6c43d4a",
+   "title": "One Fell Swoop: A Single-Trace Key-Recovery Attack on the Falcon Signing Algorithm",
+   "url": "https://eprint.iacr.org/2025/2159",
+   "summary": "Falcon, a lattice-based signature scheme selected for NIST post-quantum standardization, is notable for its compact signature size alongside a complex signing procedure involving extensive floating-point arithmetic. Prior side-channel attacks on Falcon signing, while demonstrating vulnerabilities, have consistently required a large number of power…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2025-11-27T15:23:49Z",
+   "first_seen": "2026-11-17T02:25:08Z"
   },
   {
    "id": "9a731ddec4f67dee",
