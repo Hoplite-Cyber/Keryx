@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T02:25:08Z",
- "count": 1025,
+ "generated_at": "2026-11-17T11:02:08Z",
+ "count": 1048,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 15
+   "kept": 14
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 131,
-   "kept": 3
+   "fetched": 263,
+   "kept": 9
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 44,
-   "kept": 3
+   "fetched": 116,
+   "kept": 8
   },
   {
    "name": "Cloudflare Blog",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 7
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -161,7 +161,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 50,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "LeMagIT",
@@ -249,8 +249,9 @@
   {
    "name": "IBM Research",
    "category": "Industrie",
-   "ok": false,
-   "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+   "ok": true,
+   "fetched": 20,
+   "kept": 8
   },
   {
    "name": "Quantinuum",
@@ -292,7 +293,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Post-Quantum.com",
@@ -356,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-17T02:25:08Z",
+   "date": "2026-11-17T11:02:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -370,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-17T02:25:08Z",
+   "date": "2026-11-17T11:02:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -386,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-17T02:25:08Z",
+   "date": "2026-11-17T11:02:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -401,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-17T02:25:08Z",
+   "date": "2026-11-17T11:02:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -416,9 +417,384 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-17T02:25:08Z",
+   "date": "2026-11-17T11:02:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "518cc84deecf37ff",
+   "title": "Falcon Systems Launches Falcon 5000 Series for Quantum Secure Networks",
+   "url": "https://thequantuminsider.com/2026/11/17/falcon-systems-launches-falcon-5000-series-quantum-secure-networks/",
+   "summary": "Insider Brief PRESS RELEASE — Falcon Systems, the Netherlands-based leader building the infrastructure for Quantum Secure Networks (QSN), announces the launch of the Falcon® 5000 Series, the next generation of its proven Measurement-Device-Independent Quantum Key Distribution (MDI-QKD) portfolio. The new Series combines secure-by-design…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-17T10:07:23Z",
+   "first_seen": "2026-11-17T11:02:08Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-17_15-05.png"
+  },
+  {
+   "id": "970cf2cebcace4b1",
+   "title": "Qluster lève 4,7 millions € pour un ordinateur quantique photonique",
+   "url": "https://www.silicon.fr/business-1367/qluster-leve-47-millions-e-pour-un-ordinateur-quantique-photonique-230429",
+   "summary": "Qluster mise sur la photonique à variables continues et vise un calculateur intermédiaire en 2032, puis un ordinateur universel tolérant aux fautes en 2036. The post Qluster lève 4,7 millions € pour un ordinateur quantique photonique appeared first on Silicon.fr .",
+   "source": "Silicon.fr",
+   "category": "Actualité cyber",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-17T10:01:49Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "8de4dcd0505a4c74",
+   "title": "NIST warns quantum computers threaten encryption, security teams prepare now",
+   "url": "https://quantumzeitgeist.com/nist-partnership-quantum-warns-computers-encryption/",
+   "summary": "Current encryption faces a threat from quantum computers, prompting a move to post-quantum cryptography.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-17T09:31:00Z",
+   "first_seen": "2026-11-17T11:02:08Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/nist-warns-quantum-computers-threaten-encryption.png"
+  },
+  {
+   "id": "cc0aff915f211c83",
+   "title": "Digital QKD protocol bypasses complex hardware using coherent states",
+   "url": "https://quantumzeitgeist.com/technical-denmark-digital-qkd-protocol-bypasses/",
+   "summary": "Researchers detail a new Twin-Field Quantum Key Distribution (TF-QKD) approach, using coherent states & digital signal processing.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T09:02:12Z",
+   "first_seen": "2026-11-17T11:02:08Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/digital-qkd-protocol-bypasses-complex-hardware.png"
+  },
+  {
+   "id": "af3a9e7aa09efdd7",
+   "title": "NEC and IBM Japan link quantum keys with post-quantum security",
+   "url": "https://quantumzeitgeist.com/quantum-keys-post-security-nec-japan/",
+   "summary": "NEC and IBM Japan demonstrated Japan’s first hybrid communication using quantum key distribution (QKD) and post-quantum cryptography, including ML-KEM-768.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T09:01:30Z",
+   "first_seen": "2026-11-17T11:02:08Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/nec-and-ibm-japan-link-quantum-keys-with.png"
+  },
+  {
+   "id": "4c9db16ee820b9f4",
+   "title": "IonQ and Idemia validate quantum key distribution for networks",
+   "url": "https://quantumzeitgeist.com/quantum-key-distribution-ionq-idemia-validate/",
+   "summary": "IDEMIA Secure Transactions and IonQ validate Quantum Key Distribution interoperability for critical communications. This milestone showcases how organizations can combine Hardware Security Modules, Post-Quantum Cryptography and Quantum Key Distribution to build quantum-safe cybersecurity architectures for financial services, telecommunications and…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T09:00:53Z",
+   "first_seen": "2026-11-17T11:02:08Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/ionq-and-idemia-validate-quantum-key-distribution-for.jpg"
+  },
+  {
+   "id": "11f2b8c0220e8277",
+   "title": "NEC and IBM Japan Demonstrate Integrated QKD and PQC Communications",
+   "url": "https://thequantuminsider.com/2026/11/17/nec-ibm-japan-integrated-qkd-pqc-communications/",
+   "summary": "Insider Brief PRESS RELEASE — NEC Corporation (“NEC“) and IBM Japan, Ltd. (“IBM Japan”) announced that they successfully completed Japan’s first demonstration of a hybrid quantum-safe communication technology combining quantum key distribution (QKD) and post-quantum cryptography (PQC). Specifically, NEC‘s QKD equipment was connected to a…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T08:44:11Z",
+   "first_seen": "2026-11-17T11:02:08Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-17_13-42.png"
+  },
+  {
+   "id": "78197a63810d48ad",
+   "title": "Cancer du poumon : cette IA quantique atteint 91,9 % de prédictions correctes avec seulement 108 exemples",
+   "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-cancer-poumon-cette-ia-quantique-atteint-919-predictions-correctes-seulement-108-exemples-139355/#xtor%3DRSS-8",
+   "summary": "L'informatique quantique pourrait, à terme, aider à identifier les personnes présentant un risque de cancer du poumon à partir d'un nombre limité d'informations médicales. C'est ce que suggère une étude américaine ayant comparé plusieurs méthodes d'intelligence artificielle quantique.",
+   "source": "Futura Sciences",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-17T08:05:59Z",
+   "first_seen": "2026-11-17T11:02:08Z",
+   "image": "https://cdn8.futura-sciences.com/buildsv6/images/wide1920/4/5/3/453378f866_50263352_quantique-cancer-poumonjpg.jpg"
+  },
+  {
+   "id": "530e3d58efeca8c5",
+   "title": "Information-Theoretic Threshold Designated-Verifier Digital Signatures for Resource-Constrained Devices",
+   "url": "https://arxiv.org/abs/2611.18355",
+   "summary": "Digital signatures are synonymous with data integrity and authenticity. Among applications such as e-commerce, software distribution, and instruction processing they play a vital role in the secure communication of data. Within this context and in preparation for quantum adversarial tactics we present three new information-theoretic threshold…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-16T08:37:25Z"
+  },
+  {
+   "id": "e94dfd486f708b6f",
+   "title": "No Convergence in Learned Eavesdropping-Detection Dynamics for BB84 Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2611.16372",
+   "summary": "In prior work we showed that a reinforcement-learning eavesdropper can intercept BB84 quantum key distribution while holding the quantum bit error rate below the abort threshold and keeping a usable distillable key. In this paper we ask whether an equally adaptive learning detector can close this stealth window. We cast the interaction as an…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-13T15:26:36Z"
+  },
+  {
+   "id": "f5e40bda93b0101e",
+   "title": "Study of Randomness in Quantum Random Number Generator using Bayesian Neural Networks",
+   "url": "https://arxiv.org/abs/2611.19334",
+   "summary": "We propose a Bayesian neural network (BNN) framework to quantify the intrinsic (aleatoric) uncertainty in a continuous-variable quantum random number generator (CV-QRNG). This provides a direct data-driven measure of the QRNG's randomness generation. The BNN is trained on raw homodyne voltage time-series data from a fiber-coupled…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "b41211a4c229edbf",
+   "title": "Record-proof optical communication enabled by a quantum receiver with lossless optical decryption",
+   "url": "https://arxiv.org/abs/2611.19851",
+   "summary": "We propose record-proof physical-layer encryption (PLE) based on quantum-optimal reception. Unlike conventional symmetric-key encryption algorithms, the proposed scheme prevents decryption of recorded signals even if the secret key is disclosed after transmission. Existing PLE schemes rely on practical limitations of the eavesdropper's receiver in…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "ae3adeda449ffa63",
+   "title": "Phase-conjugate Gaussian encoding for continuous-variable quantum key distribution with a single phase-sensitive amplifier",
+   "url": "https://arxiv.org/abs/2611.20391",
+   "summary": "Phase-conjugate encoding is naturally compatible with shared phase-sensitive amplification and joint detection, offering a compact optical receiver architecture for continuous-variable quantum key distribution (CVQKD). Here, we develop a unified encoding and security framework for two-mode Gaussian CVQKD with tunable phase-conjugate intermode…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "ebadc851f46088a6",
+   "title": "Metrological Channels Induced by Encrypted Quantum Cloning: Optimal-Probe Fisher-Information Broadcasting and Single-Use Operational Recovery",
+   "url": "https://arxiv.org/abs/2611.20945",
+   "summary": "Encrypted quantum cloning creates multiple individually inaccessible signal systems from which an unknown input state can be recovered by combining any selected signal with a shared quantum key. Here we study parameter estimation when a local sensing transformation is applied after encrypted cloning and before decryption. For the two-clone qubit…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "8683b61d43515b4e",
+   "title": "Relaxing the i.i.d. state preparation assumption with the block QKD protocol",
+   "url": "https://arxiv.org/abs/2611.21048",
+   "summary": "In this work, we propose a novel approach to handling the independent and identically distributed assumption for the state preparation in prepare-and measure QKD protocols. Contrary to previous approaches, we do not prove the security using sub-protocols, and instead opt to guarantee security in the presence of correlations by dividing the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "a1056851dade0136",
+   "title": "Reinforcement Learning designs Quantum Repeater Protocols on Networks beyond the Chain Scenario",
+   "url": "https://arxiv.org/abs/2611.21414",
+   "summary": "Small-scale quantum repeater protocols have been shown to distribute entanglement over existing telecommunication infrastructure by means of short range quantum communications and long range classical messages. For larger networks, there are a number of theoretical proposals about how to operate the network to achieve a good performance under…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "1997e0fd9986303f",
+   "title": "Rethinking Entropic Uncertainty: How measuring without a trace leads to longer keys",
+   "url": "https://arxiv.org/abs/2611.21417",
+   "summary": "In recent years, the entropic uncertainty relation (EUR) has been one of the most prominent tools to obtain tight key rates secure against general coherent attacks for a broad class of quantum key distribution (QKD) protocols. Despite its success, the fundamental question of how to incorporate the statistics of more than two mutually unbiased…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "21ef2e7c7ae6220c",
+   "title": "Classifying Informative Subsets in Qudit Encrypted Cloning via Congruence Systems",
+   "url": "https://arxiv.org/abs/2605.11642",
+   "summary": "Encrypted cloning offers a means of introducing redundancy into quantum storage while respecting the no-cloning theorem: an unknown state is encoded into multiple signal-noise pairs, and only authorized subsets can recover the original information. However, the leakage properties of unauthorized subsets, particularly for higher-dimensional systems…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "351faa2a8bb6caff",
+   "title": "Encrypted Cloning, Absolute Maximal Entanglement and Quantum Secret Sharing",
+   "url": "https://arxiv.org/abs/2605.26866",
+   "summary": "The no-cloning theorem prohibits the creation of identical copies of quantum information, imposing fundamental constraints on quantum technologies. A recently proposed protocol, encrypted cloning, introduced by Yamaguchi and Kempf, showed that perfect qubit clones can be produced if they are simultaneously encrypted with a single-use key. They…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "79b2cfbd08ec2d2a",
+   "title": "Baryonic Keys and the Inheritance of Crypto-Assets: Revisiting the Tales From the Crypt Protocol",
+   "url": "https://arxiv.org/abs/2611.20782",
+   "summary": "The inheritance of crypto-assets faces a structural obstacle: ownership is the knowledge of a key, so the key either disappears with its owner or has to be shared beforehand. The Tales From the Crypt Protocol (TFCP) addressed one part of the problem, the distributed and privacy-preserving acknowledgment of a death by a blockchain. We revisit it…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "f61caab95a82c278",
+   "title": "PQC Migration: End-to-End Performance Profiling of Post Quantum Cryptographic Algorithms in mTLS",
+   "url": "https://arxiv.org/abs/2611.21206",
+   "summary": "Emerging quantum computers threaten to break the classical key exchange algorithms. To safeguard against these threats, migration to new quantum-safe algorithms is underway and expected to be expedited. Though resistant to attacks, the quantum safe algorithms may impact the real-world performance due to their large key lengths. In this work, we…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "efcf2ec8fed45d04",
+   "title": "Post-Quantum Migration of Wi-Fi Key Establishment: A Hybrid ML-KEM Design for OWE and FILS, Validated on OWE with hostapd",
+   "url": "https://arxiv.org/abs/2611.21528",
+   "summary": "The key agreements that protect a Wi-Fi connection rely on Diffie-Hellman, which a sufficiently capable quantum computer would break; an adversary can therefore record an association today and decrypt its traffic years later. Key establishment is thus the part of IEEE 802.11 that has to be migrated first. This work targets the two protocols that…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "effedf0db9dea8a3",
+   "title": "The Provenance-Privacy Paradox: Can Private Cloud Compute (PCC) Prove That Apple Reference Images Are Not Used for Learning?",
+   "url": "https://arxiv.org/abs/2611.21590",
+   "summary": "Apple Reference Image (ARI) combines camera-sensor signatures, Secure Enclave attestation (SEP), cryptographic timestamp bounds, Private Cloud Compute (PCC), and a final post-quantum signature to establish photographic provenance. PCC is central to this process because it validates the secure digital negative and develops authenticated raw sensor…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "8749090b20ffce39",
+   "title": "Adversarial Reinforcement Learning for Adaptive Eavesdropping in BB84 Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2606.22962",
+   "summary": "BB84 quantum key distribution derives its security from a physical guarantee that any eavesdropper disturbs the channel in a statistically detectable way. Prior work evaluates this by assuming Eve attacks at a fixed, analytically optimized rate. We examine what happens when Eve is modeled instead as a learning agent. Classical reinforcement…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "54518eb57885b61c",
+   "title": "Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project",
+   "url": "https://arxiv.org/abs/2611.20187",
+   "summary": "The CAPSARII project advances a cyber-secure, ultra-low-power wearable platform and Internet of Battlefield Things (IoBT) framework to support real-time monitoring of military personnel and data-driven decision support. The architecture integrates smart-textile sensing, a body/squad area mesh, edge-deployed AI on secure RISC-V microcontrollers…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
   },
   {
    "id": "8fd8349fb2d6f891",
@@ -805,20 +1181,6 @@
    "first_seen": "2026-11-16T08:37:25Z"
   },
   {
-   "id": "530e3d58efeca8c5",
-   "title": "Information-Theoretic Threshold Designated-Verifier Digital Signatures for Resource-Constrained Devices",
-   "url": "https://arxiv.org/abs/2611.18355",
-   "summary": "Digital signatures are synonymous with data integrity and authenticity. Among applications such as e-commerce, software distribution, and instruction processing they play a vital role in the secure communication of data. Within this context and in preparation for quantum adversarial tactics we present three new information-theoretic threshold…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC"
-   ],
-   "date": "2026-11-16T05:00:00Z",
-   "first_seen": "2026-11-16T08:37:25Z"
-  },
-  {
    "id": "f2321b294b68450d",
    "title": "Extending qubit lifetime beyond break-even and enhancing quantum sensing by autonomous quantum error correction",
    "url": "https://www.nature.com/articles/s41567-026-03493-z",
@@ -1101,20 +1463,6 @@
    "themes": [
     "QKD",
     "Menace quantique"
-   ],
-   "date": "2026-11-13T05:00:00Z",
-   "first_seen": "2026-11-13T15:26:36Z"
-  },
-  {
-   "id": "e94dfd486f708b6f",
-   "title": "No Convergence in Learned Eavesdropping-Detection Dynamics for BB84 Quantum Key Distribution",
-   "url": "https://arxiv.org/abs/2611.16372",
-   "summary": "In prior work we showed that a reinforcement-learning eavesdropper can intercept BB84 quantum key distribution while holding the quantum bit error rate below the abort threshold and keeping a usable distillable key. In this paper we ask whether an equally adaptive learning detector can close this stealth window. We cast the interaction as an…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD"
    ],
    "date": "2026-11-13T05:00:00Z",
    "first_seen": "2026-11-13T15:26:36Z"
