@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T11:02:08Z",
- "count": 1048,
+ "generated_at": "2026-11-17T19:44:52Z",
+ "count": 1055,
  "sources": [
   {
    "name": "ANSSI",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -124,9 +124,8 @@
   {
    "name": "PQShield – actualités",
    "category": "Industrie",
-   "ok": true,
-   "fetched": 22,
-   "kept": 11
+   "ok": false,
+   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
   },
   {
    "name": "Schneier on Security",
@@ -140,7 +139,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 3
+   "kept": 2
   },
   {
    "name": "The Hacker News",
@@ -168,7 +167,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – sécurité",
@@ -279,7 +278,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Le Monde Informatique – quantique",
@@ -346,6 +345,81 @@
   }
  ],
  "articles": [
+  {
+   "id": "8ab35889db74487c",
+   "title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
+   "url": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
+   "summary": "Insider Brief PRESS RELEASE — SAXON Q, a leader in NV-center quantum computing, today announced the Quantum Watchdog, a patented safety system that monitors a quantum computer and puts it into a safe mode if it fails. The system is designed for quantum computers operating in research environments and upcoming industrial applications — including…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-17T15:40:15Z",
+   "first_seen": "2026-11-17T19:44:52Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Saxon.jpg"
+  },
+  {
+   "id": "7e21d92ac2fdcc66",
+   "title": "Chiffrement postquantique : comment bâtir un inventaire cryptographique",
+   "url": "https://www.lemagit.fr/conseil/Chiffrement-postquantique-comment-batir-un-inventaire-cryptographique",
+   "summary": "Le recensement de toutes les clés, de tous les certificats et de tous les algorithmes de chiffrement utilisés dans votre entreprise constitue la première étape indispensable pour se préparer à l’ère post-quantique.",
+   "source": "LeMagIT – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-17T13:31:00Z",
+   "first_seen": "2026-11-17T19:44:52Z"
+  },
+  {
+   "id": "41ca0963f573e1a4",
+   "title": "Classiq Powers Award-Winning Quantum Application Development at Japan’s NEDO Challenge",
+   "url": "https://thequantuminsider.com/2026/11/17/classiq-shionogi-kddi-softbank-research-projects-nedo-awards/",
+   "summary": "Insider Brief PRESS RELEASE — Classiq, a quantum computing software company, today announced that its three separate research collaborations – with Shionogi, KDDI Research, Inc. (“KDDI Research”) and SoftBank Corp. – have each received an award in Japan’s NEDO quantum computing challenge, demonstrating the effectiveness of the Classiq platform in…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-17T13:04:49Z",
+   "first_seen": "2026-11-17T19:44:52Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-17_18-02.png"
+  },
+  {
+   "id": "816af384bb00dcad",
+   "title": "Telia, Nokia And QMill Demonstrate Quantum-Powered Encryption in a 5G Network",
+   "url": "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/",
+   "summary": "Insider Brief PRESS RELEASE — Telia Finland, Nokia and QMill have demonstrated the world’s first quantum-powered encryption in a 5G network using commercial equipment. In the proof of concept (PoC), QMill’s solution was integrated into Nokia’s 5G base station software and successfully demonstrated in Telia’s 5G innovation environment. Two firsts…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T12:50:29Z",
+   "first_seen": "2026-11-17T19:44:52Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Nokia-Telia-and-QMill-in-Balance-1.png"
+  },
+  {
+   "id": "3698d5a95acdffbb",
+   "title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+   "url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+   "summary": "Insider Brief PRESS RELEASE — Qluster, a Paris-based startup specializing in quantum computing, announces its first funding round of €4.7 million led by Quantonation, an investment fund specializing in quantum technologies and disruptive physics-based innovations, with the support of Quantum Launchpad and Bpifrance. A spin-off from the prestigious…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-17T12:38:47Z",
+   "first_seen": "2026-11-17T19:44:52Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Qluster_levee_preseed_16x9_EN_web.jpg"
+  },
   {
    "id": "f6a5343802cba0e8",
    "title": "Post-quantum encryption for modern security",
@@ -420,6 +494,21 @@
    "date": "2026-11-17T11:02:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "46ab1507319811ac",
+   "title": "IDEMIA and IonQ Validate QKD Interoperability for Enterprise Security",
+   "url": "https://thequantuminsider.com/2026/11/17/idemia-ionq-validate-qkd-interoperability-enterprise-security/",
+   "summary": "Insider Brief PRESS RELEASE — IDEMIA Secure Transactions (IST), a global leader in payment, connectivity and cybersecurity solutions, and IonQ (NYSE: IONQ), the world’s leading full-stack quantum platform and foundry, today announced a successful validation of interoperability between IonQ’s Quantum Key Distribution (QKD) systems and IST’s…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T10:18:05Z",
+   "first_seen": "2026-11-17T19:44:52Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-17_15-16.png"
   },
   {
    "id": "518cc84deecf37ff",
@@ -1223,6 +1312,22 @@
    "date": "2026-11-15T10:39:58Z",
    "first_seen": "2026-11-15T17:26:19Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/1d-gaussian-modulation-simplifies-cv-qkd.png"
+  },
+  {
+   "id": "2aedf3dc0e6399d9",
+   "title": "Quip finds no fully post-quantum Ethereum layer 2 rollup",
+   "url": "https://quantumzeitgeist.com/starknet-post-quantum-ethereum-rollup-quip/",
+   "summary": "No major Ethereum layer 2 rollup is post-quantum secure end to end, as a Northeastern University systematization paper lists KZG-based commitments—used for posting data to Ethereum as EIP-4844 blobs—among constructions vulnerable to Shor's algorithm. All seven rollups covered post KZG blobs since March 2024, or April 2024 for Scroll.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-15T00:00:00Z",
+   "first_seen": "2026-11-17T19:44:52Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quip-fully-post-quantum-ethereum-layer.png"
   },
   {
    "id": "e0a4667fb2453dd8",
