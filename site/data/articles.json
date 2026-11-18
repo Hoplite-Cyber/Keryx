@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T01:53:03Z",
- "count": 1059,
+ "generated_at": "2026-11-18T09:59:56Z",
+ "count": 1069,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 14
+   "kept": 13
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 263,
+   "fetched": 180,
    "kept": 9
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 116,
-   "kept": 8
+   "fetched": 69,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -215,9 +215,8 @@
   {
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
-   "ok": true,
-   "fetched": 14,
-   "kept": 0
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Wavestone RiskInsight",
@@ -307,8 +306,8 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 789,
-   "kept": 39
+   "fetched": 790,
+   "kept": 40
   },
   {
    "name": "OpenSSL",
@@ -358,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T01:53:03Z",
+   "date": "2026-11-18T09:59:56Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -372,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-18T01:53:03Z",
+   "date": "2026-11-18T09:59:56Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -388,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-18T01:53:03Z",
+   "date": "2026-11-18T09:59:56Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -403,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T01:53:03Z",
+   "date": "2026-11-18T09:59:56Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -418,9 +417,187 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T01:53:03Z",
+   "date": "2026-11-18T09:59:56Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "bd34b11b182fe880",
+   "title": "How ACME and ARI support Google’s quantum-resistant PKI | DigiCert",
+   "url": "https://www.digicert.com/blog/how-google-is-using-acme-and-ari",
+   "summary": "Learn why Google’s quantum-resistant PKI plans emphasize ACME and ARI, and how smarter certificate renewal can help reduce outages.",
+   "source": "DigiCert",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T09:49:17Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "d5475313892efc02",
+   "title": "NIST taps Quantopsy to expand PQC assessment for UAE & Saudi Arabia",
+   "url": "https://quantumzeitgeist.com/quantopsy-pqc-assessment-uae-saudi-arabia/",
+   "summary": "Quantopsy is extending post-quantum cryptography (PQC) assessment services to the UAE & Saudi Arabia, aligning with national encryption requirements and the NIST report.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T09:23:52Z",
+   "first_seen": "2026-11-18T09:59:56Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/nist-taps-quantopsy-pqc-assessment-uae.png"
+  },
+  {
+   "id": "fddac6a8fdb8e9e5",
+   "title": "QEncrypt Adds File Encryption to Its iPhone and Android Apps",
+   "url": "https://thequantuminsider.com/2026/11/18/qencrypt-file-encryption-iphone-android-apps/",
+   "summary": "Insider Brief PRESS RELEASE — QEncrypt now offers Quantum Safe Encryption for phone users on iPhone and Android. The apps add File Encryption for photos, videos, documents, and IDs. A camera roll holds a child’s first steps, a grandmother’s handwriting, and the last picture from a family trip. Those files deserve protection that lasts as [...]",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-18T08:46:26Z",
+   "first_seen": "2026-11-18T09:59:56Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_13-44.png"
+  },
+  {
+   "id": "8683b61d43515b4e",
+   "title": "Relaxing the i.i.d. state preparation assumption with the block QKD protocol",
+   "url": "https://arxiv.org/abs/2611.21048",
+   "summary": "In this work, we propose a novel approach to handling the independent and identically distributed assumption for the state preparation in prepare-and measure QKD protocols. Contrary to previous approaches, we do not prove the security using sub-protocols, and instead opt to guarantee security in the presence of correlations by dividing the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-17T11:02:08Z"
+  },
+  {
+   "id": "2939eee85fb544b4",
+   "title": "Randomness Certification from Statistically Hiding Commitments",
+   "url": "https://arxiv.org/abs/2610.25518",
+   "summary": "Randomness certification aims to guarantee that the output of an untrusted quantum device contains genuine randomness that remains unpredictable even given quantum side information held by an adversary. For a classical verifier interacting with a single quantum device, such a guarantee cannot rely on the physical separation underlying standard…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-10-20T04:04:28Z",
+   "lang": "en"
+  },
+  {
+   "id": "aab6cd60e3c23cad",
+   "title": "Distrustful entanglement-based Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2611.21759",
+   "summary": "Quantum key distribution (QKD) is the one of the most explored application of quantum information theory. While practical QKD systems are being deployed around the world, a major issue of these setups are that one has to trust the measurement devices of both parties. On the other hand, the most secure among such schemes are called…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "3e4b69c3d1b9f88d",
+   "title": "Quantum Random Number Generators: principles, practical challenges and mainstream implementations",
+   "url": "https://arxiv.org/abs/2611.22681",
+   "summary": "Quantum random number generators have become a cornerstone technology for modern digital cryptography, including key generation, quantum key distribution, and post-quantum cryptographic systems. While existing reviews typically concentrate on specific entropy sources or implementation platforms, a comprehensive perspective encompassing the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "dc0a44646e9ba525",
+   "title": "Finite-key security of BB84 with passive receivers via reduction to active measurements",
+   "url": "https://arxiv.org/abs/2611.22768",
+   "summary": "In BB84 with passive receiver basis choice (passive BB84) and threshold detectors, the distribution of detection bases can depend on the incoming photon number. Its relation to BB84 with active receiver basis choice (active BB84), in which the basis is chosen using independent randomness, is therefore nontrivial. We establish a reduction theorem…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "1e218943ecc4486f",
+   "title": "Variable-length MDI QKD under source imperfections and local randomization over horizontal links",
+   "url": "https://arxiv.org/abs/2611.23000",
+   "summary": "Quantum key distribution (QKD) provides security guarantees that hold despite device imperfections and finite-size effects. We address these challenges in measurement-device-independent (MDI) QKD, combining its intrinsic untrusted detection with an imperfection model for Alice's and Bob's sources via fidelity bounds. We establish variable-length…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "2cfad74a9dcd69d0",
+   "title": "Shortest-path percolation and structural robustness of quantum internet networks",
+   "url": "https://arxiv.org/abs/2611.21855",
+   "summary": "We study shortest-path percolation on spatial networks that model the quantum internet based on optical fibers. In this process, the removal of paths describes the consumption of the entangled links used for communication. We compare finite and unrestricted path-length bounds for networks whose average degree either increases with system size or…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "2387705a1521b5eb",
+   "title": "On the cryptographic potential of single-qubit rotations",
+   "url": "https://arxiv.org/abs/2606.23392",
+   "summary": "In the domain of quantum communication, cryptographic protocols often require users to have access to trusted qubit sources or detectors. Recently, it was shown that on an architecture called the Qline, several protocols can equivalently be performed by parties capable only of single-qubit rotations. In this work, we introduce two composably…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "6a4d4af1ee30c7e8",
+   "title": "Proof-of-principle long-distance Sagnac twin-field quantum key distribution network",
+   "url": "https://arxiv.org/abs/2609.04447",
+   "summary": "Twin-field (TF) quantum key distribution (QKD) offers a promising approach to long-distance QKD networks due to its superior performance over large channel losses. Due to specialized hardware requirements, nearly all long-distance TFQKD demonstrations have only two users exchanging keys, rather than a network with three or more users. In this…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-18T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
   },
   {
    "id": "7795a4ea9579a24e",
@@ -768,20 +945,6 @@
    "lang": "en",
    "themes": [
     "Menace quantique"
-   ],
-   "date": "2026-11-17T05:00:00Z",
-   "first_seen": "2026-11-17T11:02:08Z"
-  },
-  {
-   "id": "8683b61d43515b4e",
-   "title": "Relaxing the i.i.d. state preparation assumption with the block QKD protocol",
-   "url": "https://arxiv.org/abs/2611.21048",
-   "summary": "In this work, we propose a novel approach to handling the independent and identically distributed assumption for the state preparation in prepare-and measure QKD protocols. Contrary to previous approaches, we do not prove the security using sub-protocols, and instead opt to guarantee security in the presence of correlations by dividing the…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD"
    ],
    "date": "2026-11-17T05:00:00Z",
    "first_seen": "2026-11-17T11:02:08Z"
@@ -8089,21 +8252,6 @@
    "source": "arXiv quant-ph",
    "category": "Recherche",
    "themes": [
-    "QKD"
-   ],
-   "date": "2026-10-20T04:00:00Z",
-   "first_seen": "2026-10-20T04:04:28Z",
-   "lang": "en"
-  },
-  {
-   "id": "2939eee85fb544b4",
-   "title": "Randomness Certification from Statistically Hiding Commitments",
-   "url": "https://arxiv.org/abs/2610.25518",
-   "summary": "Randomness certification aims to guarantee that the output of an untrusted quantum device contains genuine randomness that remains unpredictable even given quantum side information held by an adversary. For a classical verifier interacting with a single quantum device, such a guarantee cannot rely on the physical separation underlying standard…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "themes": [
-    "PQC",
     "QKD"
    ],
    "date": "2026-10-20T04:00:00Z",
