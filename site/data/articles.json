@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T19:44:52Z",
- "count": 1055,
+ "generated_at": "2026-11-18T01:53:03Z",
+ "count": 1059,
  "sources": [
   {
    "name": "ANSSI",
@@ -105,7 +105,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 169
+   "kept": 168
   },
   {
    "name": "The Quantum Insider",
@@ -124,8 +124,9 @@
   {
    "name": "PQShield – actualités",
    "category": "Industrie",
-   "ok": false,
-   "error": "URLError: <urlopen error _ssl.c:994: The handshake operation timed out>"
+   "ok": true,
+   "fetched": 22,
+   "kept": 11
   },
   {
    "name": "Schneier on Security",
@@ -214,8 +215,9 @@
   {
    "name": "Usine Digitale",
    "category": "Presse spécialisée",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "fetched": 14,
+   "kept": 0
   },
   {
    "name": "Wavestone RiskInsight",
@@ -346,6 +348,128 @@
  ],
  "articles": [
   {
+   "id": "f6a5343802cba0e8",
+   "title": "Post-quantum encryption for modern security",
+   "url": "https://pqshield.com/post-quantum-cryptography/",
+   "summary": "",
+   "source": "PQShield – actualités",
+   "category": "Industrie",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T01:53:03Z",
+   "first_seen": "2026-10-19T14:49:59Z",
+   "lang": "en"
+  },
+  {
+   "id": "9f5b1790bffc0660",
+   "title": "What ‘post-quantum’ means for cybersecurity",
+   "url": "https://pqshield.com/what-post-quantum-means-for-cyber-security/",
+   "summary": "",
+   "source": "PQShield – actualités",
+   "category": "Industrie",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T01:53:03Z",
+   "first_seen": "2026-10-19T14:49:59Z",
+   "lang": "en"
+  },
+  {
+   "id": "74d7d9a12083c700",
+   "title": "Post-quantum cryptography: secure the enterprise for the quantum era",
+   "url": "https://pqshield.com/post-quantum-cryptography-companies/",
+   "summary": "",
+   "source": "PQShield – actualités",
+   "category": "Industrie",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-18T01:53:03Z",
+   "first_seen": "2026-10-19T14:49:59Z",
+   "lang": "en"
+  },
+  {
+   "id": "6932922efc18c0c8",
+   "title": "Quantum Resistant Encryption Explained",
+   "url": "https://pqshield.com/quantum-resistant-encryption/",
+   "summary": "",
+   "source": "PQShield – actualités",
+   "category": "Industrie",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T01:53:03Z",
+   "first_seen": "2026-10-19T14:49:59Z",
+   "lang": "en"
+  },
+  {
+   "id": "aecc7bd1ccbbd17b",
+   "title": "Why quantum safe encryption matters",
+   "url": "https://pqshield.com/quantum-safe-encryption/",
+   "summary": "",
+   "source": "PQShield – actualités",
+   "category": "Industrie",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T01:53:03Z",
+   "first_seen": "2026-10-19T14:49:59Z",
+   "lang": "en"
+  },
+  {
+   "id": "7795a4ea9579a24e",
+   "title": "Researchers rethink entropic uncertainty to boost quantum key rates",
+   "url": "https://quantumzeitgeist.com/deutsches-luft-rethink-entropic-uncertainty-boost/",
+   "summary": "Philipp Kleinpaß and colleagues are rethinking the entropic uncertainty relation, enabling tighter key rates for quantum key distribution protocols using any number of mutually unbiased bases.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-17T22:22:39Z",
+   "first_seen": "2026-11-18T01:53:03Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/rethink-entropic-uncertainty-boost-quantum-key.png"
+  },
+  {
+   "id": "3ca1b1a1302151a6",
+   "title": "QEncrypt adds quantum-safe encryption for photos on iPhone and Android",
+   "url": "https://quantumzeitgeist.com/quantum-safe-encryption-qencrypt-adds-iphone/",
+   "summary": "QEncrypt now protects photos & IDs on iPhone and Android with a combination of AES and post-quantum cryptography, resisting future quantum computers.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-17T22:21:36Z",
+   "first_seen": "2026-11-18T01:53:03Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/qencrypt-adds-quantum-safe-encryption-photos.jpg"
+  },
+  {
+   "id": "881e0238c1304df2",
+   "title": "IQM Introduces Upgrade Programme for Halocene Quantum Systems",
+   "url": "https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/",
+   "summary": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in integrated quantum computing, today announced an upgrade program for IQM Halocene, its error-correction product line, that gives customers a path from the 150-qubit system of today to the over 1,000-qubit system of the future. Customers can run hybrid workloads…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-17T19:34:26Z",
+   "first_seen": "2026-11-18T01:53:03Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_00-32.png"
+  },
+  {
    "id": "8ab35889db74487c",
    "title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
    "url": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
@@ -419,81 +543,6 @@
    "date": "2026-11-17T12:38:47Z",
    "first_seen": "2026-11-17T19:44:52Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Qluster_levee_preseed_16x9_EN_web.jpg"
-  },
-  {
-   "id": "f6a5343802cba0e8",
-   "title": "Post-quantum encryption for modern security",
-   "url": "https://pqshield.com/post-quantum-cryptography/",
-   "summary": "",
-   "source": "PQShield – actualités",
-   "category": "Industrie",
-   "themes": [
-    "PQC",
-    "Menace quantique"
-   ],
-   "date": "2026-11-17T11:02:08Z",
-   "first_seen": "2026-10-19T14:49:59Z",
-   "lang": "en"
-  },
-  {
-   "id": "9f5b1790bffc0660",
-   "title": "What ‘post-quantum’ means for cybersecurity",
-   "url": "https://pqshield.com/what-post-quantum-means-for-cyber-security/",
-   "summary": "",
-   "source": "PQShield – actualités",
-   "category": "Industrie",
-   "themes": [
-    "PQC"
-   ],
-   "date": "2026-11-17T11:02:08Z",
-   "first_seen": "2026-10-19T14:49:59Z",
-   "lang": "en"
-  },
-  {
-   "id": "74d7d9a12083c700",
-   "title": "Post-quantum cryptography: secure the enterprise for the quantum era",
-   "url": "https://pqshield.com/post-quantum-cryptography-companies/",
-   "summary": "",
-   "source": "PQShield – actualités",
-   "category": "Industrie",
-   "themes": [
-    "Menace quantique",
-    "PQC",
-    "QKD"
-   ],
-   "date": "2026-11-17T11:02:08Z",
-   "first_seen": "2026-10-19T14:49:59Z",
-   "lang": "en"
-  },
-  {
-   "id": "6932922efc18c0c8",
-   "title": "Quantum Resistant Encryption Explained",
-   "url": "https://pqshield.com/quantum-resistant-encryption/",
-   "summary": "",
-   "source": "PQShield – actualités",
-   "category": "Industrie",
-   "themes": [
-    "PQC",
-    "Menace quantique"
-   ],
-   "date": "2026-11-17T11:02:08Z",
-   "first_seen": "2026-10-19T14:49:59Z",
-   "lang": "en"
-  },
-  {
-   "id": "aecc7bd1ccbbd17b",
-   "title": "Why quantum safe encryption matters",
-   "url": "https://pqshield.com/quantum-safe-encryption/",
-   "summary": "",
-   "source": "PQShield – actualités",
-   "category": "Industrie",
-   "themes": [
-    "PQC",
-    "Menace quantique"
-   ],
-   "date": "2026-11-17T11:02:08Z",
-   "first_seen": "2026-10-19T14:49:59Z",
-   "lang": "en"
   },
   {
    "id": "46ab1507319811ac",
@@ -3660,6 +3709,24 @@
    "date": "2026-11-06T00:02:00Z",
    "first_seen": "2026-11-06T03:35:59Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-link-mobile-qkd-arrival-rates-with-secure-key-deadlines-scaled.jpeg"
+  },
+  {
+   "id": "5f744520db3545e5",
+   "title": "Europol urges immediate crypto migration to post-quantum crypto",
+   "url": "https://quantumzeitgeist.com/post-quantum-crypto-europol-urges-migration/",
+   "summary": "In a report titled Quantum Computing and Cryptocurrencies, Europol said the main point of exposure to future quantum attacks is not the blockchain itself but the wallets that control the assets on it. The agency urged developers, exchanges, miners, and users to begin a phased migration to post-quantum cryptography now.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-06T00:00:00Z",
+   "first_seen": "2026-11-18T01:53:03Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/europol-urges-immediate-crypto-migration-to-post-quantum.png"
   },
   {
    "id": "c3113694d86102eb",
