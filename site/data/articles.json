@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-18T09:59:56Z",
- "count": 1069,
+ "generated_at": "2026-11-18T18:46:27Z",
+ "count": 1083,
  "sources": [
   {
    "name": "ANSSI",
    "category": "Officiel",
    "ok": true,
-   "fetched": 191,
+   "fetched": 192,
    "kept": 14
   },
   {
@@ -21,7 +21,7 @@
    "category": "Officiel",
    "ok": true,
    "fetched": 40,
-   "kept": 5
+   "kept": 6
   },
   {
    "name": "NIST Cybersecurity Insights",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 7
   },
   {
    "name": "ETSI – actualités",
@@ -196,7 +196,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Numerama",
@@ -244,7 +244,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 30,
-   "kept": 3
+   "kept": 2
   },
   {
    "name": "IBM Research",
@@ -265,7 +265,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 44
+   "kept": 45
   },
   {
    "name": "Pasqal",
@@ -285,8 +285,8 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 47,
-   "kept": 1
+   "fetched": 49,
+   "kept": 2
   },
   {
    "name": "Futura Sciences",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T09:59:56Z",
+   "date": "2026-11-18T18:46:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-18T09:59:56Z",
+   "date": "2026-11-18T18:46:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-18T09:59:56Z",
+   "date": "2026-11-18T18:46:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T09:59:56Z",
+   "date": "2026-11-18T18:46:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,189 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T09:59:56Z",
+   "date": "2026-11-18T18:46:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "b58aba28507ef77b",
+   "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+   "url": "https://thequantuminsider.com/2026/11/18/quantum-physics-can-verify-a-persons-location-nist-researchers-show/",
+   "summary": "Insider Brief PRESS RELEASE — Imagine a corporate treasurer directing her company’s financial network to make a $50 million wire transfer. How can the network be certain the command is coming from a secure terminal in the company’s headquarters, and not a hacker’s laptop across the globe? In a first-of-its-kind experiment, scientists at the…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques"
+   ],
+   "date": "2026-11-18T18:06:57Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-1.03.15-PM-1.png"
+  },
+  {
+   "id": "18d8a0f9255b940b",
+   "title": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
+   "url": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
+   "summary": "Insider Brief PRESS RELEASE — The National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratory and QuEra Computing, the leader in neutral-atom quantum computing, today announced the publication of a new study in Nature. Using Aquila, QuEra’s analog neutral-atom quantum computer, coupled with classical…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-18T17:03:12Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_22-01.png"
+  },
+  {
+   "id": "3193f7748d17b927",
+   "title": "Qluster lève 4,7 millions d’euros pour développer des ordinateurs quantiques photoniques",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/qluster-leve-4-7-millions-d-euros-pour-developper-",
+   "summary": "La start-up française Qluster, spécialisée dans l’informatique quantique, a annoncé le 17 novembre 2026 une levée de fonds de pré-amorçage de 4,7 millions d’euros menée par Quantonation, avec le soutien de Quantum Launchpad et de Bpifrance. Issue du Laboratoire Kastler Brossel, la jeune entreprise développe une architecture de calcul quantique…",
+   "source": "Le Monde Informatique – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-18T13:41:39Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://cdn.overlord.media/Capture_d_ecran_2026_11_18_110350_fb2ebb400a.png"
+  },
+  {
+   "id": "6b0ac5878a01a26f",
+   "title": "New OQI Impact Tool Supports The Responsible Design of Quantum Computing Applications",
+   "url": "https://thequantuminsider.com/2026/11/18/new-oqi-impact-tool-supports-the-responsible-design-of-quantum-computing-applications/",
+   "summary": "Insider Brief PRESS RELEASE — The Open Quantum Institute (OQI), in collaboration with GESDA and the UN Beyond Lab, has launched the OQI Impact Tool, an open, online tool for quantum computing applications developers. It supports responsible innovation by bringing consideration of societal benefits and risks into their design from the very start…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-18T13:05:00Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/CERN-and-Open-Quantum-Institute-1.png"
+  },
+  {
+   "id": "ef4c089746dabde8",
+   "title": "SEALSQ Signs Letter of Intent to Acquire QuintessenceLabs",
+   "url": "https://thequantuminsider.com/2026/11/18/sealsq-letter-of-intent-acquire-quintessencelabs/",
+   "summary": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or “Company”), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it has signed a non-binding letter of intent (the “LOI”) with QuintessenceLabs Pty. Ltd., an Australian quantum…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T12:54:07Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_17-53.png"
+  },
+  {
+   "id": "b1cfd88af1bbe2a4",
+   "title": "IonQ | IonQ Introduces Federal Advisory Board",
+   "url": "https://ionq.com/news/meet-the-ionq-federal-advisory-board",
+   "summary": "Mission owners and program office leaders have pressing questions about quantum implementation that many vendors aren’t ready to answer: Far beyond the physics of quantum, these leaders are asking where they need quantum first, how to run a successful pilot, and how to plan for cryptographic migration",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T12:52:23Z",
+   "first_seen": "2026-11-18T18:46:27Z"
+  },
+  {
+   "id": "ceea88a3e8155327",
+   "title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+   "url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+   "summary": "Insider Brief PRESS RELEASE — A group of International research, network and technology organizations has demonstrated hybrid quantum-safe networking between Chicago and Europe at SC26, the Supercomputing Conference 2026. The infrastructure that spans Bilbao, Amsterdam and Chicago extends across 8,000 km and protects data from quantum threats at…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-18T12:44:46Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_17-42.png"
+  },
+  {
+   "id": "c4d547deb11af58f",
+   "title": "Google backs ACME and TheACME Renewal Information",
+   "url": "https://quantumzeitgeist.com/google-quantum-acme-renewal-backs-theacme/",
+   "summary": "Google is making theACME Renewal Information (ARI) an important part of its plans for quantum-resistant public TLS certificates, emphasizing that automation will become even more important as certificate lifetimes shrink to47-day periods. When both your ACME client and certificate authority support ARI, the CA can recommend earlier renewal…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T12:38:50Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/google-backs-acme-and-theacme-renewal-information.jpg"
+  },
+  {
+   "id": "93efbf1b71216c2c",
+   "title": "Zapata Quantum Launches Open Challenge to Verify AI-Generated Quantum Research",
+   "url": "https://thequantuminsider.com/2026/11/18/zapata-quantum-launches-open-challenge-to-verify-ai-generated-quantum-research/",
+   "summary": "Insider Brief PRESS RELEASE — As AI accelerates scientific discovery, it has become increasingly critical that new results be both provably correct and explainable to humans. Zapata Quantum (OTCQB: ZPTA) (“Zapata”, “Zapata Quantum” or the “Company”), a pioneer in quantum computing application and algorithm development, today announced ForShor.ai…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-18T12:10:36Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-7.06.26-AM.png"
+  },
+  {
+   "id": "85a1f744a65a12bd",
+   "title": "Alice & Bob’s Updated Roadmap Targets 200 Logical Qubits From 3,600 Physical Qubits by 2030",
+   "url": "https://thequantuminsider.com/2026/11/18/alice-bobs-updated-roadmap-targets-200-logical-qubits-from-3600-physical-qubits-by-2030/",
+   "summary": "Insider Brief PRESS RELEASE — Alice & Bob, a leader in fault-tolerant quantum computing, today unveiled an updated, modular roadmap. The company targets 200 logical qubits as soon as 2030, double its previous target, with Carbon, which will be built from just 3,600 physical cat qubits. “Cat qubits give an efficient path to fault tolerance. They…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-18T12:03:29Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Alice-Bob-Roadmap-Acceleration.png"
+  },
+  {
+   "id": "2b99e2f0876a90df",
+   "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+   "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+   "summary": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
+   "source": "NIST",
+   "category": "Officiel",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques"
+   ],
+   "date": "2026-11-18T12:00:00Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/11/17/QPV.jpg?itok=l4e1_VCB"
+  },
+  {
+   "id": "7d2f0f93d8816c3f",
+   "title": "QMill, Nokia, Telia test quantum encryption on a 5G network",
+   "url": "https://quantumzeitgeist.com/nokia-bell-quantum-encryption-5g-network/",
+   "summary": "Telia, Nokia and QMill have demonstrated the world’s first quantum-powered encryption in a 5G network using commercial equipment. In the proof of concept, QMill’s solution was integrated into Nokia’s 5G base station software and successfully demonstrated in Telia’s 5G innovation environment.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T10:31:58Z",
+   "first_seen": "2026-11-18T18:46:27Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/qmill-nokia-telia-test-quantum-encryption-on-a.webp"
   },
   {
    "id": "bd34b11b182fe880",
@@ -11453,6 +11633,22 @@
    "lang": "en"
   },
   {
+   "id": "33af5c0494f9786a",
+   "title": "On the eCK Security of MQV-Style LWE-Based Authenticated Key Exchange",
+   "url": "https://eprint.iacr.org/2026/2017",
+   "summary": "Designing Authenticated Key Exchange (AKE) directly from the Learning with Errors (LWE) assumption, without relying on generic constructions, remains a prominent and challenging goal in post-quantum cryptography. Such designs inherently require reconciliation mechanisms, which may introduce additional leakage against active adversaries under key…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-09-14T07:16:11Z",
+   "first_seen": "2026-11-18T18:46:27Z"
+  },
+  {
    "id": "e07dd999e11f1b38",
    "title": "Tiny sound waves could help solve a major quantum computing problem",
    "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
@@ -13755,6 +13951,20 @@
    "date": "2026-05-13T17:33:39Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/68836d4838193cb461ebc7d2/693ad1cc5bb2d028b5616a6b_OG%20Image%20(5).jpg"
+  },
+  {
+   "id": "e9cfad88634718b0",
+   "title": "Constant-Round Secure Distributed Decoding and HQC Threshold Decryption",
+   "url": "https://eprint.iacr.org/2026/946",
+   "summary": "Threshold public-key encryption schemes enable decryption only with the participation of enough partial secret key holders. In this article, we propose the first dedicated protocol for distributed decryption of HQC ciphertexts. This protocol is perfectly correct and does not leak any information about the shared secret key. This leads to the first…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-05-13T12:17:24Z",
+   "first_seen": "2026-11-18T18:46:27Z"
   },
   {
    "id": "5fe7ff33ae9b29e1",
