@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T18:46:27Z",
- "count": 1083,
+ "generated_at": "2026-11-19T00:45:03Z",
+ "count": 1084,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 13
+   "kept": 14
   },
   {
    "name": "arXiv quant-ph",
@@ -77,7 +77,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "Google Security Blog",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 2
+   "kept": 3
   },
   {
    "name": "The Hacker News",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T18:46:27Z",
+   "date": "2026-11-19T00:45:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-18T18:46:27Z",
+   "date": "2026-11-19T00:45:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-18T18:46:27Z",
+   "date": "2026-11-19T00:45:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T18:46:27Z",
+   "date": "2026-11-19T00:45:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-18T18:46:27Z",
+   "date": "2026-11-19T00:45:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "bd3d79cf7862c66c",
+   "title": "Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance",
+   "url": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
+   "summary": "Photonics-based quantum computers open up new possibilities for investigating highly complex problems in mathematics and have the potential to revolutionize fields ranging from energy and chemical research to secure communications. By utilizing the unusual properties of light particles, they can perform calculations that pose enormous challenges…",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-18T22:10:12Z",
+   "first_seen": "2026-11-19T00:45:03Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photonic-quantum-compu.jpg"
   },
   {
    "id": "b58aba28507ef77b",
@@ -3567,7 +3582,7 @@
    "id": "af230e4e6e2e0e30",
    "title": "QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements",
    "url": "https://eprint.iacr.org/2026/2810",
-   "summary": "We present QUASI, a newly conceived class of protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. Designed for quorum-based systems, QUASI enables parties to attest to external entities that the statement is valid. Surprisingly, each party need not sign the entire statement…",
+   "summary": "We present QUASI, a newly conceived class of hash-based, post-quantum-secure protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. QUASI produces attestations that reduce the size and verification cost to a fraction of a full hash-based signatures collection, without relying on…",
    "source": "IACR ePrint",
    "category": "Recherche",
    "lang": "en",
