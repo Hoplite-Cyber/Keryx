@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T07:58:46Z",
- "count": 1095,
+ "generated_at": "2026-11-19T17:15:24Z",
+ "count": 1103,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 15
+   "kept": 18
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 7
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 10,
+   "fetched": 11,
    "kept": 0
   },
   {
@@ -258,7 +258,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 48
+   "kept": 47
   },
   {
    "name": "IonQ",
@@ -285,7 +285,7 @@
    "name": "Le Monde Informatique – quantique",
    "category": "Presse spécialisée",
    "ok": true,
-   "fetched": 49,
+   "fetched": 50,
    "kept": 2
   },
   {
@@ -293,7 +293,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Post-Quantum.com",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T07:58:46Z",
+   "date": "2026-11-19T17:15:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-19T07:58:46Z",
+   "date": "2026-11-19T17:15:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-19T07:58:46Z",
+   "date": "2026-11-19T17:15:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T07:58:46Z",
+   "date": "2026-11-19T17:15:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,112 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T07:58:46Z",
+   "date": "2026-11-19T17:15:24Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "8a3683de722b058a",
+   "title": "SEALSQ Signs LOI to Acquire QuintessenceLabs",
+   "url": "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
+   "summary": "Insider Brief PRESS RELEASE — WISeQey Corp. (formerly known as WISeKey International Holding AG, “WISeQey”) (Nasdaq/SIX: WQEY), a global quantum cybersecurity and space IoT company, today announced that its subsidiary, SEALSQ Corp (NASDAQ: LAES) (“SEALSQ”), a company that develops and sells Semiconductors, PKI, and Post-Quantum technology hardware…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-19T16:07:58Z",
+   "first_seen": "2026-11-19T17:15:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-19_21-06.png"
+  },
+  {
+   "id": "71fc4c089ec9fe21",
+   "title": "From Lab to Live: Inside the Practical Realities of Deploying Quantum Computing at Data Center Scale",
+   "url": "https://thequantuminsider.com/2026/11/19/from-lab-to-live-inside-the-practical-realities-of-deploying-quantum-computing-at-data-center-scale/",
+   "summary": "Behind Equinix and Diraq’s collaboration to bring a silicon spin quantum computer into a commercial data center ... and what it actually takes to get there. Insider Brief The recent headlines around Diraq and Equinix’s collaboration have focused on a milestone: a silicon spin quantum computer, installed inside an operational commercial data center…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T16:07:22Z",
+   "first_seen": "2026-11-19T17:15:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/1-Diraqs-quantum-computer-in-an-Equinix-data-centre.jpg"
+  },
+  {
+   "id": "4e4eac3d70f9035c",
+   "title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+   "url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+   "summary": "Insider Brief PRESS RELEASE — Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced an integration with the Hierarchical Resources (HRES) capability recently added to Slurm, the open-source workload manager widely used in supercomputing centers. In a latest release, NVIDIA has expanded Slurm to allow quantum…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T15:56:53Z",
+   "first_seen": "2026-11-19T17:15:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-19_20-52.png"
+  },
+  {
+   "id": "2b3f717cac0f1fed",
+   "title": "memQ and Infleqtion Sign MoU to Advance Networked Quantum Computing",
+   "url": "https://thequantuminsider.com/2026/11/19/memq-infleqtion-mou-quantum-networking-interoperability/",
+   "summary": "Insider Brief PRESS RELEASE — memQTM, the industry leader in quantum networking solutions for distributed quantum computing, and Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral-atom technology, have announced a joint memorandum of understanding (MoU) to pursue validation and certification of…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T15:45:03Z",
+   "first_seen": "2026-11-19T17:15:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-19_20-43.png"
+  },
+  {
+   "id": "cf4d764da63d06e9",
+   "title": "Taking an atomic approach to silicon quantum computing",
+   "url": "https://physicsworld.com/a/taking-an-atomic-approach-to-silicon-quantum-computing/",
+   "summary": "Michelle Simmons of Silicon Quantum Computing is our podcast guest The post Taking an atomic approach to silicon quantum computing appeared first on Physics World .",
+   "source": "Physics World – quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T14:00:37Z",
+   "first_seen": "2026-11-19T17:15:24Z"
+  },
+  {
+   "id": "6f43c0101feebc45",
+   "title": "Securities Regulators Warn That Slow Progress on Quantum Security is a Mistake",
+   "url": "https://thequantuminsider.com/2026/11/19/securities-regulators-warn-that-slow-progress-on-quantum-security-is-a-mistake/",
+   "summary": "Insider Brief Financial markets are still in the early stages of preparing for quantum computers that could break the security protecting trades, payments and confidential records, a global group of securities regulators said. And they might not be moving fast enough to manage the threat. The International Organization of Securities Commissions…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T12:35:50Z",
+   "first_seen": "2026-11-19T17:15:24Z"
+  },
+  {
+   "id": "8cce13920bd4f651",
+   "title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+   "url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+   "summary": "Insider Brief PRESS RELEASE — BMO today announced it has demonstrated quantum utility in a machine learning application using IBM quantum computers, meaning the work was performed reliably at a scale beyond what exact traditional computing methods can practically reproduce. The work explores how quantum computing could help AI models identify…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T11:51:36Z",
+   "first_seen": "2026-11-19T17:15:24Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/BMO-Financial-Group-Communications-BMO-Demonstrates-Quantum-Ut.jpg"
   },
   {
    "id": "b1cfd88af1bbe2a4",
@@ -14388,6 +14491,21 @@
    ],
    "date": "2026-03-31T12:45:21Z",
    "first_seen": "2026-10-27T08:18:33Z"
+  },
+  {
+   "id": "ae509c5ffd40c689",
+   "title": "On the Security of MPC-in-the-Head Signatures with Correlated GGM Trees",
+   "url": "https://eprint.iacr.org/2026/615",
+   "summary": "Recent MPC-in-the-Head techniques enable the construction of signature schemes with compact signature sizes from various hardness assumptions. These techniques rely on commitments based on GGM trees, which have been optimized to further reduce the signature size with the so-called one-tree or correlated tree optimizations. While the one-tree…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-03-28T14:36:13Z",
+   "first_seen": "2026-11-19T17:15:24Z"
   },
   {
    "id": "cb9ed709b1af2c4c",
