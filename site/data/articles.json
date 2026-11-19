@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T00:45:03Z",
- "count": 1084,
+ "generated_at": "2026-11-19T07:58:46Z",
+ "count": 1095,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 14
+   "kept": 15
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 180,
-   "kept": 9
+   "fetched": 171,
+   "kept": 6
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
    "fetched": 69,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Cloudflare Blog",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T00:45:03Z",
+   "date": "2026-11-19T07:58:46Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-19T00:45:03Z",
+   "date": "2026-11-19T07:58:46Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-19T00:45:03Z",
+   "date": "2026-11-19T07:58:46Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T00:45:03Z",
+   "date": "2026-11-19T07:58:46Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,139 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T00:45:03Z",
+   "date": "2026-11-19T07:58:46Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "b1cfd88af1bbe2a4",
+   "title": "IonQ | IonQ Introduces Federal Advisory Board",
+   "url": "https://ionq.com/news/meet-the-ionq-federal-advisory-board",
+   "summary": "Mission owners and program office leaders have pressing questions about quantum implementation that many vendors aren’t ready to answer: Far beyond the physics of quantum, these leaders are asking where they need quantum first, how to run a successful pilot, and how to plan for cryptographic migration",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-19T07:24:42Z",
+   "first_seen": "2026-11-18T18:46:27Z"
+  },
+  {
+   "id": "28c54f9822c14376",
+   "title": "MDI QKD works with imperfect sources, extending secure key range to 80km",
+   "url": "https://quantumzeitgeist.com/luxquanta-technologies-mdi-qkd-works-imperfect/",
+   "summary": "This research advances measurement-device-independent (MDI) QKD, achieving secure key distribution up to 80km even with imperfect sources.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-19T07:07:06Z",
+   "first_seen": "2026-11-19T07:58:46Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/mdi-qkd-works-imperfect-sources-extending.jpeg"
+  },
+  {
+   "id": "aab6cd60e3c23cad",
+   "title": "Distrustful entanglement-based Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2611.21759",
+   "summary": "Quantum key distribution (QKD) is the one of the most explored application of quantum information theory. While practical QKD systems are being deployed around the world, a major issue of these setups are that one has to trust the measurement devices of both parties. On the other hand, the most secure among such schemes are called…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-19T05:00:00Z",
+   "first_seen": "2026-11-18T09:59:56Z"
+  },
+  {
+   "id": "0b02f151fb1df76e",
+   "title": "In-memory measurement-device-independent quantum key distribution",
+   "url": "https://arxiv.org/abs/2611.24255",
+   "summary": "Quantum memories offer to significantly extend the performance of quantum networks, but their complexity and limited performance at telecommunication wavelengths have so far hindered practical deployment. We propose a new memory-assisted measurement device independent quantum key distribution (MDI-QKD) protocol based on in-memory interference. Our…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-19T05:00:00Z",
+   "first_seen": "2026-11-19T07:58:46Z"
+  },
+  {
+   "id": "7bc313e1597d1dca",
+   "title": "Doppler effect on dual-downlink time-bin quantum key distribution and a proposed ephemeris-assisted witness-field correction",
+   "url": "https://arxiv.org/abs/2611.24369",
+   "summary": "Time-bin entanglement is promising for satellite Quantum Key Distribution (QKD) due to its compatibility with telecom fiber networks, but its phase-sensitive measurements are vulnerable to Doppler effects induced by satellite motion. We present a spectral-temporal framework for time-bin-entangled photon pairs generated onboard a satellite via…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-19T05:00:00Z",
+   "first_seen": "2026-11-19T07:58:46Z"
+  },
+  {
+   "id": "bd9b4bed60ef4424",
+   "title": "From BBM92 Measurements to Secure Keys: Challenges in a Practical Implementation",
+   "url": "https://arxiv.org/abs/2611.24478",
+   "summary": "The protocol introduced by C. H. Bennett, G. Brassard and N. D. Mermin in 1992 (BBM92) is one of the most important and widely adopted quantum key distribution (QKD) protocols. As with any other QKD protocol, its practical security depends on satisfying the assumptions underlying its theoretical security proofs. Here, we examine two common…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-19T05:00:00Z",
+   "first_seen": "2026-11-19T07:58:46Z"
+  },
+  {
+   "id": "25f4483428788cb3",
+   "title": "Analog entanglement distillation through Hamiltonian scrambling",
+   "url": "https://arxiv.org/abs/2603.10843",
+   "summary": "Efficient entanglement distillation is a central primitive for quantum information processing and future quantum networks. Conventional protocols rely on digital quantum circuits, requiring compiled multi-qubit gate sequences and fine-grained control that place heavy demands on near-term hardware. Crucially, leading network platforms, such as…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-19T05:00:00Z",
+   "first_seen": "2026-11-19T07:58:46Z"
+  },
+  {
+   "id": "a27fa91f32c02828",
+   "title": "Insecurity of Measurement-Device-Independent Quantum Key Distribution",
+   "url": "https://arxiv.org/abs/2607.01989",
+   "summary": "The security of practical quantum key distribution (QKD) systems is fundamentally constrained by vulnerabilities of single-photon detectors. Measurement-device-independent quantum key distribution (MDI-QKD) was proposed to remove this limitation by allowing all measurements to be performed by a completely untrusted party, under the assumption that…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-19T05:00:00Z",
+   "first_seen": "2026-11-19T07:58:46Z"
+  },
+  {
+   "id": "b48cd15e97f086de",
+   "title": "Post-Quantum Cryptography Education for Software Developers: A Multivocal Literature Review",
+   "url": "https://arxiv.org/abs/2611.23311",
+   "summary": "Quantum computing threatens widely deployed public-key cryptography, making post-quantum cryptography (PQC) adoption a software engineering challenge. However, it remains unclear how well existing educational provision prepares software developers for secure PQC implementation and migration. We conducted a multivocal literature review of 8…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-19T05:00:00Z",
+   "first_seen": "2026-11-19T07:58:46Z"
   },
   {
    "id": "bd3d79cf7862c66c",
@@ -510,20 +640,6 @@
    "date": "2026-11-18T12:54:07Z",
    "first_seen": "2026-11-18T18:46:27Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_17-53.png"
-  },
-  {
-   "id": "b1cfd88af1bbe2a4",
-   "title": "IonQ | IonQ Introduces Federal Advisory Board",
-   "url": "https://ionq.com/news/meet-the-ionq-federal-advisory-board",
-   "summary": "Mission owners and program office leaders have pressing questions about quantum implementation that many vendors aren’t ready to answer: Far beyond the physics of quantum, these leaders are asking where they need quantum first, how to run a successful pilot, and how to plan for cryptographic migration",
-   "source": "IonQ",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Menace quantique"
-   ],
-   "date": "2026-11-18T12:52:23Z",
-   "first_seen": "2026-11-18T18:46:27Z"
   },
   {
    "id": "ceea88a3e8155327",
@@ -692,20 +808,6 @@
    "date": "2026-11-18T05:00:00Z",
    "first_seen": "2026-10-20T04:04:28Z",
    "lang": "en"
-  },
-  {
-   "id": "aab6cd60e3c23cad",
-   "title": "Distrustful entanglement-based Quantum Key Distribution",
-   "url": "https://arxiv.org/abs/2611.21759",
-   "summary": "Quantum key distribution (QKD) is the one of the most explored application of quantum information theory. While practical QKD systems are being deployed around the world, a major issue of these setups are that one has to trust the measurement devices of both parties. On the other hand, the most secure among such schemes are called…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD"
-   ],
-   "date": "2026-11-18T05:00:00Z",
-   "first_seen": "2026-11-18T09:59:56Z"
   },
   {
    "id": "3e4b69c3d1b9f88d",
@@ -1691,6 +1793,20 @@
    "first_seen": "2026-11-16T18:56:58Z"
   },
   {
+   "id": "fd48863e1046c215",
+   "title": "Bounds of Falcon's Fast Fourier Sampler with Fixed-Point Arithmetic",
+   "url": "https://eprint.iacr.org/2026/2902",
+   "summary": "Falcon was selected by NIST for standardization as FN-DSA in the forthcoming FIPS 206, and its signature generation is driven by the fast Fourier sampler, defined over the complex numbers. This report bounds the Rényi divergence between the sampler in real arithmetic and its fixed-point implementation, on the tail-cut event, where every sample…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-15T22:50:20Z",
+   "first_seen": "2026-11-19T07:58:46Z"
+  },
+  {
    "id": "aecc7ed50d08bc3b",
    "title": "Philippines Manila Team finds quantum eavesdropping detection may not settle after twenty rounds",
    "url": "https://quantumzeitgeist.com/quantum-key-distribution-adaptive-eavesdropping-detection-limit/",
@@ -1704,6 +1820,22 @@
    "date": "2026-11-15T19:18:37Z",
    "first_seen": "2026-11-15T22:00:34Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/philippines-manila-team-finds-quantum-eavesdropping-detection-may-not-settle-aft.png"
+  },
+  {
+   "id": "a799db8fae2f63cf",
+   "title": "Aker: Efficient Two-Party SLH-DSA",
+   "url": "https://eprint.iacr.org/2026/2899",
+   "summary": "Threshold signing is widely deployed to protect cryptographic keys, but extending these deployments to post-quantum signatures remains challenging. While NIST's lattice-based signatures now have efficient threshold protocols, distributed signing for SLH-DSA (FIPS 205), NIST's stateless hash-based signature standard, has been considered…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-15T12:41:38Z",
+   "first_seen": "2026-11-19T07:58:46Z"
   },
   {
    "id": "0245040eef98a3ab",
@@ -1721,6 +1853,20 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/1d-gaussian-modulation-simplifies-cv-qkd.png"
   },
   {
+   "id": "331b5cc139f57441",
+   "title": "LEASH: When LaBRADOR’s Guarantees Go Astray",
+   "url": "https://eprint.iacr.org/2026/2898",
+   "summary": "Succinct arguments enable efficient verification of large computations, while lattice-based constructions offer a promising path toward post-quantum security. LaBRADOR advances this direction through recursive reductions of knowledge that achieve compact proofs. However, these reductions require careful control of witness norms, relation…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-15T10:30:26Z",
+   "first_seen": "2026-11-19T07:58:46Z"
+  },
+  {
    "id": "2aedf3dc0e6399d9",
    "title": "Quip finds no fully post-quantum Ethereum layer 2 rollup",
    "url": "https://quantumzeitgeist.com/starknet-post-quantum-ethereum-rollup-quip/",
@@ -1735,6 +1881,20 @@
    "date": "2026-11-15T00:00:00Z",
    "first_seen": "2026-11-17T19:44:52Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/quip-fully-post-quantum-ethereum-layer.png"
+  },
+  {
+   "id": "498de89fccb4a6bd",
+   "title": "Concrete Quantum Circuit Implementations and Resource Estimates for the Quantum 3 and 4-Sieves",
+   "url": "https://eprint.iacr.org/2026/2895",
+   "summary": "Chailloux and Loyer (2023) introduced quantum 3- and 4-sieve algorithms for the Shortest Vector Problem (SVP) with asymptotic analyses, but concrete circuit implementations remain unexplored. We present the first complete reversible circuits for both algorithms, designing inner-product predicates with signed symmetric squaring across three…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-14T22:28:42Z",
+   "first_seen": "2026-11-19T07:58:46Z"
   },
   {
    "id": "e0a4667fb2453dd8",
