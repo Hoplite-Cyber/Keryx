@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T17:15:24Z",
- "count": 1103,
+ "generated_at": "2026-11-19T23:36:36Z",
+ "count": 1107,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 18
+   "kept": 19
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 168
+   "kept": 167
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 8
   },
   {
    "name": "ETSI – actualités",
@@ -306,7 +306,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 790,
+   "fetched": 791,
    "kept": 40
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T17:15:24Z",
+   "date": "2026-11-19T23:36:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-19T17:15:24Z",
+   "date": "2026-11-19T23:36:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-19T17:15:24Z",
+   "date": "2026-11-19T23:36:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T17:15:24Z",
+   "date": "2026-11-19T23:36:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,70 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-19T17:15:24Z",
+   "date": "2026-11-19T23:36:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "4bfa5d9647b6abd7",
+   "title": "Quantum Computing Roadmap Signals Effort on Error Correction",
+   "url": "https://quantumzeitgeist.com/ionq-quantum-computing-roadmap-office-science/",
+   "summary": "Organizations planning for post-quantum cryptography (PQC) should act now, as the November 2026 Quantum Briefing highlights years-long migration times amid accelerating advances in quantum computing.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T22:12:20Z",
+   "first_seen": "2026-11-19T23:36:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-computing-roadmap-signals-effort-error.png"
+  },
+  {
+   "id": "686c082414bee093",
+   "title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
+   "url": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
+   "summary": "Insider Brief It turns out teamwork can indeed make the dream work, even when the team isn’t allowed to talk. It helps to have a few entangled qubits, though. In a study, a Google-led team of researchers used a quantum chip to beat the best classical strategies in games that barred players from communicating, demonstrating [...]",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T20:31:49Z",
+   "first_seen": "2026-11-19T23:36:36Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Amber-and-blue-3x3-grid-1.png"
+  },
+  {
+   "id": "b1cfd88af1bbe2a4",
+   "title": "IonQ | IonQ Introduces Federal Advisory Board",
+   "url": "https://ionq.com/news/meet-the-ionq-federal-advisory-board",
+   "summary": "Mission owners and program office leaders have pressing questions about quantum implementation that many vendors aren’t ready to answer: Far beyond the physics of quantum, these leaders are asking where they need quantum first, how to run a successful pilot, and how to plan for cryptographic migration",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-19T17:47:39Z",
+   "first_seen": "2026-11-18T18:46:27Z"
+  },
+  {
+   "id": "e23dbc25653c2398",
+   "title": "Delta Gold Launches Dedicated Quantum Sensing Program",
+   "url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+   "summary": "With new equipment funding at Penn State and the University of Toronto, Delta Gold Technologies has launched a dedicated quantum sensing program, allowing its gold nanoclusters to get to work on navigation and magnetic sensing while the quantum computing effort continues. Insider Brief For most of us, day-to-day navigation happens somewhere…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-19T17:12:49Z",
+   "first_seen": "2026-11-19T23:36:36Z"
   },
   {
    "id": "8a3683de722b058a",
@@ -523,20 +584,6 @@
    "date": "2026-11-19T11:51:36Z",
    "first_seen": "2026-11-19T17:15:24Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/BMO-Financial-Group-Communications-BMO-Demonstrates-Quantum-Ut.jpg"
-  },
-  {
-   "id": "b1cfd88af1bbe2a4",
-   "title": "IonQ | IonQ Introduces Federal Advisory Board",
-   "url": "https://ionq.com/news/meet-the-ionq-federal-advisory-board",
-   "summary": "Mission owners and program office leaders have pressing questions about quantum implementation that many vendors aren’t ready to answer: Far beyond the physics of quantum, these leaders are asking where they need quantum first, how to run a successful pilot, and how to plan for cryptographic migration",
-   "source": "IonQ",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Menace quantique"
-   ],
-   "date": "2026-11-19T07:24:42Z",
-   "first_seen": "2026-11-18T18:46:27Z"
   },
   {
    "id": "28c54f9822c14376",
@@ -11065,6 +11112,20 @@
    "first_seen": "2026-10-20T12:25:07Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/nist-standards-drive-demand-11-quantum.jpg",
    "lang": "en"
+  },
+  {
+   "id": "9692ca3e5890dbf1",
+   "title": "Codetta: High-Capacity, Keyless, and Undetectable Multi-Agent Collusion",
+   "url": "https://eprint.iacr.org/2026/2218",
+   "summary": "Multi-agent systems powered by large language models (LLMs) achieve strong performance through natural-language collaboration. The same communication channel can also enable collusion, such as exfiltrating confidential data or coordinating unauthorized actions. While auditors inspect transcripts to detect suspicious behavior, steganography could…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-09-25T20:48:36Z",
+   "first_seen": "2026-11-19T23:36:36Z"
   },
   {
    "id": "3ada0a6f08048c2e",
