@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T04:14:28Z",
- "count": 1107,
+ "generated_at": "2026-11-20T12:59:30Z",
+ "count": 1130,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 19
+   "kept": 21
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 171,
-   "kept": 6
+   "fetched": 169,
+   "kept": 15
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 69,
-   "kept": 1
+   "fetched": 77,
+   "kept": 6
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 167
+   "kept": 168
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 8
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-20T04:14:28Z",
+   "date": "2026-11-20T12:59:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-20T04:14:28Z",
+   "date": "2026-11-20T12:59:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-20T04:14:28Z",
+   "date": "2026-11-20T12:59:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-20T04:14:28Z",
+   "date": "2026-11-20T12:59:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,332 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-20T04:14:28Z",
+   "date": "2026-11-20T12:59:30Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "d2b4e32403e8854c",
+   "title": "KT and LG Electronics Demonstrate Quantum Secure Direct Communication",
+   "url": "https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/",
+   "summary": "Insider Brief Image and text data were sent and then recovered at the receiving end using a quantum secure direct communication (QSDC) system that KT developed jointly with LG Electronics, KT said on Thursday, according to Digital Today. Digital Today described QSDC as a next-generation quantum communications technology that carries the…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-20T11:27:32Z",
+   "first_seen": "2026-11-20T12:59:30Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-20_16-26.png"
+  },
+  {
+   "id": "1e5ee488cf99f2b7",
+   "title": "Mastercard Launches Quantum Advisory Practice for Financial Services",
+   "url": "https://thequantuminsider.com/2026/11/20/mastercard-quantum-advisory-practice-financial-services/",
+   "summary": "Insider Brief PRESS RELEASE — Quantum computing is not currently a mainstream technology, but cybersecurity experts and the financial services industry need to operate as if it’s here. Quantum computing has transformative potential, from strengthening fraud detection to optimizing financial operations and loyalty, to unlocking new forms of…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-20T09:51:04Z",
+   "first_seen": "2026-11-20T12:59:30Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-20_14-50.png"
+  },
+  {
+   "id": "e737cdd75841912d",
+   "title": "Hospitals and suppliers must share quantum security work",
+   "url": "https://quantumzeitgeist.com/quantum-security-work-hospitals-suppliers-share/",
+   "summary": "Healthcare’s post-quantum cryptography (PQC) transition requires collaboration, as patient data confidentiality can span decades.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T08:03:59Z",
+   "first_seen": "2026-11-20T12:59:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/hospitals-suppliers-must-share-quantum-security-scaled.jpeg"
+  },
+  {
+   "id": "70978010078c4cb5",
+   "title": "Senetas sees quantum-ready defence tech adoption accelerating",
+   "url": "https://quantumzeitgeist.com/senetas-sees-quantum-ready-defence-tech/",
+   "summary": "At AUSA 2026, Senetas noted accelerating defense tech adoption, with conversations focused on post-quantum cryptography (PQC) and resilient communications.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T08:01:39Z",
+   "first_seen": "2026-11-20T12:59:30Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/senetas-sees-quantum-ready-defence-tech-adoption-accelerating.jpg"
+  },
+  {
+   "id": "2534bcea02f4f99a",
+   "title": "QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements",
+   "url": "https://arxiv.org/abs/2611.10403",
+   "summary": "We present QUASI, a newly conceived class of hash-based, post-quantum-secure protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. QUASI produces attestations that reduce the size and verification cost to a fraction of a full hash-based signatures collection, without relying on…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "937de59c28c15842",
+   "title": "Birthday-Scale Non-Adaptive Security for Strong Pseudorandom Unitaries",
+   "url": "https://arxiv.org/abs/2611.25038",
+   "summary": "Pseudorandom unitaries (PRUs) are efficiently implementable unitary ensembles that are computationally indistinguishable from Haar-random unitaries, providing efficient substitutes for Haar-randomness in quantum information and cryptography. Strong PRUs require this indistinguishability to hold even when the adversary is given access to all of…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "e68ad2544feb7cf2",
+   "title": "Finite-Key Analysis for Multiple-Antenna Quantum Key Distribution with Continuous Variables",
+   "url": "https://arxiv.org/abs/2611.26066",
+   "summary": "Multiple-input multiple-output (MIMO) techniques, known for their use in wireless communications, can also find applications in quantum communications systems. This is, for instance, relevant to satellite-based quantum communications when atmospheric turbulence and the time-varying nature of the channel can make their implementation difficult.…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "656ce1d3a9fac186",
+   "title": "A receiver-side approach to confirm phase randomization in BB84 time-bin QKD with weak coherent pulses",
+   "url": "https://arxiv.org/abs/2611.26147",
+   "summary": "In quantum cryptography using time-bin BB84 protocols, the relative phase of symbol pulses has to be random to avoid vulnerability to coherent attacks. Typically this phase randomization is checked on the sender side. Here, we propose a protocol for monitoring and confirming phase randomization independently on the receiver side during operation.…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "044451036e0e5ef8",
+   "title": "Improving the signal-to-noise ratio through postselection of coincident detections in anticounterfeiting and quantum key distribution",
+   "url": "https://arxiv.org/abs/2611.26210",
+   "summary": "In quantum communications and other photon-counting applications, reliably detecting weak optical signals against a strong noise background remains a fundamental challenge. In this paper, we develop a simple idea: when a signal is carried by pairs (or more generally multiplets) of photons emitted simultaneously, postselection of coincident…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "3d642b7c44384cde",
+   "title": "Quantifying the irrealism required by quantum random access codes",
+   "url": "https://arxiv.org/abs/2611.26340",
+   "summary": "How far must decoding observables be from having elements of reality to achieve a given quantum advantage in a communication task? We answer this question for quantum random access codes. Here, an observable has an element of reality when its unrevealed measurement leaves the preparation undisturbed; its irrealism is the relative entropy to the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "fc7d3dc9959ef612",
+   "title": "When lies look like noise: certifying untrusted entanglement swapping",
+   "url": "https://arxiv.org/abs/2611.26436",
+   "summary": "Entanglement swapping lets quantum repeaters distribute entanglement over long distances, a prerequisite for the quantum internet. We study its security in a noisy network whose intermediate nodes perform the quantum operations faithfully but may misreport the classical outcome that end users rely on. We show that the ideal functionality of…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "e89932cdd2a10304",
+   "title": "On the design of sequential quantum repeaters with error detection",
+   "url": "https://arxiv.org/abs/2611.26537",
+   "summary": "Long-distance, trust-free quantum communications rely on the development of scalable quantum repeater schemes. Sequential entanglement generation with error detection is a promising approach that combines manageable implementation requirements with a hop-by-hop architecture compatible with existing classical infrastructure. In this paper, we…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "129df2c0e6400636",
+   "title": "Authenticating quantum key distribution through random position checks",
+   "url": "https://arxiv.org/abs/2611.26542",
+   "summary": "Quantum key distribution (QKD) requires some form of authentication in order for the parties to be sure they are not unknowingly generating a key with an adversary pretending to be one of the honest parties. In this work, we propose a protocol in which the position of one of the parties is used as the authentication credential for key…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "279b06cd459da250",
+   "title": "Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA",
+   "url": "https://arxiv.org/abs/2611.26574",
+   "summary": "Remark: This work is in submission at STOC'27 and thus the full manuscript has been publicly posted on the conference website since November 3rd, 2026. Inspired by the Codeword-Hash Structure problem recently introduced by Cakan (arXiV, 2026) to separate $\\mathsf{QMA}$ from $\\mathsf{QCIP}$, we introduce a new problem called Codeword-Hash pairs in…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "dea97b3cf35069b3",
+   "title": "Correctable Enrollment and One-Transaction Seed Proofs for Ethereum's Post-Quantum Transition",
+   "url": "https://arxiv.org/abs/2611.25663",
+   "summary": "A quantum computer running Shor's algorithm can extract the private key of every Ethereum account whose public key is published, and accounts exposed by their own transactions hold 54.6% of execution-layer ETH. As the first such machine may stay secret, a migration cannot wait for visible thefts, and once keys are extractable, legacy signatures no…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "b8d702afde630acf",
+   "title": "A Modular PyTheus Quantum Network Interpreter: Automated Analysis and Visualization of Optimized Quantum Architectures",
+   "url": "https://arxiv.org/abs/2507.12997",
+   "summary": "We present a modular interpreter for PyTheus-optimized quantum networks that automatically analyzes and visualizes complex quantum architectures discovered through automated optimization. The interpreter addresses the critical challenge of understanding machine-designed quantum networks by providing robust algorithms for functional role…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "93b0b44c62f6b96d",
+   "title": "Verifiable Quantum Advantage via Optimized DQI Circuits",
+   "url": "https://arxiv.org/abs/2510.10967",
+   "summary": "Recently, a quantum algorithm called Decoded Quantum Interferometry (DQI) was introduced that achieves an apparent exponential speedup for Optimal Polynomial Intersection (OPI) problem, which has previously been studied in the contexts of cryptography and error correcting codes. However, this left open the question of how many logical gates and…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "ff7a62f535b191ba",
+   "title": "Non-Maximally Entangled States for Quantum Key Distribution in Underwater Channels: BBM92 Protocol via Kraus Operators",
+   "url": "https://arxiv.org/abs/2605.23547",
+   "summary": "Underwater optical channels pose significant challenges to the security and reliability of quantum communication systems due to absorption and scattering. In this paper, we investigate the BBM92 entanglement-based quantum key distribution (EBQKD) protocol under realistic conditions over a non-turbulent underwater channel. Photon pairs are prepared…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "b2edcde0404e0626",
+   "title": "Shor's algorithm compiled on cat qubits: 22 593 qubits for RSA-2048 in 3.14 days",
+   "url": "https://arxiv.org/abs/2610.37839",
+   "summary": "We present an end-to-end resource estimation of Shor's algorithm on superconducting cat qubits, from its mathematical description to the allocation and scheduling of physical qubits on a chip layout. We review modern versions of Shor's algorithm for RSA, ECDLP and FFDLP, and make their logical circuits and trade-offs explicit. We compile the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "f3b78cd3f185d050",
+   "title": "Multidimensional Reconciliation in Continuous-Variable QKD: Review, Coding Schemes, and Open-Source Simulation",
+   "url": "https://arxiv.org/abs/2606.02323",
+   "summary": "Continuous-variable quantum key distribution (CV-QKD) requires highly efficient reconciliation techniques to operate at low signal-to-noise ratios and long distances. Multidimensional reconciliation addresses this challenge by transforming the physical Gaussian quantum channel into a virtual binary-input additive white Gaussian noise (BIAWGN)…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "0bdb02af4cf20798",
+   "title": "From FIPS to FPGA with LLM Agents: Measuring What Tests and Reviews Miss in Post-Quantum Cryptographic Hardware",
+   "url": "https://arxiv.org/abs/2611.25339",
+   "summary": "As LLM agents increasingly generate RTL alongside the tests and reviews that validate it, self-generated evidence is a weak foundation for trustworthy hardware. We present our seven-stage verification-gated workflow, evolved during a post-quantum design port, in which a gate counts only if shown able to fail on negative controls and fault mutants…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "ade4ae6059df1adb",
+   "title": "HDKEM: Authentication Allocation for Deniable Hybrid Key Exchange",
+   "url": "https://arxiv.org/abs/2610.16100",
+   "summary": "A deniable authenticated key exchange (DAKE) establishes an authenticated shared key without giving third parties proof of participation. Post-quantum DAKEs use ring signatures, message authentication codes, or split key-encapsulation mechanisms, which differ in who can authenticate and how deniability is achieved. We introduce…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-20T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
   },
   {
    "id": "4bfa5d9647b6abd7",
@@ -3262,20 +3585,6 @@
    "first_seen": "2026-11-10T15:37:51Z"
   },
   {
-   "id": "2534bcea02f4f99a",
-   "title": "QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements",
-   "url": "https://arxiv.org/abs/2611.10403",
-   "summary": "We present QUASI, a newly conceived class of protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. Designed for quorum-based systems, QUASI enables parties to attest to external entities that the statement is valid. Surprisingly, each party need not sign the entire statement…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC"
-   ],
-   "date": "2026-11-10T05:00:00Z",
-   "first_seen": "2026-11-10T15:37:51Z"
-  },
-  {
    "id": "6628fe1c457a4484",
    "title": "PQC-Corpus: A Dataset of Linked Development Histories for Post-Quantum Cryptography",
    "url": "https://arxiv.org/abs/2611.10966",
@@ -5202,9 +5511,9 @@
   },
   {
    "id": "901622dea204f9d8",
-   "title": "Correlation Power Analysis on SHA-2-Based SLH-DSA",
+   "title": "Correlation Power Analysis of SHA-2-Based SLH-DSA",
    "url": "https://eprint.iacr.org/2026/2753",
-   "summary": "The stateless hash-based digital signature algorithm (SLH-DSA) repeatedly processes a fixed secret seed with varying public addresses. This paper presents non-profiled correlation power analysis of the address-based pseudorandom function for all six SHA-2 parameter sets, using separate recovery paths through SHA-256 compression rounds and…",
+   "summary": "SLH-DSA repeatedly processes a fixed secret seed together with varying public addresses, making its physical implementation a target for side-channel analysis. We present non-profiled correlation power analysis (CPA) procedures for the address-based pseudorandom function in all six SHA-2-based SLH-DSA parameter sets, using SHA256 compression…",
    "source": "IACR ePrint",
    "category": "Recherche",
    "lang": "en",
@@ -11523,6 +11832,37 @@
    ],
    "date": "2026-09-21T11:46:55Z",
    "first_seen": "2026-10-26T09:55:10Z"
+  },
+  {
+   "id": "a30e4e14504a8634",
+   "title": "Provable dual attack on LWE via lattice projection",
+   "url": "https://eprint.iacr.org/2026/2117",
+   "summary": "The Learning with Errors (LWE) problem is a cornerstone of post-quantum cryptography, and the dual attack is a central tool for evaluating its concrete hardness. In provable dual attacks, a major bottleneck is the large number of discrete Gaussian samples required over the dual lattice. While recent works have focused on accelerating the guessing…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-09-20T01:17:19Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "6d0c6f76222f18e9",
+   "title": "Succinct Arguments for QMA in the Quantum Random Oracle Model",
+   "url": "https://eprint.iacr.org/2026/2099",
+   "summary": "Succinct arguments are a fundamental cryptographic primitive for verifying computational claims with small communication. In the classical setting, succinct arguments for NP can be constructed from unstructured hardness alone (e.g., hash functions) by compiling probabilistically checkable proofs (PCPs) or interactive oracle proofs (IOPs) for NP…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-09-18T20:18:35Z",
+   "first_seen": "2026-11-20T12:59:30Z"
   },
   {
    "id": "0e49aa2de10e099a",
