@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T12:59:30Z",
- "count": 1130,
+ "generated_at": "2026-11-20T20:59:50Z",
+ "count": 1127,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 21
+   "kept": 20
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-20T12:59:30Z",
+   "date": "2026-11-20T20:59:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-20T12:59:30Z",
+   "date": "2026-11-20T20:59:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-20T12:59:30Z",
+   "date": "2026-11-20T20:59:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-20T12:59:30Z",
+   "date": "2026-11-20T20:59:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,39 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-20T12:59:30Z",
+   "date": "2026-11-20T20:59:50Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "1821ec3d115bdc6e",
+   "title": "Random position checks could authenticate quantum communications",
+   "url": "https://quantumzeitgeist.com/quantinuum-random-position-checks-authenticate-quantum/",
+   "summary": "This work details a quantum key distribution (QKD) protocol using quantum position verification (QPV) rounds, interleaved to authenticate parties.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-20T15:46:59Z",
+   "first_seen": "2026-11-20T20:59:50Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/random-position-checks-could-authenticate-quantum-communications.png"
+  },
+  {
+   "id": "a8e0b566a7166461",
+   "title": "Quantus Launches a Quantum-Secure Cold Wallet That Runs on Any Spare Phone",
+   "url": "https://thequantuminsider.com/2026/11/20/quantus-quantum-secure-cold-wallet-spare-phone/",
+   "summary": "Insider Brief PRESS RELEASE — Quantus has released the Quantus Cold Wallet, an open-source mobile app that converts any spare smartphone into an entirely air-gapped, offline crypto wallet. The launch aims to eliminate the hidden vulnerabilities of traditional hardware wallets, which frequently expose buyers to both digital supply-chain tampering…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-20T12:58:37Z",
+   "first_seen": "2026-11-20T20:59:50Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-20_17-57.png"
   },
   {
    "id": "d2b4e32403e8854c",
@@ -1417,6 +1447,21 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_00-32.png"
   },
   {
+   "id": "d3cc06de7b5133df",
+   "title": "From Theory to Practice: Quantinuum’s First InQuanto Summer School",
+   "url": "https://www.quantinuum.com/blog/from-theory-to-practice-quantinuums-first-inquanto-summer-school",
+   "summary": "Quantinuum’s first InQuanto Summer School, supported by the UK’s National Quantum Computing Centre (NQCC), combined lectures, hands-on workshops, and mini-projects to help participants connect fundamental concepts with practical research. By the end of the week, participants were applying those ideas to problems ranging from molecular electronic…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-17T16:14:25Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6abeba64578aa23a2d448c60_InQuanto-Media-Preview.png"
+  },
+  {
    "id": "8ab35889db74487c",
    "title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
    "url": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
@@ -1881,21 +1926,6 @@
    "date": "2026-11-16T21:55:27Z",
    "first_seen": "2026-11-17T02:25:08Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/splendor-labs-wallet-eyes-quantum-security-scaled.jpeg"
-  },
-  {
-   "id": "d3cc06de7b5133df",
-   "title": "From Theory to Practice: Quantinuum’s First InQuanto Summer School",
-   "url": "https://www.quantinuum.com/blog/from-theory-to-practice-quantinuums-first-inquanto-summer-school",
-   "summary": "Quantinuum’s first InQuanto Summer School, supported by the UK’s National Quantum Computing Centre (NQCC), combined lectures, hands-on workshops, and mini-projects to help participants connect fundamental concepts with practical research. By the end of the week, participants were applying those ideas to problems ranging from molecular electronic…",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-16T20:51:47Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6abeba64578aa23a2d448c60_InQuanto-Media-Preview.png"
   },
   {
    "id": "0b440a2510552022",
@@ -2370,6 +2400,21 @@
    "first_seen": "2026-11-19T07:58:46Z"
   },
   {
+   "id": "f73cd3efe76c29df",
+   "title": "Quantinuum Recognized as a “Market Shaper” by Gartner",
+   "url": "https://www.quantinuum.com/blog/quantinuum-recognized-as-a-market-shaper-by-gartner",
+   "summary": "Quantinuum has been recognized as a “Market Shaper” in Gartner’s first Emerging Market Quadrant for Quantum Computing - Established Vendors. According to Gartner, Market Shapers combine a high potential to transform the market with strong execution capabilities.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-13T21:52:13Z",
+   "first_seen": "2026-11-13T21:32:03Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af752abe36bfc54fcb5799c_Quantinuum-Gartner-Media-Preview.png"
+  },
+  {
    "id": "e0a4667fb2453dd8",
    "title": "Byzantine Agreement with Signature Tokens",
    "url": "https://eprint.iacr.org/2026/2890",
@@ -2398,21 +2443,6 @@
    "date": "2026-11-13T18:36:11Z",
    "first_seen": "2026-11-13T21:32:03Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Atom-Computing-in-Quantum-Waves-1.png"
-  },
-  {
-   "id": "f73cd3efe76c29df",
-   "title": "Quantinuum Recognized as a “Market Shaper” by Gartner",
-   "url": "https://www.quantinuum.com/blog/quantinuum-recognized-as-a-market-shaper-by-gartner",
-   "summary": "Quantinuum has been recognized as a “Market Shaper” in Gartner’s first Emerging Market Quadrant for Quantum Computing - Established Vendors. According to Gartner, Market Shapers combine a high potential to transform the market with strong execution capabilities.",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-13T18:33:05Z",
-   "first_seen": "2026-11-13T21:32:03Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af752abe36bfc54fcb5799c_Quantinuum-Gartner-Media-Preview.png"
   },
   {
    "id": "787a243b69ed04c9",
@@ -2817,6 +2847,36 @@
    "first_seen": "2026-11-13T21:32:03Z"
   },
   {
+   "id": "1a93280e9e67d8d1",
+   "title": "Reimei Powers Up to Help Japan Lead the Next Era of Discovery",
+   "url": "https://www.quantinuum.com/blog/quantinuum-and-riken-announcement",
+   "summary": "RIKEN and Quantinuum have upgraded the Reimei quantum computer to Quantinuum’s System Model H2, bringing quantum advantage into sight with their hybrid supercomputing platform. Their combination of Reimei, the supercomputer Fugaku, and the ROQUO GPU supercomputer is a world-leading platform that reaches far beyond what any modality can currently…",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T22:41:13Z",
+   "first_seen": "2026-11-10T15:37:51Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af24e2cfaf0fc25c536ff73_Reimei-Blog-Media-Preview.png"
+  },
+  {
+   "id": "6d5eeecc92c25b15",
+   "title": "Introducing Helios: The Most Accurate Quantum Computer in the World",
+   "url": "https://www.quantinuum.com/blog/introducing-helios-the-most-accurate-quantum-computer-in-the-world",
+   "summary": "Introducing Quantinuum Helios: The Most Accurate Quantum Computer in the World",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-12T22:41:13Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/690b7e9735632d985a336a96_helios-blog-media-preview.png"
+  },
+  {
    "id": "7068a3410013419c",
    "title": "IonQ Inc Team Separates Public Encryption from Hard Problems",
    "url": "https://quantumzeitgeist.com/quantum-encryption-separation-of-public-key-problems/",
@@ -2830,21 +2890,6 @@
    "date": "2026-11-12T21:00:00Z",
    "first_seen": "2026-11-13T00:30:39Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/ionq-inc-team-separates-public-encryption-from-hard-problems.jpeg"
-  },
-  {
-   "id": "1a93280e9e67d8d1",
-   "title": "Reimei Powers Up to Help Japan Lead the Next Era of Discovery",
-   "url": "https://www.quantinuum.com/blog/quantinuum-and-riken-announcement",
-   "summary": "RIKEN and Quantinuum have upgraded the Reimei quantum computer to Quantinuum’s System Model H2, bringing quantum advantage into sight with their hybrid supercomputing platform. Their combination of Reimei, the supercomputer Fugaku, and the ROQUO GPU supercomputer is a world-leading platform that reaches far beyond what any modality can currently…",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-12T18:14:59Z",
-   "first_seen": "2026-11-10T15:37:51Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6af24e2cfaf0fc25c536ff73_Reimei-Blog-Media-Preview.png"
   },
   {
    "id": "5294955d0f39f2c5",
@@ -2861,21 +2906,6 @@
    "date": "2026-11-12T17:40:48Z",
    "first_seen": "2026-11-12T19:10:25Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/cockpit-launches-quantum-hybrid-key-sealing-under-bsi-1-scaled.jpg"
-  },
-  {
-   "id": "6d5eeecc92c25b15",
-   "title": "Introducing Helios: The Most Accurate Quantum Computer in the World",
-   "url": "https://www.quantinuum.com/blog/introducing-helios-the-most-accurate-quantum-computer-in-the-world",
-   "summary": "Introducing Quantinuum Helios: The Most Accurate Quantum Computer in the World",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2026-11-12T16:24:26Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/690b7e9735632d985a336a96_helios-blog-media-preview.png"
   },
   {
    "id": "b885cd0dc500ab33",
@@ -17415,82 +17445,6 @@
    ],
    "date": "2024-12-10T01:29:13Z",
    "first_seen": "2026-10-26T09:55:10Z"
-  },
-  {
-   "id": "e55a22e0d8674b9c",
-   "title": "Quantinuum Customer JPMorgan Chase Advances Constrained Quantum Optimization with New 20-Qubit System",
-   "url": "https://www.quantinuum.com/blog/quantinuum-customer-jpmorgan-chase-advances-constrained-quantum-optimization-with-new-20-qubit-system",
-   "summary": "Quantinuum H1-1 returns promising results on large-scale extractive summarization experiment",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2024-11-20T18:31:25Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21926a2ce4603037683_6361375b96e1e434b200b383_Honeywell-Quantum-Solutions---Trap-Inside-the-Chamber-(2).jpeg"
-  },
-  {
-   "id": "b55be7789209ca3e",
-   "title": "Quantinuum extends its significant lead in quantum computing, achieving historic milestones for hardware fidelity and Quantum Volume",
-   "url": "https://www.quantinuum.com/blog/quantinuum-extends-its-significant-lead-in-quantum-computing-achieving-historic-milestones-for-hardware-fidelity-and-quantum-volume",
-   "summary": "Quantinuum achieved “three 9's” 2-qubit gate fidelity in its trapped-ion quantum computer and surpassed Quantum Volume one million – exponentially higher than its nearest competitors.",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2024-11-20T18:27:21Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b218324137d15f591a42_661d99447f322021215152b5_three-nines-media-preview_r01%255B46%255D.png"
-  },
-  {
-   "id": "3bb36ca37f86d16e",
-   "title": "Quantinuum announces a world record in fidelity for quantum computing qubits",
-   "url": "https://www.quantinuum.com/blog/quantinuum-announces-a-world-record-in-fidelity-for-quantum-computing-qubits",
-   "summary": "We've achieved 99.9904% SPAM Fidelity with barium-137 sets the standard and creates a further step towards solving some of the world’s most intractable problems.",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2024-11-20T18:23:40Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/673cf954ce0dec158426f99d_01_quantinuum-systems-media-preview.png"
-  },
-  {
-   "id": "c4d0dbeb0ec118d2",
-   "title": "Quantinuum Researchers Demonstrate a new Optimization Algorithm that delivers solutions on H2 Quantum Computer",
-   "url": "https://www.quantinuum.com/blog/quantinuum-researchers-demonstrate-a-new-optimization-algorithm-that-delivers-solutions-on-h2-quantum-computer",
-   "summary": "Quantum computing algorithm reliably and consistently solves combinatorial optimization problems using minimal quantum resources",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2024-11-20T18:23:02Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21a2463bfa0a99c2bf4_64594f16ea5b2a837ddd9833_6452e499fa096bdcaed78069_H2-combinatorial-optimization-thumbnail.png"
-  },
-  {
-   "id": "c0084fea9db37b05",
-   "title": "Quantinuum uses the extremely high precision of the H2-1 quantum computer to take a step forward in the race to understand exotic physics",
-   "url": "https://www.quantinuum.com/blog/quantinuum-uses-the-extremely-high-precision-of-the-h2-1-quantum-computer-to-take-a-step-forward-in-the-race-to-understand-exotic-physics",
-   "summary": "A joint team of scientists at Quantinuum, NIST, and the University of Maryland have measured the Loschmidt amplitude of the Fermi-Hubbard model, demonstrating a vital tool for understanding enigmatic phases of matter such as superconductivity",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques",
-    "Normes & politiques"
-   ],
-   "date": "2024-11-20T18:22:00Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b21bbc1036fb1e7a2c6a_6511809eaae280ed519d9a17_MediaPreview_FermiHubbard.png"
   }
  ]
 }
