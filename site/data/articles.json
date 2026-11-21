@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T16:58:10Z",
- "count": 1129,
+ "generated_at": "2026-11-21T22:07:12Z",
+ "count": 1133,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 21
+   "kept": 23
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T16:58:10Z",
+   "date": "2026-11-21T22:07:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-21T16:58:10Z",
+   "date": "2026-11-21T22:07:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-21T16:58:10Z",
+   "date": "2026-11-21T22:07:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T16:58:10Z",
+   "date": "2026-11-21T22:07:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T16:58:10Z",
+   "date": "2026-11-21T22:07:12Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -2111,6 +2111,20 @@
    "first_seen": "2026-11-16T18:56:58Z"
   },
   {
+   "id": "87d83475dc6afbde",
+   "title": "Recovering HQC Secret Key from Distance Spectrum using Side-Channel Attack",
+   "url": "https://eprint.iacr.org/2026/2914",
+   "summary": "HQC is a code-based key encapsulation mechanism selected for standardiza- tion by NIST. It uses sparse secret vectors in a quasi-cyclic structure, where GJS-style attacks can exploit correlations between private syndrome weight and the secret-key distance spectrum. However, HQC decapsulation does not directly manipulate any syndrome, leaving open…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-16T14:30:30Z",
+   "first_seen": "2026-11-21T22:07:12Z"
+  },
+  {
    "id": "962fc6b756b76a7b",
    "title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
    "url": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
@@ -2220,6 +2234,50 @@
    "date": "2026-11-16T10:01:34Z",
    "first_seen": "2026-11-16T18:56:58Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/national-and-kapodistrian-university-of-athens-achieves-four-user-quantum-networ.png"
+  },
+  {
+   "id": "9d134132a1019db4",
+   "title": "FL$^{2}$RS: Forward-Secure Lattice-based Linkable Ring Signature for Vehicle Anonymity in VANETs",
+   "url": "https://eprint.iacr.org/2026/2911",
+   "summary": "Ring signatures have been extensively researched for Vehicular Ad Hoc Network communications, aiming to safeguard vehicles’ identity privacy and the authenticity of traffic messages. While a variety of such schemes have emerged in recent years, the overwhelming majority still depend on classical hardness assumptions, such as the difficulty of…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-16T09:27:18Z",
+   "first_seen": "2026-11-21T22:07:12Z"
+  },
+  {
+   "id": "141e0dbc03c41fe3",
+   "title": "From Decoding Leakage to Full Key Recovery: A Single-Trace Attack on FALCON",
+   "url": "https://eprint.iacr.org/2026/2908",
+   "summary": "FALCON is one of the post-quantum signature schemes selected by NIST. Its compact keys make it attractive for embedded devices, which are exposed to side-channel attacks. Such attacks on FALCON have so far targeted its Gaussian sampler, its floating-point arithmetic, and its number-theoretic transform. We instead attack a step that runs before any…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-16T06:09:33Z",
+   "first_seen": "2026-11-21T22:07:12Z"
+  },
+  {
+   "id": "8f676560fb4108a9",
+   "title": "Improving the Efficiency of 4-Dimensional SQIsign",
+   "url": "https://eprint.iacr.org/2026/2906",
+   "summary": "SQIsignHD verifies a dimension-4 isogeny where SQIsign verifies a dimension-2 one, which removes the auxiliary curve from the signature but makes verification much costlier. We show that the verifier's chain of dimension-4 isogenies respects an automorphism of order 4 that acts on its theta coordinates as one fixed permutation, for every input…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-16T05:51:28Z",
+   "first_seen": "2026-11-21T22:07:12Z"
   },
   {
    "id": "fa12f74562d3166c",
