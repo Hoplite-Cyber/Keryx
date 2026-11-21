@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T09:38:03Z",
- "count": 1128,
+ "generated_at": "2026-11-21T16:58:10Z",
+ "count": 1129,
  "sources": [
   {
    "name": "ANSSI",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T09:38:03Z",
+   "date": "2026-11-21T16:58:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-21T09:38:03Z",
+   "date": "2026-11-21T16:58:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-21T09:38:03Z",
+   "date": "2026-11-21T16:58:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T09:38:03Z",
+   "date": "2026-11-21T16:58:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T09:38:03Z",
+   "date": "2026-11-21T16:58:10Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "441abb28c17c4328",
+   "title": "Quantum key distribution could gain 6dB from multiple antennas",
+   "url": "https://quantumzeitgeist.com/arxiv-quantum-key-distribution-gain-6db/",
+   "summary": "Multiple-input multiple-output (MIMO) techniques, used in wireless communications, can also apply to quantum communications systems, such as satellite-based quantum key distribution (QKD) where atmospheric turbulence poses challenges. Finite-key analysis indicates that MIMO CV-QKD could outperform both multiplexed and single-mode scenarios, with a…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-21T10:12:54Z",
+   "first_seen": "2026-11-21T16:58:10Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-key-distribution-gain-6db-multiple.png"
   },
   {
    "id": "1821ec3d115bdc6e",
