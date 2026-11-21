@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T02:05:20Z",
- "count": 1127,
+ "generated_at": "2026-11-21T09:38:03Z",
+ "count": 1128,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 20
+   "kept": 21
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 169,
-   "kept": 15
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 77,
-   "kept": 6
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T02:05:20Z",
+   "date": "2026-11-21T09:38:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-21T02:05:20Z",
+   "date": "2026-11-21T09:38:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-21T02:05:20Z",
+   "date": "2026-11-21T09:38:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T02:05:20Z",
+   "date": "2026-11-21T09:38:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T02:05:20Z",
+   "date": "2026-11-21T09:38:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -16510,6 +16510,20 @@
    "date": "2025-10-14T15:40:42Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://physicsworld.com/wp-content/uploads/2025/10/2025-10-ball-quantum-qureca-map-a.jpg"
+  },
+  {
+   "id": "e112c18c8aa22934",
+   "title": "Symphony: Scalable SNARKs in the Random Oracle Model from Lattice-Based High-Arity Folding",
+   "url": "https://eprint.iacr.org/2025/1905",
+   "summary": "Folding/Accumulation schemes are a powerful tool for building scalable proof systems. However, standard approaches for leveraging folding schemes, such as IVCs or PCDs, require embedding hash functions (modeled as random oracles) into recursive circuits, introducing both security concerns and significant proving overhead. We re-envision how to use…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2025-10-12T22:11:24Z",
+   "first_seen": "2026-11-21T09:38:03Z"
   },
   {
    "id": "d8f7b2dc07b2c2f0",
