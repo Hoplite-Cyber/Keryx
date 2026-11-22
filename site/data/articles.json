@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-22T02:17:37Z",
- "count": 1136,
+ "generated_at": "2026-11-22T09:51:48Z",
+ "count": 1137,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 23
+   "kept": 24
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T02:17:37Z",
+   "date": "2026-11-22T09:51:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-22T02:17:37Z",
+   "date": "2026-11-22T09:51:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-22T02:17:37Z",
+   "date": "2026-11-22T09:51:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T02:17:37Z",
+   "date": "2026-11-22T09:51:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T02:17:37Z",
+   "date": "2026-11-22T09:51:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -1312,6 +1312,20 @@
    "date": "2026-11-18T08:46:26Z",
    "first_seen": "2026-11-18T09:59:56Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_13-44.png"
+  },
+  {
+   "id": "aa21bcc06008b7a9",
+   "title": "Shifting Dark Matter: Two-Query Key Recovery on a Post-Quantum OPRF",
+   "url": "https://eprint.iacr.org/2026/2928",
+   "summary": "At the 2026 IEEE Symposium on Security and Privacy, Aranha et al. proposed a maliciously secure post-quantum oblivious pseudorandom function (OPRF) from Crypto Dark Matter. Its strong PRF is $F_k(x) = B \\cdot \\mathrm{vec}(k \\cdot \\mathrm{elt}(E(x))) \\bmod 3$, where the key $k \\in \\mathbb{F}_{2^n}$ multiplies a systematic encoding $E(x)$. In this…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T07:06:34Z",
+   "first_seen": "2026-11-22T09:51:48Z"
   },
   {
    "id": "8683b61d43515b4e",
