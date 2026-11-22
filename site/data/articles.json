@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-22T09:51:48Z",
- "count": 1137,
+ "generated_at": "2026-11-22T17:26:41Z",
+ "count": 1144,
  "sources": [
   {
    "name": "ANSSI",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T09:51:48Z",
+   "date": "2026-11-22T17:26:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-22T09:51:48Z",
+   "date": "2026-11-22T17:26:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-22T09:51:48Z",
+   "date": "2026-11-22T17:26:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T09:51:48Z",
+   "date": "2026-11-22T17:26:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T09:51:48Z",
+   "date": "2026-11-22T17:26:41Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -1085,6 +1085,34 @@
    "first_seen": "2026-11-19T07:58:46Z"
   },
   {
+   "id": "82f2b8cc9370398f",
+   "title": "A Transparent Post-Quantum Zero-Knowledge Argument for R1CS",
+   "url": "https://eprint.iacr.org/2026/2943",
+   "summary": "We construct a transparent, post-quantum zero-knowledge argument of knowledge for R1CS. Satisfiability of $n$ constraints is reduced by two masked sumchecks to linear claims on a committed short vector; every field element the prover reveals is uniform. The witness is committed row-wise with Module-SIS (Ajtai) commitments; evaluation claims are…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-19T02:49:39Z",
+   "first_seen": "2026-11-22T17:26:41Z"
+  },
+  {
+   "id": "c4bbed1423022d53",
+   "title": "Anonymous C2PA: Feasibility of Large-Scale Anonymous Image Provenance",
+   "url": "https://eprint.iacr.org/2026/2939",
+   "summary": "High-quality AI-generated images are easy to create and near-indistinguishable from real photos, heightening the need to reliably establish image authenticity. The Coalition for Content Provenance and Authenticity (C2PA) has developed a technical standard under which cameras and editing software cryptographically sign the images they create, along…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T22:27:19Z",
+   "first_seen": "2026-11-22T17:26:41Z"
+  },
+  {
    "id": "bd3d79cf7862c66c",
    "title": "Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance",
    "url": "https://phys.org/news/2026-11-scalable-photonic-quantum-insights-fundamentals.html",
@@ -1098,6 +1126,35 @@
    "date": "2026-11-18T22:10:12Z",
    "first_seen": "2026-11-19T00:45:03Z",
    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photonic-quantum-compu.jpg"
+  },
+  {
+   "id": "6854078ddf792ddd",
+   "title": "Post-Quantum Adaptive Multiparty NIKE",
+   "url": "https://eprint.iacr.org/2026/2938",
+   "summary": "Non-interactive key exchange (NIKE) is a fundamental cryptographic primitive that enables a group of users to establish a shared secret key without any interaction. Constructing multiparty NIKE for groups larger than three has proven notoriously difficult, with all known constructions requiring indistinguishability obfuscation (iO) or multilinear…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T21:01:02Z",
+   "first_seen": "2026-11-22T17:26:41Z"
+  },
+  {
+   "id": "e0ccc487430a415b",
+   "title": "Aggregating ML-DSA Signatures Without Recursion: A Cross-Field Argument for the Commitment Hash",
+   "url": "https://eprint.iacr.org/2026/2936",
+   "summary": "Consensus protocols must compress tens of thousands of signatures per block, yet ML-DSA (FIPS 204) signatures are kilobytes long and lack native aggregation. Aerie aggregates Falcon signatures into a single succinct proof per batch without recursion, using a sum-check-based polynomial interactive oracle proof (PIOP) over the Akita lattice-based…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T18:45:23Z",
+   "first_seen": "2026-11-22T17:26:41Z"
   },
   {
    "id": "b58aba28507ef77b",
@@ -1236,6 +1293,22 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Alice-Bob-Roadmap-Acceleration.png"
   },
   {
+   "id": "efaa9bbaa1c44537",
+   "title": "Hardware/Software Co-Design of ML-DSA with Random Delay Insertion Against Correlation Power Analysis",
+   "url": "https://eprint.iacr.org/2026/2933",
+   "summary": "Post-Quantum Cryptography (PQC) recently led to the standardization of the Module-Lattice-Based Digital Signature Algorithm (ML-DSA). Standard software implementations of ML-DSA on embedded devices are exposed to physical side-channel attacks, since the power consumption of the circuit depends on the processed secret data and allows key recovery…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-18T12:01:38Z",
+   "first_seen": "2026-11-22T17:26:41Z"
+  },
+  {
    "id": "2b99e2f0876a90df",
    "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
    "url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
@@ -1249,6 +1322,20 @@
    "date": "2026-11-18T12:00:00Z",
    "first_seen": "2026-11-18T18:46:27Z",
    "image": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/11/17/QPV.jpg?itok=l4e1_VCB"
+  },
+  {
+   "id": "fc9305b619dbe66b",
+   "title": "Karu64: An Open RVA23 Processor with Vector Keccak Support",
+   "url": "https://eprint.iacr.org/2026/2932",
+   "summary": "Can a whole-permutation Keccak instruction provide useful post-quantum acceleration inside a general-purpose vector application processor, despite its 1600-bit state and limited register-file bandwidth? We present, to our knowledge, the first hardware implementation of the standards-track RISC-V Zvknhk Vector Keccak extension. We integrate it…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T10:44:49Z",
+   "first_seen": "2026-11-22T17:26:41Z"
   },
   {
    "id": "7d2f0f93d8816c3f",
@@ -1312,6 +1399,20 @@
    "date": "2026-11-18T08:46:26Z",
    "first_seen": "2026-11-18T09:59:56Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-18_13-44.png"
+  },
+  {
+   "id": "418022e1406c64bd",
+   "title": "When Confirmation Tags Are Not Enough: Full Key Recovery from Ordinary Decapsulation Outputs in a HCR-KEM",
+   "url": "https://eprint.iacr.org/2026/2929",
+   "summary": "Reconciliation in lattice-based key encapsulation mechanisms enables two parties to derive a common secret despite the presence of noise. However, confirming the reconciled value does not necessarily guarantee the validity of the ciphertext from which it was derived. In this paper, we investigate this security distinction through HCR-KEM, a…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-18T07:13:23Z",
+   "first_seen": "2026-11-22T17:26:41Z"
   },
   {
    "id": "aa21bcc06008b7a9",
