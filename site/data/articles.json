@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T22:07:12Z",
- "count": 1133,
+ "generated_at": "2026-11-22T02:17:37Z",
+ "count": 1136,
  "sources": [
   {
    "name": "ANSSI",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 168
+   "kept": 169
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T22:07:12Z",
+   "date": "2026-11-22T02:17:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-21T22:07:12Z",
+   "date": "2026-11-22T02:17:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-21T22:07:12Z",
+   "date": "2026-11-22T02:17:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T22:07:12Z",
+   "date": "2026-11-22T02:17:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,24 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-21T22:07:12Z",
+   "date": "2026-11-22T02:17:37Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "defd9b4173dc08fa",
+   "title": "Researchers achieve 29.3kbps key rate at 100km using integrated CV-QKD",
+   "url": "https://quantumzeitgeist.com/shanghai-jiao-integrated-cv-qkd-29-3kbps/",
+   "summary": "Researchers demonstrated a 29.3kbps key rate at 100km using continuous-variable quantum key distribution, or CV-QKD, in a fully integrated system.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-21T20:31:36Z",
+   "first_seen": "2026-11-22T02:17:37Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/293kbps-key-rate-100km-using-integrated.jpg"
   },
   {
    "id": "441abb28c17c4328",
@@ -1490,6 +1505,35 @@
    "date": "2026-11-17T15:40:15Z",
    "first_seen": "2026-11-17T19:44:52Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Saxon.jpg"
+  },
+  {
+   "id": "ef7b9cd3a5f35516",
+   "title": "The Swell Protocol: Invite-Bound Hybrid Key Agreement, a Double Ratchet with an ML-KEM Epoch Ratchet, and a Signed Server Statement",
+   "url": "https://eprint.iacr.org/2026/2924",
+   "summary": "We describe the Swell Protocol, the end-to-end encryption protocol of the Swell messenger, as fixed by draft 3 of its specification. First contact uses an out-of-band invite code instead of a server-held prekey directory: a hybrid X25519/ML-KEM-768 handshake in the style of PQXDH, without prekey signatures, whose transcript is bound to the invite.…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-17T14:50:46Z",
+   "first_seen": "2026-11-22T02:17:37Z"
+  },
+  {
+   "id": "6b1a0eb0872adb42",
+   "title": "PC-DGS: A Pool-Certified Dynamic Group Signature Scheme Based on XMSS",
+   "url": "https://eprint.iacr.org/2026/2922",
+   "summary": "Hash-based group signatures provide a conservative approach to post-quantum anonymous authentication, but existing constructions often face a tension between stateless signing, compact signatures, and dynamic group management. This paper proposes PC-DGS, a pool-certified dynamic group signature scheme based on XMSS-certified WOTS+ one-time…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-17T13:58:18Z",
+   "first_seen": "2026-11-22T02:17:37Z"
   },
   {
    "id": "7e21d92ac2fdcc66",
