@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-23T03:11:27Z",
- "count": 1151,
+ "generated_at": "2026-11-23T12:57:31Z",
+ "count": 1170,
  "sources": [
   {
    "name": "ANSSI",
    "category": "Officiel",
    "ok": true,
-   "fetched": 192,
+   "fetched": 193,
    "kept": 14
   },
   {
@@ -62,15 +62,15 @@
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 119,
+   "kept": 1
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 0,
-   "kept": 0
+   "fetched": 58,
+   "kept": 5
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 170
+   "kept": 169
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 11,
+   "fetched": 12,
    "kept": 0
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-23T03:11:27Z",
+   "date": "2026-11-23T12:57:31Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-23T03:11:27Z",
+   "date": "2026-11-23T12:57:31Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-23T03:11:27Z",
+   "date": "2026-11-23T12:57:31Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-23T03:11:27Z",
+   "date": "2026-11-23T12:57:31Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,215 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-23T03:11:27Z",
+   "date": "2026-11-23T12:57:31Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "fb41801926091a5d",
+   "title": "Noise-normalised key rate isolates QKD equipment from fibre loss",
+   "url": "https://quantumzeitgeist.com/toshiba-quantum-noise-normalised-key-rate/",
+   "summary": "Quantum key distribution (QKD) is entering national fibre networks, but published secret key rates (SKRs) are measured over different distances, wavelengths, classical traffic loads and clock rates, so systems are hard to compare. The noise-normalised key rate (NNKR) needs four commonly reported parameters and depends mainly on the equipment…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-23T10:56:03Z",
+   "first_seen": "2026-11-23T12:57:31Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/noise-normalised-key-rate-isolates-qkd-equipment-from.png"
+  },
+  {
+   "id": "2a106b0fd0b38533",
+   "title": "Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats",
+   "url": "https://thequantuminsider.com/2026/11/23/microsoft-builds-israeli-team-to-help-companies-prepare-for-quantum-threats/",
+   "summary": "Insider Brief Microsoft is forming a team in Israel to help companies identify encryption that future quantum computers could break, Calcalist reported. Led by Inbar Badian, the group will develop software that uses artificial intelligence to track where organizations use encryption and flag the weaknesses that need attention first. It will use AI…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-23T09:17:13Z",
+   "first_seen": "2026-11-23T12:57:31Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/wibdrev73xy.jpg"
+  },
+  {
+   "id": "214a62d1add6a72b",
+   "title": "Rotonium Unveils a Quantum Computer That Operates at Room Temperature",
+   "url": "https://thequantuminsider.com/2026/11/23/rotonium-unveils-a-quantum-computer-that-operates-at-room-temperature/",
+   "summary": "Insider Brief PRESS RELEASE — Rotonium has unveiled a quantum computer prototype that operates at room temperature, with no cryogenic cooling anywhere in the quantum chain: from the single-photon source to the processor and the detectors that read the results. The machine houses a photonic quantum processor with four effective qubits on a chip…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-23T08:57:29Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "baadfd42eb6750bd",
+   "title": "ExeQuantum and SLEEX partner on AI for quantum-safe migration",
+   "url": "https://quantumzeitgeist.com/exequantum-sleex-partnership-quantum-safe-migration/",
+   "summary": "ExeQuantum and SLEEX sign MoU to collaborate on AI-driven PQC migration optimisation. Under the MoU, the two companies will explore offering SLEEX's SleeXure engine as an enhancement within EQCore.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-23T08:56:18Z",
+   "first_seen": "2026-11-23T12:57:31Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/exequantum-and-sleex-partner-on-ai-for-quantum.jpg"
+  },
+  {
+   "id": "dfe0d6851b5230b4",
+   "title": "Aalborg University Buys Quantum Computer to Train Engineers",
+   "url": "https://thequantuminsider.com/2026/11/23/aalborg-university-buys-quantum-computer-to-train-engineers/",
+   "summary": "Insider Brief PRESS RELEASE — Aalborg University (AAU) is purchasing a quantum computer, which will be delivered and installed during 2027. But it has not been acquired to compete with the major pharmaceutical companies, tech giants and universities using quantum computing to develop new vaccines, train artificial intelligence systems or conduct…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-23T08:40:28Z",
+   "first_seen": "2026-11-23T12:57:31Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-3.37.12-AM.png"
+  },
+  {
+   "id": "fc7d3dc9959ef612",
+   "title": "When lies look like noise: certifying untrusted entanglement swapping",
+   "url": "https://arxiv.org/abs/2611.26436",
+   "summary": "Entanglement swapping lets quantum repeaters distribute entanglement over long distances, a prerequisite for the quantum internet. We study its security in a noisy network whose intermediate nodes perform the quantum operations faithfully but may misreport the classical outcome that end users rely on. We show that the ideal functionality of…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-23T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "372261c3f4e5c048",
+   "title": "Benchmarking Quantum Key Distribution Hardware Across Operating Conditions",
+   "url": "https://arxiv.org/abs/2611.26925",
+   "summary": "Quantum key distribution (QKD) is entering national fibre networks, but published secret key rates (SKRs) are measured over different distances, wavelengths, classical traffic loads and clock rates, so systems are hard to compare. We write the SKR as the product of the transmitter clock rate, the channel transmittance and the secret key per…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-23T05:00:00Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "949dde96409b296c",
+   "title": "PCC: Proof-Carrying Credentials for Enhanced Anonymity and Post-Quantum Delegation",
+   "url": "https://arxiv.org/abs/2611.27250",
+   "summary": "Delegatable Anonymous Credentials (DACs) support anonymous exercise of authority delegated through intermediaries, as in DeFi credit delegation. Existing DACs require holders to possess and process chain-shaped lineage material for presentation. We call this limitation \\emph{prover awareness}: presentation cost grows with delegation depth, while…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-23T05:00:00Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "a9adc82761993919",
+   "title": "Post-Quantum Migration in Brownfield 5G Core Networks: Verified Hybrid Key Establishment, Performance, and Rollback",
+   "url": "https://arxiv.org/abs/2611.27735",
+   "summary": "Migrating brownfield 5G Core networks to post-quantum cryptography (PQC) is difficult because deployed network functions, base images, and TLS libraries evolve under different upgrade constraints. This paper evaluates a deployment-controlled migration strategy that enables hybrid post-quantum/traditional key establishment through externally…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-23T05:00:00Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "352c3b1572cede3a",
+   "title": "Metadata-Private Voice Communication over Tor using Post-Quantum Key Encapsulation",
+   "url": "https://arxiv.org/abs/2611.27909",
+   "summary": "Encrypted voice communication systems commonly protect call content but expose significant metadata, including the network identities of both parties, call timing, and traffic patterns. Simultaneously, advances in quantum computing threaten the asymmetric primitives underlying conventional key exchange, creating a harvest-now, decrypt-later risk…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-23T05:00:00Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "e2d7a784bda73bd2",
+   "title": "SoK: Secure Software-Based Multi-Domain Data Segregation",
+   "url": "https://arxiv.org/abs/2609.07701",
+   "summary": "Modern mission-critical coordination demands seamless communication across multiple domains. Traditionally, Voice Communication Systems (VCS) have relied on physically separated Red/Black architectures to ensure voice and data segregation. While these hardware-based methods provide strong security assurances and remain foundational in…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-23T05:00:00Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "37cfa3c9929a0db9",
+   "title": "One Type Fits All: A General Analysis of Representation Trees for Subset Sum, LWE and Decoding",
+   "url": "https://eprint.iacr.org/2026/2997",
+   "summary": "The representation technique is the basis of the best known algorithms for random subset sum, of combinatorial attacks on small LWE keys and of information set decoding. It builds the solution in a search tree, the representation tree, whose analysis has so far required a combinatorial derivation by hand for every variant. We introduce a general…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-23T03:51:16Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "d025e58e42764352",
+   "title": "Decoding Cost Lens: Cost Estimation for Code-Based Cryptography",
+   "url": "https://eprint.iacr.org/2026/2994",
+   "summary": "We present Decoding Cost Lens, a platform for evaluating the concrete decoding costs of code-based cryptographic schemes. It maps key- and message-recovery objectives to explicit attack instances, integrates classical Hamming- and rank-metric estimators, and provides quantum estimates for binary Hamming instances. The evaluation accounts for known…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-23T03:06:34Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "09d0433d47853471",
+   "title": "PCC: Proof-Carrying Credentials for Enhanced Anonymity and Post-Quantum Delegation",
+   "url": "https://eprint.iacr.org/2026/2992",
+   "summary": "Delegatable Anonymous Credentials (DACs) let an authority be delegated through a chain of intermediaries and later exercised anonymously, as in DeFi credit delegation. Because presentation is the operation a holder repeats at every use, its cost is what matters in practice; yet existing DACs build this presentation from the delegation chain…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-23T00:34:05Z",
+   "first_seen": "2026-11-23T12:57:31Z"
   },
   {
    "id": "422f90d0c439c301",
@@ -435,6 +641,48 @@
    "date": "2026-11-22T19:28:28Z",
    "first_seen": "2026-11-22T22:43:45Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/ljubljana-propose-receiver-side-phase-randomization-scaled.png"
+  },
+  {
+   "id": "cade36cd7e40e25c",
+   "title": "A Note on Scalable Pseudorandom Unitaries",
+   "url": "https://eprint.iacr.org/2026/2988",
+   "summary": "Pseudorandom unitaries (PRUs) are efficiently computable keyed families of unitaries that are computationally indistinguishable from Haar-random unitaries; scalable PRUs allow the security parameter to be chosen independently of the number of qubits. Assuming quantum-secure pseudorandom functions and Vaikuntanathan and Zamir's conjecture on…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-22T16:51:55Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "5c607ef2d1841f3d",
+   "title": "Post-Quantum Self-Updatable Pseudonyms for Conditional Privacy-Preserving Authentication in VANETs From Lattice-Based Credentials",
+   "url": "https://eprint.iacr.org/2026/2981",
+   "summary": "Authentication in vehicular networks must hide the sender and still allow an authority to identify it when needed. Schemes in which a vehicle derives its own pseudonyms avoid authority contact after registration, but known constructions rest on assumptions that quantum computers break. We present L-SUPA, a lattice-based scheme of this kind. The…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-22T05:43:49Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
+   "id": "2fda8107eabdb658",
+   "title": "Chosen-Ciphertext Security for Nested Proxy Re-Encryption with Restricted Key Exposure",
+   "url": "https://eprint.iacr.org/2026/2979",
+   "summary": "Proxy re-encryption (PRE) allows an authorised proxy to re-encrypt ciphertexts for another recipient without learning their plaintexts. We construct a single-hop PRE scheme with restricted chosen-ciphertext security (rCCA2). For a given honest delegator, an adversary that obtains an outgoing re-encryption key cannot also obtain re-encryptions to…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-22T04:16:22Z",
+   "first_seen": "2026-11-23T12:57:31Z"
   },
   {
    "id": "defd9b4173dc08fa",
@@ -695,20 +943,6 @@
    "title": "Quantifying the irrealism required by quantum random access codes",
    "url": "https://arxiv.org/abs/2611.26340",
    "summary": "How far must decoding observables be from having elements of reality to achieve a given quantum advantage in a communication task? We answer this question for quantum random access codes. Here, an observable has an element of reality when its unrevealed measurement leaves the preparation undisturbed; its irrealism is the relative entropy to the…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD"
-   ],
-   "date": "2026-11-20T05:00:00Z",
-   "first_seen": "2026-11-20T12:59:30Z"
-  },
-  {
-   "id": "fc7d3dc9959ef612",
-   "title": "When lies look like noise: certifying untrusted entanglement swapping",
-   "url": "https://arxiv.org/abs/2611.26436",
-   "summary": "Entanglement swapping lets quantum repeaters distribute entanglement over long distances, a prerequisite for the quantum internet. We study its security in a noisy network whose intermediate nodes perform the quantum operations faithfully but may misreport the classical outcome that end users rely on. We show that the ideal functionality of…",
    "source": "arXiv quant-ph",
    "category": "Recherche",
    "lang": "en",
@@ -12970,6 +13204,21 @@
    "lang": "en"
   },
   {
+   "id": "b915b1158bd5b512",
+   "title": "Revisiting Side-Channel Analysis on Polynomial Multiplication in the HQC Implementation",
+   "url": "https://eprint.iacr.org/2026/1906",
+   "summary": "The Hamming Quasi-Cyclic (HQC) scheme is a post-quantum key encapsulation mechanism recently selected for standardization by NIST. While the security against quantum-capable computation is the focus of the development, the security of its implementations against side-channel analysis is also a critical concern. In this work, we revisit the…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-09-07T10:47:51Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
    "id": "afa8ecbf2edb9a10",
    "title": "Post-quantum cryptography needs collective action, G7 finds",
    "url": "https://quantumzeitgeist.com/g7-cybersecurity-post-quantum-cryptography-needs/",
@@ -15100,6 +15349,20 @@
    "image": "https://assets.buttondown.email/images/0f86b37f-5bdb-4151-928e-5e3812a29dc9.png?w=960&fit=max"
   },
   {
+   "id": "0c3e858b08ae2ec9",
+   "title": "Additive FFTs for HQC on ARM Cortex-M4, Revisited",
+   "url": "https://eprint.iacr.org/2026/739",
+   "summary": "This paper presents an optimized implementation of the Hamming Quasi-Cyclic (HQC) key encapsulation mechanism, leveraging the additive fast Fourier transform (FFT) for polynomial multiplication. A primary challenge in applying FFT-based multiplication to HQC is that the polynomial degrees slightly exceed powers of two, making standard FFT…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-04-15T07:40:05Z",
+   "first_seen": "2026-11-23T12:57:31Z"
+  },
+  {
    "id": "161f791bf6006b6d",
    "title": "IonQ | IonQ Achieves First Photonic Interconnect Milestone for Networked Commercial Quantum Systems",
    "url": "https://ionq.com/news/ionq-achieves-key-photonic-interconnect-milestone-demonstrating-networked-quantum-systems-using-entanglement",
@@ -16132,6 +16395,21 @@
    ],
    "date": "2026-01-12T13:34:15Z",
    "first_seen": "2026-11-10T00:06:18Z"
+  },
+  {
+   "id": "caa637250bc1d5b3",
+   "title": "SoK of Private Deep Neural Network Inference with Approximate Fully Homomorphic Encryption",
+   "url": "https://eprint.iacr.org/2026/047",
+   "summary": "Deep neural networks (DNNs), a hot topic in this decade, are already solving many practical problems previously unsolved. There are clear use cases with strong privacy requirements for the input data in DNN inference. Fully Homomorphic Encryption (FHE) schemes provide privacy by enabling operations upon encrypted data with post-quantum security…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-01-12T10:30:38Z",
+   "first_seen": "2026-11-23T12:57:31Z"
   },
   {
    "id": "068dd7ba44194958",
