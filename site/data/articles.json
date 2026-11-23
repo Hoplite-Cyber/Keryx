@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-22T22:43:45Z",
- "count": 1147,
+ "generated_at": "2026-11-23T03:11:27Z",
+ "count": 1151,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 24
+   "kept": 27
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T22:43:45Z",
+   "date": "2026-11-23T03:11:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-22T22:43:45Z",
+   "date": "2026-11-23T03:11:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-22T22:43:45Z",
+   "date": "2026-11-23T03:11:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T22:43:45Z",
+   "date": "2026-11-23T03:11:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-22T22:43:45Z",
+   "date": "2026-11-23T03:11:27Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -467,6 +467,36 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-key-distribution-gain-6db-multiple.png"
   },
   {
+   "id": "6e48ae61f3817afb",
+   "title": "Pretzel: Compact Lattice Signatures from Module-LWE and Module-SIS",
+   "url": "https://eprint.iacr.org/2026/2970",
+   "summary": "We present Pretzel, a lattice-based signature scheme in the style of ML-DSA. Across parameter sets targeting NIST security categories 2, 3, and 5, its signatures are 52-59% smaller than ML-DSA's, it signs and verifies faster in all three categories, and its quantum security proof needs fewer assumptions. Across all three parameter sets, Pretzel…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-21T00:32:21Z",
+   "first_seen": "2026-11-23T03:11:27Z"
+  },
+  {
+   "id": "b5cb3a75947ab562",
+   "title": "MIKE for Beginners",
+   "url": "https://eprint.iacr.org/2026/2967",
+   "summary": "This work explains MIKE for beginners, i.e., those unfamiliar with isogenies. MIKE is both a fast and compact post-quantum NIKE and a beautiful scheme. However, this beauty is only visible once you are familiar with many more advanced concepts in isogeny-based cryptography. The beauty of MIKE then reveals itself in several different layers, each…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-20T20:16:03Z",
+   "first_seen": "2026-11-23T03:11:27Z"
+  },
+  {
    "id": "1821ec3d115bdc6e",
    "title": "Random position checks could authenticate quantum communications",
    "url": "https://quantumzeitgeist.com/quantinuum-random-position-checks-authenticate-quantum/",
@@ -510,6 +540,21 @@
    "date": "2026-11-20T11:27:32Z",
    "first_seen": "2026-11-20T12:59:30Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-20_16-26.png"
+  },
+  {
+   "id": "1cd7e2f787b84cf7",
+   "title": "LatPRE: Compact Lattice-Based Proxy Re-Encryption with Security against Honest Re-Encryption Attacks",
+   "url": "https://eprint.iacr.org/2026/2964",
+   "summary": "Proxy re-encryption (PRE) allows a proxy to transform ciphertexts for other recipients without learning their plaintexts. It is a versatile cryptographic tool enabling a wide range of real-world applications, e.g., email forwarding, file sharing, and digital identity management. For these applications, security against honest re-encryption attacks…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-20T10:33:38Z",
+   "first_seen": "2026-11-23T03:11:27Z"
   },
   {
    "id": "1e5ee488cf99f2b7",
@@ -559,6 +604,20 @@
    "date": "2026-11-20T08:01:39Z",
    "first_seen": "2026-11-20T12:59:30Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/senetas-sees-quantum-ready-defence-tech-adoption-accelerating.jpg"
+  },
+  {
+   "id": "3fe7b97df4df7548",
+   "title": "Post-Quantum Anonymous Credentials and Blind Signatures from ML-DSA",
+   "url": "https://eprint.iacr.org/2026/2961",
+   "summary": "Anonymous credentials allow users to prove properties of their identity, such as their age or nationality, without revealing any other personal information. For institutional deployment, it is particularly desirable to build such systems from standardized post-quantum signature schemes, allowing issuers to retain their existing signing procedures.…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-20T07:54:48Z",
+   "first_seen": "2026-11-23T03:11:27Z"
   },
   {
    "id": "2534bcea02f4f99a",
