@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T00:43:03Z",
- "count": 1175,
+ "generated_at": "2026-11-24T10:27:43Z",
+ "count": 1192,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 26
+   "kept": 25
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 119,
-   "kept": 1
+   "fetched": 248,
+   "kept": 13
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 58,
-   "kept": 5
+   "fetched": 144,
+   "kept": 7
   },
   {
    "name": "Cloudflare Blog",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 3
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 12,
+   "fetched": 13,
    "kept": 0
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T00:43:03Z",
+   "date": "2026-11-24T10:27:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-24T00:43:03Z",
+   "date": "2026-11-24T10:27:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-24T00:43:03Z",
+   "date": "2026-11-24T10:27:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T00:43:03Z",
+   "date": "2026-11-24T10:27:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,269 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T00:43:03Z",
+   "date": "2026-11-24T10:27:43Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "a70092c84118f824",
+   "title": "Artix-7 FPGA hosts a coprocessor for post-quantum QR-Unbalanced Oil",
+   "url": "https://quantumzeitgeist.com/artix-7-fpga-hosts-coprocessor-post/",
+   "summary": "QR-UOV is a Quotient Ring Unbalanced Oil and Vinegar signature scheme that has progressed to round-3 of the post-quantum cryptography additional signatures call by the National Institute of Standards and Technology. This work presents the first complete QR-UOV hardware implementation, a flexible QUISA coprocessor design supporting…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T09:48:52Z",
+   "first_seen": "2026-11-24T10:27:43Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/artix-7-fpga-hosts-coprocessor-post.jpeg"
+  },
+  {
+   "id": "dea97b3cf35069b3",
+   "title": "Correctable Enrollment and One-Transaction Seed Proofs for Ethereum's Post-Quantum Migration",
+   "url": "https://arxiv.org/abs/2611.25663",
+   "summary": "A quantum computer running Shor's algorithm can extract the private key of every Ethereum account whose public key is published, and accounts exposed by their own transactions hold 54.6% of execution-layer ETH. As the first such machine may stay secret, a migration cannot wait for visible thefts, and once keys are extractable, legacy signatures no…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-20T12:59:30Z"
+  },
+  {
+   "id": "21b52f798a4fff26",
+   "title": "Holevo-Bounded Total Information from Pair Distributions of Alternative Quantum Measurements",
+   "url": "https://arxiv.org/abs/2611.28837",
+   "summary": "The accessible information of a quantum ensemble can be strictly smaller than its Holevo information because a single-copy measurement may discard part of the label--system correlation. We ask whether information represented across two alternative measurement contexts can bridge this gap without assigning a joint distribution to their outcomes.…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "3324e6b23cee6f03",
+   "title": "Q-TRACE: Physics-based zero-day attack detection for decoy-state quantum key distribution",
+   "url": "https://arxiv.org/abs/2611.28945",
+   "summary": "Practical quantum key distribution (QKD) is secure only while its devices match the assumptions of the security proof, and implementation attacks exploit mismatches while keeping the quantum bit error rate (QBER) low. We formulate attack detection in decoy-state BB84 as a sequential test against the honest-device manifold, the set of receiver…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "15d070d7fd72f2ed",
+   "title": "Compact and Long-Term Stable Polarization Entangled Photon-Pair Source",
+   "url": "https://arxiv.org/abs/2611.29046",
+   "summary": "We present a robust, compact polarization-entangled photon-pair source based on bulk optics that achieves long-term stability, a spectral pair generation rate of $4.24 \\times 10^6$ pairs s$^{-1}$ mW$^{-1}$ nm$^{-1}$ constant for pump powers up to 700 mW, an intrinsic heralding efficiency of 59.8% , and a polarization contrast visibility of 99.6%.…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "75cb0e58c12768ec",
+   "title": "Feed-Forward Dimension Control for High-Dimensional Quantum Key Distribution over Time-Varying Airborne Free-Space Links",
+   "url": "https://arxiv.org/abs/2611.29583",
+   "summary": "High-dimensional quantum key distribution tolerates more noise than qubit-based protocols, but the dimension that maximizes the secret key depends on turbulence, background light, device imperfections, and block size, all of which change during an airborne or satellite pass. Finite-size security analyses of high-dimensional protocols fix the…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "79dc83c5ed56644a",
+   "title": "What can a quantum network promise about the entangled pairs it delivers?",
+   "url": "https://arxiv.org/abs/2611.29730",
+   "summary": "Quantum networks will give users entangled pairs of qubits, the resource behind teleportation and quantum-secure keys. But a user cannot check a pair without destroying it, so networks promise the quality of each pair, its fidelity, from a physical model rather than from a measurement. If the model is too optimistic, the delivery rule alone may…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "e5d6f41602b72547",
+   "title": "Reducing RSA-2048 Factoring Resources Below One Billion Toffolis via LLM-Driven Verifiable Quantum Compilation",
+   "url": "https://arxiv.org/abs/2611.31158",
+   "summary": "Modular exponentiation dominates the logical cost of factoring 2048-bit RSA integers (RSA-2048) with Shor's algorithm. Recent approaches based on approximate residue number systems (RNS) sharply reduce the required logical qubits, yet still demand billions of Toffoli gates. Optimizing these circuits is difficult because shared ancilla qubits and…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "60bc16dcea219a28",
+   "title": "Secure PAC Learning: Sample-Budget Laws and Quantum Data-Path Admissibility",
+   "url": "https://arxiv.org/abs/2511.02479",
+   "summary": "Security in machine learning is fragile when data are exfiltrated or perturbed, yet existing frameworks rarely connect data-path security to learnability. In this work, we develop an operational theory of secure learning grounded in the probably-approximately-correct (PAC) viewpoint. An explicit stopping time combines the event that a trained…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "79239e65f0c66923",
+   "title": "How to find expressible and trainable parameterized quantum circuits?",
+   "url": "https://arxiv.org/abs/2603.14451",
+   "summary": "Whether parameterized quantum circuits (PQCs) can be systematically constructed to be both trainable and expressive remains an open question. Highly expressive PQCs often exhibit barren plateaus, while several trainable alternatives admit efficient classical simulation. We prove that deciding whether a PQC family exhibits a barren plateau is…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "6a6fd25fe3da3ef4",
+   "title": "Device-Independent Quantum Key Distribution with Majorana Memories",
+   "url": "https://arxiv.org/abs/2604.11442",
+   "summary": "Device-independent quantum key distribution (DI-QKD) certifies secrecy from Bell nonlocality and has been demonstrated with ions, atoms, and photons. Majorana parity qubits are proposed as network memories, but their operations and noise have not been connected to device-independent security. We show that Clifford-only Majorana operations cannot…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "ff2201f4c5005760",
+   "title": "Robust Quantum Key Distribution Arbitrarily Close to Local Correlations",
+   "url": "https://arxiv.org/abs/2608.22603",
+   "summary": "Recently, Wooltorton et al. [Phys. Rev. Lett. 132, 210802 (2024)] and Farkas [Phys. Rev. Lett. 132, 210803 (2024)] have exhibited the mismatch between Bell inequality violations and their cryptographic application in device-independent quantum key distribution, by showing that arbitrarily close to the set of local behaviours there exist quantum…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "3ebd8f364385e574",
+   "title": "Four Ways to Stream: Exponential Separations from Random Order and Quantum Memory",
+   "url": "https://arxiv.org/abs/2610.06727",
+   "summary": "A streaming algorithm can keep classical or quantum memory, and its input arrives in adversarial or random order. Each resource alone is known to beat the basic model exponentially, but it was not known whether random order can help a quantum algorithm. We compare the four models by exponential space separations: every pair is separated on some…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "dde2611b28b0e472",
+   "title": "Enabling quantum communication in ultra-large-scale networks",
+   "url": "https://arxiv.org/abs/2606.08326",
+   "summary": "The recent development of small-scale quantum networks poses the question of which network-level mechanisms could enable quantum communication to operate at scale in a future Quantum Internet. The question can be answered within a well-established framework where a quantum network is mapped into a classical weighted graph, and communication…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "768dd6539c4180cb",
+   "title": "QUISA: A Compact, Flexible and Unified Instruction-Set Coprocessor for QR-UOV Signature",
+   "url": "https://arxiv.org/abs/2611.28687",
+   "summary": "QR-UOV is a Quotient Ring Unbalanced Oil and Vinegar (UOV) multivariate quadratic (MQ) signature scheme that has progressed to round-3 of the post-quantum cryptography (PQC) additional signatures call by the National Institute of Standards and Technology (NIST). Until now, for architectural efficiency and performance trade-offs, QR-UOV has been…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "c0f66976c3924010",
+   "title": "Quantum-Resilient, PUF-Based, and Anonymity-Preserving Authentication and Key Agreement Scheme for UAV Networks",
+   "url": "https://arxiv.org/abs/2611.30107",
+   "summary": "We design a lightweight authentication and key agreement protocol for Internet of Drones (IoD) environments that simultaneously provides post-quantum security, hardware-rooted trust, and resistance against machine-learning-based Physical Unclonable Function (PUF) modeling attacks. Existing PUF-based authentication schemes for unmanned aerial…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "7a7cfa9e9f1afa48",
+   "title": "WEPWAWET-CORE: A Hardware-Resident ML-DSA Architecture with Fabric-Generated, Fabric-Sealed Keys for Post-Quantum Avionics",
+   "url": "https://arxiv.org/abs/2611.30396",
+   "summary": "Spacecraft that exchange commands over crosslinks need quantum-resistant signatures, for which the Module-Lattice-Based Digital Signature Algorithm (ML-DSA, FIPS 204) is the standard, yet a software signer runs its data-dependent rejection loop, and keeps its key, on cores and memory shared with attitude control and payload processing. This paper…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "bf71b9902bedb980",
+   "title": "PLATRS: A Lattice-Based Linkable Accountable Ring Signature for Permissioned Blockchains",
+   "url": "https://arxiv.org/abs/2611.30453",
+   "summary": "Permissioned-ledger cross-domain data sharing needs anonymity and accountability: an endorsement hides its author, but a regulator must identify it on authorization reuse. Existing lattice-based schemes give these only separately: public traceability exposes signers to collision detectors; linkable non-tracing schemes cannot open; threshold…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
   },
   {
    "id": "f8cd234c429160a7",
@@ -1072,21 +1332,6 @@
     "Menace quantique",
     "QKD",
     "PQC"
-   ],
-   "date": "2026-11-20T05:00:00Z",
-   "first_seen": "2026-11-20T12:59:30Z"
-  },
-  {
-   "id": "dea97b3cf35069b3",
-   "title": "Correctable Enrollment and One-Transaction Seed Proofs for Ethereum's Post-Quantum Transition",
-   "url": "https://arxiv.org/abs/2611.25663",
-   "summary": "A quantum computer running Shor's algorithm can extract the private key of every Ethereum account whose public key is published, and accounts exposed by their own transactions hold 54.6% of execution-layer ETH. As the first such machine may stay secret, a migration cannot wait for visible thefts, and once keys are extractable, legacy signatures no…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC",
-    "Menace quantique"
    ],
    "date": "2026-11-20T05:00:00Z",
    "first_seen": "2026-11-20T12:59:30Z"
