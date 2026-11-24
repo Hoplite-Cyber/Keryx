@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T12:57:31Z",
- "count": 1170,
+ "generated_at": "2026-11-24T00:43:03Z",
+ "count": 1175,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 27
+   "kept": 26
   },
   {
    "name": "arXiv quant-ph",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -168,7 +168,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Le Monde Informatique – sécurité",
@@ -265,7 +265,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 45
+   "kept": 46
   },
   {
    "name": "Pasqal",
@@ -279,7 +279,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 20,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Le Monde Informatique – quantique",
@@ -306,7 +306,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 791,
+   "fetched": 792,
    "kept": 40
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-23T12:57:31Z",
+   "date": "2026-11-24T00:43:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-23T12:57:31Z",
+   "date": "2026-11-24T00:43:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-23T12:57:31Z",
+   "date": "2026-11-24T00:43:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-23T12:57:31Z",
+   "date": "2026-11-24T00:43:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,89 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-23T12:57:31Z",
+   "date": "2026-11-24T00:43:03Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "f8cd234c429160a7",
+   "title": "PQC is now policy, QKD a niche for high-value links",
+   "url": "https://quantumzeitgeist.com/nist-pqc-qkd-niche-policy-high/",
+   "summary": "Federal policy mandates Post-Quantum Cryptography (PQC) by 2030/2031, while Quantum Key Distribution (QKD) remains a solution for a small number of high-value links.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-23T21:27:34Z",
+   "first_seen": "2026-11-24T00:43:03Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/pqc-is-now-policy-qkd-a-niche-for.png"
+  },
+  {
+   "id": "3973f409fa2a2776",
+   "title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+   "url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+   "summary": "Insider Brief PRESS RELEASE — QuEra Computing, the leader in fault-tolerant quantum computing, today announced that it is a collaborating partner in ASQC (Application-Aware Error Correction Codesign for Scientific Quantum Computing), a Harvard-led project that received $12 million from the U.S. Department of Energy (DOE). ASQC is one of 12 Phase…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-23T18:39:43Z",
+   "first_seen": "2026-11-24T00:43:03Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-23_23-37.png"
+  },
+  {
+   "id": "6565d60782180be9",
+   "title": "IonQ | IonQ & IDEMIA Validate QKD for Critical Communications",
+   "url": "https://ionq.com/news/idemia-secure-transactions-and-ionq-validate-quantum-key-distribution-interoperability-for-critical-communications",
+   "summary": "IDEMIA Secure Transactions and IonQ validate Quantum Key Distribution (QKD) interoperability, advancing quantum-safe security for critical communications.",
+   "source": "IonQ",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-23T17:18:09Z",
+   "first_seen": "2026-11-24T00:43:03Z"
+  },
+  {
+   "id": "0d67ac35d475bf3d",
+   "title": "WISeQey Launches WISeTrust.com, Framework for Digital Trust",
+   "url": "https://quantumzeitgeist.com/wiseqey-wisetrustcom-framework-digital-trust/",
+   "summary": "WISeQey Corp. launched WISeTrust.com, a technology-enabled assessment and assurance framework designed to help governments and enterprises govern, comply, and verify the digital systems and cryptographic technologies on which every Internet transaction depends. WISeTrust is structured around three pillars—GOVERN, COMPLY, and VERIFY—with…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-23T14:25:38Z",
+   "first_seen": "2026-11-24T00:43:03Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/wiseqey-wisetrustcom-framework-digital-trust.png"
+  },
+  {
+   "id": "3e4dbe2f37cc3945",
+   "title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+   "url": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+   "summary": "Insider Brief PRESS RELEASE — Q.security, the provider of the business-first post-quantum cryptography (PQC) remediation platform, today announced its launch from stealth with $11.5 million in seed funding led by Castle Island Ventures, with investment from New York Life Ventures and Coinbase Ventures. Q.security takes enterprises from discovery…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-23T13:01:54Z",
+   "first_seen": "2026-11-24T00:43:03Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/te.png"
   },
   {
    "id": "fb41801926091a5d",
@@ -1728,7 +1808,7 @@
    "id": "418022e1406c64bd",
    "title": "When Confirmation Tags Are Not Enough: Full Key Recovery from Ordinary Decapsulation Outputs in a HCR-KEM",
    "url": "https://eprint.iacr.org/2026/2929",
-   "summary": "Reconciliation in lattice-based key encapsulation mechanisms enables two parties to derive a common secret despite the presence of noise. However, confirming the reconciled value does not necessarily guarantee the validity of the ciphertext from which it was derived. In this paper, we investigate this security distinction through HCR-KEM, a…",
+   "summary": "Reconciliation allows lattice-based key encapsulation mechanisms to derive a common secret despite noise. Yet confirming the resulting verifier word need not establish that the ciphertext itself is valid. This distinction matters when a design seeks to avoid full ciphertext re-encryption by checking only a confirmation tag. We introduce HCR-KEM, a…",
    "source": "IACR ePrint",
    "category": "Recherche",
    "lang": "en",
