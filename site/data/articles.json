@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T10:27:43Z",
- "count": 1192,
+ "generated_at": "2026-11-24T20:49:36Z",
+ "count": 1201,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 25
+   "kept": 27
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 169
+   "kept": 168
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 3
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 13,
+   "fetched": 15,
    "kept": 0
   },
   {
@@ -286,7 +286,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "Futura Sciences",
@@ -306,7 +306,7 @@
    "name": "DigiCert",
    "category": "Industrie",
    "ok": true,
-   "fetched": 792,
+   "fetched": 793,
    "kept": 40
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T10:27:43Z",
+   "date": "2026-11-24T20:49:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-24T10:27:43Z",
+   "date": "2026-11-24T20:49:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-24T10:27:43Z",
+   "date": "2026-11-24T20:49:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T10:27:43Z",
+   "date": "2026-11-24T20:49:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,115 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T10:27:43Z",
+   "date": "2026-11-24T20:49:36Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "8583817fe547f9b7",
+   "title": "TOTM Labs partners with Aires for quantum-safe security in Southeast Asia",
+   "url": "https://quantumzeitgeist.com/totm-labs-partnership-aires-quantum-security/",
+   "summary": "TOTM Labs partners with Aires to bring quantum-safe and post-quantum cryptography (“PQC”) solutions to Vietnam, the Philippines, and Indonesia. Under the partnership, TOTM Labs becomes the exclusive distributor of Aires’ quantum-safe and PQC products and services in those three of the region’s largest digital economies.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T15:28:19Z",
+   "first_seen": "2026-11-24T20:49:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/totm-labs-partners-with-aires-for-quantum-safe.png"
+  },
+  {
+   "id": "6f27179e618316e4",
+   "title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
+   "url": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
+   "summary": "Insider Brief PRESS RELEASE — SEALSQ Corp (NASDAQ: LAES) (“SEALSQ” or “Company”), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that it is working with data center providers to expand its Quantum HighwayTM service and connect quantum hubs in…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-24T14:54:13Z",
+   "first_seen": "2026-11-24T20:49:36Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-24_19-53.png"
+  },
+  {
+   "id": "1316f1102e3a55c1",
+   "title": "Quantum Art Appoints Mark Solomon and Tal Inbar to Business Development Roles",
+   "url": "https://thequantuminsider.com/2026/11/24/quantum-art-appoints-mark-solomon-tal-inbar-business-development/",
+   "summary": "Insider Brief PRESS RELEASE — Quantum Art, a developer of full-stack, fault tolerant quantum computers based on trapped-ion qubits and a proprietary, dynamically reconfigurable multi-core architecture, today announced two additions to its leadership team: Mark Solomon has joined as Head of U.S. Strategic Growth and Business Development, and Tal…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-24T13:34:16Z",
+   "first_seen": "2026-11-24T20:49:36Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-24_18-19.png"
+  },
+  {
+   "id": "b67f9a39f2a4e781",
+   "title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
+   "url": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
+   "summary": "Insider Brief PRESS RELEASE — Pasqal (Nasdaq: PSQL), a global leader in neutral-atom quantum computing, today announced the public launch of CoPaNA (Concatenated Parity codes on Neutral Atoms), a three-year research project selected under the European Defence Fund (EDF) 2025 call and coordinated by Pasqal. Together with ParityQC (Austria) and…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-24T13:33:45Z",
+   "first_seen": "2026-11-24T20:49:36Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-24_18-31.png"
+  },
+  {
+   "id": "ae3b5a286d3bb147",
+   "title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
+   "url": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
+   "summary": "Insider Brief PRESS RELEASE — Diraq, the quantum computing pioneer, announced the finalization of an agreement with the United States Department of Commerce’s CHIPS Research and Development Office for up to $38million in federal funding under the CHIPS and Science Act, following a previously-announced Letter of Intent. The funding will accelerate…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-24T12:23:46Z",
+   "first_seen": "2026-11-24T20:49:36Z"
+  },
+  {
+   "id": "3fb9dbc230265ac0",
+   "title": "Qtonic Quantum adds ex-Army Training and Doctrine Command commander 39 days before CNSA 2.0",
+   "url": "https://quantumzeitgeist.com/qtonic-quantum-adds-ex-army-command/",
+   "summary": "Gen. Gary Brito (Ret.), former TRADOC commander, joins Qtonic Quantum to lead the Army Readiness Council, 39 days before the Jan.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques"
+   ],
+   "date": "2026-11-24T10:57:11Z",
+   "first_seen": "2026-11-24T20:49:36Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/qtonic-quantum-adds-ex-army-training.png"
+  },
+  {
+   "id": "3a463f7f9d6ac8ff",
+   "title": "Qtonic Quantum Appoints Former TRADOC Commander Gary Brito",
+   "url": "https://thequantuminsider.com/2026/11/24/gary-brito-joins-qtonic-quantum-senior-military-advisor/",
+   "summary": "Insider Brief PRESS RELEASE — Gen. Gary M. Brito, U.S. Army (Ret.), the 18th and final commanding general of U.S. Army Training and Doctrine Command (TRADOC), has joined Qtonic Quantum to lead the Army Readiness Council and serve as Senior Military Advisor to the Founders. His appointment comes 39 days before NSA’s CNSA 2.0 compliance [...]",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques"
+   ],
+   "date": "2026-11-24T10:16:19Z",
+   "first_seen": "2026-11-24T20:49:36Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-24_15-13.png"
   },
   {
    "id": "a70092c84118f824",
@@ -15834,6 +15940,21 @@
    "first_seen": "2026-10-27T08:18:33Z"
   },
   {
+   "id": "5c188dffb33fe882",
+   "title": "Breaking the One-Way Property of a SHA-3 Implementation via Fault Injection: Key Recovery Attacks on Post-Quantum Digital Signatures",
+   "url": "https://eprint.iacr.org/2026/619",
+   "summary": "This paper presents fault‐injection attacks on six candidates of the Round‐2 NIST post‐quantum digital signatures call: code-based schemes CROSS and LESS, multivariate schemes MAYO, and MPC-in-the-Head schemes Mirath, RYDE, and PERK. These schemes rely on SHA‐3‐based hash functions to securely embed secret-dependent values in the signature…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Normes & politiques",
+    "PQC"
+   ],
+   "date": "2026-03-30T10:37:06Z",
+   "first_seen": "2026-11-24T20:49:36Z"
+  },
+  {
    "id": "ae509c5ffd40c689",
    "title": "On the Security of MPC-in-the-Head Signatures with Correlated GGM Trees",
    "url": "https://eprint.iacr.org/2026/615",
@@ -16220,6 +16341,20 @@
    ],
    "date": "2026-02-16T10:00:06Z",
    "first_seen": "2026-10-26T08:46:11Z"
+  },
+  {
+   "id": "67d4116f21aba0b8",
+   "title": "UltraFold: Distributed Code-Based PCS from Packed Interleaved Merkle Trees",
+   "url": "https://eprint.iacr.org/2026/266",
+   "summary": "Transparent, code-based polynomial commitment schemes (PCSs) are a foundation for large-scale succinct proofs: they avoid trusted setup, support post-quantum security, and achieve high performance. As proving workloads grow, the computational and memory demands of committing to and opening large polynomials motivate distribution. However…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-02-16T05:09:57Z",
+   "first_seen": "2026-11-24T20:49:36Z"
   },
   {
    "id": "9fed7ffa2d7f9807",
