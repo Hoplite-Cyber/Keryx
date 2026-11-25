@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-25T03:48:28Z",
- "count": 1202,
+ "generated_at": "2026-11-25T13:35:33Z",
+ "count": 1214,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 28
+   "kept": 25
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 248,
-   "kept": 13
+   "fetched": 163,
+   "kept": 4
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 144,
-   "kept": 7
+   "fetched": 96,
+   "kept": 5
   },
   {
    "name": "Cloudflare Blog",
@@ -112,7 +112,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 6
+   "kept": 9
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 15,
+   "fetched": 18,
    "kept": 0
   },
   {
@@ -182,7 +182,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 10,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "ZATAZ",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T03:48:28Z",
+   "date": "2026-11-25T13:35:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-25T03:48:28Z",
+   "date": "2026-11-25T13:35:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-25T03:48:28Z",
+   "date": "2026-11-25T13:35:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T03:48:28Z",
+   "date": "2026-11-25T13:35:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,202 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T03:48:28Z",
+   "date": "2026-11-25T13:35:33Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "361cf3b67d6b97e0",
+   "title": "Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links",
+   "url": "https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/",
+   "summary": "Guest Post by Ofir Joseph, Quantum Communication Researcher, University of Haifa, and Head of the Cybersecurity Program, Academic College of Tel Aviv–Yaffo Prof. Irit Hadar, Dean, Faculty of Computer and Information Science & Director, Center for Cyber, Law and Policy, University of Haifa Miriam Shtilman, Tal Ventures AI is helping researchers…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T12:27:15Z",
+   "first_seen": "2026-11-25T13:35:33Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-7.22.28-AM-1.png"
+  },
+  {
+   "id": "8e146baecc06dc8f",
+   "title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
+   "url": "https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/",
+   "summary": "Insider Brief PRESS RELEASE — The European Commission today proposed the Quantum Act, a new framework to help turn Europe’s quantum research into products and services, strengthen supply chains and prepare Europe’s digital systems for post-quantum cryptography. The proposal also lays the groundwork for the Sovereign Tech Equity Fund (STEF). The…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-25T11:01:30Z",
+   "first_seen": "2026-11-25T13:35:33Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/P-071085_00-08_03-MED-402498.jpg"
+  },
+  {
+   "id": "0e1b6dc1fd84bef9",
+   "title": "Le parcours médiatique d’une promesse de chiffrement",
+   "url": "https://incyber.org/article/le-parcours-mediatique-dune-promesse-de-chiffrement/",
+   "summary": "Le 6 novembre 2026, Jean-Luc Mélenchon propose de lancer en urgence un programme national de cryptographie post-quantique. Le lendemain, RTL ouvre son titre sur le smic à 1 700 euros, la retraite à 60 ans et le nucléaire. Le 19 novembre, deux observatoires de la campagne donnent à lire la phrase sur la cryptographie jusque dans ses termes exacts.…",
+   "source": "InCyber",
+   "category": "Actualité cyber",
+   "lang": "fr",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T10:33:37Z",
+   "first_seen": "2026-11-25T13:35:33Z",
+   "image": "https://incyber.org//wp-content/uploads/2026/10/banners-kubx-1200x300-1.png"
+  },
+  {
+   "id": "846f7e191d4b1e91",
+   "title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+   "url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+   "summary": "Insider Brief PRESS RELEASE — ARQUE Systems, a Jülich–Aachen spin-off, aims to overcome a major hurdle in quantum computing using innovative quantum semiconductor technology. As part of the € 35 million Q-STAR.NRW project, their approach will now be tested with up to 200 qubits, helping to stimulate value creation in the Rhenish mining area. The…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T10:18:34Z",
+   "first_seen": "2026-11-25T13:35:33Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-25_15-03.png"
+  },
+  {
+   "id": "3b5b081601c9a0ac",
+   "title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund",
+   "url": "https://thequantuminsider.com/2026/11/25/nexent-capital-launches-1-billion-ai-infrastructure-energy-fund/",
+   "summary": "Insider Brief PRESS RELEASE — Nexent Capital IFSC Private Limited (“Nexent Capital”) today announced the launch of Nexent Capital ADGM Fund I, a closed-end fund targeting US$1 billion in capital commitments — expandable up to a US$1.6 billion hard cap — dedicated to quantum-ready AI infrastructure and advanced energy investment. The Fund is…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T09:17:07Z",
+   "first_seen": "2026-11-25T13:35:33Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-25_14-15.png"
+  },
+  {
+   "id": "b7a99a4db3e39ef4",
+   "title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+   "url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+   "summary": "Insider Brief PRESS RELEASE — Standard Chartered today announced the expansion of its quantum computing research programme, following the successful completion of its first year of research supported under the Financial Sector Technology & Innovation (FSTI) Quantum Technology scheme, administered by the Monetary Authority of Singapore (MAS)1. The…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T08:15:02Z",
+   "first_seen": "2026-11-25T13:35:33Z"
+  },
+  {
+   "id": "2534bcea02f4f99a",
+   "title": "QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements",
+   "url": "https://arxiv.org/abs/2611.10403",
+   "summary": "We present QUASI, a newly conceived class of hash-based, post-quantum-secure protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. QUASI produces attestations that reduce the size and verification cost to a fraction of a full hash-based signatures collection, without relying on…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-25T05:00:00Z",
+   "first_seen": "2026-11-10T15:37:51Z"
+  },
+  {
+   "id": "97651f6cc83c8962",
+   "title": "How Small Can a Single Shor Run Be? Limits and Constructions for secp256k1",
+   "url": "https://arxiv.org/abs/2611.31585",
+   "summary": "Most resource estimates for breaking secp256k1 with Shor's algorithm describe one long run per attempt, and the spacetime volume of that run, its peak number of logical qubits times its Toffoli count, sets its logical-error budget. Eker{\\aa}'s tradeoff shrinks each run by using more runs, but how far it can shrink the largest run, and at what…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T05:00:00Z",
+   "first_seen": "2026-11-25T13:35:33Z"
+  },
+  {
+   "id": "61159ad29cfe81ed",
+   "title": "A machine learning architecture for scaling of holographic quantum circuits",
+   "url": "https://arxiv.org/abs/2611.31867",
+   "summary": "We describe an architecture and workflow for learning and generalizing the syntax and parameters of holographic quantum circuits (HQCs), which are natural quantum circuit analogs of classical tensor networks. An HQC uses mid-circuit measurements and resets on a small subset of \"physical\" qubits whose measurement outcomes become correlated through…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-25T05:00:00Z",
+   "first_seen": "2026-11-25T13:35:33Z"
+  },
+  {
+   "id": "a85dda7aad6f19de",
+   "title": "Class-resolved sifting for quantum key distribution with photon pairs hyperentangled in polarization and transverse spatial variables",
+   "url": "https://arxiv.org/abs/2611.33055",
+   "summary": "Photon pairs hyperentangled in polarization and transverse spatial variables can carry two key bits per pair in entanglement-based quantum key distribution. We develop class-resolved sifting for such sources: every detected pair is assigned to a class according to which degrees of freedom were measured in compatible bases, and error and key rates…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-25T05:00:00Z",
+   "first_seen": "2026-11-25T13:35:33Z"
+  },
+  {
+   "id": "69b883f7edbc8d95",
+   "title": "$\\mathsf{EFI}\\Leftrightarrow\\mathsf{1PRS}$",
+   "url": "https://arxiv.org/abs/2610.18799",
+   "summary": "A series of recent works has established EFI pairs as the \"minimal\" assumption for quantum cryptography. Recently, Cavalar et al. [CCC+26] showed that EFI pairs are equivalent to non-uniform expanding single-copy pseudorandom state generators (1PRS), and obtained a non-uniform meta-complexity characterization of EFI pairs. We remove the…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T05:00:00Z",
+   "first_seen": "2026-11-25T13:35:33Z"
+  },
+  {
+   "id": "c105ea7f41985e63",
+   "title": "Internal inconsistencies and unresolved experimental evidence in a quantum neurosecurity framework",
+   "url": "https://arxiv.org/abs/2611.31622",
+   "summary": "This article presents a technical and theoretical assessment of the Quantum-Entangled Neuro-Symbolic Swarm Federation (QENSSF), a framework intended for privacy-preserving, quantum-secure, AI-powered, multimodal healthcare data analysis, introduced by Ben Othman and Ali (2025). They claim QENSSF is a first-in-class framework with provable privacy…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC"
+   ],
+   "date": "2026-11-25T05:00:00Z",
+   "first_seen": "2026-11-25T13:35:33Z"
+  },
+  {
+   "id": "3edac897f8de13b5",
+   "title": "APQKE-DR: Entropy-Failure Analysis of a Post-Quantum-Initialized Ratcheted Channel",
+   "url": "https://arxiv.org/abs/2611.32024",
+   "summary": "Long-lived secure channels for embedded and cyber-physical systems (CPSs) must resist quantum attacks and failures in endpoint randomness. While several post-quantum key exchange protocols exist, their security assumes reliable randomness at the endpoint, but this assumption is not always true in embedded devices. In this paper, we introduce the…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-25T05:00:00Z",
+   "first_seen": "2026-11-25T13:35:33Z"
   },
   {
    "id": "8583817fe547f9b7",
@@ -1328,20 +1521,6 @@
    ],
    "date": "2026-11-20T07:54:48Z",
    "first_seen": "2026-11-23T03:11:27Z"
-  },
-  {
-   "id": "2534bcea02f4f99a",
-   "title": "QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements",
-   "url": "https://arxiv.org/abs/2611.10403",
-   "summary": "We present QUASI, a newly conceived class of hash-based, post-quantum-secure protocols that enable a group of parties to produce a publicly verifiable attestation about a pre-validated statement. QUASI produces attestations that reduce the size and verification cost to a fraction of a full hash-based signatures collection, without relying on…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "PQC"
-   ],
-   "date": "2026-11-20T05:00:00Z",
-   "first_seen": "2026-11-10T15:37:51Z"
   },
   {
    "id": "937de59c28c15842",
