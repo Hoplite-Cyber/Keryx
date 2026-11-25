@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-25T13:35:33Z",
- "count": 1214,
+ "generated_at": "2026-11-25T22:42:01Z",
+ "count": 1223,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 25
+   "kept": 22
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 168
+   "kept": 169
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 9
+   "kept": 8
   },
   {
    "name": "ETSI – actualités",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 3
+   "kept": 4
   },
   {
    "name": "The Hacker News",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 18,
+   "fetched": 19,
    "kept": 0
   },
   {
@@ -258,7 +258,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 100,
-   "kept": 47
+   "kept": 49
   },
   {
    "name": "IonQ",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T13:35:33Z",
+   "date": "2026-11-25T22:42:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-25T13:35:33Z",
+   "date": "2026-11-25T22:42:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-25T13:35:33Z",
+   "date": "2026-11-25T22:42:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T13:35:33Z",
+   "date": "2026-11-25T22:42:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,145 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T13:35:33Z",
+   "date": "2026-11-25T22:42:01Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "08affcb4bf817536",
+   "title": "Spain sets 2035 deadline for medium-risk quantum-safe migration From CCN",
+   "url": "https://quantumzeitgeist.com/ccn-quantum-safe-migration-spain-deadline/",
+   "summary": "Spain’s new post-quantum cryptography (PQC) roadmap, aligning with EU standards, sets a 2035 deadline for migrating medium-risk systems and 2030 for high-risk ones.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T21:30:21Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/spain-sets-2035-deadline-for-medium-risk-quantum.jpg"
+  },
+  {
+   "id": "d220cacae4c64705",
+   "title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
+   "url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+   "summary": "Insider Brief PRESS RELEASE — IQM Quantum Computers (Nasdaq: IQMX), a global leader in superconducting quantum computers, is partnering with QAI Co., Ltd., a South Korean quantum-AI data center and cloud infrastructure company, to deliver an IQM Radiance R3 54-qubit quantum computer. The order covers a complete on-premises quantum computing…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T18:08:13Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-25_23-06.png"
+  },
+  {
+   "id": "38151442170cf94f",
+   "title": "New quantum network entangles 123 qubits that store information in atoms' positions",
+   "url": "https://phys.org/news/2026-11-quantum-network-entangles-qubits-atoms.html",
+   "summary": "Researchers are constantly getting closer to making practical quantum computers. Now, a team of researchers has overcome another hurdle in the process. Their study, published in Physical Review Letters, describes a new platform for manipulating entangled atomic networks in measurement-based quantum computation—a process usually hindered by…",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T18:00:15Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg"
+  },
+  {
+   "id": "3cc09754014db12c",
+   "title": "Quantum leap: Computing's next frontier takes shape",
+   "url": "https://phys.org/news/2026-11-quantum-frontier.html",
+   "summary": "After several dashed predictions, quantum computing is accelerating rapidly with actual use cases and scientific breakthroughs now expected within years, not decades.",
+   "source": "Phys.org – physique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T16:40:03Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-quantum-computer-at.jpg"
+  },
+  {
+   "id": "9821e9581f9706d4",
+   "title": "Quantum Milestone: We Can Now Detect and Correct Quantum Errors in Real Time",
+   "url": "https://www.quantinuum.com/blog/quantum-milestone-we-can-now-detect-and-correct-quantum-errors-in-real-time",
+   "summary": "Researchers at Honeywell Quantum Solutions applied multiple rounds of quantum error correction to a single logical qubit, an industry first",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T15:22:37Z",
+   "first_seen": "2026-11-25T22:42:01Z"
+  },
+  {
+   "id": "311940e983f8c44c",
+   "title": "Quantinuum and Microsoft achieve breakthrough that unlocks a new era of reliable quantum computing",
+   "url": "https://www.quantinuum.com/blog/a-new-breakthrough-in-logical-quantum-computing-reveals-the-scale-of-our-industry-leadership",
+   "summary": "Quantinuum’s System Model H2 enabled Microsoft’s qubit-virtualization system to generate the most reliable logical qubits ever recorded, a breakthrough with wide ranging implications for everyone in quantum computing, accelerating progress and challenging current assumptions about the timeline toward large scale reliable quantum computing.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T15:21:06Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b22082e2a6acb12673d2_660d394f96d09ce33f98710c_microsoft-blog-image_r06.png"
+  },
+  {
+   "id": "e03489055aa46048",
+   "title": "A Quantinuum-led team has built the quantum programming tools for real-time magic state distillation on a quantum computer",
+   "url": "https://www.quantinuum.com/blog/a-quantinuum-led-team-has-built-the-quantum-programming-tools-for-real-time-magic-state-distillation-on-a-quantum-computer",
+   "summary": "Researchers at Quantinuum and Microsoft’s Azure Quantum used the Quantum Intermediate Representation (QIR) to demonstrate a magic state distillation protocol for the first time on quantum hardware – a key element necessary for universal, fault-tolerant quantum computing",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T15:19:55Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/66c4b213aa933447305d7119_6537d1d900ae0a9101c2f12e_magic-state-media-preview_v2_r01%255B60%255D.png"
+  },
+  {
+   "id": "e1eef9ea8e22d692",
+   "title": "Quantinuum Overcomes Last Major Hurdle to Deliver Scalable Universal Fault-Tolerant Quantum Computers by 2029",
+   "url": "https://www.quantinuum.com/blog/quantinuum-overcomes-last-major-hurdle-to-deliver-scalable-universal-fault-tolerant-quantum-computers-by-2029",
+   "summary": "In a landmark scientific breakthrough, Quantinuum becomes the first company to demonstrate a fully fault-tolerant universal gate set with repeatable error correction, and in doing so, achieved a ten-fold improvement over current industry-leading benchmarks",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-25T15:19:05Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6859b5507cd8481a0f251014_magic-states-media-preview.png"
+  },
+  {
+   "id": "a54d54a0fe8bdc53",
+   "title": "Hyperentangled photons aid quantum key distribution",
+   "url": "https://quantumzeitgeist.com/universidade-federal-quantum-key-distribution-hyperentangled/",
+   "summary": "Photon pairs hyperentangled in polarization and transverse spatial variables can carry two key bits per pair in entanglement-based quantum key distribution. The authors develop class-resolved sifting, assigning detected pairs to a class based on measured degrees of freedom, to estimate error and key rates separately in each class.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-25T14:36:53Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/hyperentangled-photons-aid-quantum-key-distribution.png"
   },
   {
    "id": "361cf3b67d6b97e0",
@@ -613,6 +749,21 @@
    ],
    "date": "2026-11-25T05:00:00Z",
    "first_seen": "2026-11-25T13:35:33Z"
+  },
+  {
+   "id": "cf2bee49e4bb943a",
+   "title": "Progress in Logical Teleportation",
+   "url": "https://www.quantinuum.com/blog/teleporting-to-new-heights",
+   "summary": "Quantinuum recently achieved a record logical teleportation fidelity of 99.82% – up from 97.5% in last year’s result. What’s more, our logical qubit teleportation fidelity now exceeds our physical qubit teleportation fidelity, passing the break-even point that establishes our H2 system as the gold standard for complex quantum operations.",
+   "source": "Quantinuum",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-24T19:27:43Z",
+   "first_seen": "2026-10-26T08:46:11Z",
+   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6835e2f5e0362ae36c2ef682_logical-teleportation-media-preview%20(1).png"
   },
   {
    "id": "8583817fe547f9b7",
@@ -3476,6 +3627,23 @@
    ],
    "date": "2026-11-16T00:00:00Z",
    "first_seen": "2026-11-16T18:56:58Z"
+  },
+  {
+   "id": "83d5414959906d41",
+   "title": "Alessandro Zavatta of CNR-INO spoke on quantum security at Quantum Revolution",
+   "url": "https://quantumzeitgeist.com/cnr-ino-quantum-security-alessandro-zavatta/",
+   "summary": "At Quantum Revolution 2026, CNR-INO’s Alessandro Zavatta discussed securing communications in the quantum era, focusing on Quantum Key Distribution and Post-Quantum Cryptography.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-16T00:00:00Z",
+   "first_seen": "2026-11-25T22:42:01Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/alessandro-zavatta-of-cnr-ino-spoke-on-quantum.jpg"
   },
   {
    "id": "fd48863e1046c215",
@@ -18164,21 +18332,6 @@
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/68a340acc9a1b39a5ecfa61f_infineon-media-preview%201%201%20(1).png"
   },
   {
-   "id": "cf2bee49e4bb943a",
-   "title": "Progress in Logical Teleportation",
-   "url": "https://www.quantinuum.com/blog/teleporting-to-new-heights",
-   "summary": "Quantinuum recently achieved a record logical teleportation fidelity of 99.82% – up from 97.5% in last year’s result. What’s more, our logical qubit teleportation fidelity now exceeds our physical qubit teleportation fidelity, passing the break-even point that establishes our H2 system as the gold standard for complex quantum operations.",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2025-09-03T00:55:24Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6835e2f5e0362ae36c2ef682_logical-teleportation-media-preview%20(1).png"
-  },
-  {
    "id": "5e71a02aa0e5907d",
    "title": "Quantinuum Dominates the Quantum Landscape: New World-Record in Quantum Volume",
    "url": "https://www.quantinuum.com/blog/quantum-volume-milestone",
@@ -18359,21 +18512,6 @@
    "date": "2025-07-01T17:25:47Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6863f6c3a6611a6a82b1d458_multi-tree-media-preview.png"
-  },
-  {
-   "id": "e1eef9ea8e22d692",
-   "title": "Quantinuum Overcomes Last Major Hurdle to Deliver Scalable Universal Fault-Tolerant Quantum Computers by 2029",
-   "url": "https://www.quantinuum.com/blog/quantinuum-overcomes-last-major-hurdle-to-deliver-scalable-universal-fault-tolerant-quantum-computers-by-2029",
-   "summary": "In a landmark scientific breakthrough, Quantinuum becomes the first company to demonstrate a fully fault-tolerant universal gate set with repeatable error correction, and in doing so, achieved a ten-fold improvement over current industry-leading benchmarks",
-   "source": "Quantinuum",
-   "category": "Industrie",
-   "lang": "en",
-   "themes": [
-    "Ordinateurs quantiques"
-   ],
-   "date": "2025-07-01T17:13:15Z",
-   "first_seen": "2026-10-26T08:46:11Z",
-   "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6859b5507cd8481a0f251014_magic-states-media-preview.png"
   },
   {
    "id": "a48cbe50dd78e00f",
