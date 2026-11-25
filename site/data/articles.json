@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T20:49:36Z",
- "count": 1201,
+ "generated_at": "2026-11-25T03:48:28Z",
+ "count": 1202,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 27
+   "kept": 28
   },
   {
    "name": "arXiv quant-ph",
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T20:49:36Z",
+   "date": "2026-11-25T03:48:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-24T20:49:36Z",
+   "date": "2026-11-25T03:48:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-24T20:49:36Z",
+   "date": "2026-11-25T03:48:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T20:49:36Z",
+   "date": "2026-11-25T03:48:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,7 +417,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-24T20:49:36Z",
+   "date": "2026-11-25T03:48:28Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -941,6 +941,22 @@
    "date": "2026-11-23T08:40:28Z",
    "first_seen": "2026-11-23T12:57:31Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-3.37.12-AM.png"
+  },
+  {
+   "id": "5c1ba8a65bb4bee6",
+   "title": "Representation-Aware Kleptographic Attacks on Post-Quantum Cryptography",
+   "url": "https://eprint.iacr.org/2026/3001",
+   "summary": "Kleptographic subversions of cryptographic implementations, through Algorithm Substitution Attacks (ASAs), threaten the trust assumptions of black-box cryptosystems. This work studies such subversions in Post-Quantum Cryptography (PQC) through the lens of public-key representation. We formalize key-generation subversion with explicit public-key…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-23T06:14:08Z",
+   "first_seen": "2026-11-25T03:48:28Z"
   },
   {
    "id": "fc7d3dc9959ef612",
