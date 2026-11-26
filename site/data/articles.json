@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-25T22:42:01Z",
- "count": 1223,
+ "generated_at": "2026-11-26T04:28:08Z",
+ "count": 1224,
  "sources": [
   {
    "name": "ANSSI",
@@ -98,7 +98,7 @@
    "category": "Industrie",
    "ok": true,
    "fetched": 20,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Quantum Zeitgeist – cryptographie",
@@ -320,7 +320,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 603,
+   "fetched": 606,
    "kept": 5
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T22:42:01Z",
+   "date": "2026-11-26T04:28:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-25T22:42:01Z",
+   "date": "2026-11-26T04:28:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-25T22:42:01Z",
+   "date": "2026-11-26T04:28:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T22:42:01Z",
+   "date": "2026-11-26T04:28:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,26 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-25T22:42:01Z",
+   "date": "2026-11-26T04:28:08Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "341e849122c293d9",
+   "title": "Make post-quantum cryptography updates routine with AWS-LC",
+   "url": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc/",
+   "summary": "As your organization plans upgrades to post-quantum cryptography (PQC), you should also think about cryptographic agility to more easily update algorithms used to protect your data. Changes to cryptography and related protocols aren’t new, but PQC is accelerating the pace at which organizations must add new algorithms and remove old ones to keep…",
+   "source": "AWS Security Blog",
+   "category": "Industrie",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T00:15:29Z",
+   "first_seen": "2026-11-26T04:28:08Z",
+   "image": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/11/25/figure1-alt-client-server-ml-kem-768-ml-dsa-87-graviton4.png"
   },
   {
    "id": "08affcb4bf817536",
@@ -11537,16 +11554,17 @@
   },
   {
    "id": "2327d2bbeb5e7661",
-   "title": "FAEST on GPUs: Addressing Field Multiplication as a Bottleneck",
+   "title": "GPU Optimization of QuickSilver Proving and Verification in FAEST v3",
    "url": "https://eprint.iacr.org/2026/2489",
-   "summary": "FAEST is a post-quantum signature scheme that combines VOLE-in-the-Head with QuickSilver to prove knowledge of a secret key. It relies on well-established symmetric primitives and offers small public keys, but signing and verification are computationally expensive. We present an NVIDIA GPU implementation of the key-generation core and the…",
+   "summary": "FAEST v3 is a post-quantum signature scheme that uses QuickSilver to prove and verify a block cipher computation. We implement QuickSilver proving and verification on NVIDIA GPUs for all FAEST v3 parameter sets. We assign the QuickSilver work for each signature to one warp, whose threads evaluate cipher constraints in parallel and combine their…",
    "source": "IACR ePrint",
    "category": "Recherche",
    "themes": [
     "PQC"
    ],
    "date": "2026-10-15T00:53:20Z",
-   "first_seen": "2026-10-19T14:46:21Z"
+   "first_seen": "2026-10-19T14:46:21Z",
+   "lang": "en"
   },
   {
    "id": "f38868c53caeffd9",
