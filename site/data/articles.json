@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T14:16:48Z",
- "count": 1248,
+ "generated_at": "2026-11-26T23:01:46Z",
+ "count": 1252,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 24
+   "kept": 23
   },
   {
    "name": "arXiv quant-ph",
@@ -105,7 +105,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 170
+   "kept": 171
   },
   {
    "name": "The Quantum Insider",
@@ -125,8 +125,8 @@
    "name": "PQShield – actualités",
    "category": "Industrie",
    "ok": true,
-   "fetched": 22,
-   "kept": 11
+   "fetched": 6,
+   "kept": 1
   },
   {
    "name": "Schneier on Security",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 23,
+   "fetched": 25,
    "kept": 0
   },
   {
@@ -286,7 +286,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "Futura Sciences",
@@ -320,7 +320,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 603,
+   "fetched": 606,
    "kept": 5
   },
   {
@@ -346,6 +346,66 @@
   }
  ],
  "articles": [
+  {
+   "id": "63f4d41d18c69a75",
+   "title": "NEWSThe BSI’s new post-quantum roadmap – a race against quantum and AI19 Oct 2026",
+   "url": "https://pqshield.com/the-bsis-new-post-quantum-roadmap-a-race-against-quantum-and-ai/",
+   "summary": "",
+   "source": "PQShield – actualités",
+   "category": "Industrie",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-26T23:01:46Z",
+   "first_seen": "2026-10-19T16:03:33Z",
+   "lang": "en"
+  },
+  {
+   "id": "e077cd1ed892e73e",
+   "title": "Crypto4A and Adfinis deepen ties for quantum-safe secrets",
+   "url": "https://quantumzeitgeist.com/quantum-safe-secrets-crypto4a-adfinis-deepen/",
+   "summary": "Adfinis and Crypto4A expand their strategic partnership to jointly offer QxVault, a sovereign, quantum-safe secrets management platform, formalized at a signing ceremony in Bern witnessed by the Canadian Ambassador to Switzerland on November 26, 2026. Building on an initial alliance launched in June 2026, Adfinis embedded Secretz Enterprise…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T22:12:27Z",
+   "first_seen": "2026-11-26T23:01:46Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/crypto4a-adfinis-deepen-ties-quantum-safe.png"
+  },
+  {
+   "id": "ab6c059dc45973da",
+   "title": "Arqit software finds crypto risks before the PQC migration",
+   "url": "https://quantumzeitgeist.com/crypto-risks-arqit-software-pqc/",
+   "summary": "NSM-10 and NCSC deadlines are here, yet organizations lack visibility into existing crypto risks.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T22:12:19Z",
+   "first_seen": "2026-11-26T23:01:46Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/arqit-software-crypto-risks-pqc-migration.png"
+  },
+  {
+   "id": "1e0f4ded2cc0d2f9",
+   "title": "SAP and planqc Expand Quantum Computing Partnership, Plan Hardware Tests in 2027",
+   "url": "https://thequantuminsider.com/2026/11/26/sap-and-planqc-expand-quantum-computing-partnership-plan-hardware-tests-in-2027/",
+   "summary": "Insider Brief PRESS RELEASE — SAP and planqc are expanding their collaboration in quantum computing. At the Quantum Day Munich by SAP, the two companies demonstrated the first live integration of a planqc neutral-atom quantum computer into an SAP environment. This marks an important step towards making quantum computing capabilities directly…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-26T14:30:00Z",
+   "first_seen": "2026-11-26T23:01:46Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/SAP-and-planqc-quantum-collaboration-1.png"
+  },
   {
    "id": "f6a5343802cba0e8",
    "title": "Post-quantum encryption for modern security",
@@ -1498,6 +1558,24 @@
    "date": "2026-11-24T00:00:00Z",
    "first_seen": "2026-11-26T14:16:48Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/ethereum-picks-keccak-256-as-its-hash-for-1-scaled.jpg"
+  },
+  {
+   "id": "589b5562cc7f9ac9",
+   "title": "Cisco helps clients discover quantum crypto risks.",
+   "url": "https://quantumzeitgeist.com/quantum-crypto-risks-cisco-helps/",
+   "summary": "Facing NSM-10 and NCSC deadlines, organizations struggle to map existing encryption and assess their exposure to post-quantum cryptography threats.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "Normes & politiques",
+    "PQC",
+    "QKD"
+   ],
+   "date": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-26T23:01:46Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/cisco-helps-clients-quantum-crypto-risks-scaled.jpeg"
   },
   {
    "id": "f8cd234c429160a7",
@@ -11263,21 +11341,6 @@
    ],
    "date": "2026-10-19T02:08:42Z",
    "first_seen": "2026-10-20T11:47:38Z",
-   "lang": "en"
-  },
-  {
-   "id": "63f4d41d18c69a75",
-   "title": "| Matthew StubbsThe BSI’s new post-quantum roadmap – a race against quantum and AIGermany set 2030 targets for post-quantum security - and warned that AI accelerates the threat today. But guidelines on paper don’t upgrade legacy servers. Why ‘crypto-agility’ is the real metric for survival in a post-quantum world.",
-   "url": "https://pqshield.com/the-bsis-new-post-quantum-roadmap-a-race-against-quantum-and-ai/",
-   "summary": "",
-   "source": "PQShield – actualités",
-   "category": "Industrie",
-   "themes": [
-    "PQC",
-    "Normes & politiques"
-   ],
-   "date": "2026-10-19T00:00:00Z",
-   "first_seen": "2026-10-19T16:03:33Z",
    "lang": "en"
   },
   {
