@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T04:28:08Z",
- "count": 1224,
+ "generated_at": "2026-11-26T14:16:48Z",
+ "count": 1248,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 22
+   "kept": 24
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 163,
-   "kept": 4
+   "fetched": 172,
+   "kept": 5
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 96,
-   "kept": 5
+   "fetched": 72,
+   "kept": 13
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 169
+   "kept": 170
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 8
+   "kept": 5
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 19,
+   "fetched": 23,
    "kept": 0
   },
   {
@@ -210,7 +210,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Usine Digitale",
@@ -286,7 +286,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 50,
-   "kept": 1
+   "kept": 2
   },
   {
    "name": "Futura Sciences",
@@ -320,7 +320,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 606,
+   "fetched": 603,
    "kept": 5
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-26T04:28:08Z",
+   "date": "2026-11-26T14:16:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -371,7 +371,7 @@
    "themes": [
     "PQC"
    ],
-   "date": "2026-11-26T04:28:08Z",
+   "date": "2026-11-26T14:16:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -387,7 +387,7 @@
     "PQC",
     "QKD"
    ],
-   "date": "2026-11-26T04:28:08Z",
+   "date": "2026-11-26T14:16:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -402,7 +402,7 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-26T04:28:08Z",
+   "date": "2026-11-26T14:16:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
   },
@@ -417,9 +417,358 @@
     "PQC",
     "Menace quantique"
    ],
-   "date": "2026-11-26T04:28:08Z",
+   "date": "2026-11-26T14:16:48Z",
    "first_seen": "2026-10-19T14:49:59Z",
    "lang": "en"
+  },
+  {
+   "id": "202e20ae8a2ffac8",
+   "title": "Quantum Computing Sold the Wrong Fear as AI Labs Close In on RSA",
+   "url": "https://quantumzeitgeist.com/ai-break-rsa-quantum-computing/",
+   "summary": "Scott Aaronson says AI labs are sitting on cryptography bombshells. If ordinary computers can break RSA, quantum computing loses its most famous pitch.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T13:52:04Z",
+   "first_seen": "2026-11-26T14:16:48Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/ai-break-rsa-quantum-computing.jpg"
+  },
+  {
+   "id": "ff1aefc8bf133a69",
+   "title": "Secardeo launches first automated post-quantum Outlook solution",
+   "url": "https://quantumzeitgeist.com/microsoft-quantum-secardeo-post-first-automated/",
+   "summary": "SECARDEO announced the first automated Post-Quantum Cryptography solution for Microsoft Outlook, addressing “Harvest Now, Decrypt Later” threats.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T13:03:53Z",
+   "first_seen": "2026-11-26T14:16:48Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/secardeo-first-automated-post-quantum-outlook.jpg"
+  },
+  {
+   "id": "6f79d0fe5553d356",
+   "title": "Face aux besoins de calcul de l’IA, la finance explore l’informatique quantique",
+   "url": "https://www.zdnet.fr/actualites/face-aux-besoins-de-calcul-de-lia-la-finance-explore-linformatique-quantique-508659.htm#xtor=RSS-1",
+   "summary": "Alors que la généralisation de l’intelligence artificielle accentue la pression sur les infrastructures informatiques, IBM plaide pour une adoption progressive du calcul quantique. Le groupe insiste également sur la nécessité de conserver la maîtrise des modèles d’IA.",
+   "source": "ZDNet France",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-26T10:11:21Z",
+   "first_seen": "2026-11-26T14:16:48Z",
+   "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/quantique.png"
+  },
+  {
+   "id": "7e30c9043798860a",
+   "title": "European Quantum Community Reacts to New Quantum Strategy",
+   "url": "https://thequantuminsider.com/2026/11/26/european-quantum-community-reacts-to-new-quantum-strategy/",
+   "summary": "The European Commission proposed a Quantum Act yesterday to commercialize European quantum research, strengthen supply chains and coordinate the transition to post-quantum cryptography. The proposal would bring EU and national programs together to fund research, expand access to shared facilities and help companies bring quantum technologies to…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T09:40:04Z",
+   "first_seen": "2026-11-26T14:16:48Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/1x3li7tgf6o-1.jpg"
+  },
+  {
+   "id": "f676ad08c151eebe",
+   "title": "Post-quantum crypto adds storage costs to blockchains, research suggests",
+   "url": "https://quantumzeitgeist.com/tron-post-quantum-crypto-blockchains-adds/",
+   "summary": "Migrating blockchains to protect against quantum computing threats—using schemes like Falcon-512—could increase ledger sizes by 79–229%, research shows.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T08:56:25Z",
+   "first_seen": "2026-11-26T14:16:48Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/post-quantum-crypto-adds-storage-costs-to-blockchains-scaled.jpg"
+  },
+  {
+   "id": "7812b84a337c1a54",
+   "title": "Quantum Act : 7 choses à savoir sur le projet européen pour les technologies quantiques",
+   "url": "https://www.lemondeinformatique.fr/donnees-ia/quantum-act-7-choses-a-savoir-sur-le-projet-europeen-pour-les-technologies-quantiques",
+   "summary": "La Commission européenne a présenté, le 25 novembre 2026, son projet de Quantum Act afin de renforcer la position de l'Union dans les technologies quantiques d'ici à 2030. Au-delà du soutien à la recherche, ce futur règlement prévoit de faciliter l'industrialisation, de mobiliser des financements et de sécuriser les chaînes d'approvisionnement. Il…",
+   "source": "Le Monde Informatique – quantique",
+   "category": "Presse spécialisée",
+   "lang": "fr",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T08:53:02Z",
+   "first_seen": "2026-11-26T14:16:48Z",
+   "image": "https://cdn.overlord.media/pexels_jonas_horsch_102497290_11682403_809b4f1ca4.jpg"
+  },
+  {
+   "id": "ff2201f4c5005760",
+   "title": "Robust Quantum Key Distribution Arbitrarily Close to Local Correlations",
+   "url": "https://arxiv.org/abs/2608.22603",
+   "summary": "Recently, Wooltorton et al. [Phys. Rev. Lett. 132, 210802 (2024)] and Farkas [Phys. Rev. Lett. 132, 210803 (2024)] have exhibited the mismatch between Bell inequality violations and their cryptographic application in device-independent quantum key distribution, by showing that arbitrarily close to the set of local behaviours there exist quantum…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "1d95b971c512fe90",
+   "title": "Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy",
+   "url": "https://arxiv.org/abs/2507.17006",
+   "summary": "Compiling Bell games under cryptographic assumptions replaces the need for physical separation, allowing nonlocality to be probed with a single untrusted device. While Kalai et al. (STOC'23) showed that this compilation preserves quantum advantages, its quantitative quantum soundness has remained an open problem. We address this gap with two…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "themes": [
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-10-20T04:04:28Z",
+   "lang": "en"
+  },
+  {
+   "id": "23b4abd06342da2e",
+   "title": "How Many Keys Must a Quantum Computer Break to Take Over a Blockchain? A Quantum Nakamoto Coefficient for Fifteen Proof-of-Stake Networks",
+   "url": "https://arxiv.org/abs/2611.33413",
+   "summary": "Blockchains that run on proof of stake, among them Ethereum and Solana, are secured by a vote: a transaction becomes irreversible once computers holding two thirds of the deposited money have signed it. Each signature is made with a secret key whose public counterpart is permanently visible, and a large quantum computer could compute the secret…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "b1547388d81beaa7",
+   "title": "Practical limitations on robustness and scalability of quantum Internet",
+   "url": "https://arxiv.org/abs/2308.12739",
+   "summary": "The realization of a desirably functional quantum Internet is hindered by fundamental and practical challenges such as high loss during transmission of quantum systems, decoherence due to interaction with the environment, fragility of quantum states under measurement, etc. We study the implications of these constraints by analyzing the limitations…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "6eb4e58e6b2a58d7",
+   "title": "Quantifying the Functional Size of Large-Scale Quantum Networks",
+   "url": "https://arxiv.org/abs/2312.16009",
+   "summary": "Large-scale quantum networks enable distributed quantum tasks by sharing entanglement between distant nodes. Since entanglement distribution in such networks relies on stochastic local operations and classical communication (SLOCC), the resulting end-to-end entanglement degrades with path length and exhibits statistical variations, limiting the…",
+   "source": "arXiv quant-ph",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "f07967bbe4f72001",
+   "title": "Bounding the security of the FALCON signature scheme in the quantum random oracle model",
+   "url": "https://arxiv.org/abs/2611.33666",
+   "summary": "In 2016, the National Institute of Standards and Technology (NIST) announced their invitation for proposals of public key encryption and signature schemes that are resistant to attacks by quantum computers. Since then, several rounds of proposals and revisions have occurred resulting in the 2022 announcement that three signature schemes -…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "1b01f43bac1ac96d",
+   "title": "Evaluating Post-Quantum and Hybrid Signatures for Blockchains: Performance, Storage and Ledger Growth",
+   "url": "https://arxiv.org/abs/2611.34229",
+   "summary": "Advances in quantum computing pose a long-term threat to blockchain systems that rely on classical digital signature schemes such as ECDSA. Migrating these systems to post-quantum cryptography introduces practical costs beyond cryptographic security, including larger transactions, higher computational costs and faster ledger growth. We present an…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "1898f0b6aca7cffd",
+   "title": "Northstar: Efficient Verifiable Negacyclic Polynomial Arithmetic with Applications to Encrypted Lattice-based Multi-Asset ERC-20 and Verifiable FHE",
+   "url": "https://arxiv.org/abs/2611.34417",
+   "summary": "Lattice-based cryptography can be used to construct a variety of post-quantum cryptographic schemes, ranging from standard cryptographic primitives such as digital signatures and encryption, to fully homomorphic encryption (FHE). However, the verification of correct lattice computations remains relatively expensive, particularly for…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "QKD"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "a0f9b2b0bad09a3f",
+   "title": "Fuel as Identity: Authenticating Inter-Satellite Laser Links after Total Key Compromise",
+   "url": "https://arxiv.org/abs/2611.34470",
+   "summary": "Optical inter-satellite links form the backbone of entire constellations in low Earth orbit, yet their security rests on keys alone. When an attacker obtains every key of a satellite, no secret is left to authenticate it again. Existing fixes fail, since ground rekeying encrypts new keys under the leaked ones, and post-compromise protocols assume…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "1efcfaca90cc038a",
+   "title": "Full Structure Recovery of Linearized Reed-Solomon Codes",
+   "url": "https://arxiv.org/abs/2611.34835",
+   "summary": "Linearized Reed-Solomon codes (LRS) are optimal sum-rank-metric codes that generalize both Reed-Solomon and Gabidulin codes, and benefit from excellent decoding capabilities, making them potentially interesting candidates for post-quantum code-based cryptography. Previous works have investigated the underlying geometric structure of LRS codes…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "a2600de97c973afa",
+   "title": "ACE-GF: A Generative Framework for Atomic Cryptographic Entities",
+   "url": "https://arxiv.org/abs/2511.20505",
+   "summary": "Autonomous digital entities require deterministic identity mechanisms that avoid persistent storage of high-value master secrets, while supporting credential rotation and cryptographic agility across heterogeneous systems. Existing deterministic key hierarchies and centralized key management systems typically rely on long-lived root secrets…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "6753a048594f5e01",
+   "title": "VA-DAR: A PQC-Ready, Vendor-Agnostic Deterministic Artifact Resolution for Serverless, Enumeration-Resistant Wallet Recovery",
+   "url": "https://arxiv.org/abs/2603.02690",
+   "summary": "Serverless wallet recovery must balance portability, usability, and privacy. Public registries enable decentralized lookup but naive identifier hashing leaks membership through enumeration. We present VA-DAR, a keyed-discovery protocol for ACE-GF-based wallets that use device-bound passkeys for day-to-day local unlock while supporting cross-device…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "97d9ece373153fad",
+   "title": "ZK-ACE: Identity-Centric Zero-Knowledge Authorization for Post-Quantum Blockchain Systems",
+   "url": "https://arxiv.org/abs/2603.07974",
+   "summary": "Post-quantum signature schemes impose kilobyte-scale on-chain artifacts. Verifying them inside ZK circuits merely relocates the cost via expensive lattice arithmetic in prover circuits. We present ZK-ACE (Zero-Knowledge Authorization for Cryptographic Entities), which replaces transaction-carried signature objects with identity-bound ZK…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "b6c697f4ee087b22",
+   "title": "ACE-GF-based Attestation Relay for PQC - Lightweight Mempool Propagation Without On-Path Proofs",
+   "url": "https://arxiv.org/abs/2603.07982",
+   "summary": "In post-quantum blockchain settings, objects that require validity proofs (e.g., blob roots, execution-layer or consensus-layer signature aggregates) must be broadcast through mempool and relay networks. Recursive STARKs have been proposed to aggregate such proofs so that each node forwards one proof per tick plus objects without proofs, capping…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "9e45d5ae27605c37",
+   "title": "ACE Runtime - A ZKP-Native Blockchain Runtime with Sub-Second Cryptographic Finality",
+   "url": "https://arxiv.org/abs/2603.10242",
+   "summary": "Existing high performance blockchains verify one signature per transaction on the critical path, which creates O(N) verification cost, high hardware pressure, and difficult post quantum migration. This paper presents ACE Runtime, a ZKP native execution layer built on identity authorization separation. We replace per transaction signature checks…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "e422eadd986baf67",
+   "title": "MEV-ACE: Identity-Authenticated Fair Ordering for Proposer-Controlled MEV Mitigation",
+   "url": "https://arxiv.org/abs/2604.07568",
+   "summary": "Maximal Extractable Value, or MEV, remains a structural threat to blockchain fairness because a block producer can often observe pending transactions and unilaterally decide their ordering or inclusion. Existing mitigations hide transaction contents or outsource ordering, but they often leave two gaps unresolved. First, commitments are not…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
+   "id": "98fea0effd1db704",
+   "title": "A Note on Binary Quadratic Systems and their relation to complexity theory",
+   "url": "https://arxiv.org/abs/2609.07769",
+   "summary": "Deciding whether a system of multivariate quadratic equations over $\\mathbb F_2$ has a solution is a classical NP-complete problem, and remains so for square systems, with as many equations as variables. The hardness of this problem is one of the cornerstones of nowadays post-quantum cryptography. Let $\\mathrm{MQ}_0(n)$ and $\\mathrm{MQ}_1(n)$…",
+   "source": "arXiv cs.CR",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T05:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z"
   },
   {
    "id": "341e849122c293d9",
@@ -1047,21 +1396,6 @@
    "first_seen": "2026-11-24T10:27:43Z"
   },
   {
-   "id": "ff2201f4c5005760",
-   "title": "Robust Quantum Key Distribution Arbitrarily Close to Local Correlations",
-   "url": "https://arxiv.org/abs/2608.22603",
-   "summary": "Recently, Wooltorton et al. [Phys. Rev. Lett. 132, 210802 (2024)] and Farkas [Phys. Rev. Lett. 132, 210803 (2024)] have exhibited the mismatch between Bell inequality violations and their cryptographic application in device-independent quantum key distribution, by showing that arbitrarily close to the set of local behaviours there exist quantum…",
-   "source": "arXiv quant-ph",
-   "category": "Recherche",
-   "lang": "en",
-   "themes": [
-    "QKD",
-    "Menace quantique"
-   ],
-   "date": "2026-11-24T05:00:00Z",
-   "first_seen": "2026-11-24T10:27:43Z"
-  },
-  {
    "id": "3ebd8f364385e574",
    "title": "Four Ways to Stream: Exponential Separations from Random Order and Quantum Memory",
    "url": "https://arxiv.org/abs/2610.06727",
@@ -1147,6 +1481,23 @@
    ],
    "date": "2026-11-24T05:00:00Z",
    "first_seen": "2026-11-24T10:27:43Z"
+  },
+  {
+   "id": "9d51cf3c8c528854",
+   "title": "Ethereum picks Keccak-256 as its hash for a post-quantum future",
+   "url": "https://quantumzeitgeist.com/ethereum-picks-keccak-256-hash-post/",
+   "summary": "Ethereum is standardizing on Keccak-256 for its post-quantum cryptography, building on nearly two decades of analysis.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-26T14:16:48Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/ethereum-picks-keccak-256-as-its-hash-for-1-scaled.jpg"
   },
   {
    "id": "f8cd234c429160a7",
@@ -10513,20 +10864,6 @@
    "lang": "en"
   },
   {
-   "id": "1d95b971c512fe90",
-   "title": "Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy",
-   "url": "https://arxiv.org/abs/2507.17006",
-   "summary": "Compiling Bell games under cryptographic assumptions replaces the need for physical separation, allowing nonlocality to be probed with a single untrusted device. While Kalai et al. (STOC'23) showed that this compilation preserves quantum advantages, its quantitative quantum soundness has remained an open problem. We address this gap with two…",
-   "source": "arXiv cs.CR",
-   "category": "Recherche",
-   "themes": [
-    "Menace quantique"
-   ],
-   "date": "2026-10-20T04:00:00Z",
-   "first_seen": "2026-10-20T04:04:28Z",
-   "lang": "en"
-  },
-  {
    "id": "9a217c3497d7f273",
    "title": "Memory effects in repeated uses of quantum channels",
    "url": "https://arxiv.org/abs/2511.05661",
@@ -13235,7 +13572,7 @@
    "id": "a30e4e14504a8634",
    "title": "Provable dual attack on LWE via lattice projection",
    "url": "https://eprint.iacr.org/2026/2117",
-   "summary": "The Learning with Errors (LWE) problem is a cornerstone of post-quantum cryptography, and the dual attack is a central tool for evaluating its concrete hardness. In provable dual attacks, a major bottleneck is the large number of discrete Gaussian samples required over the dual lattice. While recent works have focused on accelerating the guessing…",
+   "summary": "The Learning with Errors (LWE) problem is a cornerstone of post-quantum cryptography, and the dual attack is a central tool for evaluating its concrete hardness. In provable dual attacks, the computational cost is dominated by two main components: discrete Gaussian sampling and the guessing procedure. In this paper, we improve the efficiency of…",
    "source": "IACR ePrint",
    "category": "Recherche",
    "lang": "en",
@@ -16146,6 +16483,21 @@
    "first_seen": "2026-10-20T12:52:48Z"
   },
   {
+   "id": "7483ec28803f9d37",
+   "title": "Panther: Robust Hybrid KEM Combiners via Structural Splicing",
+   "url": "https://eprint.iacr.org/2026/781",
+   "summary": "We present Panther, a family of six robust hybrid key encapsulation mechanism (KEM) combiners that pair FrodoKEM (unstructured LWE) with ML-KEM (module-LWE, FIPS 203) so that IND-CCA2 security holds whenever either assumption is hard. The family includes five hardened variants of the textbook combiners—parallel HKDF, SHAKE256 splitkey, sequential…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-04-20T15:56:23Z",
+   "first_seen": "2026-11-26T14:16:48Z"
+  },
+  {
    "id": "c7d2a44b32b6462f",
    "title": "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
    "url": "https://words.filippo.io/128-bits/",
@@ -16159,6 +16511,23 @@
    "date": "2026-04-20T15:21:12Z",
    "first_seen": "2026-10-26T09:55:10Z",
    "image": "https://assets.buttondown.email/images/0f86b37f-5bdb-4151-928e-5e3812a29dc9.png?w=960&fit=max"
+  },
+  {
+   "id": "e96089ee3f0673e6",
+   "title": "Cobra: All-in-one for full-fledged defense — a hybrid nested KEM",
+   "url": "https://eprint.iacr.org/2026/778",
+   "summary": "The transition to post-quantum cryptography (PQC) is constrained by the limited cryptanalytic history of individual PQC algorithms. Hybrid constructions, which combine several primitives so that breaking the hybrid requires breaking each component, address this concern directly. This paper presents Cobra, a hybrid Key Encapsulation Mechanism (KEM)…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique",
+    "Normes & politiques"
+   ],
+   "date": "2026-04-20T11:47:19Z",
+   "first_seen": "2026-11-26T14:16:48Z"
   },
   {
    "id": "0c3e858b08ae2ec9",
