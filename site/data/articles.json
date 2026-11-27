@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:01:46Z",
+ "generated_at": "2026-11-27T04:54:30Z",
  "count": 1252,
  "sources": [
   {
@@ -320,7 +320,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 606,
+   "fetched": 603,
    "kept": 5
   },
   {
@@ -357,7 +357,7 @@
     "PQC",
     "Normes & politiques"
    ],
-   "date": "2026-11-26T23:01:46Z",
+   "date": "2026-11-27T04:54:30Z",
    "first_seen": "2026-10-19T16:03:33Z",
    "lang": "en"
   },
