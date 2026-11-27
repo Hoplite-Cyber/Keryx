@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T04:54:30Z",
- "count": 1252,
+ "generated_at": "2026-11-27T14:52:57Z",
+ "count": 1273,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,21 +56,21 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 23
+   "kept": 20
   },
   {
    "name": "arXiv quant-ph",
    "category": "Recherche",
    "ok": true,
-   "fetched": 172,
-   "kept": 5
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "arXiv cs.CR",
    "category": "Recherche",
    "ok": true,
-   "fetched": 72,
-   "kept": 13
+   "fetched": 0,
+   "kept": 0
   },
   {
    "name": "Cloudflare Blog",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 171
+   "kept": 172
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 5
+   "kept": 4
   },
   {
    "name": "ETSI – actualités",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 25,
+   "fetched": 30,
    "kept": 0
   },
   {
@@ -182,7 +182,7 @@
    "category": "Actualité cyber",
    "ok": true,
    "fetched": 10,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "ZATAZ",
@@ -237,7 +237,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 60,
-   "kept": 9
+   "kept": 10
   },
   {
    "name": "Nature – information quantique",
@@ -357,9 +357,133 @@
     "PQC",
     "Normes & politiques"
    ],
-   "date": "2026-11-27T04:54:30Z",
+   "date": "2026-11-27T14:52:57Z",
    "first_seen": "2026-10-19T16:03:33Z",
    "lang": "en"
+  },
+  {
+   "id": "3e6d63d31edd5081",
+   "title": "Institute for Quantum Computing delivers quantum sources for Canada’s first satellite mission",
+   "url": "https://quantumzeitgeist.com/qeyssat-quantum-satellite-mission-institute-computing/",
+   "summary": "The Institute for Quantum Computing (IQC) team delivered two quantum sources to the Canadian Space Agency (CSA) for QEYSSat, Canada’s first quantum satellite mission. This delivery marks a major milestone for the QEYSSat project, a technology demonstration mission studying quantum links and quantum key distribution (QKD).",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD",
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-27T14:09:38Z",
+   "first_seen": "2026-11-27T14:52:57Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/institute-for-quantum-computing-delivers-quantum-sources-for.png"
+  },
+  {
+   "id": "d6c424432c62580a",
+   "title": "Routed Bell tests may certify quantum links at any distance",
+   "url": "https://quantumzeitgeist.com/geneva-routed-bell-tests-certify-quantum/",
+   "summary": "Transmission loss limits device-independent certification of quantum correlations over long distances, impacting applications like device-independent quantum key distribution (DIQKD). Routed Bell tests, using entangled qubits and measuring particles near or far from the source, can certify quantum correlations even with arbitrary loss on the…",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-27T14:08:28Z",
+   "first_seen": "2026-11-27T14:52:57Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/routed-bell-tests-certify-quantum-links-scaled.jpeg"
+  },
+  {
+   "id": "69c4352662efc2ec",
+   "title": "Banks lead UK firms in adopting post-quantum key exchange",
+   "url": "https://quantumzeitgeist.com/cdn-providers-post-quantum-key-exchange/",
+   "summary": "On 27 November 2026, 68.7% of the 319 UK organisations measured negotiated ML-KEM on their public site, a post-quantum key exchange, placing the UK 7th of 40 countries. 77.5% of the 40 UK banks measured negotiate ML-KEM, second to the United States at 84.9%.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-27T12:18:32Z",
+   "first_seen": "2026-11-27T14:52:57Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/banks-lead-uk-firms-adopting-post.jpg"
+  },
+  {
+   "id": "ee4ca99ee44c7031",
+   "title": "Researchers Measure QKD Equipment’s EM Vulnerability",
+   "url": "https://quantumzeitgeist.com/quantum-key-distribution-electromagnetic-vulnerability-measurement/",
+   "summary": "Electromagnetic shielding previously considered adequate has now been shown to fall short for secure communication networks. Closing an EM-shielding rack resulted in average attenuation of 21. 2 dB, ranging from 12.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "QKD"
+   ],
+   "date": "2026-11-27T11:57:10Z",
+   "first_seen": "2026-11-27T14:52:57Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-measure-qkd-equipments-em-vulnerability-scaled.jpg"
+  },
+  {
+   "id": "4405490a6362bf96",
+   "title": "Ethereum Plans Shift to Hash-Based Signatures for Post-Quantum Security",
+   "url": "https://thequantuminsider.com/2026/11/27/ethereum-shift-hash-based-signatures-post-quantum-security/",
+   "summary": "Insider Brief Ethereum’s core developers are preparing to phase out the elliptic-curve cryptography that secures the network and switch to hash-based signatures, a change meant to protect against attacks powered by quantum computers or by advances in artificial intelligence, Crypto Briefing reported. The plan was set out in a series of blog posts…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-27T10:51:41Z",
+   "first_seen": "2026-11-27T14:52:57Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-27_15-50.png"
+  },
+  {
+   "id": "52cf00c7085a5be3",
+   "title": "Bank of England Urges Firms to Move Faster on Quantum Security",
+   "url": "https://thequantuminsider.com/2026/11/27/bank-of-england-urges-firms-to-move-faster-on-quantum-security/",
+   "summary": "Insider Brief The Bank of England urged financial firms with the greatest impact on the stability of the U.K. financial system to move faster than the national timetable for adopting quantum-resistant cryptography, warning that delays at a single technology provider could disrupt services at several firms at once. In its November Financial…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-27T09:12:21Z",
+   "first_seen": "2026-11-27T14:52:57Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Britannia-seal-over-Threadneedle-Street-1.png"
+  },
+  {
+   "id": "e9c62b142bae8177",
+   "title": "Exact Post-Quantum Security Analysis of Ascon Authenticated Encryption under Nonce Misuse",
+   "url": "https://eprint.iacr.org/2026/3076",
+   "summary": "Ascon AEAD is a lightweight authenticated encryption algorithm recently standardized by NIST as SP 800-232, and is expected to be deployed in a wide range of resource-constrained applications. In this paper, we study its post-quantum security under nonce reuse in the quantum random permutation model. We assume that the adversary makes classical…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Normes & politiques",
+    "Menace quantique"
+   ],
+   "date": "2026-11-27T05:44:13Z",
+   "first_seen": "2026-11-27T14:52:57Z"
+  },
+  {
+   "id": "8741809fb21ab4d3",
+   "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+   "summary": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock smaller quantum computers, ultra-precise atomic clocks, and compact environmental sensors.",
+   "source": "ScienceDaily – informatique quantique",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques"
+   ],
+   "date": "2026-11-27T03:22:20Z",
+   "first_seen": "2026-11-27T14:52:57Z"
   },
   {
    "id": "e077cd1ed892e73e",
@@ -390,6 +514,21 @@
    "date": "2026-11-26T22:12:19Z",
    "first_seen": "2026-11-26T23:01:46Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/arqit-software-crypto-risks-pqc-migration.png"
+  },
+  {
+   "id": "5ecec4ca3f89bdb2",
+   "title": "Full Structure Recovery of Linearized Reed–Solomon Codes",
+   "url": "https://eprint.iacr.org/2026/3067",
+   "summary": "Linearized Reed-Solomon codes (LRS) are optimal sum-rank-metric codes that generalize both Reed-Solomon and Gabidulin codes, and benefit from excellent decoding capabilities, making them potentially interesting candidates for post-quantum code-based cryptography. Previous works have investigated the underlying geometric structure of LRS codes…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T14:36:01Z",
+   "first_seen": "2026-11-27T14:52:57Z"
   },
   {
    "id": "1e0f4ded2cc0d2f9",
@@ -514,6 +653,35 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/secardeo-first-automated-post-quantum-outlook.jpg"
   },
   {
+   "id": "bea0485dccc55acc",
+   "title": "(Significantly) Faster Post-Quantum Public-Key PCFs for OT",
+   "url": "https://eprint.iacr.org/2026/3065",
+   "summary": "Public-Key Pseudorandom Correlation Functions (PK-PCFs) enable N users to locally generate and publish their public keys on a bulletin board, from which any pair of users can non-interactively compute an unbounded number of correlated strings. These outputs can then be used to significantly speed up secure computation protocols. A line of work has…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T11:47:27Z",
+   "first_seen": "2026-11-27T14:52:57Z"
+  },
+  {
+   "id": "70f30a2f02cc3902",
+   "title": "Faulting the Proof: Key Recovery Attacks on MQOM, SDitH and FAEST",
+   "url": "https://eprint.iacr.org/2026/3064",
+   "summary": "MQOM, SDitH and FAEST are three candidates in the third round of NIST’s additional call for post-quantum signature schemes. The signature in all of them is a proof of knowledge of the secret key. We study their resistance to faults during the computation of this proof and present practical key-recovery attacks on all three schemes. Our attacks…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-26T10:59:46Z",
+   "first_seen": "2026-11-27T14:52:57Z"
+  },
+  {
    "id": "6f79d0fe5553d356",
    "title": "Face aux besoins de calcul de l’IA, la finance explore l’informatique quantique",
    "url": "https://www.zdnet.fr/actualites/face-aux-besoins-de-calcul-de-lia-la-finance-explore-linformatique-quantique-508659.htm#xtor=RSS-1",
@@ -527,6 +695,20 @@
    "date": "2026-11-26T10:11:21Z",
    "first_seen": "2026-11-26T14:16:48Z",
    "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/quantique.png"
+  },
+  {
+   "id": "ea0ad36a3cb2b04d",
+   "title": "Exploring Redundant PMNS Arithmetic for Side-Channel Leakage Reduction in ML-DSA",
+   "url": "https://eprint.iacr.org/2026/3060",
+   "summary": "Polynomial Modular Number Systems (PMNS) have been proposed as an efficient alternative to classical modular arithmetic, with applications to elliptic curve cryptography. While existing work has focused on large-prime arithmetic, lattice-based cryptography operates over small moduli, a regime in which PMNS has not yet been studied. In this work…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC"
+   ],
+   "date": "2026-11-26T09:41:57Z",
+   "first_seen": "2026-11-27T14:52:57Z"
   },
   {
    "id": "7e30c9043798860a",
@@ -831,6 +1013,21 @@
    "first_seen": "2026-11-26T14:16:48Z"
   },
   {
+   "id": "35e78951cb1b3ce7",
+   "title": "Security Analysis of Homogeneous MQ-Based Post-Quantum Signature Schemes",
+   "url": "https://eprint.iacr.org/2026/3056",
+   "summary": "The security of multivariate cryptography relies on the hardness of solving the public multivariate quadratic (MQ) systems over finite fields. For a homogeneous MQ map $P$ over $\\mathbb{F}_q$ and a nonzero target $t$, Ostuzzi recently introduced the target quotient that removes one equation from $P(x)=t$, and then each solution $x$ of the…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique"
+   ],
+   "date": "2026-11-26T04:31:48Z",
+   "first_seen": "2026-11-27T14:52:57Z"
+  },
+  {
    "id": "341e849122c293d9",
    "title": "Make post-quantum cryptography updates routine with AWS-LC",
    "url": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc/",
@@ -893,6 +1090,22 @@
    "date": "2026-11-25T18:00:15Z",
    "first_seen": "2026-11-25T22:42:01Z",
    "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-build-123.jpg"
+  },
+  {
+   "id": "01dd428dfec21de0",
+   "title": "Computational Bernoulli Smoothing and Worst-Case Errors in LPN Reductions",
+   "url": "https://eprint.iacr.org/2026/3051",
+   "summary": "Learning Parity with Noise (LPN) is a central problem in modern post-quantum cryptography. Recently, Aggarwal et al. (TCC 2026) proposed a new approach toward establishing worst-case foundations for the hardness of LPN in the low-noise regime. Their reduction turns an average-case LPN solver into two algorithms such that, for every (worst-case)…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T17:55:55Z",
+   "first_seen": "2026-11-27T14:52:57Z"
   },
   {
    "id": "3cc09754014db12c",
@@ -984,6 +1197,23 @@
    "image": "https://quantumzeitgeist.com/wp-content/uploads/hyperentangled-photons-aid-quantum-key-distribution.png"
   },
   {
+   "id": "cb4a621a48d78014",
+   "title": "Resource-Aware Deployment of NIST Additional PQC Signatures on Automotive ECUs",
+   "url": "https://eprint.iacr.org/2026/3049",
+   "summary": "The transition to Post-Quantum Cryptography (PQC) is vital for securing next-generation automotive architectures. However, deploying candidate algorithms from the NIST Round 3 Additional PQC Signature track onto automotive ECUs, such as those based on the Infineon AURIX TC4 (TriCore v1.8 architecture), is severely obstructed by stringent hardware…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T14:19:45Z",
+   "first_seen": "2026-11-27T14:52:57Z"
+  },
+  {
    "id": "361cf3b67d6b97e0",
    "title": "Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links",
    "url": "https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/",
@@ -998,6 +1228,21 @@
    "date": "2026-11-25T12:27:15Z",
    "first_seen": "2026-11-25T13:35:33Z",
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-7.22.28-AM-1.png"
+  },
+  {
+   "id": "b05a3bece1fef2de",
+   "title": "Quorus 2.0: Practical and Scalable Threshold Signature Scheme for NIST-Standardized ML-DSA",
+   "url": "https://eprint.iacr.org/2026/3044",
+   "summary": "ML-DSA is a widely adopted post-quantum signature algorithm, standardized by NIST as FIPS 204. A threshold signature scheme for ML-DSA lets a group of signers, none of whom holds the key, produce signatures that verify under the unmodified, standardized verification. Existing approaches are limited in different ways: they are bound to at most 6…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques"
+   ],
+   "date": "2026-11-25T11:02:41Z",
+   "first_seen": "2026-11-27T14:52:57Z"
   },
   {
    "id": "8e146baecc06dc8f",
@@ -1177,6 +1422,23 @@
    "first_seen": "2026-11-25T13:35:33Z"
   },
   {
+   "id": "732276f15e77bf53",
+   "title": "Bounding the security of the FALCON signature scheme in the quantum random oracle model",
+   "url": "https://eprint.iacr.org/2026/3034",
+   "summary": "In 2016, the National Institute of Standards and Technology (NIST) announced their invitation for proposals of public key encryption and signature schemes that are resistant to attacks by quantum computers. Since then, several rounds of proposals and revisions have occurred resulting in the 2022 announcement that three signature schemes -…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-25T02:07:20Z",
+   "first_seen": "2026-11-27T14:52:57Z"
+  },
+  {
    "id": "cf2bee49e4bb943a",
    "title": "Progress in Logical Teleportation",
    "url": "https://www.quantinuum.com/blog/teleporting-to-new-heights",
@@ -1190,6 +1452,23 @@
    "date": "2026-11-24T19:27:43Z",
    "first_seen": "2026-10-26T08:46:11Z",
    "image": "https://cdn.prod.website-files.com/669960f53cd73aedb80c8f0e/6835e2f5e0362ae36c2ef682_logical-teleportation-media-preview%20(1).png"
+  },
+  {
+   "id": "b96835726736d0b8",
+   "title": "Adams Bridge is Falling Down: A New Chosen Ciphertext Side-Channel Attack on the PQC Accelerator",
+   "url": "https://eprint.iacr.org/2026/3027",
+   "summary": "With ML-KEM and ML-DSA now standardized by NIST, post-quantum cryptography (PQC) is moving from research into real world. Adams Bridge is an industry-oriented hardware accelerator that implements both ML-KEM and ML-DSA in a unified architecture. It is used as the post-quantum engine of Caliptra 2.1, a silicon root of trust designed to be…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Normes & politiques",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T17:25:08Z",
+   "first_seen": "2026-11-27T14:52:57Z"
   },
   {
    "id": "8583817fe547f9b7",
@@ -1254,6 +1533,22 @@
    "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-24_18-31.png"
   },
   {
+   "id": "4fad0b9fd8434709",
+   "title": "Beskar: Efficient Threshold ML-DSA via Preprocessed Rejection Sampling",
+   "url": "https://eprint.iacr.org/2026/3023",
+   "summary": "Efficient threshold variants of ML-DSA are important for the transition to post-quantum cryptography, as they allow parties to jointly produce standard ML-DSA signatures without reconstructing the signing key. The main obstacle is rejection sampling: before releasing a candidate signature, the parties must jointly evaluate several norm checks on…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-24T12:59:51Z",
+   "first_seen": "2026-11-27T14:52:57Z"
+  },
+  {
    "id": "ae3b5a286d3bb147",
    "title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
    "url": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
@@ -1313,6 +1608,23 @@
    "date": "2026-11-24T09:48:52Z",
    "first_seen": "2026-11-24T10:27:43Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/artix-7-fpga-hosts-coprocessor-post.jpeg"
+  },
+  {
+   "id": "3f7893b794b3ab2b",
+   "title": "Remote Fault Attacks on PIOP-based Post-Quantum Digital Signatures using Statistical Ineffective Fault Analysis",
+   "url": "https://eprint.iacr.org/2026/3019",
+   "summary": "The threat posed by quantum computing has necessitated the replacement of existing public-key cryptographic algorithms. NIST is currently running the third round of a competition to identify additional post-quantum digital signature schemes beyond the ML-DSA and SLH-DSA standards. Among the competition's remaining candidates are MQOM, FAEST, and…",
+   "source": "IACR ePrint",
+   "category": "Recherche",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "Menace quantique",
+    "Normes & politiques",
+    "QKD"
+   ],
+   "date": "2026-11-24T09:28:23Z",
+   "first_seen": "2026-11-27T14:52:57Z"
   },
   {
    "id": "dea97b3cf35069b3",
@@ -1576,6 +1888,24 @@
    "date": "2026-11-24T00:00:00Z",
    "first_seen": "2026-11-26T23:01:46Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/cisco-helps-clients-quantum-crypto-risks-scaled.jpeg"
+  },
+  {
+   "id": "a47af15d0179be2f",
+   "title": "Arqit pitches quantum-safe encryption as a revenue stream",
+   "url": "https://quantumzeitgeist.com/quantum-safe-encryption-arqit-pitches-stream/",
+   "summary": "Arqit helps organizations prepare for “Q-day” and meet NSM-10/NCSC deadlines, discovering vulnerable cryptography and securing data with Post-Quantum Cryptography.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC",
+    "Normes & politiques",
+    "QKD"
+   ],
+   "date": "2026-11-24T00:00:00Z",
+   "first_seen": "2026-11-27T14:52:57Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/arqit-pitches-quantum-safe-encryption-as-a-revenue.jpg"
   },
   {
    "id": "f8cd234c429160a7",
