@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T14:52:57Z",
- "count": 1273,
+ "generated_at": "2026-11-27T23:20:42Z",
+ "count": 1277,
  "sources": [
   {
    "name": "ANSSI",
@@ -56,7 +56,7 @@
    "category": "Recherche",
    "ok": true,
    "fetched": 100,
-   "kept": 20
+   "kept": 19
   },
   {
    "name": "arXiv quant-ph",
@@ -105,14 +105,14 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 200,
-   "kept": 172
+   "kept": 173
   },
   {
    "name": "The Quantum Insider",
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 10,
-   "kept": 4
+   "kept": 6
   },
   {
    "name": "ETSI – actualités",
@@ -140,7 +140,7 @@
    "category": "Presse spécialisée",
    "ok": true,
    "fetched": 30,
-   "kept": 4
+   "kept": 3
   },
   {
    "name": "The Hacker News",
@@ -174,7 +174,7 @@
    "name": "Le Monde Informatique – sécurité",
    "category": "Actualité cyber",
    "ok": true,
-   "fetched": 30,
+   "fetched": 32,
    "kept": 0
   },
   {
@@ -320,7 +320,7 @@
    "name": "IETF – blog",
    "category": "Officiel",
    "ok": true,
-   "fetched": 603,
+   "fetched": 606,
    "kept": 5
   },
   {
@@ -357,9 +357,58 @@
     "PQC",
     "Normes & politiques"
    ],
-   "date": "2026-11-27T14:52:57Z",
+   "date": "2026-11-27T23:20:42Z",
    "first_seen": "2026-10-19T16:03:33Z",
    "lang": "en"
+  },
+  {
+   "id": "0f8ad04e84a0ad08",
+   "title": "Quantum Computing 101: Can a Cat be Alive and Dead at The Same Time?",
+   "url": "https://thequantuminsider.com/2026/11/27/quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time/",
+   "summary": "What is a qubit, why do quantum computers need to be colder than outer space, and what will they really be able to do? A plain-English guide to quantum computing, from Schrödinger’s cat to post-quantum cryptography.",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "PQC",
+    "QKD",
+    "Menace quantique"
+   ],
+   "date": "2026-11-27T16:51:24Z",
+   "first_seen": "2026-11-27T23:20:42Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Alive-and-Dead-Cat_.png"
+  },
+  {
+   "id": "67b0cffb993d7e81",
+   "title": "Ethereum to Counter Quantum and AI Threats with Hash Signatures",
+   "url": "https://quantumzeitgeist.com/ethereum-counter-quantum-threats-hash-signatures/",
+   "summary": "Ethereum core developers want to retire the cryptography that secures the network today and replace it with hash-based signatures, countering future quantum and AI threats. The Ethereum Foundation made this post-quantum transition a top priority, with target dates ranging from 2027 to 2029.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-27T16:30:23Z",
+   "first_seen": "2026-11-27T23:20:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/ethereum-counter-quantum-ai-threats-hash-scaled.jpeg"
+  },
+  {
+   "id": "63f8b8c48f0e2fa8",
+   "title": "Institute for Quantum Computing builds quantum sources for Canada’s first satellite mission",
+   "url": "https://quantumzeitgeist.com/iqc-quantum-satellite-mission-institute-computing/",
+   "summary": "The Institute for Quantum Computing (IQC) team delivered two quantum sources to the Canadian Space Agency for Canada’s first quantum satellite mission, QEYSSat. This delivery marks a major milestone in the QEYSSat project, a technology demonstration mission studying quantum links and quantum key distribution.",
+   "source": "Quantum Zeitgeist – cryptographie",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Ordinateurs quantiques",
+    "QKD"
+   ],
+   "date": "2026-11-27T16:09:32Z",
+   "first_seen": "2026-11-27T23:20:42Z",
+   "image": "https://quantumzeitgeist.com/wp-content/uploads/institute-for-quantum-computing-builds-quantum-sources-for.png"
   },
   {
    "id": "3e6d63d31edd5081",
@@ -391,6 +440,22 @@
    "date": "2026-11-27T14:08:28Z",
    "first_seen": "2026-11-27T14:52:57Z",
    "image": "https://quantumzeitgeist.com/wp-content/uploads/routed-bell-tests-certify-quantum-links-scaled.jpeg"
+  },
+  {
+   "id": "f5d3e1c59092fd14",
+   "title": "Guest Post: The Encryption Upgrade Needs a Backup Plan",
+   "url": "https://thequantuminsider.com/2026/11/27/encryption-upgrade-needs-backup-plan/",
+   "summary": "Guest Post By Companies preparing for quantum computers may have to confront a threat that requires no quantum computer at all. For the operators of critical infrastructure, from electric utilities and water systems to hospitals and telecom networks, the lesson is simple: keep the move to quantum-resistant cryptography on schedule, but buy systems…",
+   "source": "The Quantum Insider",
+   "category": "Presse spécialisée",
+   "lang": "en",
+   "themes": [
+    "Menace quantique",
+    "PQC"
+   ],
+   "date": "2026-11-27T13:27:38Z",
+   "first_seen": "2026-11-27T23:20:42Z",
+   "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/eusvweosble.jpg"
   },
   {
    "id": "69c4352662efc2ec",
